@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 # Copyright 2016 The Fontbakery Authors
 # Copyright 2017 The Google Font Tools Authors
 #
@@ -41,9 +41,9 @@ def main():
     if font['OS/2'].fsType != 0:
       font['OS/2'].fsType = 0
       font.save(font_path + '.fix')
-      print 'font saved %s.fix' % font_path
+      print('font saved %s.fix' % font_path)
     else:
-      print 'SKIPPING: %s fsType is already 0' % font_path
+      print('SKIPPING: %s fsType is already 0' % font_path)
 
 
 if __name__ == '__main__':
