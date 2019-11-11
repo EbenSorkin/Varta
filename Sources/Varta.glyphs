@@ -1,5 +1,5 @@
 {
-.appVersion = "1272";
+.appVersion = "1230";
 DisplayStrings = (
 "/l_la-deva.loclMAR/eShortMatra_reph-deva",
 "/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/nnna-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva",
@@ -58,8 +58,12 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2014 by Joana Correia, Viktoriya Grabowska, Eben Sorkin. All rights reserved.";
+copyright = "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)";
 customParameters = (
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
 {
 name = fsType;
 value = (
@@ -75,16 +79,8 @@ Tag = wght;
 );
 },
 {
-name = "Enforce Compatibility Check";
-value = 1;
-},
-{
 name = trademark;
 value = "Varta is a trademark of Sorkin Type Co.";
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
 },
 {
 name = "Use Line Breaks";
@@ -101,6 +97,14 @@ value = 0.03963;
 {
 name = blueShift;
 value = 7;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-11-09 00:05:43 +0000";
