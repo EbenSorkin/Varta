@@ -2,24 +2,25 @@
 .appVersion = "1230";
 DisplayStrings = (
 "/l_la-deva.loclMAR/eShortMatra_reph-deva",
-"/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/nnna-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva",
 "/iMatra_reph-deva.01",
 "/l_d_ra-deva",
 "/dda-deva/nga-deva",
 "/sh-deva.loclMAR/sha-deva.loclMAR",
 "/aaMatra-deva/jha-deva",
-"/gha-deva",
 "/f_f_i",
 "/f_f_i ffi",
 "l/f_f_l ffl",
-"/jacute",
-"/jdotless",
-"/Jacute",
-"/IJ_acutecomb IJ",
-"ij/jacute í/jacute/ij_acutecomb ij",
-"/j_j_ya-deva",
-Tno,
-tTn
+tTn,
+"/reph-deva/iMatra_reph-deva.05",
+"/reph-deva",
+"/iMatra_reph-deva.05",
+dp,
+"/acute.cap/acute.cap Ádqj",
+"/acute.cap Á/jdotless þqy/ydotaccent",
+"/nukta_rakar_uMatra-deva",
+"/khh_sha-deva",
+"/aShort-deva/aCandra-deva/a-deva/aa-deva/i-deva/ii-deva/ii_anusvara-deva/u-deva/uu-deva/rVocalic-deva/rrVocalic-deva/lVocalic-deva/llVocalic-deva/eCandra-deva/eShort-deva/e-deva/ai-deva/oCandra-deva/oShort-deva/o-deva/au-deva/oe-deva/ooe-deva/aw-deva/ue-deva/uue-deva/aaMatra-deva/iMatra-deva/iMatra_anusvara-deva/iMatra_reph-deva/iMatra_reph_anusvara-deva/iiMatra-deva/iiMatra_anusvara-deva/iiMatra_reph-deva/iiMatra_reph_anusvara-deva/oCandraMatra-deva/oCandraMatra_anusvara_reph-deva/oCandraMatra_reph-deva/oShortMatra-deva/oShortMatra_reph-deva/oShortMatra_reph_anusvara-deva/oMatra-deva/oMatra_anusvara-deva/oMatra_reph-deva/oMatra_reph_anusvara-deva/auMatra-deva/auMatra_anusvara-deva/auMatra_reph-deva/auMatra_reph_anusvara-deva/prishthaMatraE-deva/ooeMatra-deva/awMatra-deva/iMatra-deva.0/iMatra_anusvara-deva.0/iMatra_reph-deva.0/iMatra_reph_anusvara-deva.0/iMatra-deva.01/iMatra-deva.02/iMatra-deva.03/iMatra-deva.05/iMatra-deva.08/iMatra-deva.10/iMatra-deva.15/iMatra-deva.20/iMatra-deva.25/iMatra-deva.30/iMatra_anusvara-deva.01/iMatra_anusvara-deva.02/iMatra_anusvara-deva.03/iMatra_anusvara-deva.05/iMatra_anusvara-deva.08/iMatra_anusvara-deva.10/iMatra_anusvara-deva.15/iMatra_anusvara-deva.20/iMatra_anusvara-deva.25/iMatra_anusvara-deva.30/iMatra_reph-deva.01/iMatra_reph-deva.02/iMatra_reph-deva.03/iMatra_reph-deva.05/iMatra_reph-deva.08/iMatra_reph-deva.10/iMatra_reph-deva.15/iMatra_reph-deva.20/iMatra_reph-deva.25/iMatra_reph-deva.30/iMatra_reph_anusvara-deva.01/iMatra_reph_anusvara-deva.02/iMatra_reph_anusvara-deva.03/iMatra_reph_anusvara-deva.05/iMatra_reph_anusvara-deva.08/iMatra_reph_anusvara-deva.10/iMatra_reph_anusvara-deva.15/iMatra_reph_anusvara-deva.20/iMatra_reph_anusvara-deva.25/iMatra_reph_anusvara-deva.30/iiMatra-deva.02/iiMatra_anusvara-deva.02/iiMatra_reph-deva.02/iiMatra_reph_anusvara-deva.02",
+"/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/nnna-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva/rra-deva/la-deva/lla-deva/llla-deva/va-deva/sha-deva/ssa-deva/sa-deva/ha-deva/qa-deva/khha-deva/ghha-deva/za-deva/dddha-deva/rha-deva/fa-deva/yya-deva/zha-deva/jjya-deva/gga-deva/jja-deva/ddda-deva/bba-deva/la-deva.loclMAR/sha-deva.loclMAR/jha-deva.np/zha-deva.np/ya-deva.post/va-deva.post/na-deva.post2/sha-deva.ss02/ka_ra-deva/k_ka-deva/k_ca-deva/k_ta-deva/k_t_ta-deva/k_t_ya-deva/k_t_ra-deva/k_la-deva/k_va-deva/k_ssa-deva/k_ssa_ra-deva/k_ssa_uMatra-deva/k_ssa_uuMatra-deva/kha_ra-deva/kh_kha-deva/kh_na-deva/kh_ma-deva/kh_ya-deva/kh_ra-deva/kh_sha-deva/ga_na-deva/ga_ra-deva/g_r_ya-deva/gha_ra-deva/gh_h-deva/ng_ka-deva/ng_k_ssa-deva/ng_kha-deva/ng_ga-deva/ng_gha-deva/ng_ma-deva/ca_ca-deva/ca_ra-deva/ch_va-deva/ja_nya_ra-deva/ja_ra-deva/j_ja-deva/j_j_nya-deva/j_j_ya-deva/j_j_va-deva/j_nya-deva/j_ny_ya-deva/j_tta-deva/j_ta-deva/j_da-deva/j_na-deva/j_ya-deva/j_ra-deva/jha_ra-deva/nya_ra-deva/ny_ca-deva/ny_ja-deva/tt_tta-deva/tt_ttha-deva/tt_ddha-deva/tt_na-deva/tt_ya-deva/tt_va-deva/tth_ttha-deva/tth_na-deva/tth_ya-deva/dd_gha-deva/dd_tta-deva/dd_dda-deva/dd_ddha-deva/dd_na-deva/dd_ma-deva/dd_ya-deva/ddh_ddha-deva/ddh_na-deva/ddh_ya-deva/nna_ra-deva/ta_ra-deva/t_kha-deva/t_kh_na-deva/t_kh_ra-deva/t_ta-deva/t_t-deva/t_t_ya-deva/t_t_va-deva/t_tha-deva/t_na-deva/t_n_ya-deva/t_ya-deva/t_ra-deva/t_sa-deva/t_s_na-deva/t_s_ya-deva/t_s_va-deva/t_r-deva/t_r_ya-deva/tha_ra-deva/d_ga-deva/d_g_ra-deva/d_gha-deva/d_da-deva/d_dha-deva/d_dh_r_ya-deva/d_na-deva/d_ba-deva/d_b_ra-deva/d_bha-deva/d_ya-deva/d_ra-deva/d_va-deva/dha_ra-deva/na_ra-deva/n_t_ra-deva/n_t_sa-deva/n_d_ra-deva/n_d_va-deva/n_na-deva/n_bha-deva/n_ra-deva/n_sa-deva/n_s_tta-deva/pa_ta-deva/pa_ra-deva/p_tta-deva/p_la-deva/pha_ra-deva/pha_ra_nukta-deva/ph_la-deva/b_ja-deva/b_j_ya-deva/b_na-deva/b_ra-deva/b_sha-deva/b_sa-deva/b_za-deva/b_r-deva/bha_ra-deva/bh_r_ya-deva/ma_ra-deva/ya_ra-deva/la_ra-deva/l_d_ra-deva/l_la-deva/v_na-deva/v_ra-deva/sha_ra-deva/sh_ca-deva/sh_na-deva/sh_la-deva/sh_va-deva/ssa_ra-deva/ss_tta-deva/ss_tt_ya-deva/ss_tt_va-deva/ss_tt_rakar-deva/ss_ttha-deva/ss_tth_ya-deva/ss_tth_rakar-deva/sa_t_ra-deva/sa_ra-deva/s_t_ra-deva/ha_ra-deva/h_nna-deva/h_na-deva/h_ma-deva/h_ya-deva/h_la-deva/h_va-deva/khh_ta-deva/khh_ma-deva/khh_ya-deva/khh_ra-deva/khh_va-deva/khh_sha-deva/khh_sa-deva/z_ra-deva/ka_ra-deva.alt/j_ja-deva.alt/j_j-deva.alt/kh_la-deva.loclMAR/g_la-deva.loclMAR/gh_la-deva.loclMAR/c_la-deva.loclMAR/ch_la-deva.loclMAR/b_la-deva.loclMAR/bh_la-deva.loclMAR/m_la-deva.loclMAR/l_la-deva.loclMAR/v_la-deva.loclMAR"
 );
 classes = (
 {
@@ -63,6 +64,10 @@ customParameters = (
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -1586,11 +1591,31 @@ value = 1902;
 },
 {
 name = typoDescender;
-value = -1068;
+value = -860;
 },
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = hheaAscender;
+value = 1902;
+},
+{
+name = hheaDescender;
+value = -860;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2230;
+},
+{
+name = winDescent;
+value = 1480;
 },
 {
 name = shoulderHeight;
@@ -20888,7 +20913,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = j;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-12 16:18:12 +0000";
 layers = (
 {
 anchors = (
@@ -20955,13 +20980,13 @@ closed = 1;
 nodes = (
 "303 1209 OFFCURVE",
 "350 1248 OFFCURVE",
-"350 1305 CURVE SMOOTH",
-"350 1365 OFFCURVE",
-"303 1403 OFFCURVE",
-"248 1403 CURVE SMOOTH",
-"191 1403 OFFCURVE",
-"145 1365 OFFCURVE",
-"145 1305 CURVE SMOOTH",
+"352 1306 CURVE SMOOTH",
+"352 1367 OFFCURVE",
+"305 1405 OFFCURVE",
+"251 1405 CURVE SMOOTH",
+"194 1405 OFFCURVE",
+"148 1367 OFFCURVE",
+"148 1306 CURVE SMOOTH",
 "145 1248 OFFCURVE",
 "191 1209 OFFCURVE",
 "248 1209 CURVE SMOOTH"
@@ -37740,7 +37765,7 @@ unicode = 0949;
 },
 {
 glyphname = "oCandraMatra_anusvara_reph-deva";
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-12 14:08:18 +0000";
 layers = (
 {
 components = (
@@ -40872,7 +40897,7 @@ com.schriftgestaltung.Glyphs.leftMetricsKey = "iMatra-deva";
 },
 {
 glyphname = "iMatra_reph-deva.05";
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-12 14:08:42 +0000";
 layers = (
 {
 associatedMasterId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -125780,7 +125805,7 @@ rightKerningGroup = "rakar-deva";
 },
 {
 glyphname = "nukta_rakar_uMatra-deva";
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-12 14:46:46 +0000";
 layers = (
 {
 anchors = (
@@ -125912,7 +125937,7 @@ rightKerningGroup = "uuMatra-deva";
 {
 color = 9;
 glyphname = "reph-deva";
-lastChange = "2019-11-09 00:02:26 +0000";
+lastChange = "2019-11-12 14:07:31 +0000";
 layers = (
 {
 anchors = (
@@ -125926,7 +125951,7 @@ position = "{-26, 1426}";
 },
 {
 name = top;
-position = "{405, 1659}";
+position = "{405, 1684}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -130504,6 +130529,7 @@ space = {
 };
 };
 manufacturer = "Sorkin Type Co.";
+manufacturerURL = www.sorkintype.com;
 unitsPerEm = 2048;
 versionMajor = 1;
 versionMinor = 3;
