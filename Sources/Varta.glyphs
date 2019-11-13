@@ -1,35 +1,16 @@
 {
 .appVersion = "1230";
 DisplayStrings = (
-"/l_la-deva.loclMAR/eShortMatra_reph-deva",
-"/iMatra_reph-deva.01",
-"/l_d_ra-deva",
-"/dda-deva/nga-deva",
-"/sh-deva.loclMAR/sha-deva.loclMAR",
-"/aaMatra-deva/jha-deva",
-"/f_f_i",
-"/f_f_i ffi",
-"l/f_f_l ffl",
-tTn,
-"/reph-deva/iMatra_reph-deva.05",
-"/reph-deva",
-"/iMatra_reph-deva.05",
-dp,
-"/acute.cap/acute.cap Ádqj",
-"/acute.cap Á/jdotless þqy/ydotaccent",
-"/nukta_rakar_uMatra-deva",
-"/khh_sha-deva",
-"/aShort-deva/aCandra-deva/a-deva/aa-deva/i-deva/ii-deva/ii_anusvara-deva/u-deva/uu-deva/rVocalic-deva/rrVocalic-deva/lVocalic-deva/llVocalic-deva/eCandra-deva/eShort-deva/e-deva/ai-deva/oCandra-deva/oShort-deva/o-deva/au-deva/oe-deva/ooe-deva/aw-deva/ue-deva/uue-deva/aaMatra-deva/iMatra-deva/iMatra_anusvara-deva/iMatra_reph-deva/iMatra_reph_anusvara-deva/iiMatra-deva/iiMatra_anusvara-deva/iiMatra_reph-deva/iiMatra_reph_anusvara-deva/oCandraMatra-deva/oCandraMatra_anusvara_reph-deva/oCandraMatra_reph-deva/oShortMatra-deva/oShortMatra_reph-deva/oShortMatra_reph_anusvara-deva/oMatra-deva/oMatra_anusvara-deva/oMatra_reph-deva/oMatra_reph_anusvara-deva/auMatra-deva/auMatra_anusvara-deva/auMatra_reph-deva/auMatra_reph_anusvara-deva/prishthaMatraE-deva/ooeMatra-deva/awMatra-deva/iMatra-deva.0/iMatra_anusvara-deva.0/iMatra_reph-deva.0/iMatra_reph_anusvara-deva.0/iMatra-deva.01/iMatra-deva.02/iMatra-deva.03/iMatra-deva.05/iMatra-deva.08/iMatra-deva.10/iMatra-deva.15/iMatra-deva.20/iMatra-deva.25/iMatra-deva.30/iMatra_anusvara-deva.01/iMatra_anusvara-deva.02/iMatra_anusvara-deva.03/iMatra_anusvara-deva.05/iMatra_anusvara-deva.08/iMatra_anusvara-deva.10/iMatra_anusvara-deva.15/iMatra_anusvara-deva.20/iMatra_anusvara-deva.25/iMatra_anusvara-deva.30/iMatra_reph-deva.01/iMatra_reph-deva.02/iMatra_reph-deva.03/iMatra_reph-deva.05/iMatra_reph-deva.08/iMatra_reph-deva.10/iMatra_reph-deva.15/iMatra_reph-deva.20/iMatra_reph-deva.25/iMatra_reph-deva.30/iMatra_reph_anusvara-deva.01/iMatra_reph_anusvara-deva.02/iMatra_reph_anusvara-deva.03/iMatra_reph_anusvara-deva.05/iMatra_reph_anusvara-deva.08/iMatra_reph_anusvara-deva.10/iMatra_reph_anusvara-deva.15/iMatra_reph_anusvara-deva.20/iMatra_reph_anusvara-deva.25/iMatra_reph_anusvara-deva.30/iiMatra-deva.02/iiMatra_anusvara-deva.02/iiMatra_reph-deva.02/iiMatra_reph_anusvara-deva.02",
-"/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/nnna-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva/rra-deva/la-deva/lla-deva/llla-deva/va-deva/sha-deva/ssa-deva/sa-deva/ha-deva/qa-deva/khha-deva/ghha-deva/za-deva/dddha-deva/rha-deva/fa-deva/yya-deva/zha-deva/jjya-deva/gga-deva/jja-deva/ddda-deva/bba-deva/la-deva.loclMAR/sha-deva.loclMAR/jha-deva.np/zha-deva.np/ya-deva.post/va-deva.post/na-deva.post2/sha-deva.ss02/ka_ra-deva/k_ka-deva/k_ca-deva/k_ta-deva/k_t_ta-deva/k_t_ya-deva/k_t_ra-deva/k_la-deva/k_va-deva/k_ssa-deva/k_ssa_ra-deva/k_ssa_uMatra-deva/k_ssa_uuMatra-deva/kha_ra-deva/kh_kha-deva/kh_na-deva/kh_ma-deva/kh_ya-deva/kh_ra-deva/kh_sha-deva/ga_na-deva/ga_ra-deva/g_r_ya-deva/gha_ra-deva/gh_h-deva/ng_ka-deva/ng_k_ssa-deva/ng_kha-deva/ng_ga-deva/ng_gha-deva/ng_ma-deva/ca_ca-deva/ca_ra-deva/ch_va-deva/ja_nya_ra-deva/ja_ra-deva/j_ja-deva/j_j_nya-deva/j_j_ya-deva/j_j_va-deva/j_nya-deva/j_ny_ya-deva/j_tta-deva/j_ta-deva/j_da-deva/j_na-deva/j_ya-deva/j_ra-deva/jha_ra-deva/nya_ra-deva/ny_ca-deva/ny_ja-deva/tt_tta-deva/tt_ttha-deva/tt_ddha-deva/tt_na-deva/tt_ya-deva/tt_va-deva/tth_ttha-deva/tth_na-deva/tth_ya-deva/dd_gha-deva/dd_tta-deva/dd_dda-deva/dd_ddha-deva/dd_na-deva/dd_ma-deva/dd_ya-deva/ddh_ddha-deva/ddh_na-deva/ddh_ya-deva/nna_ra-deva/ta_ra-deva/t_kha-deva/t_kh_na-deva/t_kh_ra-deva/t_ta-deva/t_t-deva/t_t_ya-deva/t_t_va-deva/t_tha-deva/t_na-deva/t_n_ya-deva/t_ya-deva/t_ra-deva/t_sa-deva/t_s_na-deva/t_s_ya-deva/t_s_va-deva/t_r-deva/t_r_ya-deva/tha_ra-deva/d_ga-deva/d_g_ra-deva/d_gha-deva/d_da-deva/d_dha-deva/d_dh_r_ya-deva/d_na-deva/d_ba-deva/d_b_ra-deva/d_bha-deva/d_ya-deva/d_ra-deva/d_va-deva/dha_ra-deva/na_ra-deva/n_t_ra-deva/n_t_sa-deva/n_d_ra-deva/n_d_va-deva/n_na-deva/n_bha-deva/n_ra-deva/n_sa-deva/n_s_tta-deva/pa_ta-deva/pa_ra-deva/p_tta-deva/p_la-deva/pha_ra-deva/pha_ra_nukta-deva/ph_la-deva/b_ja-deva/b_j_ya-deva/b_na-deva/b_ra-deva/b_sha-deva/b_sa-deva/b_za-deva/b_r-deva/bha_ra-deva/bh_r_ya-deva/ma_ra-deva/ya_ra-deva/la_ra-deva/l_d_ra-deva/l_la-deva/v_na-deva/v_ra-deva/sha_ra-deva/sh_ca-deva/sh_na-deva/sh_la-deva/sh_va-deva/ssa_ra-deva/ss_tta-deva/ss_tt_ya-deva/ss_tt_va-deva/ss_tt_rakar-deva/ss_ttha-deva/ss_tth_ya-deva/ss_tth_rakar-deva/sa_t_ra-deva/sa_ra-deva/s_t_ra-deva/ha_ra-deva/h_nna-deva/h_na-deva/h_ma-deva/h_ya-deva/h_la-deva/h_va-deva/khh_ta-deva/khh_ma-deva/khh_ya-deva/khh_ra-deva/khh_va-deva/khh_sha-deva/khh_sa-deva/z_ra-deva/ka_ra-deva.alt/j_ja-deva.alt/j_j-deva.alt/kh_la-deva.loclMAR/g_la-deva.loclMAR/gh_la-deva.loclMAR/c_la-deva.loclMAR/ch_la-deva.loclMAR/b_la-deva.loclMAR/bh_la-deva.loclMAR/m_la-deva.loclMAR/l_la-deva.loclMAR/v_la-deva.loclMAR",
-" ",
-"/f_f  /f_f_i  /f_f_l  /f_t  /fi  /fl \012ff ffi ffl ft fi fl",
+"TATCTOTaTcT:TdTeTg\012TiTjTnToTpT.TqTsTt\012TuTwTyTz\012UAUaUcU:UdUeUgUiUj\012UnUoUpU.UqUsUtUu\012UwUyUzAVA\012HHWOWHHWHHaWcW:WdWeWgWnW\012WoWpW.WqWsW'WuWyWz\012AXAYAOYOYaYcY:YdYeYgYn\012YonoYpY.YqYsYtYuYwYyYz\012ZAaTaUaWaY\012bToTbUbWbY\012cTcUcWcYc:c.\012:A:T:U:W:YeTeUeWeY\012fsgTgYiYjTjUkTkUkWkY\012nTnUnWnYoTooUooYo\012.A.J.T.U.W.Y.w.y.¿A\012'A'T'U'W'dtTtYwTwUwY\012zTzY",
+"/f_f     /fi  /fl \012ff ffi ffl ft fi fl",
 ":",
 ";",
-"/rupee",
-"/lcommaaccent",
-"W/Wdieresis",
-"ÄËW/Wdieresis",
-"/tdieresis"
+"¿/quotedblleft A/quotedblright/quoteleft 'A®'/quoteright ?CTA*A/trademark \012FaFcF:FdFeFgFjFnFo\012FpF.FqFsFtFuFwFyFz\012LCLOLSLTLWLYLaLcL:Lq\012ALTO ALTANERAL/quoteleft L'LtLoLq\012L.LsLwLyLz\012HHOTOHHOWOHHOYOHHYHH\012PaPcPdPePgPiPjPnPoP.PqPs\012PuPwPyPz",
+"Ø·Ç·Ç®Ç/trademark Ç\012DADJDTOTDVD/trademark Dz\012DWOWODXOXDYDZD*D®D//\012/Dcroat */Dcroat ®/Dcroat/trademark uau*",
+"Ç",
+"FAFCFJFSFVFWFXFYFZ\012FaFcFoFgF«FîFïF/imacron F/itilde FmF.F·F®FsF//\012FtF/trademark FuFvFwFxFyFz\012GAGTOTOGVGWG*G®G/trademark \012KAKCKOKSKTKUKVKWKYK*\012K-KjK·K?K/quoteleft K/quoteright K'K®K/trademark KtKu\012KvKwKxKyKz\012LALCLSLTLULVLWLY\012L*L//LcLfLgL«L-A.zC;U;-27L/quotedblleft L/quotedblright L®L/trademark LuLvLwLy\012O*O®O/trademark O//P*P®P/trademark P//\012PAPJPSPTPXPZPZPaPcPg\012R*R®R/trademark R//\012RARJRSRTRXRZRaRcRg\012RaRcRdReRgRiRjRnRoR.RqRs\012RuRwRyRz\012PaPcPdPePgPiPjPnPoP.PqPs\012HPuPwPyPz\012SJSSSTSYS*S·S®S/trademark \012T*T®T/trademark T//T«T-T·T?T/quoteleft TW/itilde T/quotedblleft T/quotedblright TîTïT/imacron T/itilde TmT.T·\012TATCTJTSTXTZTaTcTg\012TaTcTdTeTgTiTjTnToT.TqTs\012TuTwTyTz\012V*V®V/trademark V//V«V-V·V?V/quoteleft V/quoteright \012V/quotedblleft V/quotedblright VîVïV/imacron V/itilde VmV.V·\012VAVCVJVSVXVZVaVcVg\012VaVcVdVeVgViVjVnVoV.VqVs\012VuVwVWBJ",
+"/euro/euro/euro/euro/euro/euro/euro/euro/euro/euro/euro \012/euro/euro/euro/euro/euro/euro/euro/euro/euro/euro/euro",
+"ÞhVnVn*h*m*/quoteright A"
 );
 classes = (
 {
@@ -1653,7 +1634,7 @@ xHeight = 1003;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:59:48 +0000";
 layers = (
 {
 anchors = (
@@ -3332,7 +3313,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = C;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:03:29 +0000";
 layers = (
 {
 anchors = (
@@ -5228,7 +5209,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = F;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 01:51:30 +0000";
 layers = (
 {
 anchors = (
@@ -6906,7 +6887,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = J;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:38:52 +0000";
 layers = (
 {
 anchors = (
@@ -8555,7 +8536,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = O;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 01:27:56 +0000";
 layers = (
 {
 anchors = (
@@ -11046,7 +11027,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = S;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:39:00 +0000";
 layers = (
 {
 anchors = (
@@ -11806,21 +11787,21 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = T;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:31:47 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{538, 0}";
+position = "{508, 0}";
 },
 {
 name = center;
-position = "{538, 673}";
+position = "{508, 673}";
 },
 {
 name = top;
-position = "{538, 1346}";
+position = "{508, 1346}";
 }
 );
 hints = (
@@ -11836,18 +11817,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"608 0 LINE",
-"608 1228 LINE",
-"1024 1228 LINE",
-"1024 1346 LINE",
-"52 1346 LINE",
-"52 1228 LINE",
-"469 1228 LINE",
-"469 0 LINE"
+"578 0 LINE",
+"578 1228 LINE",
+"994 1228 LINE",
+"994 1346 LINE",
+"22 1346 LINE",
+"22 1228 LINE",
+"439 1228 LINE",
+"439 0 LINE"
 );
 }
 );
-width = 1076;
+width = 1036;
 },
 {
 anchors = (
@@ -12240,7 +12221,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = U;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:10:19 +0000";
 layers = (
 {
 anchors = (
@@ -13536,7 +13517,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = V;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:38:12 +0000";
 layers = (
 {
 anchors = (
@@ -13648,7 +13629,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = W;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:04:09 +0000";
 layers = (
 {
 anchors = (
@@ -13939,7 +13920,7 @@ unicode = 1E80;
 },
 {
 glyphname = X;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:19:33 +0000";
 layers = (
 {
 anchors = (
@@ -14068,7 +14049,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Y;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:24:39 +0000";
 layers = (
 {
 anchors = (
@@ -14457,7 +14438,7 @@ unicode = 1EF8;
 },
 {
 glyphname = Z;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:39:09 +0000";
 layers = (
 {
 anchors = (
@@ -14694,7 +14675,7 @@ unicode = 1E92;
 },
 {
 glyphname = a;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:39:16 +0000";
 layers = (
 {
 anchors = (
@@ -16277,7 +16258,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = b;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 00:28:57 +0000";
 layers = (
 {
 anchors = (
@@ -16658,7 +16639,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = c;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:39:22 +0000";
 layers = (
 {
 anchors = (
@@ -17002,7 +16983,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = d;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 00:55:32 +0000";
 layers = (
 {
 anchors = (
@@ -17780,7 +17761,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = e;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-12 23:50:41 +0000";
 layers = (
 {
 anchors = (
@@ -18909,7 +18890,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = f;
-lastChange = "2019-11-12 17:34:11 +0000";
+lastChange = "2019-11-13 02:11:04 +0000";
 layers = (
 {
 anchors = (
@@ -19091,7 +19072,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = g;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:39:30 +0000";
 layers = (
 {
 anchors = (
@@ -20054,7 +20035,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = i;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-12 23:56:52 +0000";
 layers = (
 {
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -20350,7 +20331,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = icircumflex;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:37:22 +0000";
 layers = (
 {
 components = (
@@ -20393,7 +20374,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = idieresis;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:37:28 +0000";
 layers = (
 {
 components = (
@@ -20652,7 +20633,7 @@ rightMetricsKey = jacute;
 },
 {
 glyphname = imacron;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:37:39 +0000";
 layers = (
 {
 components = (
@@ -20891,7 +20872,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = itilde;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 01:51:25 +0000";
 layers = (
 {
 components = (
@@ -20934,7 +20915,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = j;
-lastChange = "2019-11-12 16:18:12 +0000";
+lastChange = "2019-11-13 02:04:40 +0000";
 layers = (
 {
 anchors = (
@@ -22139,7 +22120,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = m;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:37:54 +0000";
 layers = (
 {
 anchors = (
@@ -22387,7 +22368,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = n;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-12 23:56:29 +0000";
 layers = (
 {
 anchors = (
@@ -22863,7 +22844,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = o;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 00:30:50 +0000";
 layers = (
 {
 anchors = (
@@ -25564,7 +25545,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = s;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 00:41:13 +0000";
 layers = (
 {
 anchors = (
@@ -26202,7 +26183,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = t;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:05:44 +0000";
 layers = (
 {
 anchors = (
@@ -26712,7 +26693,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = u;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:40:00 +0000";
 layers = (
 {
 anchors = (
@@ -28056,7 +28037,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = v;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:12:20 +0000";
 layers = (
 {
 anchors = (
@@ -28161,7 +28142,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = w;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:40:06 +0000";
 layers = (
 {
 anchors = (
@@ -28485,7 +28466,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = x;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:06:24 +0000";
 layers = (
 {
 anchors = (
@@ -28614,7 +28595,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = y;
-lastChange = "2019-10-26 06:10:49 +0000";
+lastChange = "2019-11-13 02:40:14 +0000";
 layers = (
 {
 anchors = (
@@ -29107,7 +29088,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = z;
-lastChange = "2019-10-26 06:09:29 +0000";
+lastChange = "2019-11-13 02:40:18 +0000";
 layers = (
 {
 anchors = (
@@ -90965,7 +90946,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = one.onum;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 01:36:38 +0000";
 layers = (
 {
 hints = (
@@ -91039,7 +91020,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = two.onum;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 01:36:49 +0000";
 layers = (
 {
 hints = (
@@ -91148,7 +91129,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = three.onum;
-lastChange = "2019-10-26 06:10:50 +0000";
+lastChange = "2019-11-13 01:37:01 +0000";
 layers = (
 {
 hints = (
@@ -91318,7 +91299,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = four.onum;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 01:37:11 +0000";
 layers = (
 {
 hints = (
@@ -91363,7 +91344,7 @@ nodes = (
 );
 }
 );
-width = 1047;
+width = 1048;
 },
 {
 hints = (
@@ -91420,7 +91401,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = five.onum;
-lastChange = "2019-10-26 06:10:50 +0000";
+lastChange = "2019-11-13 01:37:04 +0000";
 layers = (
 {
 hints = (
@@ -101256,7 +101237,7 @@ rightKerningGroup = "eight-deva.np";
 },
 {
 glyphname = period;
-lastChange = "2019-10-26 04:37:59 +0000";
+lastChange = "2019-11-13 02:56:55 +0000";
 layers = (
 {
 hints = (
@@ -101451,16 +101432,17 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = colon;
-lastChange = "2019-11-12 17:51:23 +0000";
+lastChange = "2019-11-13 00:35:49 +0000";
 layers = (
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, 0, 757}";
+transform = "{1, 0, 0, 1, -10, 757}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -101756,7 +101738,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = question;
-lastChange = "2019-10-26 06:10:50 +0000";
+lastChange = "2019-11-13 02:11:36 +0000";
 layers = (
 {
 hints = (
@@ -101937,7 +101919,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = periodcentered;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 02:56:37 +0000";
 layers = (
 {
 components = (
@@ -101960,8 +101942,8 @@ layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
 width = 550;
 }
 );
-leftKerningGroup = period;
-rightKerningGroup = period;
+leftKerningGroup = periodcentered;
+rightKerningGroup = periodcentered;
 unicode = 00B7;
 userData = {
 com.typemytype.robofont.mark = (
@@ -102049,7 +102031,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = asterisk;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 03:16:41 +0000";
 layers = (
 {
 hints = (
@@ -102089,8 +102071,8 @@ width = 837;
 hints = (
 {
 horizontal = 1;
-origin = "{0, 10}";
-target = "{0, 10}";
+origin = "{0, 12}";
+target = "{0, 12}";
 type = Tag;
 name = hr00;
 }
@@ -102100,6 +102082,8 @@ paths = (
 {
 closed = 1;
 nodes = (
+"444 983 LINE",
+"606 790 LINE",
 "703 861 LINE",
 "576 1076 LINE",
 "796 1168 LINE",
@@ -102112,9 +102096,7 @@ nodes = (
 "90 1170 LINE",
 "310 1076 LINE",
 "184 864 LINE",
-"282 792 LINE",
-"444 983 LINE",
-"606 790 LINE"
+"282 792 LINE"
 );
 }
 );
@@ -102255,7 +102237,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = slash;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 02:36:24 +0000";
 layers = (
 {
 hints = (
@@ -102314,7 +102296,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = backslash;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-12 21:06:07 +0000";
 layers = (
 {
 hints = (
@@ -102864,7 +102846,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = hyphen;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 02:36:32 +0000";
 layers = (
 {
 hints = (
@@ -103428,7 +103410,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quoteleft;
-lastChange = "2019-10-26 06:10:50 +0000";
+lastChange = "2019-11-13 02:05:13 +0000";
 layers = (
 {
 hints = (
@@ -103843,7 +103825,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = quotesingle;
-lastChange = "2019-10-26 04:37:59 +0000";
+lastChange = "2019-11-13 02:05:24 +0000";
 layers = (
 {
 hints = (
@@ -114061,7 +114043,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = registered;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 02:36:16 +0000";
 layers = (
 {
 hints = (
@@ -114405,7 +114387,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = trademark;
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-13 02:36:09 +0000";
 layers = (
 {
 hints = (
@@ -130050,180 +130032,469 @@ weightClass = Bold;
 kerning = {
 "F1FC1B3B-4EE8-4ECF-8776-11160932002C" = {
 "@MMK_L_A" = {
+"@MMK_R_O" = -20;
+"@MMK_R_T" = -82;
+"@MMK_R_U" = -33;
+"@MMK_R_V" = -27;
+"@MMK_R_X" = 13;
+"@MMK_R_Y" = -27;
+"@MMK_R_Z" = -19;
+"@MMK_R_asterisk" = -198;
+"@MMK_R_backslash" = -82;
 "@MMK_R_colon" = 0;
+"@MMK_R_curlyquotes" = -100;
+"@MMK_R_f" = -20;
 "@MMK_R_period" = 0;
+"@MMK_R_periodcentered" = -47;
+"@MMK_R_question" = -48;
+"@MMK_R_registered" = -156;
+"@MMK_R_straightquote" = -104;
+"@MMK_R_trademark" = -96;
+"@MMK_R_t" = -27;
+"@MMK_R_u" = -14;
+"@MMK_R_v" = -27;
+"@MMK_R_w" = -5;
+"@MMK_R_y" = -27;
+quoteleft = -108;
+quotesingle = -96;
 };
 "@MMK_L_C" = {
-"@MMK_R_T" = 0;
+"@MMK_R_T" = -39;
+"@MMK_R_period" = -96;
+"@MMK_R_registered" = 34;
+"@MMK_R_trademark" = 48;
+"@MMK_R_O" = -55;
+"@MMK_R_J" = -20;
+"@MMK_R_S" = -47;
+"@MMK_R_U" = -27;
+"@MMK_R_W" = -5;
+"@MMK_R_X" = -5;
+"@MMK_R_Y" = -7;
+"@MMK_R_Z" = -20;
+"@MMK_R_g" = -41;
+"@MMK_R_guillemotleft" = -27;
+"@MMK_R_hyphen" = -48;
+"@MMK_R_periodcentered" = -96;
+"@MMK_R_t" = -27;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -27;
+"@MMK_R_w" = -20;
+"@MMK_R_y" = -27;
 };
 "@MMK_L_F" = {
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_colon" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_A" = -75;
+"@MMK_R_J" = -285;
+"@MMK_R_X" = -47;
+"@MMK_R_Z" = -61;
+"@MMK_R_a" = -67;
+"@MMK_R_colon" = -27;
+"@MMK_R_g" = -47;
+"@MMK_R_idotless" = 40;
 "@MMK_R_j" = 0;
-"@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -35;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
-"@MMK_R_s" = 0;
-"@MMK_R_t" = 0;
-"@MMK_R_u" = 0;
-"@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
-"@MMK_R_z" = 0;
+"@MMK_R_period" = -137;
+"@MMK_R_s" = -38;
+"@MMK_R_slash" = -151;
+"@MMK_R_t" = -20;
+"@MMK_R_u" = -32;
+"@MMK_R_v" = -34;
+"@MMK_R_w" = -28;
+"@MMK_R_x" = -48;
+"@MMK_R_y" = -28;
+"@MMK_R_z" = -50;
+imacron = 72;
+itilde = 80;
+"@MMK_R_O" = -20;
+"@MMK_R_S" = -38;
+"@MMK_R_V" = 13;
+"@MMK_R_W" = 13;
+"@MMK_R_Y" = 9;
+"@MMK_R_guillemotleft" = -41;
+"@MMK_R_periodcentered" = -27;
+"@MMK_R_registered" = 48;
+"@MMK_R_trademark" = 84;
+};
+"@MMK_L_G" = {
+"@MMK_R_A" = -5;
+"@MMK_R_T" = -40;
+"@MMK_R_V" = -27;
+"@MMK_R_W" = -5;
+"@MMK_R_asterisk" = -60;
+"@MMK_R_registered" = 26;
+"@MMK_R_trademark" = 43;
+};
+"@MMK_L_H" = {
+"@MMK_R_W" = -8;
+"@MMK_R_registered" = 46;
+"@MMK_R_slash" = -31;
+"@MMK_R_trademark" = 14;
+};
+"@MMK_L_J" = {
+"@MMK_R_period" = -47;
+"@MMK_R_J" = -79;
+};
+"@MMK_L_K" = {
+"@MMK_R_A" = -20;
+"@MMK_R_O" = -43;
+"@MMK_R_S" = -25;
+"@MMK_R_T" = -28;
+"@MMK_R_U" = -27;
+"@MMK_R_V" = -22;
+"@MMK_R_W" = -20;
+"@MMK_R_Y" = -28;
+"@MMK_R_asterisk" = -35;
+"@MMK_R_curlyquotes" = -22;
+"@MMK_R_hyphen" = -50;
+"@MMK_R_j" = -20;
+"@MMK_R_period" = -89;
+"@MMK_R_question" = -7;
+"@MMK_R_registered" = 16;
+"@MMK_R_straightquote" = -35;
+"@MMK_R_t" = -48;
+"@MMK_R_trademark" = 30;
+"@MMK_R_u" = -30;
+"@MMK_R_v" = -34;
+"@MMK_R_w" = -28;
+"@MMK_R_x" = -28;
+"@MMK_R_y" = -34;
+"@MMK_R_z" = -27;
+"@MMK_R_o" = -7;
+"@MMK_R_guillemotleft" = -20;
+"@MMK_R_periodcentered" = -89;
 };
 "@MMK_L_L" = {
-"@MMK_R_C" = 0;
-"@MMK_R_O" = 0;
-"@MMK_R_S" = 0;
-"@MMK_R_T" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
+"@MMK_R_O" = -48;
+"@MMK_R_S" = -43;
+"@MMK_R_T" = -245;
+"@MMK_R_U" = -55;
+"@MMK_R_V" = -155;
+"@MMK_R_W" = -114;
+"@MMK_R_Y" = -151;
+"@MMK_R_a" = -20;
+"@MMK_R_asterisk" = -300;
 "@MMK_R_colon" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_curlyquotes" = -146;
+"@MMK_R_f" = -27;
+"@MMK_R_g" = -5;
+"@MMK_R_hyphen" = -116;
 "@MMK_R_i" = 0;
 "@MMK_R_j" = 0;
 "@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -24;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
+"@MMK_R_period" = -178;
+"@MMK_R_question" = -56;
+"@MMK_R_registered" = -178;
 "@MMK_R_s" = 0;
-"@MMK_R_straightquote" = 0;
-"@MMK_R_t" = 0;
-"@MMK_R_u" = 0;
-"@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
+"@MMK_R_straightquote" = -157;
+"@MMK_R_t" = -38;
+"@MMK_R_trademark" = -187;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -65;
+"@MMK_R_w" = -67;
+"@MMK_R_y" = -65;
 "@MMK_R_z" = 0;
+"@MMK_R_A" = 10;
+"@MMK_R_backslash" = -164;
+"@MMK_R_guillemotleft" = -75;
+"@MMK_R_periodcentered" = -178;
+T = -82;
 };
 "@MMK_L_O" = {
-"@MMK_R_T" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_A" = -20;
+"@MMK_R_J" = -74;
+"@MMK_R_T" = -45;
+"@MMK_R_W" = -14;
+"@MMK_R_X" = -31;
+"@MMK_R_Y" = -41;
+"@MMK_R_Z" = -41;
+"@MMK_R_asterisk" = -75;
+"@MMK_R_slash" = -34;
+"@MMK_R_trademark" = -48;
+"@MMK_R_z" = -7;
+"@MMK_R_registered" = 14;
+T = -41;
+"@MMK_R_V" = -20;
 };
 "@MMK_L_P" = {
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_A" = -102;
+"@MMK_R_J" = -301;
+"@MMK_R_S" = -20;
+"@MMK_R_T" = -54;
+"@MMK_R_X" = -47;
+"@MMK_R_Z" = -174;
+"@MMK_R_a" = -92;
+"@MMK_R_asterisk" = -75;
+"@MMK_R_g" = -69;
 "@MMK_R_i" = 0;
 "@MMK_R_j" = 0;
 "@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -55;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
-"@MMK_R_s" = 0;
+"@MMK_R_period" = -219;
+"@MMK_R_registered" = 60;
+"@MMK_R_s" = -20;
+"@MMK_R_slash" = -166;
+"@MMK_R_u" = -55;
+"@MMK_R_w" = -10;
+"@MMK_R_y" = -10;
+"@MMK_R_z" = -40;
+"@MMK_R_Y" = -20;
+"@MMK_R_guillemotleft" = -41;
+"@MMK_R_hyphen" = -60;
+"@MMK_R_periodcentered" = -19;
+"@MMK_R_x" = -27;
+};
+"@MMK_L_R" = {
+"@MMK_R_A" = -20;
+"@MMK_R_J" = -39;
+"@MMK_R_S" = -29;
+"@MMK_R_T" = -41;
+"@MMK_R_X" = -20;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_o" = -20;
 "@MMK_R_u" = 0;
-"@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
-"@MMK_R_z" = 0;
+"@MMK_R_V" = -27;
+"@MMK_R_Y" = -27;
+"@MMK_R_asterisk" = -20;
+"@MMK_R_guillemotleft" = -61;
+"@MMK_R_guillemotright" = -27;
+"@MMK_R_hyphen" = -80;
+"@MMK_R_periodcentered" = -20;
+"@MMK_R_registered" = 34;
+"@MMK_R_x" = -27;
+"@MMK_R_z" = -27;
+};
+"@MMK_L_S" = {
+"@MMK_R_J" = -27;
+"@MMK_R_S" = -27;
+"@MMK_R_T" = -40;
+"@MMK_R_Y" = -7;
+"@MMK_R_asterisk" = -39;
+"@MMK_R_period" = -19;
+"@MMK_R_periodcentered" = -19;
+"@MMK_R_registered" = 13;
+"@MMK_R_z" = 7;
 };
 "@MMK_L_T" = {
-"@MMK_R_C" = 0;
-"@MMK_R_O" = 0;
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_colon" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
-"@MMK_R_i" = 0;
-"@MMK_R_j" = 0;
-"@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_A" = -82;
+"@MMK_R_J" = -260;
+"@MMK_R_O" = -45;
+"@MMK_R_S" = -87;
+"@MMK_R_Z" = -116;
+"@MMK_R_a" = -154;
+"@MMK_R_colon" = -55;
+"@MMK_R_g" = -154;
+"@MMK_R_hyphen" = -164;
+"@MMK_R_i" = -10;
+"@MMK_R_idotless" = 72;
+"@MMK_R_j" = -10;
+"@MMK_R_n" = -96;
+"@MMK_R_o" = -130;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
-"@MMK_R_s" = 0;
-"@MMK_R_t" = 0;
-"@MMK_R_u" = 0;
-"@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
-"@MMK_R_z" = 0;
+"@MMK_R_period" = -212;
+"@MMK_R_s" = -120;
+"@MMK_R_slash" = -192;
+"@MMK_R_t" = -40;
+"@MMK_R_u" = -96;
+"@MMK_R_w" = -75;
+"@MMK_R_y" = -72;
+"@MMK_R_z" = -160;
+icircumflex = 17;
+"@MMK_R_X" = -41;
+"@MMK_R_Y" = -27;
+"@MMK_R_f" = -39;
+"@MMK_R_guillemotleft" = -92;
+"@MMK_R_guillemotright" = -82;
+"@MMK_R_periodcentered" = -129;
+"@MMK_R_registered" = 41;
+"@MMK_R_trademark" = 75;
+"@MMK_R_v" = -72;
+"@MMK_R_x" = -87;
 };
 "@MMK_L_U" = {
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_colon" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_A" = -33;
+"@MMK_R_a" = -5;
+"@MMK_R_colon" = -20;
+"@MMK_R_g" = -20;
 "@MMK_R_i" = 0;
 "@MMK_R_j" = 0;
 "@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -10;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
-"@MMK_R_s" = 0;
-"@MMK_R_t" = 0;
-"@MMK_R_u" = 0;
+"@MMK_R_period" = -28;
+"@MMK_R_s" = -5;
+"@MMK_R_t" = -10;
+"@MMK_R_u" = -20;
 "@MMK_R_w" = 0;
 "@MMK_R_y" = 0;
 "@MMK_R_z" = 0;
+"@MMK_R_J" = -92;
+"@MMK_R_S" = -20;
+"@MMK_R_V" = -20;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -27;
+"@MMK_R_slash" = -72;
+"@MMK_R_x" = -8;
+};
+"@MMK_L_V" = {
+"@MMK_R_A" = -27;
+"@MMK_R_J" = -154;
+"@MMK_R_S" = -35;
+"@MMK_R_Z" = -38;
+"@MMK_R_a" = -39;
+"@MMK_R_g" = -44;
+"@MMK_R_hyphen" = -38;
+"@MMK_R_idotless" = 82;
+"@MMK_R_n" = -40;
+"@MMK_R_o" = -29;
+"@MMK_R_period" = -127;
+"@MMK_R_registered" = 110;
+"@MMK_R_slash" = -105;
+"@MMK_R_trademark" = 108;
+"@MMK_R_u" = -61;
+"@MMK_R_w" = -17;
+"@MMK_R_y" = -17;
+"@MMK_R_z" = -53;
+"@MMK_R_iacute" = -2;
+"@MMK_R_igrave" = 17;
+itilde = 97;
+"@MMK_R_O" = -20;
+"@MMK_R_U" = -20;
+"@MMK_R_guillemotleft" = -44;
+"@MMK_R_guillemotright" = -35;
+"@MMK_R_periodcentered" = -27;
+"@MMK_R_s" = -22;
+"@MMK_R_v" = -17;
+"@MMK_R_x" = -29;
 };
 "@MMK_L_W" = {
-"@MMK_R_O" = 0;
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_colon" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_H" = -8;
+"@MMK_R_J" = -142;
+"@MMK_R_O" = -14;
+"@MMK_R_S" = -14;
+"@MMK_R_Z" = -14;
+"@MMK_R_a" = -35;
+"@MMK_R_colon" = -20;
+"@MMK_R_g" = -31;
+"@MMK_R_guillemotleft" = -20;
+"@MMK_R_guillemotright" = -28;
+"@MMK_R_hyphen" = -5;
+"@MMK_R_idotless" = -35;
 "@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -20;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
+"@MMK_R_period" = -67;
+"@MMK_R_registered" = 87;
 "@MMK_R_s" = 0;
+"@MMK_R_slash" = -69;
 "@MMK_R_straightquote" = 0;
-"@MMK_R_u" = 0;
+"@MMK_R_trademark" = 67;
+"@MMK_R_u" = -15;
 "@MMK_R_w" = 0;
 "@MMK_R_y" = 0;
-"@MMK_R_z" = 0;
+"@MMK_R_z" = -19;
+icircumflex = 41;
+imacron = 55;
+itilde = 77;
+};
+"@MMK_L_X" = {
+"@MMK_R_A" = 10;
+"@MMK_R_O" = -31;
+"@MMK_R_J" = -6;
+"@MMK_R_S" = -27;
+"@MMK_R_T" = -41;
+"@MMK_R_U" = -20;
+"@MMK_R_a" = -20;
+"@MMK_R_asterisk" = -20;
+"@MMK_R_o" = -7;
+"@MMK_R_f" = -28;
+"@MMK_R_guillemotleft" = -27;
+"@MMK_R_guillemotright" = -7;
+"@MMK_R_hyphen" = -51;
+"@MMK_R_periodcentered" = -82;
+"@MMK_R_curlyquotes" = -8;
+"@MMK_R_straightquote" = -5;
+"@MMK_R_registered" = 26;
+"@MMK_R_t" = -28;
+"@MMK_R_trademark" = 44;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -28;
+"@MMK_R_w" = -27;
+"@MMK_R_x" = -20;
+"@MMK_R_y" = -28;
+"@MMK_R_z" = -27;
 };
 "@MMK_L_Y" = {
-"@MMK_R_O" = 0;
-"@MMK_R_a" = 0;
-"@MMK_R_c" = 0;
-"@MMK_R_colon" = 0;
+"@MMK_R_A" = -27;
+"@MMK_R_O" = -25;
+"@MMK_R_S" = -32;
+"@MMK_R_a" = -133;
+"@MMK_R_colon" = -45;
 "@MMK_R_curlybrace" = 0;
-"@MMK_R_d" = 0;
-"@MMK_R_e" = 0;
-"@MMK_R_g" = 0;
+"@MMK_R_g" = -123;
 "@MMK_R_n" = 0;
-"@MMK_R_o" = 0;
+"@MMK_R_o" = -87;
 "@MMK_R_p" = 0;
-"@MMK_R_period" = 0;
-"@MMK_R_q" = 0;
-"@MMK_R_s" = 0;
-"@MMK_R_t" = 0;
-"@MMK_R_u" = 0;
-"@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
-"@MMK_R_z" = 0;
+"@MMK_R_period" = -176;
+"@MMK_R_s" = -77;
+"@MMK_R_t" = -27;
+"@MMK_R_u" = -67;
+"@MMK_R_w" = -47;
+"@MMK_R_y" = -27;
+"@MMK_R_z" = -82;
+c = -77;
+icircumflex = 51;
+"@MMK_R_igrave" = -20;
+imacron = 67;
+itilde = 77;
+m = -82;
+z = -92;
+"@MMK_R_J" = -205;
+"@MMK_R_T" = -27;
+"@MMK_R_U" = -20;
+"@MMK_R_Z" = -55;
+"@MMK_R_guillemotleft" = -104;
+"@MMK_R_guillemotright" = -79;
+"@MMK_R_hyphen" = -130;
+"@MMK_R_idotless" = -27;
+"@MMK_R_periodcentered" = -89;
+"@MMK_R_question" = -7;
+"@MMK_R_curlyquotes" = 25;
+"@MMK_R_registered" = 72;
+"@MMK_R_slash" = -146;
+"@MMK_R_trademark" = 96;
+"@MMK_R_v" = -27;
+"@MMK_R_x" = -67;
 };
-"@MMK_L_a" = {
-"@MMK_R_T" = 0;
-"@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
-};
-"@MMK_L_b" = {
-"@MMK_R_T" = 0;
-"@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_L_Z" = {
+"@MMK_R_A" = -14;
+"@MMK_R_O" = -41;
+"@MMK_R_J" = -72;
+"@MMK_R_S" = -61;
+"@MMK_R_U" = -20;
+"@MMK_R_V" = -14;
+"@MMK_R_W" = -14;
+"@MMK_R_Y" = -27;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -35;
+"@MMK_R_o" = -47;
+"@MMK_R_f" = -41;
+"@MMK_R_g" = -30;
+"@MMK_R_guillemotleft" = -75;
+"@MMK_R_hyphen" = -75;
+"@MMK_R_periodcentered" = -123;
+"@MMK_R_registered" = 41;
+"@MMK_R_t" = -27;
+"@MMK_R_trademark" = 41;
+"@MMK_R_u" = -51;
+"@MMK_R_v" = -35;
+"@MMK_R_w" = -35;
+"@MMK_R_y" = -35;
 };
 "@MMK_L_c" = {
 "@MMK_R_T" = 0;
@@ -130232,37 +130503,136 @@ kerning = {
 "@MMK_R_Y" = 0;
 "@MMK_R_colon" = 0;
 "@MMK_R_period" = 0;
+T = -41;
+Y = -47;
+"@MMK_R_V" = -27;
+"@MMK_R_a" = -20;
+"@MMK_R_o" = -40;
+"@MMK_R_g" = -20;
+"@MMK_R_hyphen" = -34;
+"@MMK_R_periodcentered" = -27;
+"@MMK_R_registered" = 48;
+"@MMK_R_v" = 14;
+"@MMK_R_w" = 14;
+"@MMK_R_x" = 22;
+"@MMK_R_y" = 14;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 0;
-"@MMK_R_T" = 0;
+"@MMK_R_T" = -55;
 "@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -20;
+Y = -48;
+"@MMK_R_asterisk" = -110;
 };
 "@MMK_L_curlquote" = {
+"@MMK_R_A" = -100;
 "@MMK_R_O" = 0;
 "@MMK_R_U" = 0;
-"@MMK_R_d" = 0;
+"@MMK_R_exclamdown" = -113;
+"@MMK_R_questiondown" = -277;
+"@MMK_R_X" = -8;
+"@MMK_R_Y" = 25;
+"@MMK_R_a" = -92;
+"@MMK_R_f" = -27;
+"@MMK_R_g" = -72;
+"@MMK_R_period" = -150;
+"@MMK_R_s" = -107;
+"@MMK_R_o" = -72;
 };
 "@MMK_L_e" = {
-"@MMK_R_T" = 0;
+"@MMK_R_T" = -47;
 "@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_W" = -20;
+"@MMK_R_Y" = -48;
+"@MMK_R_J" = -41;
+"@MMK_R_S" = -41;
+"@MMK_R_V" = -28;
+"@MMK_R_a" = -30;
+"@MMK_R_asterisk" = -75;
+"@MMK_R_backslash" = -34;
+"@MMK_R_g" = -20;
+"@MMK_R_guillemotleft" = 6;
+"@MMK_R_hyphen" = 14;
+"@MMK_R_periodcentered" = -5;
+"@MMK_R_question" = -7;
+"@MMK_R_curlyquotes" = -20;
+"@MMK_R_registered" = 6;
+"@MMK_R_t" = -27;
+"@MMK_R_trademark" = -31;
+"@MMK_R_v" = 16;
+"@MMK_R_w" = 16;
+"@MMK_R_x" = -8;
+"@MMK_R_y" = 16;
+"@MMK_R_z" = 9;
+};
+"@MMK_L_euro" = {
+"@MMK_R_five.onum" = 35;
+"@MMK_R_four.onum" = 35;
+"@MMK_R_one.onum" = -20;
+"@MMK_R_three.onum" = 35;
+"@MMK_R_two.onum" = 50;
 };
 "@MMK_L_f" = {
 "@MMK_R_curlybrace" = 0;
 "@MMK_R_curlyquotes" = 0;
 "@MMK_R_f" = -7;
+"@MMK_R_s" = -5;
 "@MMK_R_straightquote" = 0;
+imacron = 67;
+itilde = 118;
+quoteleft = 75;
+quoteright = 75;
+quotesingle = 82;
+"@MMK_R_T" = 96;
+"@MMK_R_V" = 108;
+"@MMK_R_W" = 96;
+"@MMK_R_X" = 72;
+"@MMK_R_Y" = 96;
+"@MMK_R_a" = -41;
+"@MMK_R_backslash" = 141;
+"@MMK_R_o" = -20;
+"@MMK_R_exclam" = 34;
+"@MMK_R_g" = -30;
+"@MMK_R_hyphen" = -27;
+"@MMK_R_idotless" = 51;
+"@MMK_R_j" = -20;
+"@MMK_R_parenright" = 107;
+"@MMK_R_period" = -95;
+"@MMK_R_periodcentered" = -41;
+"@MMK_R_question" = 55;
+"@MMK_R_registered" = 166;
+"@MMK_R_slash" = -34;
+"@MMK_R_trademark" = 158;
+"@MMK_R_u" = -37;
+"@MMK_R_v" = 31;
+"@MMK_R_x" = -5;
+"@MMK_R_z" = -27;
 };
 "@MMK_L_g" = {
-"@MMK_R_T" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_T" = -48;
+"@MMK_R_Y" = -27;
+"@MMK_R_a" = -32;
+"@MMK_R_asterisk" = -75;
+"@MMK_R_o" = -27;
+"@MMK_R_j" = 72;
+"@MMK_R_parenright" = 34;
+"@MMK_R_periodcentered" = -19;
+"@MMK_R_question" = -69;
+"@MMK_R_registered" = 34;
+"@MMK_R_slash" = 108;
+"@MMK_R_v" = -5;
+"@MMK_R_w" = -5;
+"@MMK_R_y" = -5;
+"@MMK_R_z" = -27;
 };
 "@MMK_L_i" = {
 "@MMK_R_Y" = 0;
+};
+"@MMK_L_idotless" = {
+"@MMK_R_H" = 0;
+"@MMK_R_T" = 72;
 };
 "@MMK_L_j" = {
 "@MMK_R_T" = 0;
@@ -130273,91 +130643,666 @@ kerning = {
 "@MMK_R_U" = 0;
 "@MMK_R_W" = 0;
 "@MMK_R_Y" = 0;
+T = -31;
+Y = -19;
+"@MMK_R_a" = -20;
+"@MMK_R_asterisk" = -34;
+"@MMK_R_o" = -32;
+"@MMK_R_g" = -20;
+"@MMK_R_guillemotleft" = -48;
+"@MMK_R_guillemotright" = -7;
+"@MMK_R_hyphen" = -71;
+"@MMK_R_j" = -20;
+"@MMK_R_period" = 34;
+"@MMK_R_periodcentered" = -48;
+"@MMK_R_question" = -15;
+"@MMK_R_curlyquotes" = -48;
+"@MMK_R_registered" = -7;
+"@MMK_R_t" = -27;
+"@MMK_R_trademark" = -41;
+"@MMK_R_u" = -27;
+"@MMK_R_x" = -5;
+"@MMK_R_z" = -8;
 };
 "@MMK_L_n" = {
 "@MMK_R_T" = 0;
 "@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_asterisk" = -75;
+"@MMK_R_question" = -7;
+"@MMK_R_trademark" = -41;
+T = -47;
+W = -5;
+Y = -47;
+question = -15;
+"@MMK_R_V" = -28;
+"@MMK_R_curlyquotes" = -28;
 };
 "@MMK_L_o" = {
-"@MMK_R_T" = 0;
-"@MMK_R_U" = 0;
+"@MMK_R_T" = -116;
+"@MMK_R_U" = -10;
+"@MMK_R_Y" = -89;
+"@MMK_R_backslash" = -48;
+"@MMK_R_question" = -15;
+"@MMK_R_registered" = -7;
+quoteright = -48;
+"@MMK_R_V" = -38;
+"@MMK_R_X" = -5;
+"@MMK_R_a" = -30;
+"@MMK_R_hyphen" = 14;
+"@MMK_R_period" = -20;
+"@MMK_R_v" = -5;
+"@MMK_R_w" = -5;
+"@MMK_R_x" = -31;
+"@MMK_R_y" = -5;
+"@MMK_R_z" = -7;
+"@MMK_R_parenright" = 7;
+"@MMK_R_curlyquotes" = -34;
+"@MMK_R_straightquote" = 14;
 };
 "@MMK_L_period" = {
 "@MMK_R_A" = 0;
-"@MMK_R_AE" = 0;
 "@MMK_R_J" = 0;
-"@MMK_R_T" = 0;
+"@MMK_R_T" = -129;
 "@MMK_R_U" = 0;
-"@MMK_R_W" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_V" = -117;
+"@MMK_R_W" = -67;
+"@MMK_R_Y" = -176;
 "@MMK_R_w" = 0;
-"@MMK_R_y" = 0;
+"@MMK_R_y" = -41;
+T = -212;
+U = -38;
+V = -137;
+quoteright = -194;
+w = -39;
+"@MMK_R_asterisk" = -269;
+"@MMK_R_o" = -19;
+"@MMK_R_j" = 48;
+"@MMK_R_jdotless" = 8;
+"@MMK_R_nine.onum" = -8;
+"@MMK_R_one.onum" = -61;
+"@MMK_R_one.pnum" = -61;
+"@MMK_R_curlyquotes" = -153;
+"@MMK_R_straightquote" = -181;
+"@MMK_R_seven.onum" = -69;
+"@MMK_R_seven.pnum" = -69;
+"@MMK_R_t" = -59;
+"@MMK_R_v" = -59;
+};
+"@MMK_L_periodcentered" = {
+"@MMK_R_A" = -47;
+"@MMK_R_S" = -47;
+"@MMK_R_T" = -129;
+"@MMK_R_V" = -48;
+"@MMK_R_X" = -48;
+"@MMK_R_Y" = -105;
+"@MMK_R_Z" = -80;
+"@MMK_R_x" = -41;
+};
+"@MMK_L_questiondown" = {
+"@MMK_R_A" = -100;
+A = -113;
+Aacute = -113;
+Abreve = -113;
+Acircumflex = -113;
+Adieresis = -113;
+Agrave = -113;
+Amacron = -113;
+Aogonek = -113;
+Aring = -113;
+Atilde = -113;
+"@MMK_R_O" = -71;
+"@MMK_R_S" = -59;
+"@MMK_R_T" = -174;
+"@MMK_R_U" = -74;
+"@MMK_R_Uhorn" = -74;
+"@MMK_R_V" = -105;
+"@MMK_R_W" = -74;
+"@MMK_R_X" = -72;
+"@MMK_R_Y" = -164;
+"@MMK_R_a" = -63;
+"@MMK_R_o" = -36;
+"@MMK_R_f" = -113;
+"@MMK_R_j" = 128;
+"@MMK_R_jdotless" = 128;
 };
 "@MMK_L_r" = {
 "@MMK_R_W" = 0;
 "@MMK_R_Y" = 0;
+quoteright = -7;
+"@MMK_R_A" = -38;
+"@MMK_R_J" = -104;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -49;
+"@MMK_R_backslash" = 31;
+"@MMK_R_o" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_guillemotleft" = -41;
+"@MMK_R_hyphen" = -47;
+"@MMK_R_j" = -14;
+"@MMK_R_period" = -102;
+"@MMK_R_periodcentered" = -35;
+"@MMK_R_curlyquotes" = 75;
+"@MMK_R_registered" = 141;
+"@MMK_R_s" = -20;
+"@MMK_R_slash" = -75;
+"@MMK_R_v" = 46;
+"@MMK_R_w" = 31;
+"@MMK_R_y" = 46;
+"@MMK_R_z" = -20;
 };
 "@MMK_L_s" = {
 "@MMK_R_T" = 0;
 "@MMK_R_U" = 0;
-"@MMK_R_Y" = 0;
+"@MMK_R_Y" = -41;
+T = -47;
+"@MMK_R_V" = -20;
+"@MMK_R_asterisk" = -110;
+"@MMK_R_hyphen" = 20;
+"@MMK_R_question" = -12;
+"@MMK_R_curlyquotes" = -12;
 };
 "@MMK_L_straightquote" = {
+"@MMK_R_A" = -104;
 "@MMK_R_T" = 0;
-"@MMK_R_U" = 0;
+"@MMK_R_U" = -20;
 "@MMK_R_W" = 0;
-"@MMK_R_d" = 0;
+"@MMK_R_o" = -60;
+"@MMK_R_X" = -5;
+"@MMK_R_period" = -227;
+"@MMK_R_s" = -41;
 };
 "@MMK_L_t" = {
-"@MMK_R_T" = 0;
+"@MMK_R_T" = -27;
+"@MMK_R_Y" = -5;
+"@MMK_R_a" = -39;
+"@MMK_R_o" = -20;
+"@MMK_R_colon" = 34;
+"@MMK_R_g" = -20;
+"@MMK_R_guillemotleft" = -39;
+"@MMK_R_hyphen" = -48;
+"@MMK_R_period" = 34;
+"@MMK_R_periodcentered" = -41;
+"@MMK_R_question" = -48;
+"@MMK_R_registered" = 75;
+"@MMK_R_slash" = 34;
+"@MMK_R_u" = -14;
+};
+"@MMK_L_trademark" = {
+"@MMK_R_H" = 50;
 };
 "@MMK_L_u" = {
 "@MMK_R_T" = 0;
 "@MMK_R_U" = 0;
 "@MMK_R_W" = 0;
 "@MMK_R_Y" = 0;
+"@MMK_R_asterisk" = -54;
+f = 36;
+i = 23;
+"@MMK_R_igrave" = 15;
+itilde = 113;
+j = 31;
+parenright = 102;
+question = 11;
+quoteleft = 88;
+quoteright = 47;
+quotesingle = 92;
+registered = 154;
+t = 31;
+v = 20;
+w = 20;
+y = 20;
+asterisk = -54;
 };
 "@MMK_L_w" = {
 "@MMK_R_T" = 0;
 "@MMK_R_U" = 0;
-"@MMK_R_Y" = 0;
-"@MMK_R_period" = 0;
+"@MMK_R_Y" = -16;
+"@MMK_R_period" = -62;
+T = -47;
+"@MMK_R_A" = -5;
+"@MMK_R_J" = -61;
+"@MMK_R_V" = -5;
+"@MMK_R_X" = -27;
+"@MMK_R_a" = -20;
+"@MMK_R_asterisk" = -19;
+"@MMK_R_o" = -5;
+"@MMK_R_j" = -20;
+"@MMK_R_registered" = 92;
+"@MMK_R_slash" = -19;
+"@MMK_R_trademark" = 34;
+"@MMK_R_z" = -31;
 };
 "@MMK_L_y" = {
 "@MMK_R_T" = 0;
 "@MMK_R_U" = 0;
 "@MMK_R_Y" = 0;
-"@MMK_R_period" = 0;
+"@MMK_R_period" = -59;
+T = -41;
+Y = -8;
+"@MMK_R_J" = -82;
+"@MMK_R_V" = -5;
+"@MMK_R_X" = -5;
+"@MMK_R_a" = -41;
+"@MMK_R_o" = -5;
+"@MMK_R_j" = -20;
+"@MMK_R_registered" = 101;
+"@MMK_R_slash" = -34;
+"@MMK_R_trademark" = 31;
+"@MMK_R_z" = -47;
 };
 "@MMK_L_z" = {
 "@MMK_R_T" = 0;
 "@MMK_R_Y" = 0;
+T = -55;
+Y = -5;
+"@MMK_R_a" = -51;
+"@MMK_R_o" = -20;
+"@MMK_R_g" = -14;
+"@MMK_R_hyphen" = -28;
+"@MMK_R_periodcentered" = -19;
+"@MMK_R_registered" = 60;
+"@MMK_R_trademark" = 31;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -5;
+"@MMK_R_y" = -5;
+};
+"@MMK_L_slash" = {
+"@MMK_R_A" = -82;
+"@MMK_R_J" = -164;
+"@MMK_R_a" = -47;
+"@MMK_R_g" = -20;
+"@MMK_R_o" = -72;
+"@MMK_R_t" = 25;
+"@MMK_R_u" = -41;
+"@MMK_R_idotless" = 93;
+"@MMK_R_jdotless" = 93;
+};
+"@MMK_L_backslash" = {
+"@MMK_R_T" = -183;
+"@MMK_R_U" = -66;
+"@MMK_R_Uhorn" = -66;
+"@MMK_R_V" = -113;
+"@MMK_R_W" = -60;
+"@MMK_R_Y" = -154;
+"@MMK_R_g" = 72;
+"@MMK_R_j" = 154;
+"@MMK_R_v" = -41;
+"@MMK_R_w" = -14;
+"@MMK_R_y" = 31;
+"@MMK_R_H" = -60;
+"@MMK_R_jdotless" = 154;
+Hbar = -31;
+};
+Ohorn = {
+"@MMK_R_trademark" = 20;
+};
+ohorn = {
+"@MMK_R_backslash" = 41;
+"@MMK_R_curlyquotes" = 11;
+"@MMK_R_registered" = 48;
+"@MMK_R_x" = -5;
+};
+"@MMK_L_Thorn" = {
+"@MMK_R_asterisk" = -146;
+"@MMK_R_backslash" = -82;
+"@MMK_R_slash" = -133;
+"@MMK_R_trademark" = -47;
+};
+"@MMK_L_Uhorn" = {
+"@MMK_R_a" = -41;
+"@MMK_R_asterisk" = -14;
+"@MMK_R_backslash" = 113;
+"@MMK_R_g" = -27;
+"@MMK_R_registered" = 41;
+"@MMK_R_s" = -41;
+"@MMK_R_slash" = -110;
+"@MMK_R_trademark" = 92;
+"@MMK_R_x" = -8;
+};
+"@MMK_L_dollar" = {
+"@MMK_R_five.onum" = -36;
+"@MMK_R_five.pnum" = -8;
+"@MMK_R_nine.onum" = -31;
+"@MMK_R_nine.pnum" = -36;
+"@MMK_R_one.onum" = -76;
+"@MMK_R_one.pnum" = -51;
+"@MMK_R_seven.onum" = -105;
+"@MMK_R_seven.pnum" = -47;
+"@MMK_R_three.onum" = -36;
+"@MMK_R_three.pnum" = -5;
+"@MMK_R_two.onum" = -31;
+"@MMK_R_two.pnum" = -20;
+};
+"@MMK_L_eight.onum" = {
+"@MMK_R_five.onum" = -20;
+"@MMK_R_nine.onum" = -5;
+"@MMK_R_one.onum" = -47;
+"@MMK_R_seven.onum" = -47;
+"@MMK_R_three.onum" = -20;
+"@MMK_R_two.onum" = -5;
+};
+"@MMK_L_eight.pnum" = {
+"@MMK_R_nine.pnum" = -47;
+"@MMK_R_one.pnum" = -47;
+"@MMK_R_seven.pnum" = -47;
+"@MMK_R_three.pnum" = -5;
+"@MMK_R_o" = -5;
+};
+"@MMK_L_exclam" = {
+"@MMK_R_curlyquotes" = -56;
+};
+"@MMK_L_exclamdown" = {
+"@MMK_R_V" = -56;
+"@MMK_R_W" = -28;
+"@MMK_R_Y" = -79;
+"@MMK_R_j" = 72;
+"@MMK_R_jdotless" = 72;
+};
+"@MMK_L_five.onum" = {
+"@MMK_R_five.onum" = -27;
+"@MMK_R_nine.onum" = -27;
+"@MMK_R_one.onum" = -61;
+"@MMK_R_seven.onum" = -67;
+"@MMK_R_three.onum" = -27;
+"@MMK_R_two.onum" = -20;
+"@MMK_R_o" = -28;
+};
+"@MMK_L_five.pnum" = {
+"@MMK_R_five.pnum" = -20;
+"@MMK_R_nine.pnum" = -27;
+"@MMK_R_one.pnum" = -51;
+"@MMK_R_seven.pnum" = -47;
+"@MMK_R_three.pnum" = -27;
+"@MMK_R_two.pnum" = -20;
+"@MMK_R_o" = -8;
+};
+"@MMK_L_four.onum" = {
+"@MMK_R_five.onum" = -39;
+"@MMK_R_nine.onum" = -39;
+"@MMK_R_one.onum" = -47;
+"@MMK_R_seven.onum" = -61;
+"@MMK_R_three.onum" = -39;
+"@MMK_R_two.onum" = -20;
+"@MMK_R_o" = -34;
+};
+"@MMK_L_four.pnum" = {
+"@MMK_R_five.pnum" = -19;
+"@MMK_R_nine.pnum" = -27;
+"@MMK_R_one.pnum" = -41;
+"@MMK_R_seven.pnum" = -41;
+"@MMK_R_three.pnum" = -20;
+"@MMK_R_two.pnum" = -20;
+};
+"@MMK_L_germandbls" = {
+quoteright = -99;
+"@MMK_R_backslash" = -48;
+"@MMK_R_f" = -5;
+"@MMK_R_question" = -28;
+"@MMK_R_registered" = -63;
+"@MMK_R_t" = -32;
+"@MMK_R_v" = -28;
+"@MMK_R_w" = -27;
+"@MMK_R_x" = 14;
+"@MMK_R_y" = -28;
+"@MMK_R_curlyquotes" = -87;
+"@MMK_R_straightquote" = -133;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_T" = -60;
+"@MMK_R_V" = -48;
+"@MMK_R_W" = -5;
+"@MMK_R_X" = -48;
+"@MMK_R_Y" = -130;
+"@MMK_R_Z" = -41;
+"@MMK_R_v" = -5;
+"@MMK_R_x" = -27;
+};
+"@MMK_L_nine.onum" = {
+"@MMK_R_five.onum" = -20;
+"@MMK_R_one.onum" = -41;
+"@MMK_R_seven.onum" = -61;
+"@MMK_R_three.onum" = -20;
+"@MMK_R_two.onum" = -20;
+};
+"@MMK_L_nine.pnum" = {
+"@MMK_R_one.pnum" = -41;
+"@MMK_R_seven.pnum" = -47;
+"@MMK_R_three.pnum" = -27;
+"@MMK_R_two.pnum" = -20;
+};
+"@MMK_L_one.onum" = {
+"@MMK_R_one.onum" = -7;
+"@MMK_R_seven.onum" = -41;
+"@MMK_R_three.onum" = -5;
+};
+"@MMK_L_one.pnum" = {
+"@MMK_R_one.pnum" = -8;
+};
+"@MMK_L_parenleft" = {
+"@MMK_R_J" = -41;
+"@MMK_R_j" = 164;
+};
+"@MMK_L_q" = {
+"@MMK_R_T" = -41;
+"@MMK_R_V" = -27;
+"@MMK_R_Y" = -61;
+"@MMK_R_asterisk" = -54;
+};
+"@MMK_L_question" = {
+"@MMK_R_curlyquotes" = -36;
+};
+"@MMK_L_seven.onum" = {
+"@MMK_R_eight.onum" = -15;
+"@MMK_R_five.onum" = -47;
+"@MMK_R_four.onum" = -105;
+"@MMK_R_nine.onum" = -20;
+"@MMK_R_one.onum" = -41;
+"@MMK_R_period" = -143;
+"@MMK_R_seven.onum" = -41;
+"@MMK_R_six.onum" = -20;
+"@MMK_R_three.onum" = -28;
+"@MMK_R_two.onum" = -28;
+"@MMK_R_zero.onum" = -47;
+"@MMK_R_o" = -48;
+};
+"@MMK_L_seven.pnum" = {
+"@MMK_R_eight.pnum" = -61;
+"@MMK_R_five.pnum" = -55;
+"@MMK_R_four.pnum" = -190;
+"@MMK_R_nine.pnum" = -41;
+"@MMK_R_one.pnum" = -31;
+"@MMK_R_period" = -143;
+"@MMK_R_seven.pnum" = -35;
+"@MMK_R_six.pnum" = -61;
+"@MMK_R_three.pnum" = -41;
+"@MMK_R_two.pnum" = -41;
+"@MMK_R_zero.pnum" = -47;
+"@MMK_R_o" = -92;
+};
+"@MMK_L_six.onum" = {
+"@MMK_R_five.onum" = -27;
+"@MMK_R_nine.onum" = -5;
+"@MMK_R_one.onum" = -47;
+"@MMK_R_seven.onum" = -67;
+"@MMK_R_three.onum" = -27;
+"@MMK_R_two.onum" = -20;
+};
+"@MMK_L_six.pnum" = {
+"@MMK_R_five.pnum" = -5;
+"@MMK_R_nine.pnum" = -28;
+"@MMK_R_one.pnum" = -31;
+"@MMK_R_seven.pnum" = -48;
+"@MMK_R_three.pnum" = -8;
+"@MMK_R_two.pnum" = -27;
+"@MMK_R_o" = -8;
+};
+"@MMK_L_sterling" = {
+"@MMK_R_eight.onum" = -34;
+"@MMK_R_eight.pnum" = -31;
+"@MMK_R_five" = -14;
+"@MMK_R_five.pnum" = -31;
+"@MMK_R_four.pnum" = -178;
+"@MMK_R_nine.onum" = -20;
+"@MMK_R_nine.pnum" = -20;
+"@MMK_R_one.onum" = -61;
+"@MMK_R_one.pnum" = -35;
+"@MMK_R_seven.onum" = -59;
+"@MMK_R_seven.pnum" = -41;
+"@MMK_R_six.onum" = -54;
+"@MMK_R_six.pnum" = -51;
+"@MMK_R_three" = -14;
+"@MMK_R_three.pnum" = -31;
+"@MMK_R_two.pnum" = -31;
+"@MMK_R_zero.onum" = -39;
+"@MMK_R_zero.pnum" = -20;
+};
+"@MMK_L_three.onum" = {
+"@MMK_R_five.onum" = -27;
+"@MMK_R_nine.onum" = -19;
+"@MMK_R_one.onum" = -28;
+"@MMK_R_seven.onum" = -48;
+"@MMK_R_three.onum" = -27;
+"@MMK_R_two.onum" = -20;
+"@MMK_R_o" = -27;
+};
+"@MMK_L_three.pnum" = {
+"@MMK_R_five.pnum" = -20;
+"@MMK_R_nine.pnum" = -5;
+"@MMK_R_one.pnum" = -20;
+"@MMK_R_seven.pnum" = -27;
+"@MMK_R_three.pnum" = -5;
+"@MMK_R_two.pnum" = -20;
+"@MMK_R_o" = -8;
+};
+"@MMK_L_two.onum" = {
+"@MMK_R_five.onum" = -39;
+"@MMK_R_four.onum" = -19;
+"@MMK_R_nine.onum" = -20;
+"@MMK_R_one.onum" = -61;
+"@MMK_R_seven.onum" = -86;
+"@MMK_R_three.onum" = -39;
+"@MMK_R_two.onum" = -20;
+"@MMK_R_zero.onum" = -20;
+"@MMK_R_o" = -36;
+};
+"@MMK_L_two.pnum" = {
+"@MMK_R_five.pnum" = -20;
+"@MMK_R_four.pnum" = -82;
+"@MMK_R_nine.pnum" = -41;
+"@MMK_R_one.pnum" = -55;
+"@MMK_R_seven.pnum" = -67;
+"@MMK_R_six.pnum" = -35;
+"@MMK_R_three.pnum" = -20;
+"@MMK_R_two.pnum" = -35;
+"@MMK_R_zero.pnum" = -20;
+"@MMK_R_o" = -67;
+};
+"@MMK_L_v" = {
+"@MMK_R_A" = -22;
+"@MMK_R_J" = -82;
+"@MMK_R_T" = -41;
+"@MMK_R_V" = -5;
+"@MMK_R_Y" = -8;
+"@MMK_R_Z" = -5;
+"@MMK_R_a" = -41;
+"@MMK_R_asterisk" = -19;
+"@MMK_R_hyphen" = -7;
+"@MMK_R_j" = -20;
+"@MMK_R_period" = -59;
+"@MMK_R_registered" = 101;
+"@MMK_R_slash" = -41;
+"@MMK_R_trademark" = 31;
+"@MMK_R_z" = -47;
+"@MMK_R_o" = -5;
+};
+"@MMK_L_x" = {
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -72;
+"@MMK_R_V" = -8;
+"@MMK_R_X" = -20;
+"@MMK_R_Y" = -22;
+"@MMK_R_a" = -20;
+"@MMK_R_asterisk" = -37;
+"@MMK_R_hyphen" = -27;
+"@MMK_R_periodcentered" = -41;
+"@MMK_R_registered" = 92;
+"@MMK_R_trademark" = 31;
+"@MMK_R_y" = -27;
+"@MMK_R_O" = -20;
+"@MMK_R_o" = -31;
+"@MMK_R_guillemotleft" = -47;
+"@MMK_R_guillemotright" = -41;
+};
+"@MMK_L_yen" = {
+"@MMK_R_five.onum" = -20;
+"@MMK_R_nine.pnum" = -5;
+"@MMK_R_seven.onum" = -39;
+"@MMK_R_three.onum" = -39;
+"@MMK_R_three.pnum" = -5;
+"@MMK_R_two.onum" = -20;
+"@MMK_R_two.pnum" = -5;
+};
+"@MMK_L_zero.onum" = {
+"@MMK_R_five.onum" = -5;
+"@MMK_R_one.onum" = -31;
+"@MMK_R_seven.onum" = -48;
+"@MMK_R_three.onum" = -27;
+"@MMK_R_two.onum" = -20;
+};
+"@MMK_L_zero.pnum" = {
+"@MMK_R_one.pnum" = -20;
+"@MMK_R_seven.pnum" = -47;
+"@MMK_R_three.pnum" = -28;
+"@MMK_R_two.pnum" = -8;
+};
+"@MMK_L_l" = {
+"@MMK_R_a" = -29;
+"@MMK_R_backslash" = 113;
+"@MMK_R_slash" = -27;
+"@MMK_R_t" = -17;
+"@MMK_R_u" = -22;
+"@MMK_R_z" = -27;
+};
+"@MMK_L_guillemotleft" = {
+"@MMK_R_T" = -82;
+"@MMK_R_V" = -31;
+"@MMK_R_W" = -31;
+"@MMK_R_X" = -8;
+"@MMK_R_Y" = -79;
+"@MMK_R_x" = -41;
+};
+"@MMK_L_guillemotright" = {
+"@MMK_R_J" = -61;
+"@MMK_R_S" = -61;
+"@MMK_R_T" = -89;
+"@MMK_R_V" = -44;
+"@MMK_R_W" = -20;
+"@MMK_R_X" = -27;
+"@MMK_R_Y" = -104;
+"@MMK_R_Z" = -39;
+"@MMK_R_x" = -47;
 };
 };
 "C4389747-BECF-4D47-A11A-92B8AD605B66" = {
 "@MMK_L_A" = {
 "@MMK_R_colon" = 20;
 "@MMK_R_period" = 20;
-space = -20;
+"@MMK_R_space" = -20;
 };
 "@MMK_L_C" = {
 "@MMK_R_T" = -10;
 };
 "@MMK_L_F" = {
 "@MMK_R_a" = -80;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -20;
-"@MMK_R_d" = -40;
-"@MMK_R_e" = -30;
 "@MMK_R_g" = -40;
 "@MMK_R_j" = -10;
 "@MMK_R_n" = -40;
 "@MMK_R_o" = -60;
 "@MMK_R_p" = -40;
 "@MMK_R_period" = -150;
-"@MMK_R_q" = -60;
 "@MMK_R_s" = -30;
 "@MMK_R_t" = -10;
 "@MMK_R_u" = -40;
@@ -130366,17 +131311,13 @@ space = -20;
 "@MMK_R_z" = -30;
 };
 "@MMK_L_L" = {
-"@MMK_R_C" = -50;
 "@MMK_R_O" = -50;
 "@MMK_R_S" = -20;
 "@MMK_R_T" = -160;
 "@MMK_R_W" = -110;
 "@MMK_R_Y" = -110;
 "@MMK_R_a" = -50;
-"@MMK_R_c" = -40;
 "@MMK_R_colon" = -20;
-"@MMK_R_d" = -50;
-"@MMK_R_e" = -40;
 "@MMK_R_g" = -40;
 "@MMK_R_i" = -20;
 "@MMK_R_j" = -30;
@@ -130384,26 +131325,22 @@ space = -20;
 "@MMK_R_o" = -40;
 "@MMK_R_p" = -20;
 "@MMK_R_period" = 50;
-"@MMK_R_q" = -20;
 "@MMK_R_s" = -40;
+"@MMK_R_space" = -60;
 "@MMK_R_straightquote" = -170;
 "@MMK_R_t" = -50;
 "@MMK_R_u" = -40;
 "@MMK_R_w" = -110;
 "@MMK_R_y" = -120;
 "@MMK_R_z" = -20;
-space = -60;
 };
 "@MMK_L_O" = {
 "@MMK_R_T" = -20;
-"@MMK_R_W" = 20;
-"@MMK_R_Y" = 20;
+"@MMK_R_W" = -20;
+"@MMK_R_Y" = -27;
 };
 "@MMK_L_P" = {
 "@MMK_R_a" = -80;
-"@MMK_R_c" = -80;
-"@MMK_R_d" = -80;
-"@MMK_R_e" = -80;
 "@MMK_R_g" = -100;
 "@MMK_R_i" = -30;
 "@MMK_R_j" = -30;
@@ -130411,22 +131348,18 @@ space = -60;
 "@MMK_R_o" = -80;
 "@MMK_R_p" = -70;
 "@MMK_R_period" = -210;
-"@MMK_R_q" = -70;
 "@MMK_R_s" = -60;
+"@MMK_R_space" = -50;
 "@MMK_R_u" = -70;
 "@MMK_R_w" = -30;
 "@MMK_R_y" = -20;
 "@MMK_R_z" = -50;
-space = -50;
 };
 "@MMK_L_T" = {
-"@MMK_R_C" = -50;
+"@MMK_R_A" = -65;
 "@MMK_R_O" = -50;
 "@MMK_R_a" = -140;
-"@MMK_R_c" = -140;
 "@MMK_R_colon" = -50;
-"@MMK_R_d" = -140;
-"@MMK_R_e" = -140;
 "@MMK_R_g" = -140;
 "@MMK_R_i" = -40;
 "@MMK_R_j" = -40;
@@ -130434,21 +131367,17 @@ space = -50;
 "@MMK_R_o" = -140;
 "@MMK_R_p" = -120;
 "@MMK_R_period" = -180;
-"@MMK_R_q" = -140;
 "@MMK_R_s" = -130;
+"@MMK_R_space" = -30;
 "@MMK_R_t" = -50;
 "@MMK_R_u" = -120;
 "@MMK_R_w" = -120;
 "@MMK_R_y" = -120;
 "@MMK_R_z" = -120;
-space = -30;
 };
 "@MMK_L_U" = {
 "@MMK_R_a" = -60;
-"@MMK_R_c" = -20;
 "@MMK_R_colon" = -20;
-"@MMK_R_d" = -40;
-"@MMK_R_e" = -20;
 "@MMK_R_g" = -20;
 "@MMK_R_i" = -10;
 "@MMK_R_j" = -10;
@@ -130456,7 +131385,6 @@ space = -30;
 "@MMK_R_o" = -30;
 "@MMK_R_p" = -30;
 "@MMK_R_period" = -120;
-"@MMK_R_q" = -30;
 "@MMK_R_s" = -30;
 "@MMK_R_t" = -20;
 "@MMK_R_u" = -40;
@@ -130467,59 +131395,39 @@ space = -30;
 "@MMK_L_W" = {
 "@MMK_R_O" = -20;
 "@MMK_R_a" = -70;
-"@MMK_R_c" = -30;
 "@MMK_R_colon" = -10;
-"@MMK_R_d" = -40;
-"@MMK_R_e" = -30;
+"@MMK_R_exclam" = -20;
 "@MMK_R_g" = -20;
 "@MMK_R_n" = -10;
 "@MMK_R_o" = -30;
 "@MMK_R_p" = -10;
 "@MMK_R_period" = -100;
-"@MMK_R_q" = -20;
+"@MMK_R_question" = -10;
 "@MMK_R_s" = -10;
 "@MMK_R_straightquote" = -20;
 "@MMK_R_u" = -20;
 "@MMK_R_w" = -10;
 "@MMK_R_y" = -10;
 "@MMK_R_z" = -20;
-exclam = -20;
-question = -10;
 };
 "@MMK_L_Y" = {
-"@MMK_R_O" = -30;
+"@MMK_R_O" = -27;
 "@MMK_R_a" = -90;
-"@MMK_R_c" = -70;
+"@MMK_R_bracketright" = 20;
 "@MMK_R_colon" = -30;
 "@MMK_R_curlybrace" = 20;
-"@MMK_R_d" = -70;
-"@MMK_R_e" = -70;
 "@MMK_R_g" = -70;
 "@MMK_R_n" = -30;
 "@MMK_R_o" = -70;
 "@MMK_R_p" = -30;
+"@MMK_R_parenright" = 20;
 "@MMK_R_period" = -160;
-"@MMK_R_q" = -80;
 "@MMK_R_s" = -40;
 "@MMK_R_t" = -10;
 "@MMK_R_u" = -40;
 "@MMK_R_w" = -20;
 "@MMK_R_y" = -20;
 "@MMK_R_z" = -50;
-bracketright = 20;
-parenright = 20;
-};
-"@MMK_L_a" = {
-"@MMK_R_T" = -20;
-"@MMK_R_U" = -20;
-"@MMK_R_W" = -20;
-"@MMK_R_Y" = -30;
-};
-"@MMK_L_b" = {
-"@MMK_R_T" = -110;
-"@MMK_R_U" = -10;
-"@MMK_R_W" = -30;
-"@MMK_R_Y" = -60;
 };
 "@MMK_L_c" = {
 "@MMK_R_T" = -50;
@@ -130528,7 +131436,7 @@ parenright = 20;
 "@MMK_R_Y" = -30;
 "@MMK_R_colon" = 10;
 "@MMK_R_period" = 20;
-space = -10;
+"@MMK_R_space" = -10;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 20;
@@ -130540,7 +131448,6 @@ space = -10;
 "@MMK_L_curlquote" = {
 "@MMK_R_O" = -70;
 "@MMK_R_U" = -20;
-"@MMK_R_d" = -90;
 };
 "@MMK_L_e" = {
 "@MMK_R_T" = -50;
@@ -130548,14 +131455,17 @@ space = -10;
 "@MMK_R_W" = -20;
 "@MMK_R_Y" = -40;
 };
+"@MMK_L_exclam" = {
+"@MMK_R_W" = -20;
+};
 "@MMK_L_f" = {
+"@MMK_R_bracketright" = 90;
 "@MMK_R_curlybrace" = 90;
 "@MMK_R_curlyquotes" = 60;
+"@MMK_R_exclam" = 10;
+"@MMK_R_parenright" = 90;
+"@MMK_R_question" = 20;
 "@MMK_R_straightquote" = 20;
-bracketright = 90;
-exclam = 10;
-parenright = 90;
-question = 20;
 };
 "@MMK_L_g" = {
 "@MMK_R_T" = -70;
@@ -130586,7 +131496,6 @@ question = 20;
 };
 "@MMK_L_period" = {
 "@MMK_R_A" = 20;
-"@MMK_R_AE" = 40;
 "@MMK_R_J" = 20;
 "@MMK_R_T" = -150;
 "@MMK_R_U" = -70;
@@ -130594,6 +131503,9 @@ question = 20;
 "@MMK_R_Y" = -150;
 "@MMK_R_w" = -70;
 "@MMK_R_y" = -70;
+};
+"@MMK_L_question" = {
+"@MMK_R_W" = -10;
 };
 "@MMK_L_r" = {
 "@MMK_R_W" = 10;
@@ -130604,11 +131516,16 @@ question = 20;
 "@MMK_R_U" = -10;
 "@MMK_R_Y" = -20;
 };
+"@MMK_L_space" = {
+"@MMK_R_J" = -60;
+"@MMK_R_T" = -30;
+"@MMK_R_w" = -30;
+"@MMK_R_y" = -30;
+};
 "@MMK_L_straightquote" = {
 "@MMK_R_T" = -10;
 "@MMK_R_U" = -60;
 "@MMK_R_W" = -20;
-"@MMK_R_d" = -90;
 };
 "@MMK_L_t" = {
 "@MMK_R_T" = -40;
@@ -130624,34 +131541,18 @@ question = 20;
 "@MMK_R_U" = -20;
 "@MMK_R_Y" = -10;
 "@MMK_R_period" = -70;
-space = -30;
+"@MMK_R_space" = -30;
 };
 "@MMK_L_y" = {
 "@MMK_R_T" = -50;
 "@MMK_R_U" = -20;
 "@MMK_R_Y" = -20;
 "@MMK_R_period" = -90;
-space = -30;
+"@MMK_R_space" = -30;
 };
 "@MMK_L_z" = {
 "@MMK_R_T" = -40;
 "@MMK_R_Y" = -10;
-};
-exclam = {
-"@MMK_R_W" = -20;
-"@MMK_R_d" = -90;
-};
-question = {
-"@MMK_R_W" = -10;
-"@MMK_R_d" = -90;
-};
-space = {
-"@MMK_R_AE" = -40;
-"@MMK_R_J" = -60;
-"@MMK_R_T" = -30;
-"@MMK_R_c" = -10;
-"@MMK_R_w" = -30;
-"@MMK_R_y" = -30;
 };
 };
 };
