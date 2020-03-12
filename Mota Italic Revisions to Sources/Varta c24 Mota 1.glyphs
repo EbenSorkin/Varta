@@ -1,7 +1,10 @@
 {
 .appVersion = "1300";
 DisplayStrings = (
-"/reph_candraBindu-deva"
+"/reph_candraBindu-deva",
+C,
+J,
+"/i-deva"
 );
 classes = (
 {
@@ -3258,17 +3261,17 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 {
 color = 3;
 glyphname = C;
-lastChange = "2019-12-20 18:50:35 +0000";
+lastChange = "2020-03-12 17:10:09 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{576, 0}";
+position = "{626, 0}";
 },
 {
 name = top;
-position = "{576, 1346}";
+position = "{646, 1346}";
 }
 );
 hints = (
@@ -3319,11 +3322,11 @@ width = 1152;
 anchors = (
 {
 name = bottom;
-position = "{585, 0}";
+position = "{665, 0}";
 },
 {
 name = top;
-position = "{585, 1340}";
+position = "{665, 1340}";
 }
 );
 hints = (
@@ -3387,7 +3390,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Cacute;
-lastChange = "2019-12-21 03:52:45 +0000";
+lastChange = "2020-03-12 17:10:11 +0000";
 layers = (
 {
 components = (
@@ -3396,7 +3399,7 @@ name = C;
 },
 {
 name = acutecomb.cap;
-transform = "{1, 0, 0, 1, 503, 0}";
+transform = "{1, 0, 0, 1, 573, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -3409,7 +3412,7 @@ name = C;
 },
 {
 name = acutecomb.cap;
-transform = "{1, 0, 0, 1, 467, 0}";
+transform = "{1, 0, 0, 1, 547, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -3430,7 +3433,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Ccaron;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-12 17:10:11 +0000";
 layers = (
 {
 components = (
@@ -3439,7 +3442,7 @@ name = C;
 },
 {
 name = caroncomb.cap;
-transform = "{1, 0, 0, 1, 303, 0}";
+transform = "{1, 0, 0, 1, 373, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -3452,7 +3455,7 @@ name = C;
 },
 {
 name = caroncomb.cap;
-transform = "{1, 0, 0, 1, 267, 0}";
+transform = "{1, 0, 0, 1, 347, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -3473,7 +3476,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Ccedilla;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-12 17:10:11 +0000";
 layers = (
 {
 components = (
@@ -3482,7 +3485,7 @@ name = C;
 },
 {
 name = cedillacomb.cap;
-transform = "{1, 0, 0, 1, 418, 0}";
+transform = "{1, 0, 0, 1, 468, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -3495,7 +3498,7 @@ name = C;
 },
 {
 name = cedillacomb.cap;
-transform = "{1, 0, 0, 1, 405, 0}";
+transform = "{1, 0, 0, 1, 485, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -3516,7 +3519,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Ccircumflex;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-12 17:10:11 +0000";
 layers = (
 {
 components = (
@@ -3525,7 +3528,7 @@ name = C;
 },
 {
 name = circumflexcomb.cap;
-transform = "{1, 0, 0, 1, 303, 0}";
+transform = "{1, 0, 0, 1, 373, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -3538,7 +3541,7 @@ name = C;
 },
 {
 name = circumflexcomb.cap;
-transform = "{1, 0, 0, 1, 267, 0}";
+transform = "{1, 0, 0, 1, 347, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -3559,7 +3562,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Cdotaccent;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-12 17:10:11 +0000";
 layers = (
 {
 components = (
@@ -3568,7 +3571,7 @@ name = C;
 },
 {
 name = dotaccentcomb.cap;
-transform = "{1, 0, 0, 1, 463, 0}";
+transform = "{1, 0, 0, 1, 533, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -3581,7 +3584,7 @@ name = C;
 },
 {
 name = dotaccentcomb.cap;
-transform = "{1, 0, 0, 1, 433, 0}";
+transform = "{1, 0, 0, 1, 513, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -6761,7 +6764,7 @@ com.typemytype.robofont.mark = (
 {
 color = 3;
 glyphname = J;
-lastChange = "2019-12-20 18:50:35 +0000";
+lastChange = "2020-03-12 17:10:32 +0000";
 layers = (
 {
 anchors = (
@@ -6771,7 +6774,7 @@ position = "{478, 0}";
 },
 {
 name = top;
-position = "{478, 1346}";
+position = "{708, 1346}";
 }
 );
 hints = (
@@ -6816,7 +6819,7 @@ position = "{499, 0}";
 },
 {
 name = top;
-position = "{499, 1340}";
+position = "{719, 1340}";
 }
 );
 hints = (
@@ -6870,7 +6873,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = Jcircumflex;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-12 17:10:35 +0000";
 layers = (
 {
 components = (
@@ -6879,7 +6882,7 @@ name = J;
 },
 {
 name = circumflexcomb.cap;
-transform = "{1, 0, 0, 1, 205, 0}";
+transform = "{1, 0, 0, 1, 435, 0}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
@@ -6892,7 +6895,7 @@ name = J;
 },
 {
 name = circumflexcomb.cap;
-transform = "{1, 0, 0, 1, 181, 0}";
+transform = "{1, 0, 0, 1, 401, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
@@ -60026,7 +60029,7 @@ rightMetricsKey = "ta-deva";
 {
 color = 8;
 glyphname = "ng_k_ra-deva";
-lastChange = "2020-03-10 16:42:31 +0000";
+lastChange = "2020-03-12 17:12:41 +0000";
 layers = (
 {
 components = (
@@ -60053,7 +60056,7 @@ transform = "{1, 0, 0, 1, 1178, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
-width = 3065;
+width = 2535;
 }
 );
 leftMetricsKey = "ng-deva";
