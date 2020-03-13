@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aa-deva" format="2">
-  <advance width="1932"/>
+  <advance width="1932.0"/>
   <unicode hex="0906"/>
-  <anchor x="1658" y="28" name="bottom"/>
-  <anchor x="1391" y="1172" name="candra"/>
-  <anchor x="1657" y="1168" name="top"/>
+  <anchor x="1102.0" y="0.0" name="bottom_1"/>
+  <anchor x="1655.0" y="0.0" name="bottom_2"/>
+  <anchor x="907.0" y="1247.0" name="candra_1"/>
+  <anchor x="1553.0" y="1247.0" name="candra_2"/>
+  <anchor x="1108.0" y="1247.0" name="top_1"/>
+  <anchor x="1656.0" y="1247.0" name="top_2"/>
   <outline>
     <component base="a-deva"/>
-    <component base="aaMatra-deva" xOffset="1378"/>
+    <component base="aaMatra-deva" xOffset="1378.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 08:48:06</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dh_na-deva" format="2">
+  <advance width="1248.3827160493827"/>
+  <anchor x="970.4444444444445" y="0.0" name="bottom"/>
+  <anchor x="877.283950617284" y="1256.3827160493827" name="candra"/>
+  <anchor x="279.3703703703704" y="52.91358024691358" name="nukta"/>
+  <anchor x="970.4444444444445" y="1256.3827160493827" name="top"/>
+  <outline>
+    <contour>
+      <point x="568.1234567901234" y="-108.71604938271605" type="line"/>
+      <point x="596.2222222222222" y="-84.96296296296296"/>
+      <point x="607.0370370370371" y="-61.97530864197531"/>
+      <point x="608.2716049382716" y="-39.691358024691354" type="curve" smooth="yes"/>
+      <point x="609.5061728395061" y="-17.345679012345677"/>
+      <point x="601.0370370370371" y="4.765432098765432"/>
+      <point x="587.5679012345679" y="24.938271604938272" type="curve" smooth="yes"/>
+      <point x="526.5432098765432" y="113.55555555555556" type="line"/>
+      <point x="509.01234567901236" y="57.91358024691358" type="line"/>
+      <point x="924.1111111111111" y="379.8395061728395" type="line"/>
+      <point x="858.9382716049382" y="464.77777777777777" type="line"/>
+      <point x="295.25925925925924" y="74.06172839506173" type="line"/>
+      <point x="354.30864197530866" y="-28.197530864197528" type="line"/>
+    </contour>
+    <component base="dha-deva" xOffset="-2.2962962962962963"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:44:31</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

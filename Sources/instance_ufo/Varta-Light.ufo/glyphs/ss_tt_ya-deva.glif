@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ss_tt_ya-deva" format="2">
-  <advance width="2148"/>
-  <anchor x="547" y="-69" name="bottom_1"/>
-  <anchor x="1873" y="28" name="bottom_2"/>
-  <anchor x="510" y="1168" name="candra_1"/>
-  <anchor x="1563" y="1167" name="candra_2"/>
-  <anchor x="795" y="1168" name="top_1"/>
-  <anchor x="1871" y="1168" name="top_2"/>
+  <advance width="2038.0"/>
+  <anchor x="547.0" y="-9.0" name="bottom_1"/>
+  <anchor x="1763.0" y="0.0" name="bottom_2"/>
+  <anchor x="510.0" y="1248.0" name="candra_1"/>
+  <anchor x="1453.0" y="1247.0" name="candra_2"/>
+  <anchor x="795.0" y="1288.0" name="top_1"/>
+  <anchor x="1761.0" y="1168.0" name="top_2"/>
   <outline>
     <component base="ss_tta-deva"/>
-    <component base="ya-deva.post" xOffset="993"/>
+    <component base="ya-deva.post" xOffset="883.0"/>
   </outline>
   <lib>
     <dict>
@@ -18,7 +18,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ya-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 17:47:00</string>
     </dict>
   </lib>
 </glyph>

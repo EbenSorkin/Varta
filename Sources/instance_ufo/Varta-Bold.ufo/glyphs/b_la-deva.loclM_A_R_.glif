@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_la-deva.loclMAR" format="2">
-  <advance width="1198"/>
-  <anchor x="839" y="-479" name="bottom"/>
-  <anchor x="559" y="1167" name="candra"/>
-  <anchor x="902" y="1167" name="top"/>
+  <advance width="1198.0"/>
+  <anchor x="839.0" y="-479.0" name="bottom"/>
+  <anchor x="502.0" y="1287.0" name="candra"/>
+  <anchor x="902.0" y="1287.0" name="top"/>
   <outline>
     <contour>
-      <point x="833" y="593" type="line"/>
-      <point x="756" y="495"/>
-      <point x="661" y="440"/>
-      <point x="532" y="440" type="curve" smooth="yes"/>
-      <point x="373" y="440"/>
-      <point x="318" y="475"/>
-      <point x="318" y="613" type="curve" smooth="yes"/>
-      <point x="318" y="741"/>
-      <point x="378" y="786"/>
-      <point x="546" y="788" type="curve" smooth="yes"/>
-      <point x="660" y="790"/>
-      <point x="774" y="774"/>
-      <point x="880" y="750" type="curve"/>
-      <point x="875" y="838" type="line"/>
-      <point x="809" y="923"/>
-      <point x="691" y="966"/>
-      <point x="509" y="966" type="curve" smooth="yes"/>
-      <point x="247" y="966"/>
-      <point x="114" y="851"/>
-      <point x="114" y="626" type="curve" smooth="yes"/>
-      <point x="114" y="443"/>
-      <point x="189" y="268"/>
-      <point x="501" y="268" type="curve" smooth="yes"/>
-      <point x="669" y="268"/>
-      <point x="802" y="332"/>
-      <point x="877" y="451" type="curve"/>
+      <point x="501.0" y="268.0" type="curve" smooth="yes"/>
+      <point x="669.0" y="268.0"/>
+      <point x="802.0" y="332.0"/>
+      <point x="877.0" y="451.0" type="curve"/>
+      <point x="833.0" y="593.0" type="line"/>
+      <point x="756.0" y="495.0"/>
+      <point x="661.0" y="440.0"/>
+      <point x="532.0" y="440.0" type="curve" smooth="yes"/>
+      <point x="373.0" y="440.0"/>
+      <point x="318.0" y="475.0"/>
+      <point x="318.0" y="613.0" type="curve" smooth="yes"/>
+      <point x="318.0" y="741.0"/>
+      <point x="378.0" y="786.0"/>
+      <point x="546.0" y="788.0" type="curve" smooth="yes"/>
+      <point x="660.0" y="790.0"/>
+      <point x="774.0" y="774.0"/>
+      <point x="880.0" y="750.0" type="curve"/>
+      <point x="875.0" y="838.0" type="line"/>
+      <point x="809.0" y="923.0"/>
+      <point x="691.0" y="966.0"/>
+      <point x="509.0" y="966.0" type="curve" smooth="yes"/>
+      <point x="247.0" y="966.0"/>
+      <point x="114.0" y="851.0"/>
+      <point x="114.0" y="626.0" type="curve" smooth="yes"/>
+      <point x="114.0" y="443.0"/>
+      <point x="189.0" y="268.0"/>
     </contour>
     <contour>
-      <point x="734" y="380" type="line"/>
-      <point x="826" y="478" type="line"/>
-      <point x="445" y="862" type="line"/>
-      <point x="353" y="763" type="line"/>
+      <point x="734.0" y="380.0" type="line"/>
+      <point x="826.0" y="478.0" type="line"/>
+      <point x="445.0" y="862.0" type="line"/>
+      <point x="353.0" y="763.0" type="line"/>
     </contour>
     <contour>
-      <point x="793" y="28" type="line"/>
-      <point x="1003" y="28" type="line"/>
-      <point x="1003" y="1195" type="line"/>
-      <point x="793" y="1195" type="line"/>
+      <point x="793.0" y="28.0" type="line"/>
+      <point x="1003.0" y="28.0" type="line"/>
+      <point x="1003.0" y="1195.0" type="line"/>
+      <point x="793.0" y="1195.0" type="line"/>
     </contour>
     <contour>
-      <point x="-19" y="1104" type="line"/>
-      <point x="1217" y="1104" type="line"/>
-      <point x="1217" y="1287" type="line"/>
-      <point x="-19" y="1287" type="line"/>
+      <point x="-19.0" y="1104.0" type="line"/>
+      <point x="1217.0" y="1104.0" type="line"/>
+      <point x="1217.0" y="1287.0" type="line"/>
+      <point x="-19.0" y="1287.0" type="line"/>
     </contour>
-    <component base="add" xOffset="2"/>
+    <component base="add" xOffset="2.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/24 05:21:37</string>
     </dict>
   </lib>
 </glyph>

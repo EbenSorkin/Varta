@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sh_ma-deva" format="2">
+  <advance width="1930.0"/>
+  <anchor x="1653.0" y="0.0" name="bottom"/>
+  <anchor x="1504.0" y="1247.0" name="candra"/>
+  <anchor x="1101.0" y="44.0" name="nukta"/>
+  <anchor x="1653.0" y="1247.0" name="top"/>
+  <outline>
+    <component base="sh-deva"/>
+    <component base="ma-deva" xOffset="757.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

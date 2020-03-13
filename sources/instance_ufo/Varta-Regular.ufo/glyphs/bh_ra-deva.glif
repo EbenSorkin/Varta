@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh_ra-deva" format="2">
+  <advance width="745.0493827160494"/>
+  <outline>
+    <contour>
+      <point x="361.7901234567901" y="-40.91358024691358" type="line"/>
+      <point x="959.074074074074" y="449.67901234567904" type="line"/>
+      <point x="888.3333333333334" y="535.8888888888889" type="line"/>
+      <point x="272.5308641975309" y="65.1604938271605" type="line"/>
+    </contour>
+    <contour>
+      <point x="297.1975308641975" y="550.2962962962963" type="line"/>
+      <point x="442.9012345679012" y="550.2962962962963" type="line"/>
+      <point x="442.9012345679012" y="1035.8271604938273" type="line" smooth="yes"/>
+      <point x="442.9012345679012" y="1149.6296296296296"/>
+      <point x="424.1975308641975" y="1277.9135802469136"/>
+      <point x="222.92592592592592" y="1277.9135802469136" type="curve" smooth="yes"/>
+      <point x="161.5185185185185" y="1277.9135802469136"/>
+      <point x="113.8641975308642" y="1267.6172839506173"/>
+      <point x="76.1604938271605" y="1251.9135802469136" type="curve"/>
+      <point x="99.50617283950618" y="1132.5555555555557" type="line"/>
+      <point x="123.80246913580247" y="1139.79012345679"/>
+      <point x="159.58024691358025" y="1148.6172839506173"/>
+      <point x="199.2962962962963" y="1148.6172839506173" type="curve" smooth="yes"/>
+      <point x="264.9012345679012" y="1148.851851851852"/>
+      <point x="297.1975308641975" y="1124.2592592592594"/>
+      <point x="297.1975308641975" y="1039.5925925925926" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="319.82716049382714" y="304.30864197530866" type="line"/>
+      <point x="421.32098765432096" y="306.60493827160496"/>
+      <point x="441.9012345679012" y="360.0617283950617"/>
+      <point x="441.9012345679012" y="423.22222222222223" type="curve" smooth="yes"/>
+      <point x="441.9012345679012" y="621.1975308641976" type="line"/>
+      <point x="318.7654320987654" y="621.1975308641976" type="line"/>
+      <point x="146.30864197530863" y="600.7283950617284" type="line"/>
+      <point x="146.30864197530863" y="497.2962962962963" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.962962962963" y="484.77777777777777" type="line"/>
+      <point x="895.679012345679" y="484.77777777777777" type="line"/>
+      <point x="895.679012345679" y="614.1358024691358" type="line"/>
+      <point x="302.962962962963" y="614.1358024691358" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>bh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:17:32</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

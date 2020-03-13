@@ -1,24 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jha-deva" format="2">
-  <advance width="1563"/>
+  <advance width="1563.0"/>
   <unicode hex="091D"/>
-  <anchor x="1283" y="27" name="bottom"/>
-  <anchor x="1033" y="1186" name="candra"/>
-  <anchor x="164" y="-196" name="nukta"/>
-  <anchor x="1283" y="1167" name="top"/>
+  <anchor x="134.0" y="-196.0" name="nukta"/>
+  <anchor x="1283.0" y="0.0" name="bottom"/>
+  <anchor x="622.0" y="1287.0" name="candra_1"/>
+  <anchor x="1225.0" y="1287.0" name="candra_2"/>
+  <anchor x="761.0" y="1287.0" name="top_1"/>
+  <anchor x="1282.0" y="1287.0" name="top_2"/>
   <outline>
     <contour>
-      <point x="896" y="363" type="line"/>
-      <point x="1002" y="344"/>
-      <point x="1187.91" y="384"/>
-      <point x="1251.91" y="444" type="curve"/>
-      <point x="1221" y="630" type="line"/>
-      <point x="1105" y="543"/>
-      <point x="947" y="502"/>
-      <point x="828" y="516" type="curve"/>
+      <point x="896.0" y="393.0" type="line"/>
+      <point x="1002.0" y="374.0"/>
+      <point x="1188.0" y="414.0"/>
+      <point x="1252.0" y="474.0" type="curve"/>
+      <point x="1221.0" y="660.0" type="line"/>
+      <point x="1105.0" y="573.0"/>
+      <point x="947.0" y="532.0"/>
+      <point x="828.0" y="546.0" type="curve"/>
     </contour>
     <component base="i-deva"/>
-    <component base="aaMatra-deva" xOffset="1002"/>
+    <component base="aaMatra-deva" xOffset="1002.0"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +29,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>aaMatra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:14:01</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

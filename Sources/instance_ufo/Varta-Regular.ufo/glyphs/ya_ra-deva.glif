@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ya_ra-deva" format="2">
-  <advance width="1144.8641975308642"/>
-  <anchor x="871.6296296296297" y="27.765432098765434" name="bottom"/>
-  <anchor x="578.9382716049382" y="1167.7654320987654" name="candra"/>
-  <anchor x="871.1604938271605" y="1167.7654320987654" name="top"/>
-  <anchor x="279.962962962963" y="68.69135802469135" name="nukta"/>
+  <advance width="1143.4567901234568"/>
+  <anchor x="870.2222222222222" y="27.765432098765434" name="bottom"/>
+  <anchor x="554.0740740740741" y="1257.148148148148" name="candra"/>
+  <anchor x="869.7530864197531" y="1287.7654320987654" name="top"/>
+  <anchor x="194.59259259259258" y="56.96296296296296" name="nukta"/>
   <outline>
     <contour>
-      <point x="231.44444444444446" y="-32.629629629629626" type="line"/>
-      <point x="838.0987654320987" y="410.30864197530866" type="line"/>
-      <point x="741.7283950617284" y="467.9753086419753" type="line"/>
-      <point x="142.9506172839506" y="75.27160493827161" type="line"/>
+      <point x="230.03703703703704" y="-32.629629629629626" type="line"/>
+      <point x="836.6913580246913" y="410.30864197530866" type="line"/>
+      <point x="740.320987654321" y="467.9753086419753" type="line"/>
+      <point x="141.54320987654322" y="75.27160493827161" type="line"/>
     </contour>
-    <component base="ya-deva"/>
+    <component base="ya-deva" xOffset="-1.4074074074074072"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/01/23 06:20:04</string>
     </dict>
   </lib>
 </glyph>

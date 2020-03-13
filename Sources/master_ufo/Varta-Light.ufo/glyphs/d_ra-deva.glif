@@ -1,27 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d_ra-deva" format="2">
-  <advance width="1035"/>
-  <anchor x="735" y="-14" name="bottom"/>
-  <anchor x="534" y="1167" name="candra"/>
-  <anchor x="722" y="1168" name="top"/>
-  <anchor x="85" y="44" name="nukta"/>
+  <advance width="1035.0"/>
+  <anchor x="820.0" y="-456.0" name="bottom"/>
+  <anchor x="644.0" y="1247.0" name="candra"/>
+  <anchor x="95.0" y="0.0" name="nukta"/>
+  <anchor x="720.0" y="1247.0" name="top"/>
   <outline>
     <contour>
-      <point x="392" y="-165" type="line" smooth="yes"/>
-      <point x="833" y="196" type="line"/>
-      <point x="804" y="262" type="line"/>
-      <point x="317" y="-75" type="line"/>
+      <point x="392.0" y="-165.0" type="line" smooth="yes"/>
+      <point x="833.0" y="196.0" type="line"/>
+      <point x="804.0" y="262.0" type="line"/>
+      <point x="317.0" y="-75.0" type="line"/>
     </contour>
     <component base="da-deva"/>
+    <component base="halant-deva" xOffset="649.0" yOffset="-146.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>d-deva</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 17:49:51</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

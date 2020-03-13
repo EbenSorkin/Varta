@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ph_ra-deva" format="2">
+  <advance width="1224.5555555555557"/>
+  <anchor x="861.641975308642" y="12.962962962962965" name="bottom"/>
+  <anchor x="782.8271604938271" y="1256.679012345679" name="candra"/>
+  <anchor x="459.0" y="80.93827160493827" name="nukta"/>
+  <anchor x="858.2222222222222" y="1287.0617283950617" name="top"/>
+  <outline>
+    <contour>
+      <point x="202.09876543209876" y="-27.938271604938272" type="line"/>
+      <point x="801.5925925925926" y="456.25925925925924" type="line"/>
+      <point x="732.0" y="535.0" type="line"/>
+      <point x="112.8395061728395" y="80.19753086419753" type="line"/>
+    </contour>
+    <component base="ph-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ph-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:17:32</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

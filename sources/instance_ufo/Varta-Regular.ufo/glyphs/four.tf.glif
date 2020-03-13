@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <advance width="1003.0"/>
+  <outline>
+    <contour>
+      <point x="622.1358024691358" y="-150.40740740740742" type="line"/>
+      <point x="769.9629629629629" y="-150.40740740740742" type="line"/>
+      <point x="769.9629629629629" y="195.4814814814815" type="line"/>
+      <point x="950.7407407407408" y="195.4814814814815" type="line"/>
+      <point x="950.7407407407408" y="321.32098765432096" type="line"/>
+      <point x="769.9629629629629" y="321.32098765432096" type="line"/>
+      <point x="769.9629629629629" y="1174.4074074074074" type="line"/>
+      <point x="598.4567901234568" y="1174.4074074074074" type="line"/>
+      <point x="31.88888888888889" y="297.55555555555554" type="line"/>
+      <point x="31.88888888888889" y="195.4814814814815" type="line"/>
+      <point x="622.1358024691358" y="195.4814814814815" type="line"/>
+    </contour>
+    <contour>
+      <point x="198.30864197530863" y="321.32098765432096" type="line"/>
+      <point x="516.604938271605" y="797.395061728395" type="line"/>
+      <point x="553.604938271605" y="861.8024691358024"/>
+      <point x="590.604938271605" y="931.4444444444445"/>
+      <point x="623.604938271605" y="994.8518518518518" type="curve"/>
+      <point x="631.604938271605" y="994.8518518518518" type="line"/>
+      <point x="627.604938271605" y="927.7407407407408"/>
+      <point x="622.1358024691358" y="822.1604938271605"/>
+      <point x="622.1358024691358" y="753.283950617284" type="curve" smooth="yes"/>
+      <point x="622.1358024691358" y="321.32098765432096" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:12:25</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>1.0</real>
+            <real>9.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

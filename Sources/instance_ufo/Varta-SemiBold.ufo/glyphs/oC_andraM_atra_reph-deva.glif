@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oCandraMatra_reph-deva" format="2">
-  <advance width="540.9876543209876"/>
-  <anchor x="379.358024691358" y="1923.79012345679" name="candra"/>
-  <anchor x="279.61728395061726" y="27.34567901234568" name="bottom"/>
-  <anchor x="281.58024691358025" y="1167.3456790123457" name="top"/>
+  <advance width="558.5802469135803"/>
+  <anchor x="379.358024691358" y="2029.9629629629628" name="candra"/>
+  <anchor x="279.61728395061726" y="0.0" name="bottom"/>
+  <anchor x="379.30864197530866" y="1864.6666666666665" name="top"/>
   <outline>
     <component base="aaMatra-deva"/>
-    <component base="eCandraMatra_reph-deva" xOffset="34.34567901234568"/>
+    <component base="eCandraMatra_reph-deva" xOffset="54.65432098765432"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:29:32</string>
     </dict>
   </lib>
 </glyph>

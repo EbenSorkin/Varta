@@ -4,6 +4,13 @@
   <unicode hex="0026"/>
   <outline>
     <contour>
+      <point x="478.5061728395062" y="-25.0" type="curve" smooth="yes"/>
+      <point x="643.9753086419753" y="-25.0"/>
+      <point x="769.9382716049382" y="34.76543209876544"/>
+      <point x="873.2098765432098" y="126.18518518518519" type="curve"/>
+      <point x="983.8271604938271" y="50.76543209876544"/>
+      <point x="1088.4444444444443" y="1.3827160493827177"/>
+      <point x="1185.3333333333333" y="-25.0" type="curve"/>
       <point x="1235.8024691358025" y="132.53086419753083" type="line"/>
       <point x="1162.4197530864196" y="151.29629629629628"/>
       <point x="1078.037037037037" y="194.06172839506172"/>
@@ -35,13 +42,6 @@
       <point x="63.111111111111114" y="349.2716049382716" type="curve" smooth="yes"/>
       <point x="63.111111111111114" y="134.50617283950618"/>
       <point x="226.87654320987656" y="-25.0"/>
-      <point x="478.5061728395062" y="-25.0" type="curve" smooth="yes"/>
-      <point x="643.9753086419753" y="-25.0"/>
-      <point x="769.9382716049382" y="34.76543209876544"/>
-      <point x="873.2098765432098" y="126.18518518518519" type="curve"/>
-      <point x="983.8271604938271" y="50.76543209876544"/>
-      <point x="1088.4444444444443" y="1.3827160493827177"/>
-      <point x="1185.3333333333333" y="-25.0" type="curve"/>
     </contour>
     <contour>
       <point x="501.358024691358" y="126.25925925925924" type="curve" smooth="yes"/>
@@ -75,7 +75,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -85,8 +85,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>2</integer>
+            <real>1.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

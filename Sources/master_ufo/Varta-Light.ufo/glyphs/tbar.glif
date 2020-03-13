@@ -1,23 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar" format="2">
-  <advance width="670"/>
+  <advance width="670.0"/>
   <unicode hex="0167"/>
-  <anchor x="380" y="-300" name="btm"/>
-  <anchor x="671" y="1003" name="car"/>
-  <anchor x="277" y="1227" name="top"/>
+  <anchor x="395.0" y="0.0" name="bottom"/>
+  <anchor x="522.0" y="990.0" name="car"/>
+  <anchor x="335.0" y="495.0" name="center"/>
+  <anchor x="284.0" y="1193.0" name="top"/>
+  <anchor x="464.0" y="990.0" name="topright"/>
   <outline>
     <contour>
-      <point x="54" y="531" type="line"/>
-      <point x="611" y="531" type="line"/>
-      <point x="611" y="642" type="line"/>
-      <point x="54" y="642" type="line"/>
+      <point x="54.0" y="531.0" type="line"/>
+      <point x="611.0" y="531.0" type="line"/>
+      <point x="611.0" y="642.0" type="line"/>
+      <point x="54.0" y="642.0" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -27,15 +29,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

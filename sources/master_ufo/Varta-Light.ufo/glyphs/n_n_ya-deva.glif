@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_n_ya-deva" format="2">
+  <advance width="1833.0"/>
+  <anchor x="1557.0" y="0.0" name="bottom"/>
+  <anchor x="1471.0" y="1247.0" name="candra"/>
+  <anchor x="890.0" y="64.0" name="nukta"/>
+  <anchor x="1557.0" y="1247.0" name="top"/>
+  <outline>
+    <component base="n_n-deva"/>
+    <component base="ya-deva" xOffset="694.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 11:05:27</string>
+    </dict>
+  </lib>
+</glyph>

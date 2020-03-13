@@ -2,16 +2,17 @@
 <glyph name="aacute" format="2">
   <advance width="1056.320987654321"/>
   <unicode hex="00E1"/>
-  <anchor x="525.9012345679013" y="-234.56790123456796" name="btm"/>
-  <anchor x="525.9012345679013" y="886.4197530864199" name="top"/>
+  <anchor x="528.1604938271605" y="0.0" name="bottom"/>
+  <anchor x="950.358024691358" y="10.0" name="ogonek"/>
+  <anchor x="602.4320987654321" y="1360.0864197530864" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="acute" xOffset="39.06172839506171"/>
+    <component base="acutecomb" xOffset="411.34567901234567"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:41:03</string>
     </dict>
   </lib>
 </glyph>

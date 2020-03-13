@@ -1,64 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bh_la-deva.loclMAR" format="2">
-  <advance width="1218"/>
-  <anchor x="897" y="-489" name="bottom"/>
-  <anchor x="667" y="1168" name="candra"/>
-  <anchor x="938" y="1168" name="top"/>
+  <advance width="1218.0"/>
+  <anchor x="897.0" y="-489.0" name="bottom"/>
+  <anchor x="667.0" y="1248.0" name="candra"/>
+  <anchor x="938.0" y="1288.0" name="top"/>
   <outline>
     <contour>
-      <point x="304" y="576" type="line"/>
-      <point x="430" y="576" type="line"/>
-      <point x="430" y="1037" type="line" smooth="yes"/>
-      <point x="430" y="1144"/>
-      <point x="412" y="1269"/>
-      <point x="218" y="1269" type="curve" smooth="yes"/>
-      <point x="158" y="1269"/>
-      <point x="108" y="1258"/>
-      <point x="71" y="1243" type="curve"/>
-      <point x="92" y="1141" type="line"/>
-      <point x="117" y="1148"/>
-      <point x="157" y="1158"/>
-      <point x="200" y="1158" type="curve" smooth="yes"/>
-      <point x="271" y="1158"/>
-      <point x="304" y="1132"/>
-      <point x="304" y="1041" type="curve" smooth="yes"/>
+      <point x="304.0" y="576.0" type="line"/>
+      <point x="430.0" y="576.0" type="line"/>
+      <point x="430.0" y="1037.0" type="line" smooth="yes"/>
+      <point x="430.0" y="1144.0"/>
+      <point x="412.0" y="1269.0"/>
+      <point x="218.0" y="1269.0" type="curve" smooth="yes"/>
+      <point x="158.0" y="1269.0"/>
+      <point x="108.0" y="1258.0"/>
+      <point x="71.0" y="1243.0" type="curve"/>
+      <point x="92.0" y="1141.0" type="line"/>
+      <point x="117.0" y="1148.0"/>
+      <point x="157.0" y="1158.0"/>
+      <point x="200.0" y="1158.0" type="curve" smooth="yes"/>
+      <point x="271.0" y="1158.0"/>
+      <point x="304.0" y="1132.0"/>
+      <point x="304.0" y="1041.0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="321" y="334" type="line"/>
-      <point x="411" y="337"/>
-      <point x="429" y="386"/>
-      <point x="429" y="444" type="curve" smooth="yes"/>
-      <point x="429" y="634" type="line"/>
-      <point x="319" y="634" type="line"/>
-      <point x="151" y="614" type="line"/>
-      <point x="151" y="523" type="line"/>
+      <point x="321.0" y="334.0" type="line"/>
+      <point x="411.0" y="337.0"/>
+      <point x="429.0" y="386.0"/>
+      <point x="429.0" y="444.0" type="curve" smooth="yes"/>
+      <point x="429.0" y="634.0" type="line"/>
+      <point x="319.0" y="634.0" type="line"/>
+      <point x="151.0" y="614.0" type="line"/>
+      <point x="151.0" y="523.0" type="line"/>
     </contour>
     <contour>
-      <point x="310" y="514" type="line"/>
-      <point x="969" y="514" type="line"/>
-      <point x="969" y="626" type="line"/>
-      <point x="310" y="626" type="line"/>
+      <point x="310.0" y="514.0" type="line"/>
+      <point x="969.0" y="514.0" type="line"/>
+      <point x="969.0" y="626.0" type="line"/>
+      <point x="310.0" y="626.0" type="line"/>
     </contour>
     <contour>
-      <point x="876" y="80" type="line"/>
-      <point x="1002" y="80" type="line"/>
-      <point x="1002" y="1196" type="line"/>
-      <point x="876" y="1196" type="line"/>
+      <point x="876.0" y="80.0" type="line"/>
+      <point x="1002.0" y="80.0" type="line"/>
+      <point x="1002.0" y="1196.0" type="line"/>
+      <point x="876.0" y="1196.0" type="line"/>
     </contour>
     <contour>
-      <point x="682" y="1143" type="line"/>
-      <point x="1231" y="1143" type="line"/>
-      <point x="1231" y="1247" type="line"/>
-      <point x="682" y="1247" type="line"/>
+      <point x="682.0" y="1143.0" type="line"/>
+      <point x="1231.0" y="1143.0" type="line"/>
+      <point x="1231.0" y="1247.0" type="line"/>
+      <point x="682.0" y="1247.0" type="line"/>
     </contour>
-    <component base="add" xOffset="94"/>
+    <component base="add" xOffset="94.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>bh-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:21:41</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="da_ra-deva" format="2">
+  <advance width="1030.2345679012346"/>
+  <anchor x="122.2962962962963" y="0.0" name="nukta"/>
+  <anchor x="977.0370370370371" y="-49.2469135802469" name="bottom"/>
+  <anchor x="618.4814814814815" y="1273.1728395061727" name="candra"/>
+  <anchor x="720.6543209876543" y="1273.1728395061727" name="top"/>
+  <outline>
+    <contour>
+      <point x="337.6913580246914" y="-253.33333333333326" type="line" smooth="yes"/>
+      <point x="819.9135802469136" y="146.27160493827165" type="line"/>
+      <point x="772.5925925925926" y="228.62962962962965" type="line"/>
+      <point x="232.59259259259267" y="-128.65432098765427" type="line"/>
+    </contour>
+    <component base="da-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:50:19</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttha_ra-deva" format="2">
+  <advance width="1174.9259259259259"/>
+  <anchor x="588.6543209876543" y="-418.6296296296296" name="bottom"/>
+  <anchor x="688.3703703703704" y="1273.1728395061727" name="candra"/>
+  <anchor x="574.3086419753087" y="-203.9012345679012" name="nukta"/>
+  <anchor x="772.3827160493827" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="ttha-deva"/>
+    <component base="rakar-deva" xOffset="321.69135802469134" yOffset="-54.67901234567903"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 11:06:56</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

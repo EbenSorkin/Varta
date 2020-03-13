@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nn_tta-deva" format="2">
+  <advance width="2040.8641975308642"/>
+  <anchor x="1602.3703703703704" y="-51.69135802469136" name="bottom"/>
+  <anchor x="1722.4197530864199" y="1273.1728395061727" name="candra"/>
+  <anchor x="1596.3703703703704" y="-203.9012345679012" name="nukta"/>
+  <anchor x="1800.9753086419753" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="nn-deva"/>
+    <component base="tta-deva" xOffset="1025.8271604938273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nn-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

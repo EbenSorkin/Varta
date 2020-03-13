@@ -4,6 +4,10 @@
   <unicode hex="01EA"/>
   <outline>
     <contour>
+      <point x="733.3456790123457" y="-431.51851851851853" type="curve" smooth="yes"/>
+      <point x="785.6913580246913" y="-431.51851851851853"/>
+      <point x="852.9753086419753" y="-405.81481481481484"/>
+      <point x="890.8518518518518" y="-376.17283950617286" type="curve"/>
       <point x="847.5679012345679" y="-289.4938271604938" type="line"/>
       <point x="822.2716049382716" y="-308.7901234567901"/>
       <point x="796.2716049382716" y="-318.4938271604938"/>
@@ -31,10 +35,6 @@
       <point x="541.4814814814815" y="-255.17283950617283" type="curve" smooth="yes"/>
       <point x="541.4814814814815" y="-371.87654320987656"/>
       <point x="627.2962962962963" y="-431.51851851851853"/>
-      <point x="733.3456790123457" y="-431.51851851851853" type="curve" smooth="yes"/>
-      <point x="785.6913580246913" y="-431.51851851851853"/>
-      <point x="852.9753086419753" y="-405.81481481481484"/>
-      <point x="890.8518518518518" y="-376.17283950617286" type="curve"/>
     </contour>
     <contour>
       <point x="673.283950617284" y="114.95061728395062" type="curve" smooth="yes"/>
@@ -54,7 +54,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -64,8 +64,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>23</integer>
+            <real>0.0</real>
+            <real>27.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

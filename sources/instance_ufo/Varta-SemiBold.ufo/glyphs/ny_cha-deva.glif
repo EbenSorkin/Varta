@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ny_cha-deva" format="2">
+  <advance width="2297.222222222222"/>
+  <anchor x="1614.888888888889" y="0.0" name="bottom"/>
+  <anchor x="1914.6172839506173" y="1273.5185185185185" name="candra"/>
+  <anchor x="1623.0493827160494" y="-174.59259259259258" name="nukta"/>
+  <anchor x="1931.8518518518517" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="ny-deva"/>
+    <component base="cha-deva" xOffset="968.6913580246913"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ny-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>cha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -3,27 +3,35 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1775</integer>
+    <real>1775.0</real>
     <key>capHeight</key>
-    <integer>1346</integer>
+    <real>1346.0</real>
     <key>copyright</key>
-    <string>Copyright © 2014 by Joana Correia, Viktoriya Grabowska, Eben Sorkin. All rights reserved.</string>
+    <string>Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)</string>
     <key>descender</key>
-    <integer>-987</integer>
+    <real>-987.0</real>
     <key>familyName</key>
     <string>Varta</string>
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <integer>0</integer>
+    <real>-0.0</real>
     <key>openTypeHeadCreated</key>
-    <string>2019/10/26 03:39:00</string>
+    <string>2019/12/21 06:33:26</string>
     <key>openTypeNameDesigner</key>
     <string>Joana Correia, Viktoriya Grabowska, Eben Sorkin</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Sorkin Type Co.</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>www.sorkintype.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
@@ -32,18 +40,44 @@
     <integer>-1068</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>STC</string>
+    <key>postscriptBlueScale</key>
+    <real>0.03963</real>
+    <key>postscriptBlueShift</key>
+    <integer>7</integer>
     <key>postscriptBlueValues</key>
-    <array/>
+    <array>
+      <real>-26.0</real>
+      <real>0.0</real>
+      <real>990.0</real>
+      <real>1016.0</real>
+      <real>1247.0</real>
+      <real>1273.0</real>
+      <real>1346.0</real>
+      <real>1371.0</real>
+      <real>1775.0</real>
+      <real>1791.0</real>
+    </array>
     <key>postscriptFamilyBlues</key>
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptOtherBlues</key>
-    <array/>
+    <array>
+      <real>-1018.0</real>
+      <real>-987.0</real>
+    </array>
     <key>postscriptStemSnapH</key>
-    <array/>
+    <array>
+      <integer>120</integer>
+      <integer>112</integer>
+    </array>
     <key>postscriptStemSnapV</key>
-    <array/>
+    <array>
+      <integer>142</integer>
+      <integer>137</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
@@ -61,8 +95,8 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>xHeight</key>
-    <integer>990</integer>
+    <real>990.0</real>
   </dict>
 </plist>

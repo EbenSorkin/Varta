@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="mu" format="2">
   <advance width="1133.9753086419753"/>
-  <unicode hex="03BC"/>
+  <unicode hex="00B5"/>
   <outline>
     <contour>
       <point x="162.25925925925927" y="-410.0" type="line"/>
@@ -33,7 +33,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -43,8 +43,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>23</integer>
+            <real>0.0</real>
+            <real>23.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -58,8 +58,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>10</integer>
+            <real>0.0</real>
+            <real>10.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -73,8 +73,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>17</integer>
+            <real>0.0</real>
+            <real>17.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

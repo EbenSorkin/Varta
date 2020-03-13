@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddh_ddh_ya-deva" format="2">
+  <advance width="2310.0"/>
+  <anchor x="2038.0" y="0.0" name="bottom"/>
+  <anchor x="1632.0" y="1287.0" name="candra"/>
+  <anchor x="2030.0" y="1287.0" name="top"/>
+  <anchor x="-11.0" y="-452.0" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="1098.0" y="1104.0" type="line"/>
+      <point x="2329.0" y="1104.0" type="line"/>
+      <point x="2329.0" y="1287.0" type="line"/>
+      <point x="1098.0" y="1287.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1665.0" y="127.0" type="curve" smooth="yes"/>
+      <point x="1794.0" y="127.0"/>
+      <point x="1887.0" y="173.0"/>
+      <point x="1968.0" y="257.0" type="curve"/>
+      <point x="1980.0" y="513.0" type="line"/>
+      <point x="1896.0" y="376.0"/>
+      <point x="1768.0" y="319.0"/>
+      <point x="1648.0" y="319.0" type="curve" smooth="yes"/>
+      <point x="1524.0" y="319.0"/>
+      <point x="1428.0" y="380.0"/>
+      <point x="1392.0" y="526.0" type="curve"/>
+      <point x="1375.0" y="448.0" type="line"/>
+      <point x="1484.0" y="484.0"/>
+      <point x="1643.0" y="559.0"/>
+      <point x="1643.0" y="747.0" type="curve" smooth="yes"/>
+      <point x="1643.0" y="956.0"/>
+      <point x="1526.0" y="991.0"/>
+      <point x="1323.0" y="992.0" type="curve" smooth="yes"/>
+      <point x="841.0" y="994.0" type="line"/>
+      <point x="862.0" y="844.0" type="line"/>
+      <point x="1352.0" y="841.0" type="line" smooth="yes"/>
+      <point x="1408.0" y="841.0"/>
+      <point x="1451.0" y="822.0"/>
+      <point x="1451.0" y="748.0" type="curve" smooth="yes"/>
+      <point x="1451.0" y="671.0"/>
+      <point x="1379.0" y="620.0"/>
+      <point x="1194.0" y="575.0" type="curve"/>
+      <point x="1245.0" y="289.0"/>
+      <point x="1417.0" y="127.0"/>
+    </contour>
+    <contour>
+      <point x="1941.0" y="0.0" type="line"/>
+      <point x="2151.0" y="0.0" type="line"/>
+      <point x="2151.0" y="1131.0" type="line"/>
+      <point x="1941.0" y="1131.0" type="line"/>
+    </contour>
+    <component base="ddh_ddha-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ddh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:44:55</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

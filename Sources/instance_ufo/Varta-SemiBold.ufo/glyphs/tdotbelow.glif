@@ -2,17 +2,19 @@
 <glyph name="tdotbelow" format="2">
   <advance width="707.2962962962963"/>
   <unicode hex="1E6D"/>
-  <anchor x="374.11111111111114" y="-234.56790123456796" name="btm"/>
-  <anchor x="640.9012345679013" y="1020.0123456790124" name="car"/>
-  <anchor x="297.28395061728395" y="1097.4444444444446" name="top"/>
+  <anchor x="413.9753086419753" y="-429.01234567901236" name="bottom"/>
+  <anchor x="554.716049382716" y="997.1975308641976" name="car"/>
+  <anchor x="353.9753086419753" y="499.58024691358025" name="center"/>
+  <anchor x="297.08641975308643" y="1193.0" name="top"/>
+  <anchor x="518.3086419753085" y="998.5061728395061" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dotbelowcomb" xOffset="374.11111111111114"/>
+    <component base="dotbelowcomb" xOffset="284.0740740740741"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:57:59</string>
     </dict>
   </lib>
 </glyph>

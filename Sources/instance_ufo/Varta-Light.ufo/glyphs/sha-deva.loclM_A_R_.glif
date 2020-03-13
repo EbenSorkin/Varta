@@ -1,24 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sha-deva.loclMAR" format="2">
-  <advance width="1316"/>
-  <anchor x="1040" y="28" name="bottom"/>
-  <anchor x="716" y="1168" name="candra"/>
-  <anchor x="270" y="-291" name="nukta"/>
-  <anchor x="1040" y="1168" name="top"/>
+  <advance width="1327.0"/>
+  <anchor x="1050.0" y="0.0" name="bottom"/>
+  <anchor x="948.0" y="1247.0" name="candra"/>
+  <anchor x="1051.0" y="1247.0" name="top"/>
   <outline>
-    <contour>
-      <point x="977" y="0" type="line"/>
-      <point x="1104" y="0" type="line"/>
-      <point x="1104" y="1193" type="line"/>
-      <point x="977" y="1193" type="line"/>
-    </contour>
-    <contour>
-      <point x="750" y="1143" type="line"/>
-      <point x="1329" y="1143" type="line"/>
-      <point x="1329" y="1247" type="line"/>
-      <point x="750" y="1247" type="line"/>
-    </contour>
     <component base="sh-deva.loclMAR"/>
+    <component base="aaMatra-deva" xOffset="773.0"/>
   </outline>
   <lib>
     <dict>
@@ -27,7 +15,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>aaMatra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:22:08</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

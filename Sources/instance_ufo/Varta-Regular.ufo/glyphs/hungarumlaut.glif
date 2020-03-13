@@ -2,7 +2,6 @@
 <glyph name="hungarumlaut" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="02DD"/>
-  <anchor x="621.9506172839506" y="991.3580246913581" name="_top"/>
   <outline>
     <contour>
       <point x="357.9012345679012" y="1168.7037037037037" type="line"/>
@@ -20,7 +19,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -30,8 +29,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

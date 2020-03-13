@@ -2,16 +2,19 @@
 <glyph name="ohungarumlaut" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="0151"/>
-  <anchor x="553.8765432098766" y="-276.5432098765432" name="btm"/>
-  <anchor x="553.8765432098766" y="991.3580246913581" name="top"/>
+  <anchor x="553.8765432098766" y="0.0" name="bottom"/>
+  <anchor x="553.8765432098766" y="496.641975308642" name="center"/>
+  <anchor x="788.0864197530864" y="10.0" name="ogonek"/>
+  <anchor x="635.7222222222222" y="1460.0493827160494" name="top"/>
+  <anchor x="1087.7530864197531" y="993.0493827160494" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlaut" xOffset="-68.07407407407408"/>
+    <component base="hungarumlautcomb" xOffset="-12.530864197530864"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:59:13</string>
     </dict>
   </lib>
 </glyph>

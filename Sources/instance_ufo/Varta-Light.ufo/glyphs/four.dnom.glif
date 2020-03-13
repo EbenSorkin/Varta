@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.dnom" format="2">
-  <advance width="747"/>
+  <advance width="747.0"/>
   <outline>
     <contour>
-      <point x="453" y="0" type="line"/>
-      <point x="553" y="0" type="line"/>
-      <point x="553" y="221" type="line"/>
-      <point x="672" y="221" type="line"/>
-      <point x="672" y="304" type="line"/>
-      <point x="553" y="304" type="line"/>
-      <point x="553" y="799" type="line"/>
-      <point x="436" y="799" type="line"/>
-      <point x="89" y="279" type="line"/>
-      <point x="89" y="221" type="line"/>
-      <point x="453" y="221" type="line"/>
+      <point x="453.0" y="0.0" type="line"/>
+      <point x="553.0" y="0.0" type="line"/>
+      <point x="553.0" y="221.0" type="line"/>
+      <point x="672.0" y="221.0" type="line"/>
+      <point x="672.0" y="304.0" type="line"/>
+      <point x="553.0" y="304.0" type="line"/>
+      <point x="553.0" y="799.0" type="line"/>
+      <point x="436.0" y="799.0" type="line"/>
+      <point x="89.0" y="279.0" type="line"/>
+      <point x="89.0" y="221.0" type="line"/>
+      <point x="453.0" y="221.0" type="line"/>
     </contour>
     <contour>
-      <point x="211" y="304" type="line"/>
-      <point x="346" y="513" type="line"/>
-      <point x="453" y="681" type="line"/>
-      <point x="461" y="681" type="line"/>
-      <point x="453" y="462" type="line"/>
-      <point x="453" y="304" type="line"/>
+      <point x="211.0" y="304.0" type="line"/>
+      <point x="346.0" y="513.0" type="line"/>
+      <point x="453.0" y="681.0" type="line"/>
+      <point x="461.0" y="681.0" type="line"/>
+      <point x="453.0" y="462.0" type="line"/>
+      <point x="453.0" y="304.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -37,8 +37,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>5</integer>
+            <real>1.0</real>
+            <real>5.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eLongCandra-deva" format="2">
+  <unicode hex="0955"/>
+  <anchor x="375.9012345679012" y="1282.1604938271605" name="_top"/>
+  <outline>
+    <contour>
+      <point x="405.3333333333333" y="1685.938271604938" type="curve" smooth="yes"/>
+      <point x="543.6419753086419" y="1685.938271604938"/>
+      <point x="661.7530864197531" y="1741.320987654321"/>
+      <point x="744.7283950617284" y="1821.79012345679" type="curve"/>
+      <point x="673.5061728395061" y="1971.5802469135801" type="line"/>
+      <point x="602.5925925925926" y="1902.5925925925926"/>
+      <point x="535.604938271605" y="1844.9753086419753"/>
+      <point x="396.71604938271605" y="1844.9753086419753" type="curve" smooth="yes"/>
+      <point x="253.20987654320987" y="1844.9753086419753"/>
+      <point x="153.48148148148147" y="1915.9753086419753"/>
+      <point x="92.20987654320986" y="1967.9753086419753" type="curve"/>
+      <point x="10.0" y="1871.2222222222222" type="line"/>
+      <point x="96.93827160493825" y="1768.5555555555554"/>
+      <point x="240.55555555555554" y="1685.938271604938"/>
+    </contour>
+    <contour>
+      <point x="61.62962962962962" y="1436.6172839506173" type="line"/>
+      <point x="692.1358024691358" y="1436.6172839506173" type="line"/>
+      <point x="692.1358024691358" y="1592.3086419753085" type="line"/>
+      <point x="61.62962962962962" y="1592.3086419753085" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 11:04:02</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>705.0</real>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

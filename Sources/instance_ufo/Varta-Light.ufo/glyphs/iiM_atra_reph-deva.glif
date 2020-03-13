@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iiMatra_reph-deva" format="2">
-  <advance width="568"/>
-  <anchor x="186" y="1533" name="candra"/>
-  <anchor x="-235" y="1168" name="iimatra"/>
-  <anchor x="450" y="1659" name="top"/>
+  <advance width="568.0"/>
+  <anchor x="166.0" y="1633.0" name="candra"/>
+  <anchor x="-235.0" y="1168.0" name="iimatra"/>
+  <anchor x="399.0" y="1644.0" name="top"/>
   <outline>
     <component base="iiMatra-deva"/>
-    <component base="reph-deva" xOffset="45"/>
+    <component base="reph-deva" xOffset="25.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 18:27:35</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

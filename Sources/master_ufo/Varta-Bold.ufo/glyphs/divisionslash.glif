@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="divisionslash" format="2">
-  <advance width="184"/>
+  <advance width="184.0"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="-345" y="-25" type="line"/>
-      <point x="-208" y="-25" type="line"/>
-      <point x="526" y="1365" type="line"/>
-      <point x="388" y="1365" type="line"/>
+      <point x="-345.0" y="-25.0" type="line"/>
+      <point x="-208.0" y="-25.0" type="line"/>
+      <point x="526.0" y="1365.0" type="line"/>
+      <point x="388.0" y="1365.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -23,15 +23,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>2</integer>
+            <real>0.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>2</integer>
+            <real>0.0</real>
+            <real>2.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

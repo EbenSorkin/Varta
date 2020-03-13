@@ -27,9 +27,6 @@
       <point x="805.0864197530864" y="-66.23456790123457" type="line"/>
     </contour>
     <contour>
-      <point x="805.0864197530864" y="247.91358024691357" type="line"/>
-      <point x="719.2469135802469" y="154.19753086419752"/>
-      <point x="640.2345679012345" y="107.24691358024691"/>
       <point x="543.4567901234568" y="107.24691358024691" type="curve" smooth="yes"/>
       <point x="358.9012345679012" y="107.24691358024691"/>
       <point x="259.8888888888889" y="248.50617283950618"/>
@@ -40,12 +37,15 @@
       <point x="643.358024691358" y="886.8024691358024"/>
       <point x="717.7777777777778" y="857.4444444444445"/>
       <point x="805.0864197530864" y="778.4320987654321" type="curve"/>
+      <point x="805.0864197530864" y="247.91358024691357" type="line"/>
+      <point x="719.2469135802469" y="154.19753086419752"/>
+      <point x="640.2345679012345" y="107.24691358024691"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -55,8 +55,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>10</integer>
+            <real>0.0</real>
+            <real>10.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -70,8 +70,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>1</integer>
+            <real>0.0</real>
+            <real>1.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -85,8 +85,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>7</integer>
+            <real>0.0</real>
+            <real>7.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet" format="2">
-  <advance width="655"/>
+  <advance width="655.0"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="327" y="277" type="curve" smooth="yes"/>
-      <point x="461" y="277"/>
-      <point x="573" y="385"/>
-      <point x="573" y="538" type="curve" smooth="yes"/>
-      <point x="573" y="691"/>
-      <point x="461" y="799"/>
-      <point x="327" y="799" type="curve" smooth="yes"/>
-      <point x="193" y="799"/>
-      <point x="82" y="691"/>
-      <point x="82" y="538" type="curve" smooth="yes"/>
-      <point x="82" y="385"/>
-      <point x="193" y="277"/>
+      <point x="327.0" y="277.0" type="curve" smooth="yes"/>
+      <point x="461.0" y="277.0"/>
+      <point x="573.0" y="385.0"/>
+      <point x="573.0" y="538.0" type="curve" smooth="yes"/>
+      <point x="573.0" y="691.0"/>
+      <point x="461.0" y="799.0"/>
+      <point x="327.0" y="799.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="799.0"/>
+      <point x="82.0" y="691.0"/>
+      <point x="82.0" y="538.0" type="curve" smooth="yes"/>
+      <point x="82.0" y="385.0"/>
+      <point x="193.0" y="277.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -31,15 +31,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

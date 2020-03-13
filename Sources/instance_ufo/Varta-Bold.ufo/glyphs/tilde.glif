@@ -1,36 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde" format="2">
-  <advance width="1120"/>
+  <advance width="1120.0"/>
   <unicode hex="02DC"/>
-  <anchor x="560" y="800" name="_top"/>
   <outline>
     <contour>
-      <point x="373" y="1183" type="line"/>
-      <point x="382" y="1253"/>
-      <point x="403" y="1284"/>
-      <point x="442" y="1284" type="curve" smooth="yes"/>
-      <point x="508" y="1284"/>
-      <point x="584" y="1184"/>
-      <point x="689" y="1184" type="curve" smooth="yes"/>
-      <point x="792" y="1184"/>
-      <point x="856" y="1276"/>
-      <point x="866" y="1422" type="curve"/>
-      <point x="748" y="1422" type="line"/>
-      <point x="739" y="1354"/>
-      <point x="717" y="1323"/>
-      <point x="678" y="1323" type="curve" smooth="yes"/>
-      <point x="614" y="1323"/>
-      <point x="539" y="1421"/>
-      <point x="433" y="1421" type="curve" smooth="yes"/>
-      <point x="331" y="1421"/>
-      <point x="263" y="1330"/>
-      <point x="254" y="1183" type="curve"/>
+      <point x="254.0" y="1183.0" type="curve"/>
+      <point x="373.0" y="1183.0" type="line"/>
+      <point x="382.0" y="1253.0"/>
+      <point x="403.0" y="1284.0"/>
+      <point x="442.0" y="1284.0" type="curve" smooth="yes"/>
+      <point x="508.0" y="1284.0"/>
+      <point x="584.0" y="1184.0"/>
+      <point x="689.0" y="1184.0" type="curve" smooth="yes"/>
+      <point x="792.0" y="1184.0"/>
+      <point x="856.0" y="1276.0"/>
+      <point x="866.0" y="1422.0" type="curve"/>
+      <point x="748.0" y="1422.0" type="line"/>
+      <point x="739.0" y="1354.0"/>
+      <point x="717.0" y="1323.0"/>
+      <point x="678.0" y="1323.0" type="curve" smooth="yes"/>
+      <point x="614.0" y="1323.0"/>
+      <point x="539.0" y="1421.0"/>
+      <point x="433.0" y="1421.0" type="curve" smooth="yes"/>
+      <point x="331.0" y="1421.0"/>
+      <point x="263.0" y="1330.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -40,8 +39,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>18</integer>
+            <real>0.0</real>
+            <real>19.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -55,8 +54,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,40 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="reph-deva" format="2">
-  <anchor x="274" y="1168" name="_top"/>
-  <anchor x="-26" y="1426" name="candra"/>
-  <anchor x="405" y="1659" name="top"/>
+  <anchor x="322.0" y="1247.0" name="_imatra"/>
+  <anchor x="301.0" y="1247.0" name="_top"/>
+  <anchor x="46.0" y="1574.0" name="candra"/>
+  <anchor x="374.0" y="1644.0" name="top"/>
   <outline>
     <contour>
-      <point x="322" y="1226" type="line"/>
-      <point x="277" y="1274"/>
-      <point x="237" y="1347"/>
-      <point x="237" y="1432" type="curve" smooth="yes"/>
-      <point x="237" y="1537"/>
-      <point x="305" y="1574"/>
-      <point x="418" y="1574" type="curve" smooth="yes"/>
-      <point x="498" y="1574"/>
-      <point x="560" y="1550"/>
-      <point x="607" y="1523" type="curve"/>
-      <point x="640" y="1621" type="line"/>
-      <point x="587" y="1659"/>
-      <point x="501" y="1684"/>
-      <point x="405" y="1684" type="curve" smooth="yes"/>
-      <point x="252" y="1684"/>
-      <point x="133" y="1602"/>
-      <point x="133" y="1461" type="curve" smooth="yes"/>
-      <point x="133" y="1383"/>
-      <point x="163" y="1290"/>
-      <point x="250" y="1200" type="curve"/>
+      <point x="457.0" y="1666.0" type="curve"/>
+      <point x="491.0" y="1769.0" type="line"/>
+      <point x="466.0" y="1782.0"/>
+      <point x="435.0" y="1786.0"/>
+      <point x="388.0" y="1786.0" type="curve" smooth="yes"/>
+      <point x="229.0" y="1786.0"/>
+      <point x="140.0" y="1659.0"/>
+      <point x="140.0" y="1503.0" type="curve" smooth="yes"/>
+      <point x="140.0" y="1425.0"/>
+      <point x="180.0" y="1312.0"/>
+      <point x="267.0" y="1222.0" type="curve"/>
+      <point x="339.0" y="1247.0" type="line"/>
+      <point x="294.0" y="1295.0"/>
+      <point x="244.0" y="1381.0"/>
+      <point x="244.0" y="1477.0" type="curve" smooth="yes"/>
+      <point x="244.0" y="1602.0"/>
+      <point x="288.0" y="1676.0"/>
+      <point x="391.0" y="1676.0" type="curve" smooth="yes"/>
+      <point x="412.0" y="1676.0"/>
+      <point x="437.0" y="1673.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2020/03/11 12:12:31</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>540</integer>
+      <real>540.0</real>
       <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

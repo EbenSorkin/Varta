@@ -2,11 +2,17 @@
 <glyph name="t" format="2">
   <advance width="683.3703703703703"/>
   <unicode hex="0074"/>
-  <anchor x="377.8888888888889" y="-276.5432098765432" name="btm"/>
-  <anchor x="660.2098765432099" y="1009.0987654320987" name="car"/>
-  <anchor x="284.2716049382716" y="1180.5555555555557" name="top"/>
+  <anchor x="401.8024691358025" y="0.0" name="bottom"/>
+  <anchor x="533.7283950617284" y="992.5802469135803" name="car"/>
+  <anchor x="341.8024691358025" y="496.641975308642" name="center"/>
+  <anchor x="288.69135802469134" y="1193.0" name="top"/>
+  <anchor x="483.4691358024691" y="993.0493827160494" name="topright"/>
   <outline>
     <contour>
+      <point x="477.0987654320988" y="-25.0" type="curve" smooth="yes"/>
+      <point x="536.4938271604939" y="-25.0"/>
+      <point x="601.6666666666666" y="-6.530864197530864"/>
+      <point x="657.4320987654321" y="12.0" type="curve"/>
       <point x="626.0864197530864" y="130.37037037037038" type="line"/>
       <point x="593.0246913580247" y="117.8395061728395"/>
       <point x="547.1975308641976" y="103.30864197530863"/>
@@ -27,16 +33,12 @@
       <point x="199.4814814814815" y="301.91358024691357" type="line"/>
       <point x="199.4814814814815" y="108.28395061728395"/>
       <point x="267.7037037037037" y="-25.0"/>
-      <point x="477.0987654320988" y="-25.0" type="curve" smooth="yes"/>
-      <point x="536.4938271604939" y="-25.0"/>
-      <point x="601.6666666666666" y="-6.530864197530864"/>
-      <point x="657.4320987654321" y="12.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/21 03:58:17</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -46,8 +48,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>16</integer>
+            <real>0.0</real>
+            <real>20.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -55,6 +57,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tth-deva" format="2">
   <advance width="1174.9259259259259"/>
-  <anchor x="612.358024691358" y="52.97530864197533" name="bottom"/>
-  <anchor x="625.9259259259259" y="1167.3456790123457" name="candra"/>
-  <anchor x="21.950617283950663" y="68.86419753086417" name="nukta"/>
-  <anchor x="772.3827160493827" y="1167.3456790123457" name="top"/>
+  <anchor x="600.5925925925926" y="-405.9012345679012" name="bottom"/>
+  <anchor x="688.3703703703704" y="1273.1728395061727" name="candra"/>
+  <anchor x="574.3086419753087" y="-203.9012345679012" name="nukta"/>
+  <anchor x="772.3827160493827" y="1273.1728395061727" name="top"/>
   <outline>
     <component base="ttha-deva"/>
-    <component base="halant-deva" xOffset="476.7037037037037" yOffset="11.802469135802474"/>
+    <component base="halant-deva" xOffset="429.5925925925926" yOffset="-54.67901234567903"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 11:06:56</string>
     </dict>
   </lib>
 </glyph>

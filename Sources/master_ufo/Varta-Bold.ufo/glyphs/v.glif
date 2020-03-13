@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="1000"/>
+  <advance width="1000.0"/>
   <unicode hex="0076"/>
-  <anchor x="500" y="-200" name="btm"/>
-  <anchor x="500" y="800" name="top"/>
+  <anchor x="500.0" y="-200.0" name="btm"/>
+  <anchor x="500.0" y="800.0" name="top"/>
   <outline>
     <contour>
-      <point x="377" y="0" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="976" y="1003" type="line"/>
-      <point x="763" y="1003" type="line"/>
-      <point x="596" y="471" type="line"/>
-      <point x="568" y="372"/>
-      <point x="537" y="269"/>
-      <point x="510" y="170" type="curve"/>
-      <point x="502" y="170" type="line"/>
-      <point x="473" y="269"/>
-      <point x="442" y="372"/>
-      <point x="414" y="471" type="curve"/>
-      <point x="248" y="1003" type="line"/>
-      <point x="25" y="1003" type="line"/>
+      <point x="377.0" y="0.0" type="line"/>
+      <point x="632.0" y="0.0" type="line"/>
+      <point x="976.0" y="1003.0" type="line"/>
+      <point x="763.0" y="1003.0" type="line"/>
+      <point x="596.0" y="471.0" type="line"/>
+      <point x="568.0" y="372.0"/>
+      <point x="537.0" y="269.0"/>
+      <point x="510.0" y="170.0" type="curve"/>
+      <point x="502.0" y="170.0" type="line"/>
+      <point x="473.0" y="269.0"/>
+      <point x="442.0" y="372.0"/>
+      <point x="414.0" y="471.0" type="curve"/>
+      <point x="248.0" y="1003.0" type="line"/>
+      <point x="25.0" y="1003.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -35,15 +35,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

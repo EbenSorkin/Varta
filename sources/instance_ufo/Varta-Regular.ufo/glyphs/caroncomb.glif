@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="554.3765432098766" y="993.0493827160494" name="_top"/>
+  <anchor x="554.3765432098766" y="1460.0493827160494" name="top"/>
+  <outline>
+    <contour>
+      <point x="488.60493827160496" y="1173.469135802469" type="line"/>
+      <point x="619.1481481481482" y="1173.469135802469" type="line"/>
+      <point x="812.6172839506173" y="1460.0493827160494" type="line"/>
+      <point x="697.8888888888889" y="1460.0493827160494" type="line"/>
+      <point x="557.8765432098766" y="1269.8024691358025" type="line"/>
+      <point x="549.8765432098766" y="1269.8024691358025" type="line"/>
+      <point x="410.0987654320988" y="1460.0493827160494" type="line"/>
+      <point x="296.1358024691358" y="1460.0493827160494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>1104.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>7.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

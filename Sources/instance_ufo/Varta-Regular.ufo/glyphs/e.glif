@@ -2,10 +2,15 @@
 <glyph name="e" format="2">
   <advance width="1011.5679012345679"/>
   <unicode hex="0065"/>
-  <anchor x="514.1111111111111" y="-276.5432098765432" name="btm"/>
-  <anchor x="540.9012345679013" y="991.3580246913581" name="top"/>
+  <anchor x="521.5925925925926" y="0.0" name="bottom"/>
+  <anchor x="830.8641975308642" y="10.0" name="ogonek"/>
+  <anchor x="536.9012345679013" y="993.0493827160494" name="top"/>
   <outline>
     <contour>
+      <point x="569.3456790123457" y="-25.0" type="curve" smooth="yes"/>
+      <point x="706.4691358024692" y="-25.0"/>
+      <point x="808.6913580246913" y="18.296296296296298"/>
+      <point x="893.0370370370371" y="71.64197530864197" type="curve"/>
       <point x="837.4074074074074" y="174.96296296296296" type="line"/>
       <point x="763.4074074074074" y="126.66666666666666"/>
       <point x="684.5802469135803" y="101.07407407407408"/>
@@ -25,10 +30,6 @@
       <point x="95.18518518518519" y="495.641975308642" type="curve" smooth="yes"/>
       <point x="95.18518518518519" y="163.46913580246914"/>
       <point x="305.82716049382714" y="-25.0"/>
-      <point x="569.3456790123457" y="-25.0" type="curve" smooth="yes"/>
-      <point x="706.4691358024692" y="-25.0"/>
-      <point x="808.6913580246913" y="18.296296296296298"/>
-      <point x="893.0370370370371" y="71.64197530864197" type="curve"/>
     </contour>
     <contour>
       <point x="249.01234567901236" y="567.8641975308642" type="line"/>
@@ -43,7 +44,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/21 03:45:08</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -53,8 +54,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>15</integer>
+            <real>0.0</real>
+            <real>19.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -62,6 +63,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

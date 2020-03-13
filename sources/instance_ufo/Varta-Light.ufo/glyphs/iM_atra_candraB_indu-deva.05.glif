@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra_candraBindu-deva.05" format="2">
+  <advance width="553.0"/>
+  <anchor x="1760.0" y="1411.0" name="candra"/>
+  <anchor x="1789.0" y="1408.0" name="imatra"/>
+  <anchor x="1751.0" y="2012.0" name="top"/>
+  <outline>
+    <component base="iMatra-deva.05"/>
+    <component base="candraBindu-deva" xOffset="1487.0" yOffset="164.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 18:13:09</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

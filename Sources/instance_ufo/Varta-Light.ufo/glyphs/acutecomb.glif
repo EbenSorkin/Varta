@@ -1,20 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="41" y="990" name="_top"/>
-  <anchor x="43" y="1457" name="top"/>
+  <anchor x="107.0" y="990.0" name="_top"/>
+  <anchor x="178.0" y="1347.0" name="top"/>
   <outline>
     <contour>
-      <point x="-126" y="1173" type="line"/>
-      <point x="-18" y="1173" type="line"/>
-      <point x="208" y="1457" type="line"/>
-      <point x="60" y="1457" type="line"/>
+      <point x="10.0" y="1173.0" type="line"/>
+      <point x="118.0" y="1173.0" type="line"/>
+      <point x="344.0" y="1457.0" type="line"/>
+      <point x="196.0" y="1457.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 03:41:00</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>354.0</real>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

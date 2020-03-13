@@ -4,16 +4,16 @@
   <unicode hex="00D9"/>
   <anchor x="653.5185185185185" y="0.0" name="bottom"/>
   <anchor x="1176.0987654320988" y="10.0" name="ogonek"/>
-  <anchor x="653.5185185185185" y="1344.5925925925926" name="top"/>
+  <anchor x="551.1728395061729" y="1674.4074074074074" name="top"/>
   <anchor x="1286.8024691358025" y="1344.5925925925926" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="grave.cap" xOffset="621.9012345679013"/>
+    <component base="gravecomb.cap" xOffset="359.25925925925924"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:53:07</string>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,17 @@
 <glyph name="Zdotbelow" format="2">
   <advance width="1092.8765432098764"/>
   <unicode hex="1E92"/>
-  <anchor x="546.9382716049382" y="0.0" name="bottom"/>
+  <anchor x="546.9382716049382" y="-418.0987654320988" name="bottom"/>
+  <anchor x="546.9382716049382" y="672.2962962962963" name="center"/>
   <anchor x="546.9382716049382" y="1344.5925925925926" name="top"/>
   <outline>
     <component base="Z"/>
-    <component base="dotbelowcomb" xOffset="547.9382716049382"/>
+    <component base="dotbelowcomb.cap" xOffset="431.7283950617284"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_k_ssa-deva" format="2">
+  <advance width="1944.5925925925926"/>
+  <anchor x="49.02469135802469" y="38.691358024691354" name="nukta"/>
+  <anchor x="1668.8271604938273" y="27.765432098765434" name="bottom"/>
+  <anchor x="1396.358024691358" y="1257.148148148148" name="candra"/>
+  <anchor x="1668.8271604938273" y="1287.7654320987654" name="top"/>
+  <outline>
+    <contour>
+      <point x="342.91358024691357" y="-0.4691358024691357" type="curve"/>
+      <point x="458.69135802469134" y="77.91358024691358" type="line"/>
+      <point x="305.69135802469134" y="293.60493827160496"/>
+      <point x="226.77777777777777" y="443.641975308642"/>
+      <point x="226.77777777777777" y="557.7777777777778" type="curve" smooth="yes"/>
+      <point x="226.77777777777777" y="688.925925925926"/>
+      <point x="297.679012345679" y="720.8518518518518"/>
+      <point x="440.5308641975309" y="720.8518518518518" type="curve" smooth="yes"/>
+      <point x="929.3827160493827" y="720.8518518518518" type="line"/>
+      <point x="908.3456790123457" y="845.0370370370371" type="line"/>
+      <point x="405.22222222222223" y="845.0370370370371" type="line" smooth="yes"/>
+      <point x="169.79012345679013" y="845.0370370370371"/>
+      <point x="77.07407407407408" y="731.679012345679"/>
+      <point x="77.07407407407408" y="579.0617283950618" type="curve" smooth="yes"/>
+      <point x="77.07407407407408" y="391.0740740740741"/>
+      <point x="217.2716049382716" y="161.64197530864197"/>
+    </contour>
+    <contour>
+      <point x="-13.641975308641975" y="1133.851851851852" type="line"/>
+      <point x="640.0" y="1133.851851851852" type="line"/>
+      <point x="640.0" y="1256.3827160493827" type="line"/>
+      <point x="-13.641975308641975" y="1256.3827160493827" type="line"/>
+    </contour>
+    <component base="k_ssa-deva" xOffset="541.3703703703703"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ssa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:47:52</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

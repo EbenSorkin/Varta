@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sacute" format="2">
-  <advance width="1071"/>
+  <advance width="1071.0"/>
   <unicode hex="015A"/>
-  <anchor x="536" y="0" name="bottom"/>
-  <anchor x="536" y="1346" name="top"/>
+  <anchor x="536.0" y="0.0" name="bottom"/>
+  <anchor x="646.0" y="1673.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="acute.cap" xOffset="599"/>
+    <component base="acutecomb.cap" xOffset="463.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:52:45</string>
     </dict>
   </lib>
 </glyph>

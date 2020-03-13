@@ -1,18 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcaron" format="2">
-  <advance width="1128"/>
+  <advance width="1172.0"/>
   <unicode hex="010F"/>
-  <anchor x="525" y="-300" name="btm"/>
-  <anchor x="1136" y="1003" name="car"/>
-  <anchor x="333" y="1050" name="top"/>
+  <anchor x="544.0" y="0.0" name="bottom"/>
+  <anchor x="1097.0" y="990.0" name="car"/>
+  <anchor x="534.0" y="495.0" name="center"/>
+  <anchor x="450.0" y="990.0" name="top"/>
+  <anchor x="1108.0" y="990.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="caronvertical" xOffset="957" yOffset="-12"/>
+    <component base="caronvertical" xOffset="918.0" yOffset="-25.0"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>caronvertical</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 04:00:12</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

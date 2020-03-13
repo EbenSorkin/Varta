@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_na-deva" format="2">
-  <advance width="1123"/>
-  <anchor x="843" y="27" name="bottom"/>
-  <anchor x="558" y="1167" name="candra"/>
-  <anchor x="119" y="82" name="nukta"/>
-  <anchor x="843" y="1167" name="top"/>
+  <advance width="1123.0"/>
+  <anchor x="843.0" y="0.0" name="bottom"/>
+  <anchor x="711.0" y="1287.0" name="candra"/>
+  <anchor x="117.0" y="41.0" name="nukta"/>
+  <anchor x="843.0" y="1287.0" name="top"/>
   <outline>
     <contour>
-      <point x="430" y="-180" type="line"/>
-      <point x="478" y="-144"/>
-      <point x="498" y="-108"/>
-      <point x="500" y="-75" type="curve" smooth="yes"/>
-      <point x="501" y="-45"/>
-      <point x="492" y="-16"/>
-      <point x="477" y="8" type="curve" smooth="yes"/>
-      <point x="442" y="66" type="line"/>
-      <point x="426" y="5" type="line"/>
-      <point x="861" y="343" type="line"/>
-      <point x="730" y="431" type="line"/>
-      <point x="138" y="51" type="line"/>
-      <point x="207" y="-88" type="line"/>
+      <point x="430.0" y="-180.0" type="line"/>
+      <point x="478.0" y="-144.0"/>
+      <point x="498.0" y="-108.0"/>
+      <point x="500.0" y="-75.0" type="curve" smooth="yes"/>
+      <point x="501.0" y="-45.0"/>
+      <point x="492.0" y="-16.0"/>
+      <point x="477.0" y="8.0" type="curve" smooth="yes"/>
+      <point x="442.0" y="66.0" type="line"/>
+      <point x="426.0" y="5.0" type="line"/>
+      <point x="861.0" y="343.0" type="line"/>
+      <point x="730.0" y="431.0" type="line"/>
+      <point x="138.0" y="51.0" type="line"/>
+      <point x="207.0" y="-88.0" type="line"/>
     </contour>
     <component base="ba-deva"/>
   </outline>
@@ -30,7 +30,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>na-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

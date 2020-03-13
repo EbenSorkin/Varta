@@ -2,8 +2,10 @@
 <glyph name="umacron" format="2">
   <advance width="1108.5061728395062"/>
   <unicode hex="016B"/>
-  <anchor x="546.9876543209876" y="-276.5432098765432" name="btm"/>
-  <anchor x="546.9876543209876" y="991.3580246913581" name="top"/>
+  <anchor x="554.7530864197531" y="0.0" name="bottom"/>
+  <anchor x="1009.0987654320987" y="10.0" name="ogonek"/>
+  <anchor x="544.7530864197531" y="993.0493827160494" name="top"/>
+  <anchor x="1088.5061728395062" y="993.0493827160494" name="topright"/>
   <outline>
     <component base="u"/>
     <component base="macron" xOffset="-7.123456790123457"/>
@@ -11,7 +13,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

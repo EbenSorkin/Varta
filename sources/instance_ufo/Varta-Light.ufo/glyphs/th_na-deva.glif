@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="th_na-deva" format="2">
+  <advance width="1209.0"/>
+  <anchor x="932.0" y="0.0" name="bottom"/>
+  <anchor x="861.0" y="1247.0" name="candra"/>
+  <anchor x="202.0" y="111.0" name="nukta"/>
+  <anchor x="932.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="552.0" y="-83.0" type="line"/>
+      <point x="574.0" y="-63.0"/>
+      <point x="582.0" y="-44.0"/>
+      <point x="583.0" y="-25.0" type="curve" smooth="yes"/>
+      <point x="584.0" y="-5.0"/>
+      <point x="576.0" y="15.0"/>
+      <point x="563.0" y="34.0" type="curve" smooth="yes"/>
+      <point x="494.0" y="132.0" type="line"/>
+      <point x="476.0" y="78.0" type="line"/>
+      <point x="885.0" y="395.0" type="line"/>
+      <point x="840.0" y="479.0" type="line"/>
+      <point x="285.0" y="85.0" type="line"/>
+      <point x="341.0" y="-6.0" type="line"/>
+    </contour>
+    <component base="tha-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>th-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:44:31</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

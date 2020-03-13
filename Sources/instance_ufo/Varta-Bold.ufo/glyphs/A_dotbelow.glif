@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Adotbelow" format="2">
-  <advance width="1128"/>
+  <advance width="1128.0"/>
   <unicode hex="1EA0"/>
-  <anchor x="564" y="-200" name="btm"/>
-  <anchor x="564" y="800" name="top"/>
+  <anchor x="564.0" y="-438.0" name="bottom"/>
+  <anchor x="1015.0" y="10.0" name="ogonek"/>
+  <anchor x="564.0" y="1340.0" name="top"/>
   <outline>
     <component base="A"/>
-    <component base="dotbelowcomb" xOffset="564"/>
+    <component base="dotbelowcomb.cap" xOffset="422.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:51:35</string>
     </dict>
   </lib>
 </glyph>

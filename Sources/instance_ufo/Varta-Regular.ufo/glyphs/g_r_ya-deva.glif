@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g_r_ya-deva" format="2">
   <advance width="1816.0"/>
-  <anchor x="1144.3333333333333" y="27.765432098765434" name="bottom"/>
-  <anchor x="892.0987654320987" y="1167.7654320987654" name="candra"/>
-  <anchor x="605.5061728395061" y="118.79012345679013" name="nukta"/>
-  <anchor x="1145.0987654320988" y="1167.7654320987654" name="top"/>
+  <anchor x="1159.8148148148148" y="21.4320987654321" name="bottom"/>
+  <anchor x="866.2962962962963" y="1257.148148148148" name="candra"/>
+  <anchor x="605.5061728395061" y="109.17283950617283" name="nukta"/>
+  <anchor x="1156.8271604938273" y="1287.7654320987654" name="top"/>
   <outline>
     <contour>
       <point x="290.4938271604938" y="-19.40740740740741" type="line"/>
@@ -43,7 +43,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ya-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:34:16</string>
     </dict>
   </lib>
 </glyph>

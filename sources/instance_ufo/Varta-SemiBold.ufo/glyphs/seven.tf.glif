@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.tf" format="2">
+  <advance width="1003.0"/>
+  <outline>
+    <contour>
+      <point x="342.8641975308642" y="-152.92592592592592" type="curve"/>
+      <point x="539.2098765432098" y="-152.92592592592592" type="line"/>
+      <point x="555.2098765432098" y="360.7283950617284"/>
+      <point x="621.7037037037037" y="666.9876543209876"/>
+      <point x="929.4320987654321" y="1059.5555555555557" type="curve"/>
+      <point x="929.4320987654321" y="1176.9259259259259" type="line"/>
+      <point x="76.9135802469136" y="1176.9259259259259" type="line"/>
+      <point x="76.9135802469136" y="1013.7407407407408" type="line"/>
+      <point x="716.4320987654321" y="1013.7407407407408" type="line"/>
+      <point x="461.01234567901236" y="655.9753086419753"/>
+      <point x="359.8641975308642" y="333.17283950617286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:12:25</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>10.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

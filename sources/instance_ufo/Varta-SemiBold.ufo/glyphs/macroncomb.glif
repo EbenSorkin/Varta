@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="558.0617283950618" y="998.5061728395061" name="_top"/>
+  <anchor x="558.0617283950618" y="1356.9012345679012" name="top"/>
+  <outline>
+    <contour>
+      <point x="301.8024691358025" y="1227.8024691358025" type="line"/>
+      <point x="814.320987654321" y="1227.8024691358025" type="line"/>
+      <point x="814.320987654321" y="1356.9012345679012" type="line"/>
+      <point x="301.8024691358025" y="1356.9012345679012" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>1104.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>3.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

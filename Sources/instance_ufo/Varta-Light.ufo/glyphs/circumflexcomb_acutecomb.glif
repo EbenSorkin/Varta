@@ -1,28 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb" format="2">
-  <anchor x="-343" y="1050" name="_top"/>
+  <anchor x="237.0" y="990.0" name="_top"/>
+  <anchor x="238.0" y="1539.0" name="top"/>
   <outline>
     <contour>
-      <point x="-681" y="1173" type="line"/>
-      <point x="-583" y="1173" type="line"/>
-      <point x="-458" y="1326" type="line"/>
-      <point x="-450" y="1326" type="line"/>
-      <point x="-325" y="1173" type="line"/>
-      <point x="-227" y="1173" type="line"/>
-      <point x="-397" y="1412" type="line"/>
-      <point x="-511" y="1412" type="line"/>
+      <point x="10.0" y="1173.0" type="line"/>
+      <point x="108.0" y="1173.0" type="line"/>
+      <point x="233.0" y="1326.0" type="line"/>
+      <point x="241.0" y="1326.0" type="line"/>
+      <point x="366.0" y="1173.0" type="line"/>
+      <point x="464.0" y="1173.0" type="line"/>
+      <point x="294.0" y="1412.0" type="line"/>
+      <point x="180.0" y="1412.0" type="line"/>
     </contour>
     <contour>
-      <point x="-281" y="1309" type="line"/>
-      <point x="-192" y="1309" type="line"/>
-      <point x="-5" y="1539" type="line"/>
-      <point x="-128" y="1539" type="line"/>
+      <point x="410.0" y="1309.0" type="line"/>
+      <point x="499.0" y="1309.0" type="line"/>
+      <point x="686.0" y="1539.0" type="line"/>
+      <point x="563.0" y="1539.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 03:44:16</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>696.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -32,8 +35,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>7</integer>
+            <real>0.0</real>
+            <real>7.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -41,6 +44,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

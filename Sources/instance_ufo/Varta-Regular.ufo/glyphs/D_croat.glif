@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dcroat" format="2">
-  <advance width="1277.6543209876543"/>
+  <advance width="1287.7407407407406"/>
   <unicode hex="0110"/>
   <anchor x="622.9876543209876" y="-276.5432098765432" name="btm"/>
   <anchor x="622.9876543209876" y="1404.6913580246915" name="top"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:28:58</string>
     </dict>
   </lib>
 </glyph>

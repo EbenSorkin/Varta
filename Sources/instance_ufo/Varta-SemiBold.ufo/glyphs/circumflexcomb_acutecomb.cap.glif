@@ -1,28 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb.cap" format="2">
-  <anchor x="-553.3333333333333" y="886.4197530864199" name="_top"/>
+  <anchor x="283.2098765432099" y="1342.0740740740741" name="_top"/>
+  <anchor x="283.2098765432099" y="1807.1975308641975" name="top"/>
   <outline>
     <contour>
-      <point x="-825.1604938271604" y="1444.7283950617284" type="line"/>
-      <point x="-682.1358024691358" y="1444.7283950617284" type="line"/>
-      <point x="-556.2962962962962" y="1569.1851851851852" type="line"/>
-      <point x="-548.2962962962962" y="1569.1851851851852" type="line"/>
-      <point x="-422.4567901234567" y="1444.7283950617284" type="line"/>
-      <point x="-279.43209876543204" y="1444.7283950617284" type="line"/>
-      <point x="-469.39506172839504" y="1664.2716049382716" type="line"/>
-      <point x="-635.1975308641975" y="1664.2716049382716" type="line"/>
+      <point x="10.0" y="1444.7283950617284" type="line"/>
+      <point x="153.02469135802465" y="1444.7283950617284" type="line"/>
+      <point x="278.8641975308642" y="1569.1851851851852" type="line"/>
+      <point x="286.8641975308642" y="1569.1851851851852" type="line"/>
+      <point x="412.7037037037037" y="1444.7283950617284" type="line"/>
+      <point x="555.7283950617284" y="1444.7283950617284" type="line"/>
+      <point x="365.7654320987654" y="1664.2716049382716" type="line"/>
+      <point x="199.96296296296296" y="1664.2716049382716" type="line"/>
     </contour>
     <contour>
-      <point x="-358.62962962962956" y="1577.0" type="line"/>
-      <point x="-241.45679012345676" y="1577.0" type="line"/>
-      <point x="-52.25925925925923" y="1807.1975308641975" type="line"/>
-      <point x="-213.93827160493822" y="1807.1975308641975" type="line"/>
+      <point x="476.53086419753083" y="1577.0" type="line"/>
+      <point x="593.7037037037037" y="1577.0" type="line"/>
+      <point x="782.9012345679012" y="1807.1975308641975" type="line"/>
+      <point x="621.2222222222222" y="1807.1975308641975" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:44:41</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>720.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -32,8 +35,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>3</integer>
+            <real>1.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -47,8 +50,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>1</integer>
+            <real>1.0</real>
+            <real>1.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -62,8 +65,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>1</integer>
+            <real>0.0</real>
+            <real>1.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -71,6 +74,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

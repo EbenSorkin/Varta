@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kh_ta-deva" format="2">
+  <advance width="2218.0123456790125"/>
+  <anchor x="1938.3950617283951" y="0.0" name="bottom"/>
+  <anchor x="1827.1728395061727" y="1273.1728395061727" name="candra"/>
+  <anchor x="153.77777777777777" y="27.0" name="nukta_1"/>
+  <anchor x="1124.8271604938273" y="45.77777777777777" name="nukta_2"/>
+  <anchor x="1944.358024691358" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="kh-deva"/>
+    <component base="ta-deva" xOffset="1109.7037037037037"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="auMatra-deva" format="2">
-  <advance width="554"/>
+  <advance width="554.0"/>
   <unicode hex="094C"/>
-  <anchor x="413" y="1293" name="top"/>
-  <anchor x="277" y="28" name="bottom"/>
-  <anchor x="276" y="1167" name="candra"/>
+  <anchor x="567.0" y="1247.0" name="top"/>
+  <anchor x="277.0" y="0.0" name="bottom"/>
+  <anchor x="175.0" y="1247.0" name="candra"/>
   <outline>
     <component base="aaMatra-deva"/>
-    <component base="aiMatra-deva" xOffset="21"/>
+    <component base="aiMatra-deva" xOffset="4.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:14:05</string>
     </dict>
   </lib>
 </glyph>

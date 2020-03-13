@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iMatra-deva.03" format="2">
   <advance width="558.2345679012345"/>
-  <anchor x="1527.5802469135801" y="1476.148148148148" name="candra"/>
-  <anchor x="1716.2962962962963" y="1453.148148148148" name="imatra"/>
-  <anchor x="1680.79012345679" y="1405.3703703703704" name="top"/>
+  <anchor x="1697.7530864197531" y="1449.0740740740741" name="candra"/>
+  <anchor x="1707.2592592592591" y="1452.4938271604938" name="imatra"/>
+  <anchor x="1674.1358024691358" y="1449.8395061728395" name="top"/>
   <outline>
     <contour>
+      <point x="266.5061728395062" y="1195.962962962963" type="curve"/>
       <point x="421.61728395061726" y="1201.2345679012346" type="line"/>
       <point x="290.641975308642" y="1338.9259259259259"/>
       <point x="267.02469135802465" y="1399.9259259259259"/>
@@ -25,7 +26,6 @@
       <point x="81.13580246913583" y="1510.9753086419753" type="curve" smooth="yes"/>
       <point x="81.13580246913583" y="1401.2345679012346"/>
       <point x="135.14814814814815" y="1303.6172839506173"/>
-      <point x="266.5061728395062" y="1195.962962962963" type="curve"/>
     </contour>
     <contour>
       <point x="188.4814814814815" y="0.6543209876543206" type="line"/>
@@ -43,7 +43,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 11:54:04</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

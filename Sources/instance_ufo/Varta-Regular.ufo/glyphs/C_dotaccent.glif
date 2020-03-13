@@ -2,16 +2,16 @@
 <glyph name="Cdotaccent" format="2">
   <advance width="1156.2222222222222"/>
   <unicode hex="010A"/>
-  <anchor x="668.6296296296297" y="0.0" name="bottom"/>
-  <anchor x="684.8641975308642" y="1531.358024691358" name="top"/>
+  <anchor x="635.1481481481482" y="0.0" name="bottom"/>
+  <anchor x="650.4567901234568" y="1675.2592592592594" name="top"/>
   <outline>
     <component base="C"/>
-    <component base="dotaccent.cap" xOffset="685.0987654320987"/>
+    <component base="dotaccentcomb.cap" xOffset="528.3086419753087"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/12 17:10:11</string>
     </dict>
   </lib>
 </glyph>

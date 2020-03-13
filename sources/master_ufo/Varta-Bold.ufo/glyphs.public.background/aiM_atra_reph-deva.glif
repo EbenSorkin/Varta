@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aiMatra_reph-deva" format="2">
+  <anchor x="241.0" y="1287.0" name="_top"/>
+  <anchor x="242.0" y="1680.0" name="candra"/>
+  <anchor x="237.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="286.0" y="1243.0" type="curve"/>
+      <point x="356.0" y="1272.0" type="line"/>
+      <point x="339.0" y="1322.0"/>
+      <point x="325.0" y="1390.0"/>
+      <point x="325.0" y="1440.0" type="curve" smooth="yes"/>
+      <point x="325.0" y="1533.0"/>
+      <point x="372.0" y="1571.0"/>
+      <point x="486.0" y="1571.0" type="curve" smooth="yes"/>
+      <point x="569.0" y="1571.0"/>
+      <point x="624.0" y="1551.0"/>
+      <point x="687.0" y="1516.0" type="curve"/>
+      <point x="732.0" y="1677.0" type="line"/>
+      <point x="669.0" y="1715.0"/>
+      <point x="585.0" y="1751.0"/>
+      <point x="469.0" y="1751.0" type="curve" smooth="yes"/>
+      <point x="281.0" y="1751.0"/>
+      <point x="196.0" y="1656.0"/>
+      <point x="196.0" y="1495.0" type="curve" smooth="yes"/>
+      <point x="196.0" y="1434.0"/>
+      <point x="208.0" y="1328.0"/>
+    </contour>
+    <contour>
+      <point x="175.0" y="1217.0" type="curve"/>
+      <point x="286.0" y="1261.0" type="line"/>
+      <point x="186.0" y="1744.0"/>
+      <point x="70.0" y="1863.0"/>
+      <point x="-217.0" y="1863.0" type="curve" smooth="yes"/>
+      <point x="-330.0" y="1863.0"/>
+      <point x="-407.0" y="1846.0"/>
+      <point x="-449.0" y="1836.0" type="curve"/>
+      <point x="-414.0" y="1676.0" type="line"/>
+      <point x="-341.0" y="1692.0"/>
+      <point x="-273.0" y="1706.0"/>
+      <point x="-209.0" y="1706.0" type="curve" smooth="yes"/>
+      <point x="-55.0" y="1706.0"/>
+      <point x="65.0" y="1614.0"/>
+      <point x="166.0" y="1317.0" type="curve"/>
+      <point x="199.0" y="1337.0" type="line"/>
+      <point x="63.0" y="1498.0"/>
+      <point x="-25.0" y="1570.0"/>
+      <point x="-154.0" y="1570.0" type="curve" smooth="yes"/>
+      <point x="-229.0" y="1570.0"/>
+      <point x="-324.0" y="1560.0"/>
+      <point x="-407.0" y="1538.0" type="curve"/>
+      <point x="-370.0" y="1393.0" type="line"/>
+      <point x="-292.0" y="1409.0"/>
+      <point x="-229.0" y="1418.0"/>
+      <point x="-159.0" y="1418.0" type="curve" smooth="yes"/>
+      <point x="-2.0" y="1418.0"/>
+      <point x="79.0" y="1336.0"/>
+    </contour>
+  </outline>
+</glyph>

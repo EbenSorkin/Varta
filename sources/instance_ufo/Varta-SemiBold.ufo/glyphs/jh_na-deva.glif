@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jh_na-deva" format="2">
+  <advance width="2112.296296296296"/>
+  <anchor x="1833.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="559.7777777777777" y="1273.1728395061727" name="candra_1"/>
+  <anchor x="1736.6172839506173" y="1273.1728395061727" name="candra_2"/>
+  <anchor x="1283.716049382716" y="146.8888888888889" name="nukta"/>
+  <anchor x="749.2469135802469" y="1273.1728395061727" name="top_1"/>
+  <anchor x="1833.3333333333333" y="1273.1728395061727" name="top_2"/>
+  <outline>
+    <component base="jh-deva"/>
+    <component base="na-deva" xOffset="1056.5925925925926"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:01:34</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z_ya-deva" format="2">
+  <advance width="2031.9876543209875"/>
+  <anchor x="1752.716049382716" y="0.0" name="bottom"/>
+  <anchor x="1637.9259259259259" y="1273.1728395061727" name="candra"/>
+  <anchor x="154.64197530864197" y="0.0" name="nukta_1"/>
+  <anchor x="1072.6296296296296" y="44.37037037037038" name="nukta_2"/>
+  <anchor x="1752.716049382716" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="z-deva"/>
+    <component base="ya-deva" xOffset="876.6296296296296"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>z-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:33:20</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

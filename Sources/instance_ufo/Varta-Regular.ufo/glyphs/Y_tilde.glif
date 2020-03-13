@@ -3,15 +3,16 @@
   <advance width="954.716049382716"/>
   <unicode hex="1EF8"/>
   <anchor x="477.74074074074076" y="0.0" name="bottom"/>
-  <anchor x="477.74074074074076" y="1344.5925925925926" name="top"/>
+  <anchor x="477.74074074074076" y="1673.8641975308642" name="top"/>
+  <anchor x="20.0" y="1344.5925925925926" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="tilde.cap" xOffset="475.9753086419753"/>
+    <component base="tildecomb.cap" xOffset="176.23456790123456"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

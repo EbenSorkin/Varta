@@ -2,16 +2,19 @@
 <glyph name="ecircumflexacute" format="2">
   <advance width="1023.320987654321"/>
   <unicode hex="1EBF"/>
-  <anchor x="517.8888888888889" y="-234.56790123456796" name="btm"/>
-  <anchor x="529.9876543209876" y="886.4197530864199" name="top"/>
+  <anchor x="519.0740740740741" y="0.0" name="bottom"/>
+  <anchor x="841.358024691358" y="10.0" name="ogonek"/>
+  <anchor x="526.3333333333334" y="1547.5061728395062" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="circumflexcomb_acutecomb" xOffset="1042.4567901234568"/>
+    <component base="circumflexcomb_acutecomb" xOffset="270.01234567901236"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:46:13</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

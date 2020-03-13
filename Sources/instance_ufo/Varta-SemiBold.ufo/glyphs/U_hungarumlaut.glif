@@ -4,16 +4,16 @@
   <unicode hex="0170"/>
   <anchor x="659.8148148148148" y="0.0" name="bottom"/>
   <anchor x="1187.0123456790122" y="10.0" name="ogonek"/>
-  <anchor x="659.8148148148148" y="1342.0740740740741" name="top"/>
+  <anchor x="742.4012345679013" y="1676.9259259259259" name="top"/>
   <anchor x="1298.9753086419753" y="1342.0740740740741" name="topright"/>
   <outline>
     <component base="U"/>
-    <component base="hungarumlaut.cap" xOffset="541.0864197530864"/>
+    <component base="hungarumlautcomb.cap" xOffset="410.14814814814815"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:54:32</string>
     </dict>
   </lib>
 </glyph>

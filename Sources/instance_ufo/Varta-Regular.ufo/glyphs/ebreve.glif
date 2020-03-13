@@ -2,16 +2,17 @@
 <glyph name="ebreve" format="2">
   <advance width="1011.5679012345679"/>
   <unicode hex="0115"/>
-  <anchor x="514.1111111111111" y="-276.5432098765432" name="btm"/>
-  <anchor x="540.9012345679013" y="991.3580246913581" name="top"/>
+  <anchor x="521.5925925925926" y="0.0" name="bottom"/>
+  <anchor x="830.8641975308642" y="10.0" name="ogonek"/>
+  <anchor x="536.9012345679013" y="1341.5432098765432" name="top"/>
   <outline>
     <component base="e"/>
-    <component base="breve" xOffset="-12.975308641975307"/>
+    <component base="brevecomb" xOffset="277.2098765432099"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:45:11</string>
     </dict>
   </lib>
 </glyph>

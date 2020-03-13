@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh_na-deva" format="2">
+  <advance width="1702.79012345679"/>
+  <anchor x="1423.8271604938273" y="0.0" name="bottom"/>
+  <anchor x="1327.111111111111" y="1273.1728395061727" name="candra"/>
+  <anchor x="874.2098765432098" y="146.8888888888889" name="nukta"/>
+  <anchor x="1423.8271604938273" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="bh-deva"/>
+    <component base="na-deva" xOffset="647.0864197530864"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:17:32</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

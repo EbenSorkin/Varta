@@ -2,16 +2,18 @@
 <glyph name="Egrave" format="2">
   <advance width="1076.9382716049383"/>
   <unicode hex="00C8"/>
-  <anchor x="577.2716049382716" y="-234.56790123456796" name="btm"/>
-  <anchor x="566.1481481481482" y="1073.0864197530868" name="top"/>
+  <anchor x="538.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="968.9753086419753" y="10.0" name="ogonek"/>
+  <anchor x="458.8395061728395" y="1676.9259259259259" name="top"/>
+  <anchor x="20.0" y="1342.0740740740741" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="grave.cap" xOffset="551.320987654321"/>
+    <component base="gravecomb.cap" xOffset="250.97530864197535"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:53:07</string>
     </dict>
   </lib>
 </glyph>

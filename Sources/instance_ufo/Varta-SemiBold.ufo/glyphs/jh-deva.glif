@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jh-deva" format="2">
   <advance width="1056.5925925925926"/>
-  <anchor x="814.1358024691357" y="-55.24691358024687" name="bottom"/>
-  <anchor x="563.3333333333333" y="1169.0740740740741" name="candra"/>
-  <anchor x="753.395061728395" y="1167.3456790123457" name="top"/>
+  <anchor x="559.7777777777777" y="1273.1728395061727" name="candra"/>
+  <anchor x="749.2469135802469" y="1273.1728395061727" name="top"/>
   <outline>
     <contour>
       <point x="881.9506172839506" y="369.60493827160496" type="line"/>
@@ -26,7 +25,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 09:41:34</string>
     </dict>
   </lib>
 </glyph>

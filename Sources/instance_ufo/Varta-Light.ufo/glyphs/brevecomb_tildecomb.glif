@@ -1,50 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_tildecomb" format="2">
-  <anchor x="0" y="1050" name="_top"/>
+  <anchor x="270.0" y="990.0" name="_top"/>
+  <anchor x="270.0" y="1626.0" name="top"/>
   <outline>
     <contour>
-      <point x="169" y="1391" type="line"/>
-      <point x="157" y="1323"/>
-      <point x="105" y="1259"/>
-      <point x="0" y="1259" type="curve" smooth="yes"/>
-      <point x="-105" y="1259"/>
-      <point x="-157" y="1323"/>
-      <point x="-169" y="1391" type="curve"/>
-      <point x="-249" y="1391" type="line"/>
-      <point x="-239" y="1287"/>
-      <point x="-173" y="1179"/>
-      <point x="0" y="1179" type="curve" smooth="yes"/>
-      <point x="173" y="1179"/>
-      <point x="239" y="1287"/>
-      <point x="249" y="1391" type="curve"/>
+      <point x="270.0" y="1169.0" type="curve" smooth="yes"/>
+      <point x="443.0" y="1169.0"/>
+      <point x="509.0" y="1287.0"/>
+      <point x="519.0" y="1371.0" type="curve"/>
+      <point x="439.0" y="1371.0" type="line"/>
+      <point x="427.0" y="1323.0"/>
+      <point x="375.0" y="1249.0"/>
+      <point x="270.0" y="1249.0" type="curve" smooth="yes"/>
+      <point x="165.0" y="1249.0"/>
+      <point x="113.0" y="1323.0"/>
+      <point x="101.0" y="1371.0" type="curve"/>
+      <point x="21.0" y="1371.0" type="line"/>
+      <point x="31.0" y="1287.0"/>
+      <point x="97.0" y="1169.0"/>
     </contour>
     <contour>
-      <point x="-185" y="1452" type="line"/>
-      <point x="-175" y="1512"/>
-      <point x="-146" y="1542"/>
-      <point x="-103" y="1542" type="curve" smooth="yes"/>
-      <point x="-34" y="1542"/>
-      <point x="4" y="1452"/>
-      <point x="105" y="1452" type="curve" smooth="yes"/>
-      <point x="200" y="1452"/>
-      <point x="252" y="1531"/>
-      <point x="260" y="1626" type="curve"/>
-      <point x="185" y="1626" type="line"/>
-      <point x="175" y="1566"/>
-      <point x="146" y="1536"/>
-      <point x="103" y="1536" type="curve" smooth="yes"/>
-      <point x="34" y="1536"/>
-      <point x="-4" y="1626"/>
-      <point x="-105" y="1626" type="curve" smooth="yes"/>
-      <point x="-200" y="1626"/>
-      <point x="-252" y="1548"/>
-      <point x="-260" y="1452" type="curve"/>
+      <point x="10.0" y="1472.0" type="curve"/>
+      <point x="85.0" y="1472.0" type="line"/>
+      <point x="95.0" y="1532.0"/>
+      <point x="124.0" y="1562.0"/>
+      <point x="167.0" y="1562.0" type="curve" smooth="yes"/>
+      <point x="236.0" y="1562.0"/>
+      <point x="274.0" y="1472.0"/>
+      <point x="375.0" y="1472.0" type="curve" smooth="yes"/>
+      <point x="470.0" y="1472.0"/>
+      <point x="522.0" y="1551.0"/>
+      <point x="530.0" y="1646.0" type="curve"/>
+      <point x="455.0" y="1646.0" type="line"/>
+      <point x="445.0" y="1586.0"/>
+      <point x="416.0" y="1556.0"/>
+      <point x="373.0" y="1556.0" type="curve" smooth="yes"/>
+      <point x="304.0" y="1556.0"/>
+      <point x="266.0" y="1646.0"/>
+      <point x="165.0" y="1646.0" type="curve" smooth="yes"/>
+      <point x="70.0" y="1646.0"/>
+      <point x="18.0" y="1568.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/21 03:55:43</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>540.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -54,8 +57,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -69,8 +72,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>8</integer>
+            <real>1.0</real>
+            <real>9.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -78,6 +81,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

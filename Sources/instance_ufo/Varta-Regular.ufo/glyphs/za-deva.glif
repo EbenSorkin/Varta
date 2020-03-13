@@ -2,18 +2,18 @@
 <glyph name="za-deva" format="2">
   <advance width="1418.9382716049383"/>
   <unicode hex="095B"/>
-  <anchor x="1143.9382716049383" y="27.765432098765434" name="bottom"/>
-  <anchor x="773.6172839506173" y="1168.0" name="candra"/>
-  <anchor x="448.65432098765433" y="50.51851851851852" name="nukta"/>
-  <anchor x="1144.7654320987654" y="1167.7654320987654" name="top"/>
+  <anchor x="1143.9382716049383" y="0.0" name="bottom"/>
+  <anchor x="1027.0" y="1256.3827160493827" name="candra"/>
+  <anchor x="139.12345679012347" y="74.69135802469135" name="nukta"/>
+  <anchor x="1144.7654320987654" y="1256.3827160493827" name="top"/>
   <outline>
     <component base="ja-deva"/>
-    <component base="nukta-deva" xOffset="-6.123456790123457" yOffset="11.481481481481483"/>
+    <component base="nukta-deva" xOffset="-136.46913580246914" yOffset="243.34567901234567"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 09:56:37</string>
       <key>com.schriftgestaltung.annotations</key>
       <array>
         <dict>
@@ -27,9 +27,11 @@
           <key>type</key>
           <string>Text</string>
           <key>width</key>
-          <integer>100</integer>
+          <real>100.0</real>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

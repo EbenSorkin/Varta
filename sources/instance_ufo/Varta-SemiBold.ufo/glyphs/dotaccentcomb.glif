@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb" format="2">
+  <unicode hex="0307"/>
+  <anchor x="130.2469135802469" y="998.5061728395061" name="_top"/>
+  <anchor x="130.2469135802469" y="1430.8641975308642" name="top"/>
+  <outline>
+    <contour>
+      <point x="130.2469135802469" y="1194.6049382716049" type="curve" smooth="yes"/>
+      <point x="198.98765432098764" y="1194.6049382716049"/>
+      <point x="250.14814814814812" y="1242.7654320987654"/>
+      <point x="250.14814814814812" y="1313.5802469135801" type="curve" smooth="yes"/>
+      <point x="250.14814814814812" y="1381.358024691358"/>
+      <point x="198.98765432098764" y="1430.8641975308642"/>
+      <point x="130.2469135802469" y="1430.8641975308642" type="curve" smooth="yes"/>
+      <point x="61.50617283950616" y="1430.8641975308642"/>
+      <point x="10.0" y="1381.358024691358"/>
+      <point x="10.0" y="1313.5802469135801" type="curve" smooth="yes"/>
+      <point x="10.0" y="1242.7654320987654"/>
+      <point x="61.50617283950616" y="1194.6049382716049"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 03:39:03</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>215.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>11.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

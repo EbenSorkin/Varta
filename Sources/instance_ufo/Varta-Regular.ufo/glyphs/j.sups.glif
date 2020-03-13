@@ -4,6 +4,10 @@
   <unicode hex="02B2"/>
   <outline>
     <contour>
+      <point x="46.17283950617284" y="233.8148148148148" type="curve" smooth="yes"/>
+      <point x="177.91358024691357" y="233.8148148148148"/>
+      <point x="231.6172839506173" y="320.44444444444446"/>
+      <point x="231.6172839506173" y="465.679012345679" type="curve" smooth="yes"/>
       <point x="231.6172839506173" y="1190.8765432098764" type="line"/>
       <point x="112.95061728395062" y="1190.8765432098764" type="line"/>
       <point x="112.95061728395062" y="457.679012345679" type="line"/>
@@ -16,10 +20,6 @@
       <point x="-52.111111111111114" y="250.58024691358025" type="line"/>
       <point x="-20.580246913580247" y="240.0493827160494"/>
       <point x="2.8271604938271606" y="233.8148148148148"/>
-      <point x="46.17283950617284" y="233.8148148148148" type="curve" smooth="yes"/>
-      <point x="177.91358024691357" y="233.8148148148148"/>
-      <point x="231.6172839506173" y="320.44444444444446"/>
-      <point x="231.6172839506173" y="465.679012345679" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="174.0493827160494" y="1320.9506172839506" type="curve" smooth="yes"/>
@@ -39,7 +39,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -49,8 +49,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>15.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -64,8 +64,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>11</integer>
+            <real>1.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

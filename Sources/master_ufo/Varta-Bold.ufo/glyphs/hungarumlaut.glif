@@ -1,26 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="1120"/>
+  <advance width="1120.0"/>
   <unicode hex="02DD"/>
-  <anchor x="550" y="800" name="_top"/>
   <outline>
     <contour>
-      <point x="338" y="1171" type="line"/>
-      <point x="478" y="1171" type="line"/>
-      <point x="664" y="1470" type="line"/>
-      <point x="482" y="1470" type="line"/>
+      <point x="338.0" y="1171.0" type="line"/>
+      <point x="478.0" y="1171.0" type="line"/>
+      <point x="664.0" y="1470.0" type="line"/>
+      <point x="482.0" y="1470.0" type="line"/>
     </contour>
     <contour>
-      <point x="658" y="1171" type="line"/>
-      <point x="798" y="1171" type="line"/>
-      <point x="983" y="1470" type="line"/>
-      <point x="802" y="1470" type="line"/>
+      <point x="658.0" y="1171.0" type="line"/>
+      <point x="798.0" y="1171.0" type="line"/>
+      <point x="983.0" y="1470.0" type="line"/>
+      <point x="802.0" y="1470.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -30,15 +29,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>1</integer>
+            <real>0.0</real>
+            <real>1.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>1</integer>
+            <real>0.0</real>
+            <real>1.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

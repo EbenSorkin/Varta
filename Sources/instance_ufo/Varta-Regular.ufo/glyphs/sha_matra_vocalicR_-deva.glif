@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sha_matra_vocalicR-deva" format="2">
   <advance width="1290.9753086419753"/>
-  <anchor x="1013.0370370370371" y="27.765432098765434" name="bottom"/>
-  <anchor x="764.0246913580247" y="1167.7654320987654" name="candra"/>
-  <anchor x="1013.0370370370371" y="1167.7654320987654" name="top"/>
+  <anchor x="1013.0370370370371" y="0.0" name="bottom"/>
+  <anchor x="764.0246913580247" y="1257.148148148148" name="candra"/>
+  <anchor x="1017.6296296296297" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
       <point x="115.14814814814815" y="464.98765432098764" type="line"/>
@@ -40,6 +40,7 @@
       <point x="51.641975308641975" y="578.0" type="curve"/>
     </contour>
     <contour>
+      <point x="1034.0123456790122" y="503.98765432098764" type="curve"/>
       <point x="1033.432098765432" y="633.1111111111111" type="line"/>
       <point x="860.1975308641976" y="622.358024691358"/>
       <point x="661.5185185185185" y="655.6543209876543"/>
@@ -47,7 +48,6 @@
       <point x="398.5061728395062" y="669.3827160493827" type="line"/>
       <point x="608.5432098765432" y="546.3456790123457"/>
       <point x="809.6296296296297" y="502.641975308642"/>
-      <point x="1034.0123456790122" y="503.98765432098764" type="curve"/>
     </contour>
     <contour>
       <point x="946.5645555555556" y="0.0" type="line"/>
@@ -66,7 +66,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2020/03/11 10:35:37</string>
     </dict>
   </lib>
 </glyph>

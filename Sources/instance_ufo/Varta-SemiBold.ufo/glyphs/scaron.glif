@@ -2,16 +2,16 @@
 <glyph name="scaron" format="2">
   <advance width="866.283950617284"/>
   <unicode hex="0161"/>
-  <anchor x="445.8641975308642" y="-234.56790123456796" name="btm"/>
-  <anchor x="443.2469135802469" y="886.4197530864199" name="top"/>
+  <anchor x="433.4691358024691" y="0.0" name="bottom"/>
+  <anchor x="432.9691358024691" y="1465.5061728395062" name="top"/>
   <outline>
     <component base="s"/>
-    <component base="caron" xOffset="-113.98765432098767"/>
+    <component base="caroncomb" xOffset="-124.76543209876543"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

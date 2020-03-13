@@ -2,19 +2,19 @@
 <glyph name="ldotbelowmacron" format="2">
   <advance width="532.5185185185185"/>
   <unicode hex="1E39"/>
-  <anchor x="266.4320987654321" y="0.0" name="bottom"/>
-  <anchor x="266.4320987654321" y="499.58024691358025" name="center"/>
-  <anchor x="266.4320987654321" y="998.5061728395061" name="top"/>
-  <anchor x="512.5185185185185" y="998.5061728395061" name="topright"/>
+  <anchor x="266.4320987654321" y="-429.01234567901236" name="bottom"/>
+  <anchor x="502.8024691358024" y="998.5061728395061" name="car"/>
+  <anchor x="266.4320987654321" y="929.2222222222222" name="center"/>
+  <anchor x="257.641975308642" y="1700.1234567901236" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="dotbelowcomb" xOffset="312.01234567901236"/>
-    <component base="macron.cap" xOffset="261.66666666666663" yOffset="147.53086419753086"/>
+    <component base="dotbelowcomb" xOffset="136.53086419753086"/>
+    <component base="macroncomb" xOffset="-300.41975308641975" yOffset="343.22222222222223"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:38:35</string>
     </dict>
   </lib>
 </glyph>

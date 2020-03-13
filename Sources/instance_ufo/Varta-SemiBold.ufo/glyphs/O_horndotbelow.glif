@@ -2,16 +2,19 @@
 <glyph name="Ohorndotbelow" format="2">
   <advance width="1358.2839506172838"/>
   <unicode hex="1EE2"/>
+  <anchor x="679.8148148148148" y="-429.01234567901236" name="bottom"/>
   <anchor x="682.0864197530864" y="-234.56790123456796" name="btm"/>
-  <anchor x="682.0864197530864" y="1073.0864197530868" name="top"/>
+  <anchor x="679.8148148148148" y="1340.0" name="top"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="dotbelowcomb" xOffset="682.0864197530864"/>
+    <component base="dotbelowcomb.cap" xOffset="549.9135802469136"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:48:48</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

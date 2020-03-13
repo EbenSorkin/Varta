@@ -2,10 +2,14 @@
 <glyph name="Uhorn" format="2">
   <advance width="1348.2469135802469"/>
   <unicode hex="01AF"/>
-  <anchor x="665.6666666666666" y="-234.56790123456796" name="btm"/>
-  <anchor x="668.5925925925926" y="1073.0864197530868" name="top"/>
+  <anchor x="674.1234567901234" y="0.0" name="bottom"/>
+  <anchor x="674.1234567901234" y="1342.0740740740741" name="top"/>
   <outline>
     <contour>
+      <point x="659.4691358024692" y="-25.0" type="curve" smooth="yes"/>
+      <point x="945.9135802469135" y="-25.0"/>
+      <point x="1150.79012345679" y="130.9753086419753"/>
+      <point x="1150.79012345679" y="565.5185185185185" type="curve" smooth="yes"/>
       <point x="1150.79012345679" y="1262.679012345679" type="line"/>
       <point x="1274.9506172839506" y="1288.3333333333333"/>
       <point x="1380.567901234568" y="1351.530864197531"/>
@@ -33,16 +37,12 @@
       <point x="168.83950617283952" y="565.5185185185185" type="line"/>
       <point x="168.83950617283952" y="130.9753086419753"/>
       <point x="373.67901234567904" y="-25.0"/>
-      <point x="659.4691358024692" y="-25.0" type="curve" smooth="yes"/>
-      <point x="945.9135802469135" y="-25.0"/>
-      <point x="1150.79012345679" y="130.9753086419753"/>
-      <point x="1150.79012345679" y="565.5185185185185" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/20 18:50:35</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -52,8 +52,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>6</integer>
+            <real>0.0</real>
+            <real>10.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -61,6 +61,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

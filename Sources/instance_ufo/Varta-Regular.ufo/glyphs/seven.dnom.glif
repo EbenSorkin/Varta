@@ -3,6 +3,7 @@
   <advance width="749.8148148148148"/>
   <outline>
     <contour>
+      <point x="270.77777777777777" y="0.0" type="curve"/>
       <point x="399.85185185185185" y="0.0" type="line"/>
       <point x="415.61728395061726" y="279.82716049382714"/>
       <point x="461.2098765432099" y="479.77777777777777"/>
@@ -13,13 +14,12 @@
       <point x="519.0246913580247" y="693.4444444444445" type="line"/>
       <point x="354.0740740740741" y="469.08641975308643"/>
       <point x="288.30864197530866" y="278.77777777777777"/>
-      <point x="270.77777777777777" y="0.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -29,8 +29,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>10.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

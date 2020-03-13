@@ -2,10 +2,17 @@
 <glyph name="g" format="2">
   <advance width="1042.8641975308642"/>
   <unicode hex="0067"/>
-  <anchor x="536.9876543209876" y="-234.56790123456796" name="btm"/>
-  <anchor x="552.5432098765432" y="886.4197530864199" name="top"/>
+  <anchor x="521.4320987654321" y="-1040.0" name="bottom"/>
+  <anchor x="520.1234567901234" y="998.5061728395061" name="top"/>
   <outline>
     <contour>
+      <point x="501.7283950617284" y="-454.5308641975309" type="curve" smooth="yes"/>
+      <point x="826.0864197530864" y="-454.5308641975309"/>
+      <point x="1016.9012345679013" y="-295.4938271604938"/>
+      <point x="1016.9012345679013" y="-107.02469135802471" type="curve" smooth="yes"/>
+      <point x="1016.9012345679013" y="61.518518518518505"/>
+      <point x="912.4691358024692" y="145.09876543209873"/>
+      <point x="675.5432098765432" y="145.09876543209873" type="curve" smooth="yes"/>
       <point x="474.32098765432096" y="145.09876543209873" type="line"/>
       <point x="343.48148148148147" y="145.09876543209873"/>
       <point x="302.48148148148147" y="186.59259259259258"/>
@@ -47,21 +54,8 @@
       <point x="88.8395061728395" y="-187.80246913580248" type="curve" smooth="yes"/>
       <point x="88.8395061728395" y="-360.7283950617284"/>
       <point x="237.6172839506173" y="-454.5308641975309"/>
-      <point x="501.7283950617284" y="-454.5308641975309" type="curve" smooth="yes"/>
-      <point x="826.0864197530864" y="-454.5308641975309"/>
-      <point x="1016.9012345679013" y="-295.4938271604938"/>
-      <point x="1016.9012345679013" y="-107.02469135802471" type="curve" smooth="yes"/>
-      <point x="1016.9012345679013" y="61.518518518518505"/>
-      <point x="912.4691358024692" y="145.09876543209873"/>
-      <point x="675.5432098765432" y="145.09876543209873" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="639.4938271604939" y="0.0" type="line"/>
-      <point x="766.1358024691358" y="0.0"/>
-      <point x="832.5185185185186" y="-47.617283950617285"/>
-      <point x="832.5185185185186" y="-135.49382716049382" type="curve" smooth="yes"/>
-      <point x="832.5185185185186" y="-234.40740740740742"/>
-      <point x="717.2962962962963" y="-324.08641975308643"/>
       <point x="530.8888888888889" y="-324.08641975308643" type="curve" smooth="yes"/>
       <point x="349.7901234567901" y="-324.08641975308643"/>
       <point x="254.06172839506172" y="-262.2098765432099"/>
@@ -72,6 +66,12 @@
       <point x="388.5061728395062" y="4.0"/>
       <point x="434.2345679012346" y="0.0"/>
       <point x="478.32098765432096" y="0.0" type="curve" smooth="yes"/>
+      <point x="639.4938271604939" y="0.0" type="line"/>
+      <point x="766.1358024691358" y="0.0"/>
+      <point x="832.5185185185186" y="-47.617283950617285"/>
+      <point x="832.5185185185186" y="-135.49382716049382" type="curve" smooth="yes"/>
+      <point x="832.5185185185186" y="-234.40740740740742"/>
+      <point x="717.2962962962963" y="-324.08641975308643"/>
     </contour>
     <contour>
       <point x="506.2345679012346" y="443.3703703703703" type="curve" smooth="yes"/>
@@ -91,7 +91,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/20 18:56:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -101,8 +101,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>8</integer>
+            <real>1.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -116,8 +116,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>2</integer>
+            <real>0.0</real>
+            <real>9.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -131,8 +131,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>20</integer>
+            <real>0.0</real>
+            <real>27.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -146,8 +146,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>30</integer>
+            <real>0.0</real>
+            <real>37.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -161,8 +161,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>2</integer>
-            <integer>11</integer>
+            <real>2.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -170,6 +170,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

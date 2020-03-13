@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iMatra_anusvara-deva.20" format="2">
-  <advance width="494.2345679012346"/>
-  <anchor x="2072.5308641975307" y="1425.358024691358" name="candra"/>
-  <anchor x="2242.3703703703704" y="1424.1851851851852" name="imatra"/>
-  <anchor x="2212.3333333333335" y="1379.79012345679" name="top"/>
+  <advance width="554.8765432098766"/>
+  <anchor x="2142.4814814814813" y="1445.148148148148" name="candra"/>
+  <anchor x="2201.5185185185187" y="1423.9506172839506" name="imatra"/>
+  <anchor x="2194.0123456790125" y="1423.716049382716" name="top"/>
   <outline>
     <component base="iMatra-deva.20"/>
     <component base="anusvara-deva" xOffset="1900.283950617284" yOffset="155.5679012345679"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:28:06</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

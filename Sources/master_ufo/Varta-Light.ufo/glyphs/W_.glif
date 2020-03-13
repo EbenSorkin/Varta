@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-  <advance width="1584"/>
+  <advance width="1584.0"/>
   <unicode hex="0057"/>
-  <anchor x="792" y="0" name="bottom"/>
-  <anchor x="792" y="1346" name="top"/>
+  <anchor x="792.0" y="0.0" name="bottom"/>
+  <anchor x="792.0" y="1346.0" name="top"/>
   <outline>
     <contour>
-      <point x="338" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="718" y="857" type="line"/>
-      <point x="742" y="962"/>
-      <point x="766" y="1057"/>
-      <point x="788" y="1162" type="curve"/>
-      <point x="796" y="1162" type="line"/>
-      <point x="817" y="1057"/>
-      <point x="840" y="962"/>
-      <point x="863" y="857" type="curve"/>
-      <point x="1084" y="0" type="line"/>
-      <point x="1248" y="0" type="line"/>
-      <point x="1537" y="1346" type="line"/>
-      <point x="1401" y="1346" type="line"/>
-      <point x="1248" y="589" type="line"/>
-      <point x="1222" y="444"/>
-      <point x="1195" y="299"/>
-      <point x="1167" y="152" type="curve"/>
-      <point x="1158" y="152" type="line"/>
-      <point x="1125" y="299"/>
-      <point x="1091" y="445"/>
-      <point x="1058" y="589" type="curve"/>
-      <point x="861" y="1346" type="line"/>
-      <point x="730" y="1346" type="line"/>
-      <point x="533" y="589" type="line"/>
-      <point x="499" y="444"/>
-      <point x="465" y="298"/>
-      <point x="435" y="152" type="curve"/>
-      <point x="427" y="152" type="line"/>
-      <point x="399" y="298"/>
-      <point x="371" y="443"/>
-      <point x="341" y="589" type="curve"/>
-      <point x="190" y="1346" type="line"/>
-      <point x="44" y="1346" type="line"/>
+      <point x="338.0" y="0.0" type="line"/>
+      <point x="501.0" y="0.0" type="line"/>
+      <point x="718.0" y="857.0" type="line"/>
+      <point x="742.0" y="962.0"/>
+      <point x="766.0" y="1057.0"/>
+      <point x="788.0" y="1162.0" type="curve"/>
+      <point x="796.0" y="1162.0" type="line"/>
+      <point x="817.0" y="1057.0"/>
+      <point x="840.0" y="962.0"/>
+      <point x="863.0" y="857.0" type="curve"/>
+      <point x="1084.0" y="0.0" type="line"/>
+      <point x="1248.0" y="0.0" type="line"/>
+      <point x="1537.0" y="1346.0" type="line"/>
+      <point x="1401.0" y="1346.0" type="line"/>
+      <point x="1248.0" y="589.0" type="line"/>
+      <point x="1222.0" y="444.0"/>
+      <point x="1195.0" y="299.0"/>
+      <point x="1167.0" y="152.0" type="curve"/>
+      <point x="1158.0" y="152.0" type="line"/>
+      <point x="1125.0" y="299.0"/>
+      <point x="1091.0" y="445.0"/>
+      <point x="1058.0" y="589.0" type="curve"/>
+      <point x="861.0" y="1346.0" type="line"/>
+      <point x="730.0" y="1346.0" type="line"/>
+      <point x="533.0" y="589.0" type="line"/>
+      <point x="499.0" y="444.0"/>
+      <point x="465.0" y="298.0"/>
+      <point x="435.0" y="152.0" type="curve"/>
+      <point x="427.0" y="152.0" type="line"/>
+      <point x="399.0" y="298.0"/>
+      <point x="371.0" y="443.0"/>
+      <point x="341.0" y="589.0" type="curve"/>
+      <point x="190.0" y="1346.0" type="line"/>
+      <point x="44.0" y="1346.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:50:35</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -55,8 +55,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>33</integer>
+            <real>0.0</real>
+            <real>33.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -70,8 +70,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>4</integer>
+            <real>0.0</real>
+            <real>4.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -79,6 +79,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

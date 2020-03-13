@@ -3,15 +3,15 @@
   <advance width="995.0864197530864"/>
   <unicode hex="1E1E"/>
   <anchor x="497.9259259259259" y="0.0" name="bottom"/>
-  <anchor x="573.7037037037037" y="1344.5925925925926" name="top"/>
+  <anchor x="497.9259259259259" y="1675.2592592592594" name="top"/>
   <outline>
     <component base="F"/>
-    <component base="dotaccent.cap" xOffset="564.641975308642"/>
+    <component base="dotaccentcomb.cap" xOffset="375.77777777777777"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

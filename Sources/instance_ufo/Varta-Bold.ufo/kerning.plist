@@ -2,12 +2,61 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>aiMatra_reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>aiMatra_reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>candraBindu-deva</key>
+    <dict>
+      <key>reph-deva</key>
+      <integer>10</integer>
+      <key>reph-deva.imatra</key>
+      <integer>10</integer>
+      <key>reph_anusvara-deva</key>
+      <integer>10</integer>
+    </dict>
+    <key>candraBindu-deva.imatra</key>
+    <dict>
+      <key>reph-deva</key>
+      <integer>10</integer>
+      <key>reph-deva.imatra</key>
+      <integer>10</integer>
+    </dict>
+    <key>eMatra-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>120</integer>
+    </dict>
+    <key>eMatra_reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>eMatra_reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>eShortMatra-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>120</integer>
+    </dict>
     <key>exclam</key>
     <dict>
       <key>public.kern2.W</key>
       <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-90</integer>
+    </dict>
+    <key>jh_ra-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <integer>-100</integer>
     </dict>
     <key>public.kern1.A</key>
     <dict>
@@ -27,14 +76,8 @@
     <dict>
       <key>public.kern2.a</key>
       <integer>-80</integer>
-      <key>public.kern2.c</key>
-      <integer>-40</integer>
       <key>public.kern2.colon</key>
       <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-40</integer>
-      <key>public.kern2.e</key>
-      <integer>-30</integer>
       <key>public.kern2.g</key>
       <integer>-40</integer>
       <key>public.kern2.j</key>
@@ -47,8 +90,6 @@
       <integer>-40</integer>
       <key>public.kern2.period</key>
       <integer>-150</integer>
-      <key>public.kern2.q</key>
-      <integer>-60</integer>
       <key>public.kern2.s</key>
       <integer>-30</integer>
       <key>public.kern2.t</key>
@@ -64,8 +105,6 @@
     </dict>
     <key>public.kern1.L</key>
     <dict>
-      <key>public.kern2.C</key>
-      <integer>-50</integer>
       <key>public.kern2.O</key>
       <integer>-50</integer>
       <key>public.kern2.S</key>
@@ -78,14 +117,8 @@
       <integer>-110</integer>
       <key>public.kern2.a</key>
       <integer>-50</integer>
-      <key>public.kern2.c</key>
-      <integer>-40</integer>
       <key>public.kern2.colon</key>
       <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-50</integer>
-      <key>public.kern2.e</key>
-      <integer>-40</integer>
       <key>public.kern2.g</key>
       <integer>-40</integer>
       <key>public.kern2.i</key>
@@ -100,8 +133,6 @@
       <integer>-20</integer>
       <key>public.kern2.period</key>
       <integer>50</integer>
-      <key>public.kern2.q</key>
-      <integer>-20</integer>
       <key>public.kern2.s</key>
       <integer>-40</integer>
       <key>public.kern2.straightquote</key>
@@ -132,12 +163,6 @@
     <dict>
       <key>public.kern2.a</key>
       <integer>-80</integer>
-      <key>public.kern2.c</key>
-      <integer>-80</integer>
-      <key>public.kern2.d</key>
-      <integer>-80</integer>
-      <key>public.kern2.e</key>
-      <integer>-80</integer>
       <key>public.kern2.g</key>
       <integer>-100</integer>
       <key>public.kern2.i</key>
@@ -152,8 +177,6 @@
       <integer>-70</integer>
       <key>public.kern2.period</key>
       <integer>-210</integer>
-      <key>public.kern2.q</key>
-      <integer>-70</integer>
       <key>public.kern2.s</key>
       <integer>-60</integer>
       <key>public.kern2.u</key>
@@ -169,20 +192,12 @@
     </dict>
     <key>public.kern1.T</key>
     <dict>
-      <key>public.kern2.C</key>
-      <integer>-50</integer>
       <key>public.kern2.O</key>
       <integer>-50</integer>
       <key>public.kern2.a</key>
       <integer>-140</integer>
-      <key>public.kern2.c</key>
-      <integer>-140</integer>
       <key>public.kern2.colon</key>
       <integer>-50</integer>
-      <key>public.kern2.d</key>
-      <integer>-140</integer>
-      <key>public.kern2.e</key>
-      <integer>-140</integer>
       <key>public.kern2.g</key>
       <integer>-140</integer>
       <key>public.kern2.i</key>
@@ -197,8 +212,6 @@
       <integer>-120</integer>
       <key>public.kern2.period</key>
       <integer>-180</integer>
-      <key>public.kern2.q</key>
-      <integer>-140</integer>
       <key>public.kern2.s</key>
       <integer>-130</integer>
       <key>public.kern2.t</key>
@@ -218,13 +231,7 @@
     <dict>
       <key>public.kern2.a</key>
       <integer>-60</integer>
-      <key>public.kern2.c</key>
-      <integer>-20</integer>
       <key>public.kern2.colon</key>
-      <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-40</integer>
-      <key>public.kern2.e</key>
       <integer>-20</integer>
       <key>public.kern2.g</key>
       <integer>-20</integer>
@@ -240,8 +247,6 @@
       <integer>-30</integer>
       <key>public.kern2.period</key>
       <integer>-120</integer>
-      <key>public.kern2.q</key>
-      <integer>-30</integer>
       <key>public.kern2.s</key>
       <integer>-30</integer>
       <key>public.kern2.t</key>
@@ -263,14 +268,8 @@
       <integer>-20</integer>
       <key>public.kern2.a</key>
       <integer>-70</integer>
-      <key>public.kern2.c</key>
-      <integer>-30</integer>
       <key>public.kern2.colon</key>
       <integer>-10</integer>
-      <key>public.kern2.d</key>
-      <integer>-40</integer>
-      <key>public.kern2.e</key>
-      <integer>-30</integer>
       <key>public.kern2.g</key>
       <integer>-20</integer>
       <key>public.kern2.n</key>
@@ -281,8 +280,6 @@
       <integer>-10</integer>
       <key>public.kern2.period</key>
       <integer>-100</integer>
-      <key>public.kern2.q</key>
-      <integer>-20</integer>
       <key>public.kern2.s</key>
       <integer>-10</integer>
       <key>public.kern2.straightquote</key>
@@ -308,16 +305,10 @@
       <integer>-30</integer>
       <key>public.kern2.a</key>
       <integer>-90</integer>
-      <key>public.kern2.c</key>
-      <integer>-70</integer>
       <key>public.kern2.colon</key>
       <integer>-30</integer>
       <key>public.kern2.curlybrace</key>
       <integer>20</integer>
-      <key>public.kern2.d</key>
-      <integer>-70</integer>
-      <key>public.kern2.e</key>
-      <integer>-70</integer>
       <key>public.kern2.g</key>
       <integer>-70</integer>
       <key>public.kern2.n</key>
@@ -328,8 +319,6 @@
       <integer>-30</integer>
       <key>public.kern2.period</key>
       <integer>-160</integer>
-      <key>public.kern2.q</key>
-      <integer>-80</integer>
       <key>public.kern2.s</key>
       <integer>-40</integer>
       <key>public.kern2.t</key>
@@ -343,27 +332,16 @@
       <key>public.kern2.z</key>
       <integer>-50</integer>
     </dict>
-    <key>public.kern1.a</key>
+    <key>public.kern1.b-deva</key>
     <dict>
-      <key>public.kern2.T</key>
-      <integer>-20</integer>
-      <key>public.kern2.U</key>
-      <integer>-20</integer>
-      <key>public.kern2.W</key>
-      <integer>-20</integer>
-      <key>public.kern2.Y</key>
-      <integer>-30</integer>
-    </dict>
-    <key>public.kern1.b</key>
-    <dict>
-      <key>public.kern2.T</key>
-      <integer>-110</integer>
-      <key>public.kern2.U</key>
+      <key>bh_ra-deva</key>
       <integer>-10</integer>
-      <key>public.kern2.W</key>
-      <integer>-30</integer>
-      <key>public.kern2.Y</key>
-      <integer>-60</integer>
+      <key>public.kern2.bha-deva</key>
+      <integer>-10</integer>
+      <key>public.kern2.l-deva</key>
+      <integer>30</integer>
+      <key>public.kern2.va-deva</key>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.c</key>
     <dict>
@@ -381,6 +359,11 @@
       <integer>20</integer>
       <key>space</key>
       <integer>-10</integer>
+    </dict>
+    <key>public.kern1.ch-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <integer>-290</integer>
     </dict>
     <key>public.kern1.colon</key>
     <dict>
@@ -401,8 +384,16 @@
       <integer>-70</integer>
       <key>public.kern2.U</key>
       <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-90</integer>
+    </dict>
+    <key>public.kern1.da-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <integer>-240</integer>
+    </dict>
+    <key>public.kern1.dda-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.e</key>
     <dict>
@@ -451,6 +442,11 @@
       <key>public.kern2.U</key>
       <integer>-20</integer>
     </dict>
+    <key>public.kern1.j-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <integer>-40</integer>
+    </dict>
     <key>public.kern1.k</key>
     <dict>
       <key>public.kern2.T</key>
@@ -461,6 +457,54 @@
       <integer>-50</integer>
       <key>public.kern2.Y</key>
       <integer>-60</integer>
+    </dict>
+    <key>public.kern1.k-deva</key>
+    <dict>
+      <key>p_ra-deva</key>
+      <integer>-20</integer>
+      <key>public.kern2.pa-deva</key>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.kh-deva</key>
+    <dict>
+      <key>public.kern2.ta-deva</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.l-deva</key>
+    <dict>
+      <key>public.kern2.bha-deva</key>
+      <integer>-50</integer>
+      <key>public.kern2.ha-deva</key>
+      <integer>-50</integer>
+      <key>public.kern2.ha_ra-deva</key>
+      <integer>-50</integer>
+      <key>public.kern2.ja-deva</key>
+      <integer>20</integer>
+      <key>public.kern2.l-deva</key>
+      <integer>10</integer>
+      <key>public.kern2.pa-deva</key>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.ll-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <integer>-300</integer>
+    </dict>
+    <key>public.kern1.lla-deva</key>
+    <dict>
+      <key>rVocalicMatra-deva</key>
+      <integer>-10</integer>
+      <key>rrVocalicMatra-deva</key>
+      <integer>-10</integer>
+      <key>uMatra-deva</key>
+      <integer>-10</integer>
+      <key>uuMatra-deva</key>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.m-deva</key>
+    <dict>
+      <key>public.kern2.ha-deva</key>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.n</key>
     <dict>
@@ -473,6 +517,24 @@
       <key>public.kern2.Y</key>
       <integer>-40</integer>
     </dict>
+    <key>public.kern1.n-deva</key>
+    <dict>
+      <key>dh_ra-deva</key>
+      <integer>-60</integer>
+      <key>public.kern2.dh-deva</key>
+      <integer>-60</integer>
+      <key>public.kern2.dha-deva</key>
+      <integer>-60</integer>
+      <key>public.kern2.ya-deva</key>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.ny-deva</key>
+    <dict>
+      <key>public.kern2.cha-deva</key>
+      <integer>-40</integer>
+      <key>public.kern2.sha-deva</key>
+      <integer>-10</integer>
+    </dict>
     <key>public.kern1.o</key>
     <dict>
       <key>public.kern2.T</key>
@@ -484,8 +546,6 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>20</integer>
-      <key>public.kern2.AE</key>
-      <integer>40</integer>
       <key>public.kern2.J</key>
       <integer>20</integer>
       <key>public.kern2.T</key>
@@ -500,6 +560,11 @@
       <integer>-70</integer>
       <key>public.kern2.y</key>
       <integer>-70</integer>
+    </dict>
+    <key>public.kern1.ph-deva</key>
+    <dict>
+      <key>public.kern2.ja-deva</key>
+      <integer>30</integer>
     </dict>
     <key>public.kern1.r</key>
     <dict>
@@ -517,6 +582,11 @@
       <key>public.kern2.Y</key>
       <integer>-20</integer>
     </dict>
+    <key>public.kern1.ss-deva</key>
+    <dict>
+      <key>p_ra-deva</key>
+      <integer>-10</integer>
+    </dict>
     <key>public.kern1.straightquote</key>
     <dict>
       <key>public.kern2.T</key>
@@ -525,12 +595,31 @@
       <integer>-60</integer>
       <key>public.kern2.W</key>
       <integer>-20</integer>
-      <key>public.kern2.d</key>
-      <integer>-90</integer>
     </dict>
     <key>public.kern1.t</key>
     <dict>
       <key>public.kern2.T</key>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.t-deva</key>
+    <dict>
+      <key>public.kern2.k_ssa-deva</key>
+      <integer>-50</integer>
+      <key>public.kern2.ka-deva</key>
+      <integer>-20</integer>
+      <key>public.kern2.m-deva</key>
+      <integer>-20</integer>
+      <key>public.kern2.ma-deva</key>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.tta-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <integer>-130</integer>
+    </dict>
+    <key>public.kern1.ttha-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
       <integer>-40</integer>
     </dict>
     <key>public.kern1.u</key>
@@ -543,6 +632,15 @@
       <integer>-10</integer>
       <key>public.kern2.Y</key>
       <integer>-10</integer>
+    </dict>
+    <key>public.kern1.v-deva</key>
+    <dict>
+      <key>public.kern2.bha-deva</key>
+      <integer>-20</integer>
+      <key>public.kern2.ha-deva</key>
+      <integer>-10</integer>
+      <key>public.kern2.pa-deva</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.w</key>
     <dict>
@@ -581,19 +679,32 @@
     <dict>
       <key>public.kern2.W</key>
       <integer>-10</integer>
-      <key>public.kern2.d</key>
-      <integer>-90</integer>
+    </dict>
+    <key>reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
+      <key>candraBindu-deva.imatra</key>
+      <integer>10</integer>
+    </dict>
+    <key>reph-deva.imatra</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
+      <key>candraBindu-deva.imatra</key>
+      <integer>10</integer>
+    </dict>
+    <key>reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
     </dict>
     <key>space</key>
     <dict>
-      <key>public.kern2.AE</key>
-      <integer>-40</integer>
       <key>public.kern2.J</key>
       <integer>-60</integer>
       <key>public.kern2.T</key>
       <integer>-30</integer>
-      <key>public.kern2.c</key>
-      <integer>-10</integer>
       <key>public.kern2.w</key>
       <integer>-30</integer>
       <key>public.kern2.y</key>

@@ -2,20 +2,22 @@
 <glyph name="jha-deva" format="2">
   <advance width="1501.7654320987654"/>
   <unicode hex="091D"/>
-  <anchor x="1224.8271604938273" y="27.765432098765434" name="bottom"/>
-  <anchor x="978.6543209876543" y="1176.0493827160494" name="candra"/>
-  <anchor x="164.76543209876544" y="-195.23456790123456" name="nukta"/>
-  <anchor x="1224.8271604938273" y="1167.7654320987654" name="top"/>
+  <anchor x="127.11111111111111" y="-163.08641975308643" name="nukta"/>
+  <anchor x="1224.0617283950617" y="0.0" name="bottom"/>
+  <anchor x="484.22222222222223" y="1256.3827160493827" name="candra_1"/>
+  <anchor x="1132.3827160493827" y="1256.3827160493827" name="candra_2"/>
+  <anchor x="734.9753086419753" y="1256.3827160493827" name="top_1"/>
+  <anchor x="1224.5925925925926" y="1256.3827160493827" name="top_2"/>
   <outline>
     <contour>
-      <point x="854.6666666666666" y="379.0740740740741" type="line"/>
-      <point x="960.6666666666666" y="364.6666666666667"/>
-      <point x="1149.7072839506172" y="405.4320987654321"/>
-      <point x="1213.7072839506172" y="465.4320987654321" type="curve"/>
-      <point x="1196.5061728395062" y="600.9135802469136" type="line"/>
-      <point x="1079.7407407407406" y="511.61728395061726"/>
-      <point x="921.7407407407408" y="475.9753086419753"/>
-      <point x="803.5061728395061" y="486.91358024691357" type="curve"/>
+      <point x="854.6666666666666" y="424.38271604938274" type="line"/>
+      <point x="960.6666666666666" y="409.9753086419753"/>
+      <point x="1149.7283950617284" y="450.74074074074076"/>
+      <point x="1213.7283950617284" y="510.74074074074076" type="curve"/>
+      <point x="1196.5061728395062" y="646.2222222222222" type="line"/>
+      <point x="1079.7407407407406" y="556.925925925926"/>
+      <point x="921.7407407407408" y="521.283950617284"/>
+      <point x="803.5061728395061" y="532.2222222222222" type="curve"/>
     </contour>
     <component base="i-deva"/>
     <component base="aaMatra-deva" xOffset="946.1234567901234"/>
@@ -27,7 +29,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>aaMatra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:14:01</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

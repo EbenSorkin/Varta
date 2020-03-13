@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ka_ra-deva" format="2">
-  <advance width="1530"/>
-  <anchor x="798" y="27" name="bottom"/>
-  <anchor x="796" y="1167" name="candra"/>
-  <anchor x="795" y="1167" name="top"/>
-  <anchor x="176" y="-35" name="nukta"/>
+  <advance width="1530.0"/>
+  <anchor x="795.0" y="-5.0" name="bottom"/>
+  <anchor x="792.0" y="1282.0" name="candra"/>
+  <anchor x="176.0" y="-35.0" name="nukta"/>
+  <anchor x="794.0" y="1282.0" name="top"/>
   <outline>
     <contour>
-      <point x="264" y="-74" type="line"/>
-      <point x="780" y="362" type="line"/>
-      <point x="700" y="458" type="line"/>
+      <point x="264.0" y="-74.0" type="line"/>
+      <point x="780.0" y="362.0" type="line"/>
+      <point x="700.0" y="458.0" type="line"/>
       <point x="144.091" y="72.091" type="line"/>
     </contour>
-    <component base="ka-deva" yOffset="-5"/>
+    <component base="ka-deva" yOffset="-5.0"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 15:55:13</string>
     </dict>
   </lib>
 </glyph>

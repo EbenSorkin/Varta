@@ -2,16 +2,16 @@
 <glyph name="rlinebelow" format="2">
   <advance width="728.5308641975308"/>
   <unicode hex="1E5F"/>
-  <anchor x="315.3333333333333" y="-234.56790123456796" name="btm"/>
-  <anchor x="447.7407407407407" y="886.4197530864199" name="top"/>
+  <anchor x="261.179012345679" y="-356.04938271604937" name="bottom"/>
+  <anchor x="418.04938271604937" y="998.5061728395061" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="macronbelowcomb" xOffset="316.02469135802465"/>
+    <component base="macronbelowcomb" xOffset="-6.580246913580244"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:57:42</string>
     </dict>
   </lib>
 </glyph>

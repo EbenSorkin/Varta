@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iMatra_reph-deva.05" format="2">
   <advance width="554.8765432098766"/>
-  <anchor x="1422.962962962963" y="1605.7530864197531" name="candra"/>
-  <anchor x="1802.3703703703704" y="1424.1851851851852" name="imatra"/>
-  <anchor x="1884.2592592592594" y="1861.4074074074074" name="top"/>
+  <anchor x="1308.5432098765432" y="1637.4567901234568" name="candra"/>
+  <anchor x="1534.8518518518517" y="1527.4074074074074" name="top"/>
+  <anchor x="1800.2592592592594" y="1423.9506172839506" name="imatra"/>
   <outline>
     <component base="iMatra-deva.05"/>
-    <component base="reph-deva" xOffset="1489.5802469135801" yOffset="186.22222222222223"/>
+    <component base="reph-deva" xOffset="1464.6543209876543" yOffset="167.09876543209876"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 09:14:05</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_ra-deva" format="2">
+  <advance width="929.2716049382716"/>
+  <outline>
+    <contour>
+      <point x="695.0123456790124" y="160.65432098765433" type="line"/>
+      <point x="1171.0617283950617" y="531.4197530864197" type="line"/>
+      <point x="1133.6172839506173" y="651.5555555555555" type="line"/>
+      <point x="605.7530864197531" y="266.4938271604938" type="line"/>
+    </contour>
+    <component base="l-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:29:27</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

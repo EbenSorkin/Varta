@@ -2,20 +2,22 @@
 <glyph name="dzcaron" format="2">
   <advance width="1995.9506172839506"/>
   <unicode hex="01C6"/>
-  <anchor x="529.2222222222222" y="-276.5432098765432" name="btm_1"/>
-  <anchor x="1573.888888888889" y="-276.5432098765432" name="btm_2"/>
-  <anchor x="1147.4938271604938" y="1008.8641975308642" name="car"/>
-  <anchor x="345.4320987654321" y="991.3580246913581" name="top_1"/>
-  <anchor x="1568.962962962963" y="991.3580246913581" name="top_2"/>
+  <anchor x="542.1234567901234" y="0.0" name="bottom_1"/>
+  <anchor x="1564.79012345679" y="0.0" name="bottom_2"/>
+  <anchor x="1108.7283950617284" y="993.0493827160494" name="car"/>
+  <anchor x="543.8518518518518" y="496.641975308642" name="center_1"/>
+  <anchor x="1564.79012345679" y="496.641975308642" name="center_2"/>
+  <anchor x="450.0" y="990.0" name="top_1"/>
+  <anchor x="1564.29012345679" y="1460.0493827160494" name="top_2"/>
+  <anchor x="1113.3950617283951" y="993.0493827160494" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="1133.3950617283951"/>
-    <component base="caron" xOffset="1015.0864197530864"/>
+    <component base="zcaron" xOffset="1133.3950617283951"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

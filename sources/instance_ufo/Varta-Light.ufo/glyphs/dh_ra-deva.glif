@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dh_ra-deva" format="2">
+  <advance width="711.0"/>
+  <outline>
+    <contour>
+      <point x="308.0" y="-37.0" type="line"/>
+      <point x="809.0" y="338.0" type="line"/>
+      <point x="784.0" y="415.0" type="line"/>
+      <point x="234.0" y="60.0" type="line"/>
+    </contour>
+    <component base="dh-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:52:53</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,8 @@
 <glyph name="ss_ttha-deva" format="2">
   <advance width="993.2345679012345"/>
   <anchor x="518.9629629629629" y="-71.34567901234568" name="bottom"/>
-  <anchor x="517.283950617284" y="1167.7654320987654" name="candra"/>
-  <anchor x="791.2469135802469" y="1167.7654320987654" name="top"/>
+  <anchor x="517.283950617284" y="1257.148148148148" name="candra"/>
+  <anchor x="791.2469135802469" y="1287.7654320987654" name="top"/>
   <outline>
     <contour>
       <point x="1006.641975308642" y="1256.3827160493827" type="line"/>
@@ -69,7 +69,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:00:03</string>
     </dict>
   </lib>
 </glyph>

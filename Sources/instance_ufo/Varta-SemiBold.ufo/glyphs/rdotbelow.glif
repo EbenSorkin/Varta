@@ -2,16 +2,16 @@
 <glyph name="rdotbelow" format="2">
   <advance width="728.5308641975308"/>
   <unicode hex="1E5B"/>
-  <anchor x="315.3333333333333" y="-234.56790123456796" name="btm"/>
-  <anchor x="447.7407407407407" y="886.4197530864199" name="top"/>
+  <anchor x="261.5061728395062" y="-429.01234567901236" name="bottom"/>
+  <anchor x="418.04938271604937" y="998.5061728395061" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="dotbelowcomb" xOffset="315.3333333333333"/>
+    <component base="dotbelowcomb" xOffset="131.60493827160494"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:57:42</string>
     </dict>
   </lib>
 </glyph>

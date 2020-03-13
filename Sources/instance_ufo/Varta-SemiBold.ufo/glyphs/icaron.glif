@@ -2,16 +2,17 @@
 <glyph name="icaron" format="2">
   <advance width="514.2098765432098"/>
   <unicode hex="01D0"/>
-  <anchor x="257.08641975308643" y="-234.56790123456796" name="btm"/>
-  <anchor x="257.08641975308643" y="886.4197530864199" name="top"/>
+  <anchor x="257.4320987654321" y="0.0" name="bottom"/>
+  <anchor x="462.59259259259255" y="10.0" name="ogonek"/>
+  <anchor x="257.4320987654321" y="998.5061728395061" name="top"/>
   <outline>
-    <component base="idotless"/>
+    <component base="dotlessi"/>
     <component base="caron" xOffset="-300.14814814814815"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

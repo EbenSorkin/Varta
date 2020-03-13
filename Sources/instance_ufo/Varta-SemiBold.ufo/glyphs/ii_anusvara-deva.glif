@@ -1,22 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ii_anusvara-deva" format="2">
-  <advance width="1077.888888888889"/>
-  <anchor x="814.1358024691357" y="-55.24691358024687" name="bottom"/>
-  <anchor x="563.3333333333333" y="1169.0740740740741" name="candra"/>
-  <anchor x="870.7283950617284" y="1704.148148148148" name="top"/>
+  <advance width="1032.3456790123457"/>
+  <anchor x="559.7777777777777" y="1273.1728395061727" name="candra"/>
+  <anchor x="854.3086419753085" y="1630.9135802469136" name="top"/>
   <outline>
+    <contour>
+      <point x="904.0" y="1409.4567901234568" type="curve" smooth="yes"/>
+      <point x="956.8518518518518" y="1409.4567901234568"/>
+      <point x="978.7777777777777" y="1431.0740740740741"/>
+      <point x="978.7777777777777" y="1482.9259259259259" type="curve" smooth="yes"/>
+      <point x="978.7777777777777" y="1534.7777777777778"/>
+      <point x="956.8518518518518" y="1556.0493827160494"/>
+      <point x="904.0" y="1556.0493827160494" type="curve" smooth="yes"/>
+      <point x="852.1481481481482" y="1556.0493827160494"/>
+      <point x="829.5308641975308" y="1534.7777777777778"/>
+      <point x="829.5308641975308" y="1482.9259259259259" type="curve" smooth="yes"/>
+      <point x="829.5308641975308" y="1431.0740740740741"/>
+      <point x="852.1481481481482" y="1409.4567901234568"/>
+    </contour>
     <component base="ii-deva"/>
-    <component base="anusvara-deva" xScale="0.7160740740740742" yScale="0.7160740740740742" xOffset="737.1358024691358" yOffset="317.59259259259255"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ii-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <string>2020/03/11 08:55:02</string>
     </dict>
   </lib>
 </glyph>

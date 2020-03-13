@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="multiply" format="2">
-  <advance width="1003"/>
+  <advance width="1003.0"/>
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="179" y="265" type="line"/>
-      <point x="501" y="600" type="line"/>
-      <point x="823" y="265" type="line"/>
-      <point x="898" y="343" type="line"/>
-      <point x="576" y="676" type="line"/>
-      <point x="898" y="1007" type="line"/>
-      <point x="823" y="1085" type="line"/>
-      <point x="501" y="751" type="line"/>
-      <point x="179" y="1085" type="line"/>
-      <point x="103" y="1007" type="line"/>
-      <point x="427" y="676" type="line"/>
-      <point x="103" y="343" type="line"/>
+      <point x="179.0" y="265.0" type="line"/>
+      <point x="501.0" y="600.0" type="line"/>
+      <point x="823.0" y="265.0" type="line"/>
+      <point x="898.0" y="343.0" type="line"/>
+      <point x="576.0" y="676.0" type="line"/>
+      <point x="898.0" y="1007.0" type="line"/>
+      <point x="823.0" y="1085.0" type="line"/>
+      <point x="501.0" y="751.0" type="line"/>
+      <point x="179.0" y="1085.0" type="line"/>
+      <point x="103.0" y="1007.0" type="line"/>
+      <point x="427.0" y="676.0" type="line"/>
+      <point x="103.0" y="343.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -31,8 +31,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,47 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Eogonek" format="2">
-  <advance width="1056"/>
+  <advance width="1056.0"/>
   <unicode hex="0118"/>
+  <anchor x="528.0" y="0.0" name="bottom"/>
+  <anchor x="950.0" y="10.0" name="ogonek"/>
+  <anchor x="568.0" y="1346.0" name="top"/>
+  <anchor x="20.0" y="1346.0" name="topleft"/>
   <outline>
-    <contour>
-      <point x="952" y="-297" type="line"/>
-      <point x="926" y="-317"/>
-      <point x="902" y="-326"/>
-      <point x="868" y="-326" type="curve" smooth="yes"/>
-      <point x="817" y="-326"/>
-      <point x="767" y="-294"/>
-      <point x="767" y="-227" type="curve" smooth="yes"/>
-      <point x="767" y="-114"/>
-      <point x="866" y="-14"/>
-      <point x="958" y="0" type="curve" smooth="yes"/>
-      <point x="964" y="0" type="line"/>
-      <point x="964" y="119" type="line"/>
-      <point x="324" y="119" type="line"/>
-      <point x="324" y="651" type="line"/>
-      <point x="845" y="651" type="line"/>
-      <point x="845" y="770" type="line"/>
-      <point x="324" y="770" type="line"/>
-      <point x="324" y="1228" type="line"/>
-      <point x="943" y="1228" type="line"/>
-      <point x="943" y="1346" type="line"/>
-      <point x="184" y="1346" type="line"/>
-      <point x="184" y="0" type="line"/>
-      <point x="808" y="0" type="line"/>
-      <point x="730" y="-50"/>
-      <point x="657" y="-144"/>
-      <point x="657" y="-254" type="curve" smooth="yes"/>
-      <point x="657" y="-370"/>
-      <point x="739" y="-428"/>
-      <point x="843" y="-428" type="curve" smooth="yes"/>
-      <point x="894" y="-428"/>
-      <point x="958" y="-403"/>
-      <point x="994" y="-375" type="curve"/>
-    </contour>
+    <component base="E"/>
+    <component base="ogonekcomb.cap" xOffset="603.0" yOffset="3.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/20 18:46:13</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -49,10 +21,10 @@
           <true/>
           <key>options</key>
           <integer>0</integer>
-          <key>origin</key>
+          <key>place</key>
           <array>
-            <integer>0</integer>
-            <integer>20</integer>
+            <real>0.0</real>
+            <real>-2147483648.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

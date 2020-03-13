@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta_uMatra-deva" format="2">
+  <advance width="555.2098765432099"/>
+  <anchor x="268.88888888888886" y="0.0" name="_bottom"/>
+  <outline>
+    <component base="nukta-deva"/>
+    <component base="uMatra-deva" xOffset="55.296296296296305" yOffset="-406.5185185185185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 18:13:09</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

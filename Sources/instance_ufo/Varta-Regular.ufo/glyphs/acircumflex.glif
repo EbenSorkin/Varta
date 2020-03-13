@@ -2,16 +2,17 @@
 <glyph name="acircumflex" format="2">
   <advance width="1044.567901234568"/>
   <unicode hex="00E2"/>
-  <anchor x="511.2098765432099" y="-276.5432098765432" name="btm"/>
-  <anchor x="511.2098765432099" y="991.3580246913581" name="top"/>
+  <anchor x="522.283950617284" y="0.0" name="bottom"/>
+  <anchor x="939.8641975308642" y="10.0" name="ogonek"/>
+  <anchor x="521.783950617284" y="1460.0493827160494" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="circumflex" xOffset="-42.66666666666667"/>
+    <component base="circumflexcomb" xOffset="-32.592592592592595"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

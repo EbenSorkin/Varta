@@ -2,46 +2,18 @@
 <glyph name="Eogonek" format="2">
   <advance width="1076.9382716049383"/>
   <unicode hex="0118"/>
+  <anchor x="538.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="968.9753086419753" y="10.0" name="ogonek"/>
+  <anchor x="565.3827160493827" y="1342.0740740740741" name="top"/>
+  <anchor x="20.0" y="1342.0740740740741" name="topleft"/>
   <outline>
-    <contour>
-      <point x="962.4691358024692" y="-276.0617283950617" type="line"/>
-      <point x="939.0864197530864" y="-294.0987654320988"/>
-      <point x="913.7777777777777" y="-305.0617283950617"/>
-      <point x="882.395061728395" y="-305.0617283950617" type="curve" smooth="yes"/>
-      <point x="834.0123456790124" y="-305.0617283950617"/>
-      <point x="785.9753086419753" y="-275.67901234567904"/>
-      <point x="785.9753086419753" y="-213.25925925925927" type="curve" smooth="yes"/>
-      <point x="785.9753086419753" y="-108.11111111111111"/>
-      <point x="879.7407407407408" y="-10.728395061728397"/>
-      <point x="972.395061728395" y="0.0" type="curve" smooth="yes"/>
-      <point x="980.358024691358" y="0.0" type="line"/>
-      <point x="980.358024691358" y="163.4938271604938" type="line"/>
-      <point x="368.4938271604938" y="163.4938271604938" type="line"/>
-      <point x="368.4938271604938" y="621.5555555555555" type="line"/>
-      <point x="867.2469135802469" y="621.5555555555555" type="line"/>
-      <point x="867.2469135802469" y="783.7407407407408" type="line"/>
-      <point x="368.4938271604938" y="783.7407407407408" type="line"/>
-      <point x="368.4938271604938" y="1180.2345679012346" type="line"/>
-      <point x="959.358024691358" y="1180.2345679012346" type="line"/>
-      <point x="959.358024691358" y="1342.0740740740741" type="line"/>
-      <point x="174.83950617283952" y="1342.0740740740741" type="line"/>
-      <point x="174.83950617283952" y="0.0" type="line"/>
-      <point x="794.9135802469136" y="0.0" type="line"/>
-      <point x="718.8765432098766" y="-48.03703703703704"/>
-      <point x="639.9876543209876" y="-142.03703703703704"/>
-      <point x="639.9876543209876" y="-257.2716049382716" type="curve" smooth="yes"/>
-      <point x="639.9876543209876" y="-375.2345679012346"/>
-      <point x="729.8395061728395" y="-437.8148148148148"/>
-      <point x="841.6913580246913" y="-437.8148148148148" type="curve" smooth="yes"/>
-      <point x="899.2345679012345" y="-437.8148148148148"/>
-      <point x="972.395061728395" y="-410.85185185185185"/>
-      <point x="1014.283950617284" y="-378.2716049382716" type="curve"/>
-    </contour>
+    <component base="E"/>
+    <component base="ogonekcomb.cap" xOffset="585.9876543209876" yOffset="4.308641975308641"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/20 18:46:13</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -49,10 +21,10 @@
           <true/>
           <key>options</key>
           <integer>0</integer>
-          <key>origin</key>
+          <key>place</key>
           <array>
-            <integer>0</integer>
-            <integer>20</integer>
+            <real>0.0</real>
+            <real>-2147483648.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

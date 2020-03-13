@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-  <advance width="1304"/>
+  <advance width="1304.0"/>
   <unicode hex="0143"/>
-  <anchor x="652" y="0" name="bottom"/>
-  <anchor x="652" y="1346" name="top"/>
+  <anchor x="652.0" y="0.0" name="bottom"/>
+  <anchor x="762.0" y="1673.0" name="top"/>
   <outline>
     <component base="N"/>
-    <component base="acute.cap" xOffset="687"/>
+    <component base="acutecomb.cap" xOffset="579.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:52:45</string>
     </dict>
   </lib>
 </glyph>

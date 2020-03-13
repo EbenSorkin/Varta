@@ -1,27 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb" format="2">
   <unicode hex="0323"/>
-  <anchor x="0.0" y="-234.56790123456796" name="_btm"/>
+  <anchor x="129.9012345679012" y="0.0" name="_bottom"/>
+  <anchor x="129.9012345679012" y="-429.01234567901236" name="bottom"/>
   <outline>
     <contour>
-      <point x="0.0" y="-429.01234567901236" type="curve" smooth="yes"/>
-      <point x="69.0864197530864" y="-429.01234567901236"/>
-      <point x="119.90123456790121" y="-380.5061728395062"/>
-      <point x="119.90123456790121" y="-310.03703703703707" type="curve" smooth="yes"/>
-      <point x="119.90123456790121" y="-241.9135802469136"/>
-      <point x="69.0864197530864" y="-193.40740740740742"/>
-      <point x="0.0" y="-193.40740740740742" type="curve" smooth="yes"/>
-      <point x="-69.0864197530864" y="-193.40740740740742"/>
-      <point x="-119.90123456790121" y="-241.9135802469136"/>
-      <point x="-119.90123456790121" y="-310.03703703703707" type="curve" smooth="yes"/>
-      <point x="-119.90123456790121" y="-380.5061728395062"/>
-      <point x="-69.0864197530864" y="-429.01234567901236"/>
+      <point x="129.9012345679012" y="-429.01234567901236" type="curve" smooth="yes"/>
+      <point x="198.98765432098764" y="-429.01234567901236"/>
+      <point x="249.80246913580243" y="-380.5061728395062"/>
+      <point x="249.80246913580243" y="-310.03703703703707" type="curve" smooth="yes"/>
+      <point x="249.80246913580243" y="-241.9135802469136"/>
+      <point x="198.98765432098764" y="-193.40740740740742"/>
+      <point x="129.9012345679012" y="-193.40740740740742" type="curve" smooth="yes"/>
+      <point x="60.81481481481481" y="-193.40740740740742"/>
+      <point x="10.0" y="-241.9135802469136"/>
+      <point x="10.0" y="-310.03703703703707" type="curve" smooth="yes"/>
+      <point x="10.0" y="-380.5061728395062"/>
+      <point x="60.81481481481481" y="-429.01234567901236"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>214.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -31,8 +34,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -40,6 +43,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

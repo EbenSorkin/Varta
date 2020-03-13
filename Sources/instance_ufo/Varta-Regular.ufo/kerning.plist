@@ -2,602 +2,818 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>aiMatra_reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>aiMatra_reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>candraBindu-deva</key>
+    <dict>
+      <key>reph-deva</key>
+      <real>2.3456790123456788</real>
+      <key>reph-deva.imatra</key>
+      <real>2.3456790123456788</real>
+      <key>reph_anusvara-deva</key>
+      <real>2.3456790123456788</real>
+    </dict>
+    <key>candraBindu-deva.imatra</key>
+    <dict>
+      <key>reph-deva</key>
+      <real>2.3456790123456788</real>
+      <key>reph-deva.imatra</key>
+      <real>2.3456790123456788</real>
+    </dict>
+    <key>dh_ra-deva</key>
+    <dict>
+      <key>y_ra-deva</key>
+      <real>30.617283950617285</real>
+    </dict>
+    <key>eMatra-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>120</integer>
+    </dict>
+    <key>eMatra_reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>eMatra_reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>30</integer>
+    </dict>
+    <key>eShortMatra-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>120</integer>
+    </dict>
     <key>exclam</key>
     <dict>
       <key>public.kern2.W</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-21.111111111111107</real>
+      <integer>-20</integer>
+    </dict>
+    <key>jh_ra-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>-23.456790123456788</real>
+    </dict>
+    <key>k_ss-deva</key>
+    <dict>
+      <key>public.kern2.ma-deva</key>
+      <real>-53.580246913580254</real>
+      <key>public.kern2.ya-deva</key>
+      <real>-7.654320987654321</real>
+    </dict>
+    <key>p_ra-deva</key>
+    <dict>
+      <key>ss_p_ra-deva</key>
+      <real>-22.962962962962965</real>
     </dict>
     <key>public.kern1.A</key>
     <dict>
       <key>public.kern2.colon</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>public.kern2.period</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>space</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.C</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.F</key>
     <dict>
       <key>public.kern2.a</key>
-      <real>-18.76543209876543</real>
-      <key>public.kern2.c</key>
-      <real>-9.382716049382715</real>
+      <integer>-80</integer>
       <key>public.kern2.colon</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-9.382716049382715</real>
-      <key>public.kern2.e</key>
-      <real>-7.037037037037035</real>
+      <integer>-20</integer>
       <key>public.kern2.g</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.j</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.n</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.o</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.p</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.period</key>
-      <real>-35.185185185185176</real>
-      <key>public.kern2.q</key>
-      <real>-14.07407407407407</real>
+      <integer>-150</integer>
       <key>public.kern2.s</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.t</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.u</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.w</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.z</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
     </dict>
     <key>public.kern1.L</key>
     <dict>
-      <key>public.kern2.C</key>
-      <real>-11.728395061728394</real>
       <key>public.kern2.O</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.S</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.T</key>
-      <real>-37.53086419753086</real>
+      <integer>-160</integer>
       <key>public.kern2.W</key>
-      <real>-25.802469135802465</real>
+      <integer>-110</integer>
       <key>public.kern2.Y</key>
-      <real>-25.802469135802465</real>
+      <integer>-110</integer>
       <key>public.kern2.a</key>
-      <real>-11.728395061728394</real>
-      <key>public.kern2.c</key>
-      <real>-9.382716049382715</real>
+      <integer>-50</integer>
       <key>public.kern2.colon</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-11.728395061728394</real>
-      <key>public.kern2.e</key>
-      <real>-9.382716049382715</real>
+      <integer>-20</integer>
       <key>public.kern2.g</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.i</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.j</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.n</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.o</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.p</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.period</key>
-      <real>11.728395061728394</real>
-      <key>public.kern2.q</key>
-      <real>-4.6913580246913575</real>
+      <integer>50</integer>
       <key>public.kern2.s</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.straightquote</key>
-      <real>-39.87654320987654</real>
+      <integer>-170</integer>
       <key>public.kern2.t</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.u</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.w</key>
-      <real>-25.802469135802465</real>
+      <integer>-110</integer>
       <key>public.kern2.y</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.z</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>space</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
     </dict>
     <key>public.kern1.O</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.W</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>public.kern2.Y</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.P</key>
     <dict>
       <key>public.kern2.a</key>
-      <real>-18.76543209876543</real>
-      <key>public.kern2.c</key>
-      <real>-18.76543209876543</real>
-      <key>public.kern2.d</key>
-      <real>-18.76543209876543</real>
-      <key>public.kern2.e</key>
-      <real>-18.76543209876543</real>
+      <integer>-80</integer>
       <key>public.kern2.g</key>
-      <real>-23.456790123456788</real>
+      <integer>-100</integer>
       <key>public.kern2.i</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.j</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.n</key>
-      <real>-18.76543209876543</real>
+      <integer>-80</integer>
       <key>public.kern2.o</key>
-      <real>-18.76543209876543</real>
+      <integer>-80</integer>
       <key>public.kern2.p</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.period</key>
-      <real>-49.25925925925925</real>
-      <key>public.kern2.q</key>
-      <real>-16.41975308641975</real>
+      <integer>-210</integer>
       <key>public.kern2.s</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.u</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.w</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.z</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>space</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
     </dict>
     <key>public.kern1.T</key>
     <dict>
-      <key>public.kern2.C</key>
-      <real>-11.728395061728394</real>
       <key>public.kern2.O</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.a</key>
-      <real>-32.8395061728395</real>
-      <key>public.kern2.c</key>
-      <real>-32.8395061728395</real>
+      <integer>-140</integer>
       <key>public.kern2.colon</key>
-      <real>-11.728395061728394</real>
-      <key>public.kern2.d</key>
-      <real>-32.8395061728395</real>
-      <key>public.kern2.e</key>
-      <real>-32.8395061728395</real>
+      <integer>-50</integer>
       <key>public.kern2.g</key>
-      <real>-32.8395061728395</real>
+      <integer>-140</integer>
       <key>public.kern2.i</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.j</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.n</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.o</key>
-      <real>-32.8395061728395</real>
+      <integer>-140</integer>
       <key>public.kern2.p</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.period</key>
-      <real>-42.222222222222214</real>
-      <key>public.kern2.q</key>
-      <real>-32.8395061728395</real>
+      <integer>-180</integer>
       <key>public.kern2.s</key>
-      <real>-30.493827160493822</real>
+      <integer>-130</integer>
       <key>public.kern2.t</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.u</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.w</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.y</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.z</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>space</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
     </dict>
     <key>public.kern1.U</key>
     <dict>
       <key>public.kern2.a</key>
-      <real>-14.07407407407407</real>
-      <key>public.kern2.c</key>
-      <real>-4.6913580246913575</real>
+      <integer>-60</integer>
       <key>public.kern2.colon</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-9.382716049382715</real>
-      <key>public.kern2.e</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.g</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.i</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.j</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.n</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.o</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.p</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.period</key>
-      <real>-28.14814814814814</real>
-      <key>public.kern2.q</key>
-      <real>-7.037037037037035</real>
+      <integer>-120</integer>
       <key>public.kern2.s</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.t</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.u</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.w</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.y</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.z</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.W</key>
     <dict>
       <key>exclam</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.O</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.a</key>
-      <real>-16.41975308641975</real>
-      <key>public.kern2.c</key>
-      <real>-7.037037037037035</real>
+      <integer>-70</integer>
       <key>public.kern2.colon</key>
-      <real>-2.3456790123456788</real>
-      <key>public.kern2.d</key>
-      <real>-9.382716049382715</real>
-      <key>public.kern2.e</key>
-      <real>-7.037037037037035</real>
+      <integer>-10</integer>
       <key>public.kern2.g</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.n</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.o</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.p</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.period</key>
-      <real>-23.456790123456788</real>
-      <key>public.kern2.q</key>
-      <real>-4.6913580246913575</real>
+      <integer>-100</integer>
       <key>public.kern2.s</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.straightquote</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.u</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.w</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.z</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>question</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.Y</key>
     <dict>
       <key>bracketright</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>parenright</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>public.kern2.O</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.a</key>
-      <real>-21.111111111111107</real>
-      <key>public.kern2.c</key>
-      <real>-16.41975308641975</real>
+      <integer>-90</integer>
       <key>public.kern2.colon</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.curlybrace</key>
-      <real>4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-16.41975308641975</real>
-      <key>public.kern2.e</key>
-      <real>-16.41975308641975</real>
+      <integer>20</integer>
       <key>public.kern2.g</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.n</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.o</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.p</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.period</key>
-      <real>-37.53086419753086</real>
-      <key>public.kern2.q</key>
-      <real>-18.76543209876543</real>
+      <integer>-160</integer>
       <key>public.kern2.s</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.t</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.u</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.w</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.z</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
     </dict>
-    <key>public.kern1.a</key>
+    <key>public.kern1.b-deva</key>
     <dict>
-      <key>public.kern2.T</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.U</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.W</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.Y</key>
-      <real>-7.037037037037035</real>
+      <key>bh_ra-deva</key>
+      <real>-17.654320987654323</real>
+      <key>public.kern2.bha-deva</key>
+      <real>-25.308641975308642</real>
+      <key>public.kern2.dh-deva</key>
+      <real>-38.27160493827161</real>
+      <key>public.kern2.dha-deva</key>
+      <real>-38.27160493827161</real>
+      <key>public.kern2.l-deva</key>
+      <real>7.037037037037035</real>
+      <key>public.kern2.va-deva</key>
+      <real>4.6913580246913575</real>
+      <key>public.kern2.ya-deva</key>
+      <real>15.308641975308642</real>
     </dict>
-    <key>public.kern1.b</key>
+    <key>public.kern1.bh-deva</key>
     <dict>
-      <key>public.kern2.T</key>
-      <real>-25.802469135802465</real>
-      <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
-      <key>public.kern2.W</key>
-      <real>-7.037037037037035</real>
-      <key>public.kern2.Y</key>
-      <real>-14.07407407407407</real>
+      <key>public.kern2.ya-deva</key>
+      <real>22.962962962962965</real>
     </dict>
     <key>public.kern1.c</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.W</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.Y</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.colon</key>
-      <real>2.3456790123456788</real>
+      <integer>10</integer>
       <key>public.kern2.period</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>space</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.c-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>7.654320987654321</real>
+    </dict>
+    <key>public.kern1.ch-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>-236.41975308641975</real>
     </dict>
     <key>public.kern1.colon</key>
     <dict>
       <key>public.kern2.A</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>public.kern2.T</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.W</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.Y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
     </dict>
     <key>public.kern1.curlquote</key>
     <dict>
       <key>public.kern2.O</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.U</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-21.111111111111107</real>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.da-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <real>-178.76543209876542</real>
+    </dict>
+    <key>public.kern1.dda-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <real>-50.617283950617285</real>
+    </dict>
+    <key>public.kern1.ddha-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <real>-30.617283950617285</real>
+    </dict>
+    <key>public.kern1.dh-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>15.308641975308642</real>
     </dict>
     <key>public.kern1.e</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.W</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.Y</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.f</key>
     <dict>
       <key>bracketright</key>
-      <real>21.111111111111107</real>
+      <integer>90</integer>
       <key>exclam</key>
-      <real>2.3456790123456788</real>
+      <integer>10</integer>
       <key>parenright</key>
-      <real>21.111111111111107</real>
+      <integer>90</integer>
       <key>public.kern2.curlybrace</key>
-      <real>21.111111111111107</real>
+      <integer>90</integer>
       <key>public.kern2.curlyquotes</key>
-      <real>14.07407407407407</real>
+      <integer>60</integer>
       <key>public.kern2.straightquote</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>question</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
     </dict>
     <key>public.kern1.g</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.Y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.g-deva</key>
+    <dict>
+      <key>public.kern2.dh-deva</key>
+      <real>-30.617283950617285</real>
     </dict>
     <key>public.kern1.i</key>
     <dict>
       <key>public.kern2.Y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.j</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.U</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.j-deva</key>
+    <dict>
+      <key>public.kern2.dda-deva</key>
+      <real>15.308641975308642</real>
+      <key>public.kern2.jha-deva</key>
+      <real>15.308641975308642</real>
+      <key>public.kern2.ya-deva</key>
+      <real>-9.382716049382715</real>
+    </dict>
+    <key>public.kern1.jh-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>7.654320987654321</real>
     </dict>
     <key>public.kern1.k</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-25.802469135802465</real>
+      <integer>-110</integer>
       <key>public.kern2.U</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.W</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.Y</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
+    </dict>
+    <key>public.kern1.k-deva</key>
+    <dict>
+      <key>p_ra-deva</key>
+      <real>-35.308641975308646</real>
+      <key>public.kern2.ma-deva</key>
+      <real>-45.92592592592593</real>
+      <key>public.kern2.pa-deva</key>
+      <real>-25.308641975308642</real>
+      <key>public.kern2.sa-deva</key>
+      <real>15.308641975308642</real>
+    </dict>
+    <key>public.kern1.kh-deva</key>
+    <dict>
+      <key>public.kern2.ta-deva</key>
+      <real>-9.382716049382715</real>
+    </dict>
+    <key>public.kern1.l-deva</key>
+    <dict>
+      <key>public.kern2.bha-deva</key>
+      <real>-118.88888888888889</real>
+      <key>public.kern2.ha-deva</key>
+      <real>-65.30864197530865</real>
+      <key>public.kern2.ha_ra-deva</key>
+      <real>-34.691358024691354</real>
+      <key>public.kern2.ja-deva</key>
+      <integer>20</integer>
+      <key>public.kern2.l-deva</key>
+      <integer>10</integer>
+      <key>public.kern2.ma-deva</key>
+      <real>-30.617283950617285</real>
+      <key>public.kern2.pa-deva</key>
+      <real>-32.96296296296296</real>
+    </dict>
+    <key>public.kern1.ll-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>-269.38271604938274</real>
+    </dict>
+    <key>public.kern1.lla-deva</key>
+    <dict>
+      <key>rVocalicMatra-deva</key>
+      <integer>-10</integer>
+      <key>rrVocalicMatra-deva</key>
+      <integer>-10</integer>
+      <key>uMatra-deva</key>
+      <integer>-10</integer>
+      <key>uuMatra-deva</key>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.m-deva</key>
+    <dict>
+      <key>p_ra-deva</key>
+      <real>-22.962962962962965</real>
+      <key>public.kern2.ha-deva</key>
+      <real>-17.654320987654323</real>
+      <key>public.kern2.ya-deva</key>
+      <real>22.962962962962965</real>
     </dict>
     <key>public.kern1.n</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-28.14814814814814</real>
+      <integer>-120</integer>
       <key>public.kern2.U</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.W</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.Y</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.n-deva</key>
+    <dict>
+      <key>dh_ra-deva</key>
+      <real>-75.30864197530865</real>
+      <key>public.kern2.dh-deva</key>
+      <real>-75.30864197530865</real>
+      <key>public.kern2.dha-deva</key>
+      <real>-82.96296296296296</real>
+      <key>public.kern2.m-deva</key>
+      <real>-38.27160493827161</real>
+      <key>public.kern2.ma-deva</key>
+      <real>-45.92592592592593</real>
+      <key>public.kern2.ya-deva</key>
+      <real>-32.96296296296296</real>
+    </dict>
+    <key>public.kern1.ny-deva</key>
+    <dict>
+      <key>public.kern2.cha-deva</key>
+      <real>-24.691358024691358</real>
+      <key>public.kern2.sha-deva</key>
+      <real>-2.3456790123456788</real>
     </dict>
     <key>public.kern1.o</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.p-deva</key>
+    <dict>
+      <key>public.kern2.pa-deva</key>
+      <real>-7.654320987654321</real>
     </dict>
     <key>public.kern1.period</key>
     <dict>
       <key>public.kern2.A</key>
-      <real>4.6913580246913575</real>
-      <key>public.kern2.AE</key>
-      <real>9.382716049382715</real>
+      <integer>20</integer>
       <key>public.kern2.J</key>
-      <real>4.6913580246913575</real>
+      <integer>20</integer>
       <key>public.kern2.T</key>
-      <real>-35.185185185185176</real>
+      <integer>-150</integer>
       <key>public.kern2.U</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.W</key>
-      <real>-25.802469135802465</real>
+      <integer>-110</integer>
       <key>public.kern2.Y</key>
-      <real>-35.185185185185176</real>
+      <integer>-150</integer>
       <key>public.kern2.w</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>public.kern2.y</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
+    </dict>
+    <key>public.kern1.ph-deva</key>
+    <dict>
+      <key>ph_ra-deva</key>
+      <real>-15.308641975308642</real>
+      <key>public.kern2.ja-deva</key>
+      <integer>30</integer>
+      <key>public.kern2.pa-deva</key>
+      <real>-22.962962962962965</real>
+      <key>public.kern2.sha-deva</key>
+      <real>15.308641975308642</real>
     </dict>
     <key>public.kern1.r</key>
     <dict>
       <key>public.kern2.W</key>
-      <real>2.3456790123456788</real>
+      <integer>10</integer>
       <key>public.kern2.Y</key>
-      <real>2.3456790123456788</real>
+      <integer>10</integer>
+    </dict>
+    <key>public.kern1.ra-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>7.654320987654321</real>
     </dict>
     <key>public.kern1.s</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.Y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
+    </dict>
+    <key>public.kern1.s-deva</key>
+    <dict>
+      <key>public.kern2.m-deva</key>
+      <real>-30.617283950617285</real>
+      <key>public.kern2.ma-deva</key>
+      <real>-38.27160493827161</real>
+    </dict>
+    <key>public.kern1.ss-deva</key>
+    <dict>
+      <key>p_ra-deva</key>
+      <real>-40.617283950617285</real>
+      <key>public.kern2.ya-deva</key>
+      <real>15.308641975308642</real>
     </dict>
     <key>public.kern1.straightquote</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.U</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.W</key>
-      <real>-4.6913580246913575</real>
-      <key>public.kern2.d</key>
-      <real>-21.111111111111107</real>
+      <integer>-20</integer>
     </dict>
     <key>public.kern1.t</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
+    </dict>
+    <key>public.kern1.t-deva</key>
+    <dict>
+      <key>public.kern2.k_ssa-deva</key>
+      <real>-11.728395061728394</real>
+      <key>public.kern2.ka-deva</key>
+      <real>-12.345679012345679</real>
+      <key>public.kern2.m-deva</key>
+      <real>-27.654320987654323</real>
+      <key>public.kern2.ma-deva</key>
+      <real>-27.654320987654323</real>
+    </dict>
+    <key>public.kern1.t_r-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva</key>
+      <real>30.617283950617285</real>
+    </dict>
+    <key>public.kern1.tta-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <real>-114.69135802469135</real>
+    </dict>
+    <key>public.kern1.ttha-deva</key>
+    <dict>
+      <key>public.kern2.ya-deva.post</key>
+      <integer>-40</integer>
     </dict>
     <key>public.kern1.u</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.U</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.W</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.Y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
+    </dict>
+    <key>public.kern1.v-deva</key>
+    <dict>
+      <key>public.kern2.bha-deva</key>
+      <integer>-20</integer>
+      <key>public.kern2.dda-deva</key>
+      <real>-7.654320987654321</real>
+      <key>public.kern2.ha-deva</key>
+      <integer>-10</integer>
+      <key>public.kern2.pa-deva</key>
+      <integer>-40</integer>
+      <key>public.kern2.ya-deva</key>
+      <real>7.654320987654321</real>
     </dict>
     <key>public.kern1.w</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-18.76543209876543</real>
+      <integer>-80</integer>
       <key>public.kern2.U</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.Y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
       <key>public.kern2.period</key>
-      <real>-16.41975308641975</real>
+      <integer>-70</integer>
       <key>space</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
     </dict>
     <key>public.kern1.y</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-11.728395061728394</real>
+      <integer>-50</integer>
       <key>public.kern2.U</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.Y</key>
-      <real>-4.6913580246913575</real>
+      <integer>-20</integer>
       <key>public.kern2.period</key>
-      <real>-21.111111111111107</real>
+      <integer>-90</integer>
       <key>space</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
     </dict>
     <key>public.kern1.z</key>
     <dict>
       <key>public.kern2.T</key>
-      <real>-9.382716049382715</real>
+      <integer>-40</integer>
       <key>public.kern2.Y</key>
-      <real>-2.3456790123456788</real>
+      <integer>-10</integer>
     </dict>
     <key>question</key>
     <dict>
       <key>public.kern2.W</key>
-      <real>-2.3456790123456788</real>
-      <key>public.kern2.d</key>
-      <real>-21.111111111111107</real>
+      <integer>-10</integer>
+    </dict>
+    <key>reph-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
+      <key>candraBindu-deva.imatra</key>
+      <real>2.3456790123456788</real>
+    </dict>
+    <key>reph-deva.imatra</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
+      <key>candraBindu-deva.imatra</key>
+      <real>2.3456790123456788</real>
+    </dict>
+    <key>reph_anusvara-deva</key>
+    <dict>
+      <key>candraBindu-deva</key>
+      <integer>10</integer>
     </dict>
     <key>space</key>
     <dict>
-      <key>public.kern2.AE</key>
-      <real>-9.382716049382715</real>
       <key>public.kern2.J</key>
-      <real>-14.07407407407407</real>
+      <integer>-60</integer>
       <key>public.kern2.T</key>
-      <real>-7.037037037037035</real>
-      <key>public.kern2.c</key>
-      <real>-2.3456790123456788</real>
+      <integer>-30</integer>
       <key>public.kern2.w</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
       <key>public.kern2.y</key>
-      <real>-7.037037037037035</real>
+      <integer>-30</integer>
     </dict>
   </dict>
 </plist>

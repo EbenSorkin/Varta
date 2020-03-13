@@ -3,17 +3,17 @@
   <note>
 dMatraCandraE
 </note>
-  <anchor x="342" y="1287" name="_candra"/>
-  <anchor x="347" y="1665" name="candra"/>
+  <anchor x="342.0" y="1287.0" name="_candra"/>
+  <anchor x="347.0" y="1665.0" name="candra"/>
   <outline>
-    <component base="eCandraMatra-deva" xScale="0.97" yScale="0.97" xOffset="70" yOffset="41"/>
+    <component base="eCandraMatra-deva" xScale="0.97" yScale="0.97" xOffset="70.0" yOffset="41.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 07:28:30</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>512</integer>
+      <real>512.0</real>
     </dict>
   </lib>
 </glyph>

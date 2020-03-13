@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nukta_rakar-deva" format="2">
-  <advance width="600"/>
-  <anchor x="256" y="0" name="_bottom"/>
+  <advance width="600.0"/>
+  <anchor x="283.0" y="0.0" name="_bottom"/>
   <outline>
-    <component base="rakar-deva" xOffset="-15" yOffset="-975"/>
+    <component base="rakar-deva" xOffset="9.0" yOffset="-482.0"/>
     <component base="nukta-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 11:42:19</string>
     </dict>
   </lib>
 </glyph>

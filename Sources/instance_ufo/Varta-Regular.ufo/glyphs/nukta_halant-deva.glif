@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nukta_halant-deva" format="2">
   <advance width="600.0"/>
-  <anchor x="256.0" y="0.0" name="_bottom"/>
+  <anchor x="274.82716049382714" y="0.0" name="_bottom"/>
   <outline>
     <component base="nukta-deva"/>
-    <component base="halant-deva" xOffset="17.777777777777775" yOffset="-430.641975308642"/>
+    <component base="halant-deva" xOffset="176.37037037037038" yOffset="-275.0617283950617"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 11:00:44</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yhookabove" format="2">
-  <advance width="939"/>
+  <advance width="939.0"/>
   <unicode hex="1EF6"/>
-  <anchor x="470" y="0" name="bottom"/>
-  <anchor x="470" y="1346" name="top"/>
+  <anchor x="470.0" y="0.0" name="bottom"/>
+  <anchor x="470.5" y="1778.0" name="top"/>
+  <anchor x="20.0" y="1346.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="hookabovecomb.cap" xOffset="27" yOffset="-16"/>
+    <component base="hookabovecomb.cap" xOffset="319.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,16 @@
 <glyph name="Uhorntilde" format="2">
   <advance width="1333.9753086419753"/>
   <unicode hex="1EEE"/>
-  <anchor x="654.3333333333334" y="-276.5432098765432" name="btm"/>
-  <anchor x="654.7407407407408" y="1404.6913580246915" name="top"/>
+  <anchor x="666.9876543209876" y="0.0" name="bottom"/>
+  <anchor x="666.9876543209876" y="1673.8641975308642" name="top"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="tilde.cap" xOffset="654.7407407407408"/>
+    <component base="tildecomb.cap" xOffset="365.48148148148147"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

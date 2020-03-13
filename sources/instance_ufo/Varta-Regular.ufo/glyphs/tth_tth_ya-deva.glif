@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tth_tth_ya-deva" format="2">
+  <advance width="2209.456790123457"/>
+  <anchor x="1917.5555555555557" y="0.0" name="bottom"/>
+  <anchor x="1824.6172839506173" y="1257.148148148148" name="candra"/>
+  <anchor x="1915.679012345679" y="1287.7654320987654" name="top"/>
+  <outline>
+    <contour>
+      <point x="1025.0123456790122" y="1133.851851851852" type="line"/>
+      <point x="2223.864197530864" y="1133.851851851852" type="line"/>
+      <point x="2223.864197530864" y="1256.3827160493827" type="line"/>
+      <point x="1025.0123456790122" y="1256.3827160493827" type="line"/>
+    </contour>
+    <contour>
+      <point x="1544.5555555555557" y="151.49382716049382" type="curve" smooth="yes"/>
+      <point x="1672.0246913580247" y="151.49382716049382"/>
+      <point x="1780.3333333333333" y="198.25925925925927"/>
+      <point x="1868.2222222222222" y="289.91358024691357" type="curve"/>
+      <point x="1874.0987654320988" y="473.1975308641975" type="line"/>
+      <point x="1791.6296296296296" y="336.1975308641975"/>
+      <point x="1649.0864197530864" y="284.55555555555554"/>
+      <point x="1535.20987654321" y="284.55555555555554" type="curve" smooth="yes"/>
+      <point x="1392.8395061728395" y="284.55555555555554"/>
+      <point x="1284.5925925925926" y="366.22222222222223"/>
+      <point x="1248.5925925925926" y="529.0617283950618" type="curve"/>
+      <point x="1227.7654320987654" y="474.0246913580247" type="line"/>
+      <point x="1328.3456790123457" y="499.30864197530866"/>
+      <point x="1504.1851851851852" y="573.4938271604939"/>
+      <point x="1504.1851851851852" y="756.1358024691358" type="curve" smooth="yes"/>
+      <point x="1504.1851851851852" y="931.358024691358"/>
+      <point x="1391.0123456790122" y="981.4691358024692"/>
+      <point x="1206.3827160493827" y="981.4691358024692" type="curve" smooth="yes"/>
+      <point x="740.0864197530864" y="981.2345679012345" type="line"/>
+      <point x="754.1481481481482" y="860.5802469135803" type="line"/>
+      <point x="1226.962962962963" y="860.5802469135803" type="line" smooth="yes"/>
+      <point x="1314.3456790123457" y="860.5802469135803"/>
+      <point x="1368.0617283950617" y="835.6296296296297"/>
+      <point x="1368.0617283950617" y="751.0123456790124" type="curve" smooth="yes"/>
+      <point x="1368.0617283950617" y="680.1358024691358"/>
+      <point x="1294.530864197531" y="616.9382716049382"/>
+      <point x="1107.2345679012346" y="566.5802469135803" type="curve"/>
+      <point x="1164.358024691358" y="296.65432098765433"/>
+      <point x="1317.9876543209878" y="151.49382716049382"/>
+    </contour>
+    <contour>
+      <point x="1846.5802469135801" y="0.0" type="line"/>
+      <point x="1992.2839506172838" y="0.0" type="line"/>
+      <point x="1992.2839506172838" y="1160.851851851852" type="line"/>
+      <point x="1846.5802469135801" y="1160.851851851852" type="line"/>
+    </contour>
+    <component base="tth_ttha-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tth-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:53:56</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -4,12 +4,6 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="343.1728395061728" y="1420.530864197531" type="line"/>
-      <point x="194.23456790123456" y="1332.7160493827162"/>
-      <point x="101.41975308641976" y="1191.283950617284"/>
-      <point x="101.41975308641976" y="1009.1111111111112" type="curve" smooth="yes"/>
-      <point x="101.41975308641976" y="881.8271604938273"/>
-      <point x="166.23456790123456" y="810.0864197530865"/>
       <point x="255.86419753086417" y="810.0864197530865" type="curve" smooth="yes"/>
       <point x="322.98765432098764" y="810.0864197530865"/>
       <point x="372.4938271604938" y="857.246913580247"/>
@@ -23,12 +17,18 @@
       <point x="237.86419753086417" y="1159.6172839506173"/>
       <point x="292.4444444444444" y="1268.1728395061727"/>
       <point x="399.6049382716049" y="1335.5555555555557" type="curve"/>
+      <point x="343.1728395061728" y="1420.530864197531" type="line"/>
+      <point x="194.23456790123456" y="1332.7160493827162"/>
+      <point x="101.41975308641976" y="1191.283950617284"/>
+      <point x="101.41975308641976" y="1009.1111111111112" type="curve" smooth="yes"/>
+      <point x="101.41975308641976" y="881.8271604938273"/>
+      <point x="166.23456790123456" y="810.0864197530865"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -38,8 +38,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>18</integer>
+            <real>0.0</real>
+            <real>12.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

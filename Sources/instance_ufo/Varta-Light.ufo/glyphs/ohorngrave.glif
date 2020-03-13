@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ohorngrave" format="2">
-  <advance width="1104"/>
+  <advance width="1104.0"/>
   <unicode hex="1EDD"/>
-  <anchor x="551" y="-300" name="btm"/>
-  <anchor x="552" y="1049" name="top"/>
+  <anchor x="565.0" y="0.0" name="bottom"/>
+  <anchor x="462.0" y="1456.0" name="top"/>
   <outline>
     <component base="ohorn"/>
-    <component base="grave" xOffset="-71" yOffset="-1"/>
+    <component base="gravecomb" xOffset="285.0" yOffset="-1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:39:05</string>
     </dict>
   </lib>
 </glyph>

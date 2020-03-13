@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_n-deva" format="2">
+  <advance width="703.1604938271605"/>
+  <outline>
+    <contour>
+      <point x="801.6666666666666" y="653.8765432098766" type="line"/>
+      <point x="175.80246913580248" y="333.60493827160496" type="line"/>
+      <point x="232.58024691358025" y="205.54320987654324" type="line"/>
+      <point x="436.7407407407407" y="91.65432098765436" type="line"/>
+      <point x="539.9135802469135" y="143.43209876543213"/>
+      <point x="526.6419753086419" y="215.2098765432099"/>
+      <point x="488.09876543209873" y="287.33333333333337" type="curve" smooth="yes"/>
+      <point x="446.641975308642" y="351.37255555555555" type="line"/>
+      <point x="441.1481481481481" y="295.70370370370375" type="line"/>
+      <point x="867.3333333333333" y="522.5432098765432" type="line"/>
+    </contour>
+    <contour>
+      <point x="174.74074074074073" y="964.4567901234568" type="line"/>
+      <point x="124.07407407407408" y="845.2098765432098" type="line"/>
+      <point x="178.5679012345679" y="622.4320987654321" type="line"/>
+      <point x="296.66666666666663" y="585.3086419753087"/>
+      <point x="331.59259259259255" y="644.1604938271605"/>
+      <point x="356.48148148148147" y="727.8641975308642" type="curve" smooth="yes"/>
+      <point x="378.9012345679012" y="801.9629629629629" type="line"/>
+      <point x="326.2098765432099" y="772.2716049382716" type="line"/>
+      <point x="897.7654320987654" y="599.4074074074074" type="line"/>
+      <point x="910.1851851851851" y="744.6296296296296" type="line"/>
+    </contour>
+    <contour>
+      <point x="723.0123456790124" y="1273.1728395061727" type="line"/>
+      <point x="-16.580246913580243" y="1273.1728395061727" type="line"/>
+      <point x="-16.580246913580243" y="1117.4814814814815" type="line"/>
+      <point x="723.0123456790124" y="1117.4814814814815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 16:41:10</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

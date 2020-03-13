@@ -1,31 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="halant-deva" format="2">
   <unicode hex="094D"/>
-  <anchor x="136" y="27" name="_bottom"/>
+  <anchor x="178.0" y="0.0" name="_bottom"/>
+  <anchor x="171.0" y="-373.0" name="bottom"/>
+  <anchor x="154.0" y="-374.0" name="nukta"/>
   <outline>
     <contour>
-      <point x="675" y="-418" type="line"/>
-      <point x="411" y="-124"/>
-      <point x="279" y="-56"/>
-      <point x="107" y="-56" type="curve" smooth="yes"/>
-      <point x="43" y="-56"/>
-      <point x="-2" y="-63"/>
-      <point x="-64" y="-70" type="curve"/>
-      <point x="-34" y="-261" type="line"/>
-      <point x="27" y="-255"/>
-      <point x="66" y="-250"/>
-      <point x="120" y="-250" type="curve" smooth="yes"/>
-      <point x="255" y="-250"/>
-      <point x="332" y="-276"/>
-      <point x="579" y="-513" type="curve"/>
+      <point x="609.0" y="-510.0" type="curve"/>
+      <point x="705.0" y="-415.0" type="line"/>
+      <point x="441.0" y="-121.0"/>
+      <point x="309.0" y="-53.0"/>
+      <point x="137.0" y="-53.0" type="curve" smooth="yes"/>
+      <point x="73.0" y="-53.0"/>
+      <point x="28.0" y="-60.0"/>
+      <point x="-34.0" y="-67.0" type="curve"/>
+      <point x="-4.0" y="-258.0" type="line"/>
+      <point x="57.0" y="-252.0"/>
+      <point x="96.0" y="-247.0"/>
+      <point x="150.0" y="-247.0" type="curve" smooth="yes"/>
+      <point x="285.0" y="-247.0"/>
+      <point x="362.0" y="-273.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2020/03/11 10:59:26</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>540</integer>
+      <real>540.0</real>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

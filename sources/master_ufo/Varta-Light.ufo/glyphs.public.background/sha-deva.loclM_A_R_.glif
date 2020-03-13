@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-deva.loclMAR" format="2">
+  <anchor x="1040.0" y="0.0" name="bottom"/>
+  <anchor x="716.0" y="1248.0" name="candra"/>
+  <anchor x="270.0" y="-291.0" name="nukta"/>
+  <anchor x="1040.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="977.0" y="0.0" type="line"/>
+      <point x="1104.0" y="0.0" type="line"/>
+      <point x="1104.0" y="1193.0" type="line"/>
+      <point x="977.0" y="1193.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="750.0" y="1143.0" type="line"/>
+      <point x="1329.0" y="1143.0" type="line"/>
+      <point x="1329.0" y="1247.0" type="line"/>
+      <point x="750.0" y="1247.0" type="line"/>
+    </contour>
+    <component base="sh-deva.loclMAR"/>
+  </outline>
+</glyph>

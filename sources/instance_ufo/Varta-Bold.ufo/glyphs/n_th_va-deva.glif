@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_th_va-deva" format="2">
+  <advance width="2353.0"/>
+  <anchor x="239.0" y="84.0" name="nukta"/>
+  <anchor x="2073.0" y="0.0" name="bottom"/>
+  <anchor x="1957.0" y="1287.0" name="candra"/>
+  <anchor x="2073.0" y="1287.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="199.0" y="347.0" type="line"/>
+      <point x="346.0" y="347.0"/>
+      <point x="369.0" y="428.0"/>
+      <point x="369.0" y="528.0" type="curve" smooth="yes"/>
+      <point x="369.0" y="735.0" type="line"/>
+      <point x="45.0" y="735.0" type="line"/>
+      <point x="45.0" y="571.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.0" y="549.0" type="line"/>
+      <point x="767.0" y="549.0" type="line"/>
+      <point x="767.0" y="735.0" type="line"/>
+      <point x="170.0" y="735.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19.0" y="1104.0" type="line"/>
+      <point x="566.0" y="1104.0" type="line"/>
+      <point x="566.0" y="1287.0" type="line"/>
+      <point x="-19.0" y="1287.0" type="line"/>
+    </contour>
+    <component base="th-deva" xOffset="544.0"/>
+    <component base="va-deva" xOffset="1262.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>va-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 11:00:43</string>
+    </dict>
+  </lib>
+</glyph>

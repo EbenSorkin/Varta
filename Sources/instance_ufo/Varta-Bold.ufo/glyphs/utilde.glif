@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="utilde" format="2">
-  <advance width="1133"/>
+  <advance width="1133.0"/>
   <unicode hex="0169"/>
-  <anchor x="560" y="-200" name="btm"/>
-  <anchor x="560" y="800" name="top"/>
+  <anchor x="567.0" y="0.0" name="bottom"/>
+  <anchor x="1029.0" y="10.0" name="ogonek"/>
+  <anchor x="557.0" y="1422.0" name="top"/>
+  <anchor x="1113.0" y="1003.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="tilde" xOffset="-9"/>
+    <component base="tildecomb" xOffset="241.0"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +17,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:58:57</string>
     </dict>
   </lib>
 </glyph>

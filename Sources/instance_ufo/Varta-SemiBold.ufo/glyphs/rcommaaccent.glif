@@ -2,16 +2,16 @@
 <glyph name="rcommaaccent" format="2">
   <advance width="728.5308641975308"/>
   <unicode hex="0157"/>
-  <anchor x="315.3333333333333" y="-234.56790123456796" name="btm"/>
-  <anchor x="447.7407407407407" y="886.4197530864199" name="top"/>
+  <anchor x="261.8333333333333" y="-441.2345679012346" name="bottom"/>
+  <anchor x="418.04938271604937" y="998.5061728395061" name="top"/>
   <outline>
     <component base="r"/>
-    <component base="commaaccent" xOffset="24.43209876543206"/>
+    <component base="commaaccentcomb" xOffset="87.80246913580247"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:57:42</string>
     </dict>
   </lib>
 </glyph>

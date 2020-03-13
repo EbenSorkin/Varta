@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="underscore" format="2">
-  <advance width="1024"/>
+  <advance width="1024.0"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="-5" y="-269" type="line"/>
-      <point x="1039" y="-269" type="line"/>
-      <point x="1039" y="-134" type="line"/>
-      <point x="-5" y="-134" type="line"/>
+      <point x="-5.0" y="-269.0" type="line"/>
+      <point x="1039.0" y="-269.0" type="line"/>
+      <point x="1039.0" y="-134.0" type="line"/>
+      <point x="-5.0" y="-134.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -23,15 +23,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

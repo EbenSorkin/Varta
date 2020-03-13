@@ -2,11 +2,12 @@
 <glyph name="Dz" format="2">
   <advance width="2141.7654320987654"/>
   <unicode hex="01F2"/>
-  <anchor x="630.1604938271605" y="0.0" name="bottom"/>
-  <anchor x="1721.3827160493827" y="-234.56790123456796" name="btm"/>
-  <anchor x="630.1604938271605" y="671.0370370370371" name="center"/>
+  <anchor x="630.1604938271605" y="0.0" name="bottom_1"/>
+  <anchor x="1701.3703703703704" y="0.0" name="bottom_2"/>
+  <anchor x="630.1604938271605" y="671.0370370370371" name="center_1"/>
+  <anchor x="1701.3703703703704" y="499.58024691358025" name="center_2"/>
   <anchor x="630.1604938271605" y="1342.0740740740741" name="top_1"/>
-  <anchor x="1707.641975308642" y="886.4197530864199" name="top_2"/>
+  <anchor x="1701.3703703703704" y="998.5061728395061" name="top_2"/>
   <outline>
     <component base="D"/>
     <component base="z" xOffset="1260.320987654321"/>
@@ -14,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

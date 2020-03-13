@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh_ra-deva" format="2">
+  <outline>
+    <contour>
+      <point x="397.0" y="-70.0" type="line"/>
+      <point x="1005.0" y="416.0" type="line"/>
+      <point x="909.0" y="529.0" type="line"/>
+      <point x="271.0" y="82.0" type="line"/>
+    </contour>
+    <component base="bh-deva"/>
+  </outline>
+</glyph>

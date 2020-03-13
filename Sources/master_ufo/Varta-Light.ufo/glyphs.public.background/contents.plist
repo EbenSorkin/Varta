@@ -2,28 +2,98 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>aiMatra_reph-deva</key>
+    <string>aiM_atra_reph-deva.glif</string>
+    <key>aiMatra_reph_anusvara-deva</key>
+    <string>aiM_atra_reph_anusvara-deva.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
+    <key>b_ra-deva</key>
+    <string>b_ra-deva.glif</string>
+    <key>bh_ra-deva</key>
+    <string>bh_ra-deva.glif</string>
+    <key>bha_ra-deva</key>
+    <string>bha_ra-deva.glif</string>
+    <key>c_ra-deva</key>
+    <string>c_ra-deva.glif</string>
     <key>candraBindu_reph-deva</key>
     <string>candraB_indu_reph-deva.glif</string>
+    <key>d_g_ra-deva</key>
+    <string>d_g_ra-deva.glif</string>
+    <key>d_ma-deva</key>
+    <string>d_ma-deva.glif</string>
+    <key>dd_ma-deva</key>
+    <string>dd_ma-deva.glif</string>
+    <key>dda-deva</key>
+    <string>dda-deva.glif</string>
     <key>eCandraMatra-deva.001</key>
     <string>eC_andraM_atra-deva.001.glif</string>
     <key>eCandraMatra-deva.01</key>
     <string>eC_andraM_atra-deva.01.glif</string>
     <key>eCandraMatra_reph-deva</key>
     <string>eC_andraM_atra_reph-deva.glif</string>
+    <key>eMatra_reph-deva</key>
+    <string>eM_atra_reph-deva.glif</string>
     <key>eMatra_reph_anusvara-deva</key>
     <string>eM_atra_reph_anusvara-deva.glif</string>
+    <key>eShortMatra-deva</key>
+    <string>eS_hortM_atra-deva.glif</string>
     <key>eShortMatra_reph-deva</key>
     <string>eS_hortM_atra_reph-deva.glif</string>
     <key>eShortMatra_reph_anusvara-deva</key>
     <string>eS_hortM_atra_reph_anusvara-deva.glif</string>
+    <key>g_ra-deva</key>
+    <string>g_ra-deva.glif</string>
     <key>gcommaaccent</key>
     <string>gcommaaccent.glif</string>
+    <key>gh_ra-deva</key>
+    <string>gh_ra-deva.glif</string>
     <key>greaterequal</key>
     <string>greaterequal.glif</string>
-    <key>k_ssa_uMatra-deva</key>
-    <string>k_ssa_uM_atra-deva.glif</string>
+    <key>h_ma-deva</key>
+    <string>h_ma-deva.glif</string>
+    <key>h_ya-deva</key>
+    <string>h_ya-deva.glif</string>
+    <key>ha-deva</key>
+    <string>ha-deva.glif</string>
+    <key>i-deva</key>
+    <string>i-deva.glif</string>
+    <key>j-deva</key>
+    <string>j-deva.glif</string>
+    <key>j_nya-deva</key>
+    <string>j_nya-deva.glif</string>
+    <key>ja-deva</key>
+    <string>ja-deva.glif</string>
+    <key>ja_ra-deva</key>
+    <string>ja_ra-deva.glif</string>
+    <key>jh_ra-deva</key>
+    <string>jh_ra-deva.glif</string>
+    <key>jha_ra-deva</key>
+    <string>jha_ra-deva.glif</string>
+    <key>k_ss-deva</key>
+    <string>k_ss-deva.glif</string>
+    <key>k_ssa_ra-deva</key>
+    <string>k_ssa_ra-deva.glif</string>
+    <key>k_t_ra-deva</key>
+    <string>k_t_ra-deva.glif</string>
+    <key>kh_na-deva</key>
+    <string>kh_na-deva.glif</string>
+    <key>kh_ra-deva</key>
+    <string>kh_ra-deva.glif</string>
+    <key>kha-deva</key>
+    <string>kha-deva.glif</string>
+    <key>l_ja-deva</key>
+    <string>l_ja-deva.glif</string>
+    <key>n_bha-deva</key>
+    <string>n_bha-deva.glif</string>
+    <key>n_n-deva</key>
+    <string>n_n-deva.glif</string>
+    <key>n_th_va-deva</key>
+    <string>n_th_va-deva.glif</string>
+    <key>n_tha-deva</key>
+    <string>n_tha-deva.glif</string>
+    <key>na_ra-deva</key>
+    <string>na_ra-deva.glif</string>
     <key>nukta_halant-deva</key>
     <string>nukta_halant-deva.glif</string>
     <key>nukta_rakar-deva</key>
@@ -32,6 +102,8 @@
     <string>nukta_rakar_uM_atra-deva.glif</string>
     <key>nukta_rakar_uuMatra-deva</key>
     <string>nukta_rakar_uuM_atra-deva.glif</string>
+    <key>ny_ra-deva</key>
+    <string>ny_ra-deva.glif</string>
     <key>oCandraMatra-deva</key>
     <string>oC_andraM_atra-deva.glif</string>
     <key>oCandraMatra_reph-deva</key>
@@ -40,7 +112,47 @@
     <string>oS_hortM_atra_reph-deva.glif</string>
     <key>oShortMatra_reph_anusvara-deva</key>
     <string>oS_hortM_atra_reph_anusvara-deva.glif</string>
+    <key>p_tta-deva</key>
+    <string>p_tta-deva.glif</string>
+    <key>pa_ra-deva</key>
+    <string>pa_ra-deva.glif</string>
+    <key>ph-deva</key>
+    <string>ph-deva.glif</string>
+    <key>ph_la-deva</key>
+    <string>ph_la-deva.glif</string>
+    <key>pha-deva</key>
+    <string>pha-deva.glif</string>
+    <key>pha_ra-deva</key>
+    <string>pha_ra-deva.glif</string>
+    <key>q_ra-deva</key>
+    <string>q_ra-deva.glif</string>
     <key>reph_anusvara-deva.imatra</key>
     <string>reph_anusvara-deva.imatra.glif</string>
+    <key>s_ta_ra-deva</key>
+    <string>s_ta_ra-deva.glif</string>
+    <key>sh-deva.loclMAR</key>
+    <string>sh-deva.loclM_A_R_.glif</string>
+    <key>sha-deva.loclMAR</key>
+    <string>sha-deva.loclM_A_R_.glif</string>
+    <key>ss_tta-deva</key>
+    <string>ss_tta-deva.glif</string>
+    <key>t-deva</key>
+    <string>t-deva.glif</string>
+    <key>t_kh_ra-deva</key>
+    <string>t_kh_ra-deva.glif</string>
+    <key>t_na-deva</key>
+    <string>t_na-deva.glif</string>
+    <key>ta_ra-deva</key>
+    <string>ta_ra-deva.glif</string>
+    <key>tt_tt_ya-deva</key>
+    <string>tt_tt_ya-deva.glif</string>
+    <key>ue-deva</key>
+    <string>ue-deva.glif</string>
+    <key>uue-deva</key>
+    <string>uue-deva.glif</string>
+    <key>v_ra-deva</key>
+    <string>v_ra-deva.glif</string>
+    <key>ya-deva</key>
+    <string>ya-deva.glif</string>
   </dict>
 </plist>

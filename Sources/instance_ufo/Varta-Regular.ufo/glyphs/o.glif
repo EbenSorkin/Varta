@@ -2,8 +2,11 @@
 <glyph name="o" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="006F"/>
-  <anchor x="553.8765432098766" y="-276.5432098765432" name="btm"/>
-  <anchor x="553.8765432098766" y="991.3580246913581" name="top"/>
+  <anchor x="553.8765432098766" y="0.0" name="bottom"/>
+  <anchor x="553.8765432098766" y="496.641975308642" name="center"/>
+  <anchor x="788.0864197530864" y="10.0" name="ogonek"/>
+  <anchor x="553.8765432098766" y="993.0493827160494" name="top"/>
+  <anchor x="1087.7530864197531" y="993.0493827160494" name="topright"/>
   <outline>
     <contour>
       <point x="553.1111111111111" y="-25.0" type="curve" smooth="yes"/>
@@ -37,7 +40,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:46:49</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -47,8 +50,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -56,6 +59,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -4,6 +4,16 @@
   <unicode hex="221E"/>
   <outline>
     <contour>
+      <point x="1169.8518518518517" y="289.2098765432099" type="curve" smooth="yes"/>
+      <point x="1376.7037037037037" y="289.2098765432099"/>
+      <point x="1531.79012345679" y="445.7530864197531"/>
+      <point x="1531.79012345679" y="689.2716049382716" type="curve" smooth="yes"/>
+      <point x="1531.79012345679" y="902.7407407407408"/>
+      <point x="1379.9753086419753" y="1056.5555555555554"/>
+      <point x="1175.0864197530864" y="1056.5555555555554" type="curve" smooth="yes"/>
+      <point x="1002.0123456790124" y="1056.5555555555554"/>
+      <point x="875.320987654321" y="942.9876543209876"/>
+      <point x="778.0493827160494" y="813.3703703703703" type="curve"/>
       <point x="770.0493827160494" y="813.3703703703703" type="line"/>
       <point x="696.0493827160494" y="911.3333333333333"/>
       <point x="588.358024691358" y="1023.5555555555555"/>
@@ -20,16 +30,6 @@
       <point x="755.8888888888889" y="537.9382716049383" type="line"/>
       <point x="879.8518518518518" y="381.70370370370375"/>
       <point x="996.8148148148148" y="289.2098765432099"/>
-      <point x="1169.8518518518517" y="289.2098765432099" type="curve" smooth="yes"/>
-      <point x="1376.7037037037037" y="289.2098765432099"/>
-      <point x="1531.79012345679" y="445.7530864197531"/>
-      <point x="1531.79012345679" y="689.2716049382716" type="curve" smooth="yes"/>
-      <point x="1531.79012345679" y="902.7407407407408"/>
-      <point x="1379.9753086419753" y="1056.5555555555554"/>
-      <point x="1175.0864197530864" y="1056.5555555555554" type="curve" smooth="yes"/>
-      <point x="1002.0123456790124" y="1056.5555555555554"/>
-      <point x="875.320987654321" y="942.9876543209876"/>
-      <point x="778.0493827160494" y="813.3703703703703" type="curve"/>
     </contour>
     <contour>
       <point x="415.01234567901236" y="475.08641975308643" type="curve" smooth="yes"/>
@@ -63,7 +63,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -73,8 +73,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>18.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -88,8 +88,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>15</integer>
+            <real>0.0</real>
+            <real>25.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -103,8 +103,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>2</integer>
+            <real>0.0</real>
+            <real>12.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -118,8 +118,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>2</integer>
-            <integer>2</integer>
+            <real>2.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -133,8 +133,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>11</integer>
+            <real>1.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

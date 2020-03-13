@@ -3,7 +3,7 @@
   <advance width="1358.111111111111"/>
   <unicode hex="090A"/>
   <anchor x="715.074074074074" y="27.765432098765434" name="bottom"/>
-  <anchor x="787.679012345679" y="1176.1851851851852" name="candra"/>
+  <anchor x="787.679012345679" y="1256.3827160493827" name="candra"/>
   <anchor x="521.9012345679013" y="1167.7654320987654" name="top"/>
   <outline>
     <contour>
@@ -39,7 +39,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 08:55:23</string>
     </dict>
   </lib>
 </glyph>

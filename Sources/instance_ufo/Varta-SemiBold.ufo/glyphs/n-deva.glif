@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n-deva" format="2">
   <advance width="548.4938271604939"/>
+  <anchor x="221.71604938271602" y="84.0" name="nukta"/>
   <outline>
     <contour>
       <point x="194.50617283950618" y="404.28395061728395" type="line"/>
@@ -13,8 +14,8 @@
     </contour>
     <contour>
       <point x="175.53086419753086" y="606.283950617284" type="line"/>
-      <point x="758.0123456790124" y="606.283950617284" type="line"/>
-      <point x="758.0123456790124" y="766.7037037037037" type="line"/>
+      <point x="761.4691358024692" y="606.283950617284" type="line"/>
+      <point x="761.4691358024692" y="766.7037037037037" type="line"/>
       <point x="175.53086419753086" y="766.358024691358" type="line"/>
     </contour>
     <contour>
@@ -27,7 +28,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:30:33</string>
     </dict>
   </lib>
 </glyph>

@@ -1,27 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ra-deva" format="2">
-  <advance width="1103"/>
-  <anchor x="830" y="28" name="bottom"/>
-  <anchor x="562" y="1168" name="candra"/>
-  <anchor x="830" y="1168" name="top"/>
-  <anchor x="248" y="44" name="nukta"/>
+  <advance width="625.0"/>
   <outline>
     <contour>
-      <point x="268" y="-43" type="line"/>
-      <point x="806" y="354" type="line"/>
-      <point x="774" y="419" type="line"/>
-      <point x="196" y="52" type="line"/>
+      <point x="249.0" y="-43.0" type="line"/>
+      <point x="787.0" y="354.0" type="line"/>
+      <point x="755.0" y="419.0" type="line"/>
+      <point x="177.0" y="52.0" type="line"/>
     </contour>
-    <component base="ba-deva"/>
+    <component base="b-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>b-deva</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>ra-deva</string>
+      <string>b-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 18:15:15</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

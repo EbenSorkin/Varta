@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.cap" format="2">
-  <anchor x="-516" y="1340" name="_top"/>
-  <anchor x="-514" y="1678" name="top"/>
+  <anchor x="118.0" y="1340.0" name="_top"/>
+  <anchor x="217.5" y="1678.0" name="top"/>
   <outline>
     <contour>
-      <point x="-723" y="1443" type="line"/>
-      <point x="-544" y="1443" type="line"/>
-      <point x="-308" y="1678" type="line"/>
-      <point x="-548" y="1678" type="line"/>
+      <point x="10.0" y="1473.0" type="line"/>
+      <point x="189.0" y="1473.0" type="line"/>
+      <point x="425.0" y="1708.0" type="line"/>
+      <point x="185.0" y="1708.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 03:52:42</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>435.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -23,20 +25,22 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

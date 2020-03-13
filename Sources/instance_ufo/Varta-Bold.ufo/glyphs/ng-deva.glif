@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ng-deva" format="2">
-  <advance width="1148"/>
-  <anchor x="552" y="-37" name="bottom"/>
-  <anchor x="536" y="1167" name="candra"/>
-  <anchor x="545" y="-241" name="nukta"/>
-  <anchor x="759" y="1167" name="top"/>
+  <advance width="1148.0"/>
+  <anchor x="611.0" y="-475.0" name="bottom"/>
+  <anchor x="658.0" y="1287.0" name="candra"/>
+  <anchor x="568.0" y="-241.0" name="nukta"/>
+  <anchor x="759.0" y="1287.0" name="top"/>
   <outline>
     <contour>
-      <point x="847" y="1104" type="line"/>
-      <point x="1167" y="1104" type="line"/>
-      <point x="1167" y="1286" type="line"/>
-      <point x="847" y="1286" type="line"/>
+      <point x="847.0" y="1104.0" type="line"/>
+      <point x="1167.0" y="1104.0" type="line"/>
+      <point x="1167.0" y="1286.0" type="line"/>
+      <point x="847.0" y="1286.0" type="line"/>
     </contour>
     <component base="dda-deva"/>
-    <component base="halant-deva" xOffset="440" yOffset="-102"/>
-    <component base="anusvara-deva" xOffset="772" yOffset="-874"/>
+    <component base="halant-deva" xOffset="440.0" yOffset="-102.0"/>
+    <component base="anusvara-deva" xOffset="792.0" yOffset="-884.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 21:41:47</string>
     </dict>
   </lib>
 </glyph>

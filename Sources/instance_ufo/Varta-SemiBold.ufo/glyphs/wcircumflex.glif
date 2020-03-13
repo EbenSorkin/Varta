@@ -2,16 +2,16 @@
 <glyph name="wcircumflex" format="2">
   <advance width="1490.111111111111"/>
   <unicode hex="0175"/>
-  <anchor x="744.5555555555555" y="-234.56790123456796" name="btm"/>
-  <anchor x="744.5555555555555" y="886.4197530864199" name="top"/>
+  <anchor x="745.5555555555555" y="0.0" name="bottom"/>
+  <anchor x="746.0555555555555" y="1465.5061728395062" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="circumflex" xOffset="187.320987654321"/>
+    <component base="circumflexcomb" xOffset="188.320987654321"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

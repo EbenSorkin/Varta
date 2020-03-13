@@ -2,9 +2,9 @@
 <glyph name="d_ga-deva" format="2">
   <advance width="1042.5061728395062"/>
   <anchor x="845.8148148148148" y="-15.716049382716047" name="bottom"/>
-  <anchor x="540.0617283950618" y="1167.0" name="candra"/>
-  <anchor x="722.4074074074074" y="1167.7654320987654" name="top"/>
-  <anchor x="68.81481481481481" y="52.91358024691358" name="nukta"/>
+  <anchor x="383.81481481481484" y="1256.3827160493827" name="candra"/>
+  <anchor x="722.4074074074074" y="1257.148148148148" name="top"/>
+  <anchor x="101.5679012345679" y="-17.123456790123456" name="nukta"/>
   <outline>
     <contour>
       <point x="410.48148148148147" y="-481.037037037037" type="line"/>
@@ -31,7 +31,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ga-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:07:41</string>
     </dict>
   </lib>
 </glyph>

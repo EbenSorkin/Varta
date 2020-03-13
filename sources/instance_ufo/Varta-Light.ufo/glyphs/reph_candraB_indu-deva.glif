@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph_candraBindu-deva" format="2">
+  <advance width="540.0"/>
+  <anchor x="287.0" y="1247.0" name="_top"/>
+  <anchor x="437.028" y="1771.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="292.0" y="1207.0" type="curve"/>
+      <point x="329.0" y="1233.0" type="line"/>
+      <point x="291.0" y="1285.0"/>
+      <point x="273.0" y="1350.0"/>
+      <point x="273.0" y="1413.0" type="curve" smooth="yes"/>
+      <point x="273.0" y="1536.0"/>
+      <point x="343.0" y="1661.0"/>
+      <point x="470.0" y="1661.0" type="curve" smooth="yes"/>
+      <point x="540.0" y="1661.0"/>
+      <point x="602.0" y="1637.0"/>
+      <point x="649.0" y="1610.0" type="curve"/>
+      <point x="682.0" y="1708.0" type="line"/>
+      <point x="629.0" y="1746.0"/>
+      <point x="543.0" y="1771.0"/>
+      <point x="457.0" y="1771.0" type="curve" smooth="yes"/>
+      <point x="294.0" y="1771.0"/>
+      <point x="175.0" y="1649.0"/>
+      <point x="175.0" y="1478.0" type="curve" smooth="yes"/>
+      <point x="175.0" y="1390.0"/>
+      <point x="205.0" y="1297.0"/>
+    </contour>
+    <component base="candraBindu-deva" xScale="0.64684" yScale="0.64684" xOffset="342.0" yOffset="422.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 19:17:54</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

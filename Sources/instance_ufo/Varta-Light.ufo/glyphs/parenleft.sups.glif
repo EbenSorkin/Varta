@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft.sups" format="2">
-  <advance width="470"/>
+  <advance width="470.0"/>
   <unicode hex="207D"/>
   <outline>
     <contour>
-      <point x="389" y="785" type="line"/>
-      <point x="281" y="947"/>
-      <point x="241" y="1118"/>
-      <point x="241" y="1299" type="curve" smooth="yes"/>
-      <point x="241" y="1480"/>
-      <point x="281" y="1652"/>
-      <point x="389" y="1810" type="curve"/>
-      <point x="312" y="1851" type="line"/>
-      <point x="197" y="1688"/>
-      <point x="134" y="1526"/>
-      <point x="134" y="1299" type="curve" smooth="yes"/>
-      <point x="134" y="1071"/>
-      <point x="197" y="907"/>
-      <point x="312" y="745" type="curve"/>
+      <point x="312.0" y="745.0" type="curve"/>
+      <point x="389.0" y="785.0" type="line"/>
+      <point x="281.0" y="947.0"/>
+      <point x="241.0" y="1118.0"/>
+      <point x="241.0" y="1299.0" type="curve" smooth="yes"/>
+      <point x="241.0" y="1480.0"/>
+      <point x="281.0" y="1652.0"/>
+      <point x="389.0" y="1810.0" type="curve"/>
+      <point x="312.0" y="1851.0" type="line"/>
+      <point x="197.0" y="1688.0"/>
+      <point x="134.0" y="1526.0"/>
+      <point x="134.0" y="1299.0" type="curve" smooth="yes"/>
+      <point x="134.0" y="1071.0"/>
+      <point x="197.0" y="907.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -33,8 +33,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

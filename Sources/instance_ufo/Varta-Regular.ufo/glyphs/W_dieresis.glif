@@ -3,14 +3,15 @@
   <advance width="1593.148148148148"/>
   <unicode hex="1E84"/>
   <anchor x="796.6913580246913" y="0.0" name="bottom"/>
-  <anchor x="796.6913580246913" y="1344.5925925925926" name="top"/>
+  <anchor x="796.6913580246913" y="1660.679012345679" name="top"/>
   <outline>
     <component base="W"/>
+    <component base="dieresiscomb.cap" xOffset="515.6666666666666"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

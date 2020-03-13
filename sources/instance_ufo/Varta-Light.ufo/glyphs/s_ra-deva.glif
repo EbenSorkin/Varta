@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_ra-deva" format="2">
+  <advance width="774.0"/>
+  <outline>
+    <contour>
+      <point x="633.0" y="216.0" type="line"/>
+      <point x="959.0" y="463.0" type="line"/>
+      <point x="931.0" y="555.0" type="line"/>
+      <point x="558.0" y="309.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="487.0" y="-23.0" type="line"/>
+      <point x="586.0" y="51.0" type="line"/>
+      <point x="173.0" y="622.0" type="line"/>
+      <point x="153.0" y="603.0" type="line"/>
+      <point x="175.0" y="575.0"/>
+      <point x="219.0" y="545.0"/>
+      <point x="278.0" y="545.0" type="curve" smooth="yes"/>
+      <point x="410.0" y="545.0"/>
+      <point x="487.0" y="621.0"/>
+      <point x="487.0" y="801.0" type="curve" smooth="yes"/>
+      <point x="487.0" y="1191.0" type="line"/>
+      <point x="361.0" y="1190.0" type="line"/>
+      <point x="361.0" y="795.0" type="line" smooth="yes"/>
+      <point x="361.0" y="694.0"/>
+      <point x="334.0" y="644.0"/>
+      <point x="246.0" y="644.0" type="curve" smooth="yes"/>
+      <point x="198.0" y="644.0"/>
+      <point x="160.0" y="666.0"/>
+      <point x="123.0" y="695.0" type="curve"/>
+      <point x="45.0" y="630.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="782.0" y="520.0" type="curve" smooth="yes"/>
+      <point x="838.0" y="520.0"/>
+      <point x="892.0" y="523.0"/>
+      <point x="940.0" y="530.0" type="curve"/>
+      <point x="940.0" y="647.0" type="line"/>
+      <point x="886.0" y="639.0"/>
+      <point x="825.0" y="632.0"/>
+      <point x="758.0" y="632.0" type="curve" smooth="yes"/>
+      <point x="648.0" y="632.0"/>
+      <point x="527.0" y="649.0"/>
+      <point x="423.0" y="690.0" type="curve"/>
+      <point x="384.0" y="597.0" type="line"/>
+      <point x="493.0" y="543.0"/>
+      <point x="645.0" y="520.0"/>
+    </contour>
+    <contour>
+      <point x="-21.0" y="1143.0" type="line"/>
+      <point x="780.0" y="1143.0" type="line"/>
+      <point x="780.0" y="1247.0" type="line"/>
+      <point x="-21.0" y="1247.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>s-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:53:23</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

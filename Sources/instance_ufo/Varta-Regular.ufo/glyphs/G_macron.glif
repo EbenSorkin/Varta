@@ -2,16 +2,16 @@
 <glyph name="Gmacron" format="2">
   <advance width="1248.2716049382716"/>
   <unicode hex="1E20"/>
-  <anchor x="647.2716049382716" y="0.0" name="bottom"/>
-  <anchor x="693.4938271604939" y="1350.4567901234568" name="top"/>
+  <anchor x="624.5185185185185" y="0.0" name="bottom"/>
+  <anchor x="716.7530864197531" y="1604.9135802469136" name="top"/>
   <outline>
     <component base="G"/>
-    <component base="macron.cap" xOffset="705.5185185185185"/>
+    <component base="macroncomb.cap" xOffset="456.12345679012344"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 07:49:56</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z_ra-deva" format="2">
-  <advance width="1657.9135802469136"/>
-  <anchor x="1428.432098765432" y="28.38271604938272" name="bottom"/>
-  <anchor x="1386.3086419753085" y="1167.3456790123457" name="candra"/>
-  <anchor x="1061.2716049382716" y="119.81481481481484" name="nukta"/>
-  <anchor x="1386.6543209876543" y="1167.3456790123457" name="top"/>
+  <advance width="952.7777777777777"/>
   <outline>
     <contour>
-      <point x="641.6913580246913" y="-93.67901234567898" type="curve" smooth="yes"/>
-      <point x="713.7407407407408" y="-93.67901234567898"/>
-      <point x="744.9382716049382" y="-63.790123456790106"/>
-      <point x="744.9382716049382" y="7.259259259259268" type="curve" smooth="yes"/>
-      <point x="744.9382716049382" y="79.30864197530865"/>
-      <point x="713.7407407407408" y="109.19753086419753"/>
-      <point x="641.6913580246913" y="109.19753086419753" type="curve" smooth="yes"/>
-      <point x="570.2962962962963" y="109.19753086419753"/>
-      <point x="538.7530864197531" y="79.30864197530865"/>
-      <point x="538.6935432098766" y="7.259259259259268" type="curve" smooth="yes"/>
-      <point x="538.7530864197531" y="-63.790123456790106"/>
-      <point x="570.2962962962963" y="-93.67901234567898"/>
+      <point x="175.51851851851853" y="-4.049382716049372" type="curve" smooth="yes"/>
+      <point x="247.5679012345679" y="-4.049382716049372"/>
+      <point x="278.7654320987654" y="25.839506172839513"/>
+      <point x="278.7654320987654" y="96.88888888888889" type="curve" smooth="yes"/>
+      <point x="278.7654320987654" y="168.93827160493825"/>
+      <point x="247.5679012345679" y="198.82716049382714"/>
+      <point x="175.51851851851853" y="198.82716049382714" type="curve" smooth="yes"/>
+      <point x="104.12345679012348" y="198.82716049382714"/>
+      <point x="72.58024691358028" y="168.93827160493825"/>
+      <point x="72.58024691358028" y="96.88888888888889" type="curve" smooth="yes"/>
+      <point x="72.58024691358028" y="25.839506172839513"/>
+      <point x="104.12345679012348" y="-4.049382716049372"/>
     </contour>
     <component base="j_ra-deva"/>
   </outline>
@@ -27,9 +23,11 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>z-deva</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>ra-deva</string>
+      <string>j-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 17:55:32</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

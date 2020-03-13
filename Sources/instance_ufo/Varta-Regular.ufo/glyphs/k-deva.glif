@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k-deva" format="2">
   <advance width="1160.962962962963"/>
-  <anchor x="787.3456790123457" y="27.765432098765434" name="bottom"/>
-  <anchor x="786.3456790123457" y="1167.7654320987654" name="candra"/>
-  <anchor x="347.0" y="28.0" name="nukta"/>
-  <anchor x="787.3456790123457" y="1167.7654320987654" name="top"/>
+  <anchor x="165.59259259259258" y="6.5679012345679" name="nukta"/>
   <outline>
     <contour>
+      <point x="409.5308641975309" y="216.66666666666666" type="curve" smooth="yes"/>
+      <point x="557.0" y="216.66666666666666"/>
+      <point x="698.7530864197531" y="282.3703703703704"/>
+      <point x="780.3456790123457" y="391.7654320987654" type="curve"/>
       <point x="749.6453209876544" y="518.1391481481481" type="line"/>
       <point x="676.6666666666666" y="413.9753086419753"/>
       <point x="557.358024691358" y="342.06507407407406"/>
@@ -29,10 +30,6 @@
       <point x="73.37037037037037" y="567.0617283950618" type="curve" smooth="yes"/>
       <point x="73.37037037037037" y="378.3333333333333"/>
       <point x="178.39506172839506" y="216.66666666666666"/>
-      <point x="409.5308641975309" y="216.66666666666666" type="curve" smooth="yes"/>
-      <point x="557.0" y="216.66666666666666"/>
-      <point x="698.7530864197531" y="282.3703703703704"/>
-      <point x="780.3456790123457" y="391.7654320987654" type="curve"/>
     </contour>
     <contour>
       <point x="714.4938271604939" y="0.0" type="line"/>
@@ -66,7 +63,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2020/03/11 10:27:33</string>
     </dict>
   </lib>
 </glyph>

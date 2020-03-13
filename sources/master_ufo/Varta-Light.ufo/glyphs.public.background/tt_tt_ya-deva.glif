@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tt_tt_ya-deva" format="2">
+  <outline>
+    <component base="tt-deva"/>
+    <component base="tt_ya-deva" xOffset="1017.0"/>
+  </outline>
+</glyph>

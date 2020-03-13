@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="566.4074074074074" y="993.0493827160494" name="_top"/>
+  <anchor x="648.2530864197531" y="1460.0493827160494" name="top"/>
+  <outline>
+    <contour>
+      <point x="357.9012345679012" y="1168.7037037037037" type="line"/>
+      <point x="464.22222222222223" y="1168.7037037037037" type="line"/>
+      <point x="642.5679012345679" y="1460.0493827160494" type="line"/>
+      <point x="504.1975308641975" y="1460.0493827160494" type="line"/>
+    </contour>
+    <contour>
+      <point x="654.9382716049382" y="1168.7037037037037" type="line"/>
+      <point x="760.4938271604939" y="1168.7037037037037" type="line"/>
+      <point x="938.604938271605" y="1460.0493827160494" type="line"/>
+      <point x="800.4691358024692" y="1460.0493827160494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 03:59:11</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>1104.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>3.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

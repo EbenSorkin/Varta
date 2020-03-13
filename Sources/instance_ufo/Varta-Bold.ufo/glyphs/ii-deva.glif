@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ii-deva" format="2">
-  <advance width="1137"/>
+  <advance width="1060.0"/>
   <unicode hex="0908"/>
   <note>
 dIi
 </note>
-  <anchor x="885" y="-95" name="bottom"/>
-  <anchor x="582" y="1167" name="candra"/>
-  <anchor x="869" y="1728" name="top"/>
+  <anchor x="622.0" y="1287.0" name="candra"/>
+  <anchor x="883.0" y="1624.0" name="top"/>
   <outline>
     <component base="i-deva"/>
-    <component base="reph-deva" xOffset="508"/>
+    <component base="reph-deva" xOffset="469.0"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>i-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 04:37:59</string>
+      <string>2020/03/11 08:50:31</string>
     </dict>
   </lib>
 </glyph>

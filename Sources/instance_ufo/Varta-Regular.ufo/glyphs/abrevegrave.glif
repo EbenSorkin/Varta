@@ -2,16 +2,17 @@
 <glyph name="abrevegrave" format="2">
   <advance width="1044.567901234568"/>
   <unicode hex="1EB1"/>
-  <anchor x="511.2098765432099" y="-276.5432098765432" name="btm"/>
-  <anchor x="511.2098765432099" y="991.3580246913581" name="top"/>
+  <anchor x="522.283950617284" y="0.0" name="bottom"/>
+  <anchor x="939.8641975308642" y="10.0" name="ogonek"/>
+  <anchor x="522.283950617284" y="1612.0987654320988" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_gravecomb" xOffset="651.9506172839506"/>
+    <component base="brevecomb_gravecomb" xOffset="256.5308641975309"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

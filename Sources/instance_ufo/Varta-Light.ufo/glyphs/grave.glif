@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave" format="2">
-  <advance width="1104"/>
+  <advance width="1104.0"/>
   <unicode hex="0060"/>
-  <anchor x="623" y="1050" name="_top"/>
   <outline>
     <contour>
-      <point x="569" y="1173" type="line"/>
-      <point x="677" y="1173" type="line"/>
-      <point x="491" y="1457" type="line"/>
-      <point x="344" y="1457" type="line"/>
+      <point x="569.0" y="1173.0" type="line"/>
+      <point x="677.0" y="1173.0" type="line"/>
+      <point x="491.0" y="1457.0" type="line"/>
+      <point x="344.0" y="1457.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -24,8 +23,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

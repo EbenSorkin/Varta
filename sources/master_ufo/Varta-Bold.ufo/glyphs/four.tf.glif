@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tf" format="2">
+  <advance width="1003.0"/>
+  <outline>
+    <contour>
+      <point x="603.0" y="-155.0" type="line"/>
+      <point x="809.0" y="-155.0" type="line"/>
+      <point x="809.0" y="184.0" type="line"/>
+      <point x="976.0" y="184.0" type="line"/>
+      <point x="976.0" y="355.0" type="line"/>
+      <point x="809.0" y="355.0" type="line"/>
+      <point x="809.0" y="1179.0" type="line"/>
+      <point x="551.0" y="1179.0" type="line"/>
+      <point x="25.0" y="332.0" type="line"/>
+      <point x="25.0" y="184.0" type="line"/>
+      <point x="603.0" y="184.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="245.0" y="355.0" type="line"/>
+      <point x="499.0" y="753.0" type="line"/>
+      <point x="536.0" y="822.0"/>
+      <point x="573.0" y="897.0"/>
+      <point x="606.0" y="965.0" type="curve"/>
+      <point x="614.0" y="965.0" type="line"/>
+      <point x="610.0" y="891.0"/>
+      <point x="603.0" y="777.0"/>
+      <point x="603.0" y="702.0" type="curve"/>
+      <point x="603.0" y="355.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:12:25</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -2,16 +2,19 @@
 <glyph name="Ohorntilde" format="2">
   <advance width="1345.2716049382716"/>
   <unicode hex="1EE0"/>
+  <anchor x="673.5185185185185" y="0.0" name="bottom"/>
   <anchor x="673.6913580246913" y="-276.5432098765432" name="btm"/>
-  <anchor x="673.6913580246913" y="1404.6913580246915" name="top"/>
+  <anchor x="673.5185185185185" y="1669.2716049382716" name="top"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="tilde.cap" xOffset="673.6913580246913"/>
+    <component base="tildecomb.cap" xOffset="372.01234567901236" yOffset="-4.592592592592593"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:48:48</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,19 @@
 <glyph name="Ohorngrave" format="2">
   <advance width="1358.2839506172838"/>
   <unicode hex="1EDC"/>
+  <anchor x="679.8148148148148" y="0.0" name="bottom"/>
   <anchor x="682.0864197530864" y="-234.56790123456796" name="btm"/>
-  <anchor x="682.0864197530864" y="1073.0864197530868" name="top"/>
+  <anchor x="573.2716049382716" y="1674.8518518518517" name="top"/>
   <outline>
     <component base="Ohorn"/>
-    <component base="grave.cap" xOffset="667.2592592592592"/>
+    <component base="gravecomb.cap" xOffset="365.40740740740745" yOffset="-2.0740740740740766"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:53:07</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

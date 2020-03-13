@@ -2,16 +2,17 @@
 <glyph name="agrave" format="2">
   <advance width="1044.567901234568"/>
   <unicode hex="00E0"/>
-  <anchor x="511.2098765432099" y="-276.5432098765432" name="btm"/>
-  <anchor x="511.2098765432099" y="991.3580246913581" name="top"/>
+  <anchor x="522.283950617284" y="0.0" name="bottom"/>
+  <anchor x="939.8641975308642" y="10.0" name="ogonek"/>
+  <anchor x="423.10493827160496" y="1460.0493827160494" name="top"/>
   <outline>
     <component base="a"/>
-    <component base="grave" xOffset="-113.19753086419753"/>
+    <component base="gravecomb" xOffset="238.01234567901236"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:39:05</string>
     </dict>
   </lib>
 </glyph>

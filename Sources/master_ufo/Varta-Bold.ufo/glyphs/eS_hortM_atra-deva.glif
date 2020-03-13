@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eShortMatra-deva" format="2">
   <unicode hex="0946"/>
-  <anchor x="245" y="1138" name="_top"/>
-  <anchor x="609" y="1287" name="candra"/>
-  <anchor x="571" y="1287" name="top"/>
+  <anchor x="252.0" y="1287.0" name="_top"/>
+  <anchor x="476.0" y="1523.0" name="candra"/>
+  <anchor x="474.0" y="1525.0" name="top"/>
   <outline>
     <contour>
-      <point x="295" y="1170" type="line"/>
-      <point x="346" y="1252"/>
-      <point x="356" y="1305"/>
-      <point x="356" y="1360" type="curve" smooth="yes"/>
-      <point x="356" y="1528"/>
-      <point x="262" y="1609"/>
-      <point x="87" y="1632" type="curve" smooth="yes"/>
-      <point x="-95" y="1658" type="line" smooth="yes"/>
-      <point x="-200" y="1673"/>
-      <point x="-234" y="1714"/>
-      <point x="-234" y="1768" type="curve" smooth="yes"/>
-      <point x="-234" y="1780"/>
-      <point x="-232" y="1801"/>
-      <point x="-231" y="1821" type="curve"/>
-      <point x="-368" y="1841" type="line"/>
-      <point x="-391" y="1790"/>
-      <point x="-397" y="1751"/>
-      <point x="-397" y="1719" type="curve" smooth="yes"/>
-      <point x="-397" y="1609"/>
-      <point x="-324" y="1505"/>
-      <point x="-154" y="1479" type="curve" smooth="yes"/>
-      <point x="29" y="1451" type="line" smooth="yes"/>
-      <point x="149" y="1433"/>
-      <point x="186" y="1408"/>
-      <point x="186" y="1322" type="curve" smooth="yes"/>
-      <point x="186" y="1292"/>
-      <point x="181" y="1254"/>
-      <point x="176" y="1203" type="curve"/>
+      <point x="295.0" y="1199.0" type="line"/>
+      <point x="329.0" y="1281.0"/>
+      <point x="356.0" y="1364.0"/>
+      <point x="356.0" y="1448.0" type="curve" smooth="yes"/>
+      <point x="356.0" y="1585.0"/>
+      <point x="293.0" y="1670.0"/>
+      <point x="157.0" y="1703.0" type="curve" smooth="yes"/>
+      <point x="103.0" y="1716.0" type="line" smooth="yes"/>
+      <point x="-2.0" y="1741.0"/>
+      <point x="-36.0" y="1782.0"/>
+      <point x="-36.0" y="1810.0" type="curve" smooth="yes"/>
+      <point x="-36.0" y="1822.0"/>
+      <point x="-34.0" y="1838.0"/>
+      <point x="-33.0" y="1853.0" type="curve"/>
+      <point x="-170.0" y="1873.0" type="line"/>
+      <point x="-193.0" y="1827.0"/>
+      <point x="-199.0" y="1793.0"/>
+      <point x="-199.0" y="1761.0" type="curve" smooth="yes"/>
+      <point x="-199.0" y="1679.0"/>
+      <point x="-122.0" y="1588.0"/>
+      <point x="44.0" y="1537.0" type="curve" smooth="yes"/>
+      <point x="99.0" y="1520.0" type="line" smooth="yes"/>
+      <point x="180.0" y="1495.0"/>
+      <point x="186.0" y="1465.0"/>
+      <point x="186.0" y="1351.0" type="curve" smooth="yes"/>
+      <point x="186.0" y="1321.0"/>
+      <point x="181.0" y="1283.0"/>
+      <point x="176.0" y="1232.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 09:02:04</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>540</integer>
+      <real>540.0</real>
     </dict>
   </lib>
 </glyph>

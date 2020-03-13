@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tth_ya-deva" format="2">
-  <advance width="2363"/>
-  <anchor x="2084" y="27" name="bottom"/>
-  <anchor x="2082" y="1167" name="candra"/>
-  <anchor x="2084" y="1167" name="top"/>
-  <anchor x="-14" y="82" name="nukta"/>
+  <advance width="2323.0"/>
+  <anchor x="2084.0" y="27.0" name="bottom"/>
+  <anchor x="2082.0" y="1287.0" name="candra"/>
+  <anchor x="2084.0" y="1287.0" name="top"/>
+  <anchor x="575.0" y="-216.0" name="nukta"/>
   <outline>
     <component base="ttha-deva"/>
-    <component base="ya-deva.post" xOffset="1177"/>
+    <component base="ya-deva.post" xOffset="1137.0"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ya-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 17:47:00</string>
     </dict>
   </lib>
 </glyph>

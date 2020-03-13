@@ -3,15 +3,15 @@
   <advance width="1172.7283950617284"/>
   <unicode hex="0154"/>
   <anchor x="586.8641975308642" y="0.0" name="bottom"/>
-  <anchor x="586.8641975308642" y="1344.5925925925926" name="top"/>
+  <anchor x="694.4012345679013" y="1674.1728395061727" name="top"/>
   <outline>
     <component base="R"/>
-    <component base="acute.cap" xOffset="602.8641975308642"/>
+    <component base="acutecomb.cap" xOffset="503.30864197530866"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:52:45</string>
     </dict>
   </lib>
 </glyph>

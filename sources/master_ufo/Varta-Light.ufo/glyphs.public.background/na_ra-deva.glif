@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na_ra-deva" format="2">
+  <outline>
+    <contour>
+      <point x="245.0" y="-21.0" type="line"/>
+      <point x="814.0" y="425.0" type="line"/>
+      <point x="770.0" y="520.0" type="line"/>
+      <point x="167.0" y="72.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

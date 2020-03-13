@@ -1,61 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="literSign" format="2">
-  <advance width="808"/>
+  <advance width="808.0"/>
   <unicode hex="2113"/>
   <outline>
     <contour>
-      <point x="730" y="183" type="line"/>
-      <point x="681" y="136"/>
-      <point x="627" y="93"/>
-      <point x="542" y="93" type="curve" smooth="yes"/>
-      <point x="439" y="93"/>
-      <point x="353" y="169"/>
-      <point x="353" y="372" type="curve" smooth="yes"/>
-      <point x="353" y="447" type="line"/>
-      <point x="590" y="656"/>
-      <point x="748" y="908"/>
-      <point x="748" y="1166" type="curve" smooth="yes"/>
-      <point x="748" y="1366"/>
-      <point x="643" y="1475"/>
-      <point x="496" y="1475" type="curve" smooth="yes"/>
-      <point x="340" y="1475"/>
-      <point x="218" y="1354"/>
-      <point x="218" y="1043" type="curve" smooth="yes"/>
-      <point x="218" y="473" type="line"/>
-      <point x="165" y="429"/>
-      <point x="108" y="388"/>
-      <point x="49" y="348" type="curve"/>
-      <point x="106" y="259" type="line"/>
-      <point x="144" y="285"/>
-      <point x="182" y="312"/>
-      <point x="218" y="339" type="curve"/>
-      <point x="219" y="330"/>
-      <point x="219" y="314"/>
-      <point x="220" y="306" type="curve" smooth="yes"/>
-      <point x="236" y="88"/>
-      <point x="369" y="-25"/>
-      <point x="526" y="-25" type="curve" smooth="yes"/>
-      <point x="638" y="-25"/>
-      <point x="724" y="39"/>
-      <point x="786" y="97" type="curve"/>
+      <point x="526.0" y="-25.0" type="curve" smooth="yes"/>
+      <point x="638.0" y="-25.0"/>
+      <point x="724.0" y="39.0"/>
+      <point x="786.0" y="97.0" type="curve"/>
+      <point x="730.0" y="183.0" type="line"/>
+      <point x="681.0" y="136.0"/>
+      <point x="627.0" y="93.0"/>
+      <point x="542.0" y="93.0" type="curve" smooth="yes"/>
+      <point x="439.0" y="93.0"/>
+      <point x="353.0" y="169.0"/>
+      <point x="353.0" y="372.0" type="curve" smooth="yes"/>
+      <point x="353.0" y="447.0" type="line"/>
+      <point x="590.0" y="656.0"/>
+      <point x="748.0" y="908.0"/>
+      <point x="748.0" y="1166.0" type="curve" smooth="yes"/>
+      <point x="748.0" y="1366.0"/>
+      <point x="643.0" y="1475.0"/>
+      <point x="496.0" y="1475.0" type="curve" smooth="yes"/>
+      <point x="340.0" y="1475.0"/>
+      <point x="218.0" y="1354.0"/>
+      <point x="218.0" y="1043.0" type="curve" smooth="yes"/>
+      <point x="218.0" y="473.0" type="line"/>
+      <point x="165.0" y="429.0"/>
+      <point x="108.0" y="388.0"/>
+      <point x="49.0" y="348.0" type="curve"/>
+      <point x="106.0" y="259.0" type="line"/>
+      <point x="144.0" y="285.0"/>
+      <point x="182.0" y="312.0"/>
+      <point x="218.0" y="339.0" type="curve"/>
+      <point x="219.0" y="330.0"/>
+      <point x="219.0" y="314.0"/>
+      <point x="220.0" y="306.0" type="curve" smooth="yes"/>
+      <point x="236.0" y="88.0"/>
+      <point x="369.0" y="-25.0"/>
     </contour>
     <contour>
-      <point x="353" y="1069" type="line"/>
-      <point x="353" y="1273"/>
-      <point x="421" y="1367"/>
-      <point x="499" y="1367" type="curve" smooth="yes"/>
-      <point x="573" y="1367"/>
-      <point x="628" y="1310"/>
-      <point x="628" y="1164" type="curve" smooth="yes"/>
-      <point x="628" y="961"/>
-      <point x="520" y="766"/>
-      <point x="353" y="595" type="curve"/>
+      <point x="353.0" y="595.0" type="curve"/>
+      <point x="353.0" y="1069.0" type="line"/>
+      <point x="353.0" y="1273.0"/>
+      <point x="421.0" y="1367.0"/>
+      <point x="499.0" y="1367.0" type="curve" smooth="yes"/>
+      <point x="573.0" y="1367.0"/>
+      <point x="628.0" y="1310.0"/>
+      <point x="628.0" y="1164.0" type="curve" smooth="yes"/>
+      <point x="628.0" y="961.0"/>
+      <point x="520.0" y="766.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -65,8 +65,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>9</integer>
+            <real>1.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

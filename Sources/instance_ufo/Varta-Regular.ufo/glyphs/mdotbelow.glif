@@ -2,16 +2,16 @@
 <glyph name="mdotbelow" format="2">
   <advance width="1692.4444444444443"/>
   <unicode hex="1E43"/>
-  <anchor x="857.1481481481482" y="-276.5432098765432" name="btm"/>
-  <anchor x="851.9876543209876" y="991.3580246913581" name="top"/>
+  <anchor x="846.2222222222222" y="-418.0987654320988" name="bottom"/>
+  <anchor x="846.2222222222222" y="993.0493827160494" name="top"/>
   <outline>
     <component base="m"/>
-    <component base="dotbelowcomb" xOffset="857.1481481481482"/>
+    <component base="dotbelowcomb" xOffset="731.0123456790124"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

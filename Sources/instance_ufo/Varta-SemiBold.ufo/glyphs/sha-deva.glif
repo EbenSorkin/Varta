@@ -2,10 +2,10 @@
 <glyph name="sha-deva" format="2">
   <advance width="1353.2839506172838"/>
   <unicode hex="0936"/>
-  <anchor x="1074.320987654321" y="27.34567901234568" name="bottom"/>
-  <anchor x="765.0740740740741" y="1167.3456790123457" name="candra"/>
+  <anchor x="1074.320987654321" y="0.0" name="bottom"/>
+  <anchor x="952.6296296296296" y="1273.1728395061727" name="candra"/>
   <anchor x="261.87654320987656" y="68.86419753086417" name="nukta"/>
-  <anchor x="1074.320987654321" y="1167.3456790123457" name="top"/>
+  <anchor x="1074.320987654321" y="1273.1728395061727" name="top"/>
   <outline>
     <contour>
       <point x="312.4938271604938" y="418.5925925925926" type="line"/>
@@ -42,6 +42,10 @@
       <point x="213.4320987654321" y="509.0740740740741" type="line"/>
     </contour>
     <contour>
+      <point x="198.1728395061728" y="388.7777777777778" type="curve" smooth="yes"/>
+      <point x="259.1111111111111" y="388.7777777777778"/>
+      <point x="308.074074074074" y="406.6296296296297"/>
+      <point x="409.0123456790123" y="457.7530864197531" type="curve"/>
       <point x="391.8148148148148" y="497.4938271604938" type="line"/>
       <point x="236.45679012345676" y="679.8888888888889" type="line"/>
       <point x="125.32098765432097" y="679.8888888888889" type="line"/>
@@ -50,10 +54,6 @@
       <point x="76.43209876543209" y="515.0617283950618" type="curve" smooth="yes"/>
       <point x="76.0864197530864" y="425.4320987654321"/>
       <point x="142.1728395061728" y="388.7777777777778"/>
-      <point x="198.1728395061728" y="388.7777777777778" type="curve" smooth="yes"/>
-      <point x="259.1111111111111" y="388.7777777777778"/>
-      <point x="308.074074074074" y="406.6296296296297"/>
-      <point x="409.0123456790123" y="457.7530864197531" type="curve"/>
     </contour>
     <contour>
       <point x="983.1851851851851" y="0.0" type="line"/>
@@ -71,7 +71,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 11:26:02</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

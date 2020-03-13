@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="g-deva" format="2">
   <advance width="604.6543209876543"/>
+  <anchor x="299.08641975308643" y="67.82716049382718" name="nukta"/>
   <outline>
     <contour>
       <point x="235.64197530864197" y="484.01234567901236" type="line"/>
@@ -28,7 +29,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 09:19:21</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

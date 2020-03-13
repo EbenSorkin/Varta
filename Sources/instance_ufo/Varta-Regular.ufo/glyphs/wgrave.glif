@@ -2,16 +2,16 @@
 <glyph name="wgrave" format="2">
   <advance width="1459.888888888889"/>
   <unicode hex="1E81"/>
-  <anchor x="729.4444444444445" y="-276.5432098765432" name="btm"/>
-  <anchor x="729.4444444444445" y="991.3580246913581" name="top"/>
+  <anchor x="730.4444444444445" y="0.0" name="bottom"/>
+  <anchor x="631.2654320987655" y="1460.0493827160494" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="grave" xOffset="105.03703703703704"/>
+    <component base="gravecomb" xOffset="446.17283950617286"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:39:05</string>
     </dict>
   </lib>
 </glyph>

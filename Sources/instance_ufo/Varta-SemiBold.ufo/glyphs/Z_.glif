@@ -3,6 +3,7 @@
   <advance width="1096.2345679012346"/>
   <unicode hex="005A"/>
   <anchor x="548.6172839506173" y="0.0" name="bottom"/>
+  <anchor x="548.6172839506173" y="671.0370370370371" name="center"/>
   <anchor x="548.6172839506173" y="1342.0740740740741" name="top"/>
   <outline>
     <contour>
@@ -21,7 +22,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 19:08:07</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -31,8 +32,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>9.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -40,6 +41,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>

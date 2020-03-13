@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="anusvara-deva.001" format="2">
-  <anchor x="162" y="1247" name="_candra"/>
+  <anchor x="162.0" y="1247.0" name="_candra"/>
   <outline>
     <contour>
-      <point x="326" y="1453" type="curve" smooth="yes"/>
-      <point x="384" y="1453"/>
-      <point x="408" y="1477"/>
-      <point x="408" y="1534" type="curve" smooth="yes"/>
-      <point x="408" y="1591"/>
-      <point x="384" y="1615"/>
-      <point x="326" y="1615" type="curve" smooth="yes"/>
-      <point x="269" y="1615"/>
-      <point x="244" y="1591"/>
-      <point x="244" y="1534" type="curve" smooth="yes"/>
-      <point x="244" y="1477"/>
-      <point x="269" y="1453"/>
+      <point x="326.0" y="1453.0" type="curve" smooth="yes"/>
+      <point x="384.0" y="1453.0"/>
+      <point x="408.0" y="1477.0"/>
+      <point x="408.0" y="1534.0" type="curve" smooth="yes"/>
+      <point x="408.0" y="1591.0"/>
+      <point x="384.0" y="1615.0"/>
+      <point x="326.0" y="1615.0" type="curve" smooth="yes"/>
+      <point x="269.0" y="1615.0"/>
+      <point x="244.0" y="1591.0"/>
+      <point x="244.0" y="1534.0" type="curve" smooth="yes"/>
+      <point x="244.0" y="1477.0"/>
+      <point x="269.0" y="1453.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 04:48:52</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>540</integer>
+      <real>540.0</real>
     </dict>
   </lib>
 </glyph>

@@ -4,6 +4,7 @@
   <unicode hex="0028"/>
   <outline>
     <contour>
+      <point x="439.95061728395063" y="-359.9382716049383" type="curve"/>
       <point x="537.1481481481482" y="-313.71604938271605" type="line"/>
       <point x="378.32098765432096" y="-53.77777777777778"/>
       <point x="302.1975308641975" y="238.71604938271605"/>
@@ -17,13 +18,12 @@
       <point x="169.9506172839506" y="567.4691358024692" type="curve" smooth="yes"/>
       <point x="169.9506172839506" y="188.25925925925927"/>
       <point x="270.71604938271605" y="-86.0"/>
-      <point x="439.95061728395063" y="-359.9382716049383" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -33,8 +33,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

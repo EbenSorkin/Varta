@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="1042"/>
+  <advance width="1042.0"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="615" y="0" type="line"/>
-      <point x="821" y="0" type="line"/>
-      <point x="821" y="341" type="line"/>
-      <point x="988" y="341" type="line"/>
-      <point x="988" y="513" type="line"/>
-      <point x="821" y="513" type="line"/>
-      <point x="821" y="1343" type="line"/>
-      <point x="563" y="1343" type="line"/>
-      <point x="37" y="489" type="line"/>
-      <point x="37" y="341" type="line"/>
-      <point x="615" y="341" type="line"/>
+      <point x="615.0" y="0.0" type="line"/>
+      <point x="821.0" y="0.0" type="line"/>
+      <point x="821.0" y="341.0" type="line"/>
+      <point x="988.0" y="341.0" type="line"/>
+      <point x="988.0" y="513.0" type="line"/>
+      <point x="821.0" y="513.0" type="line"/>
+      <point x="821.0" y="1343.0" type="line"/>
+      <point x="563.0" y="1343.0" type="line"/>
+      <point x="37.0" y="489.0" type="line"/>
+      <point x="37.0" y="341.0" type="line"/>
+      <point x="615.0" y="341.0" type="line"/>
     </contour>
     <contour>
-      <point x="257" y="513" type="line"/>
-      <point x="511" y="922" type="line"/>
-      <point x="548" y="990"/>
-      <point x="585" y="1067"/>
-      <point x="618" y="1133" type="curve"/>
-      <point x="626" y="1133" type="line"/>
-      <point x="622" y="1059"/>
-      <point x="615" y="928"/>
-      <point x="615" y="853" type="curve"/>
-      <point x="615" y="513" type="line"/>
+      <point x="257.0" y="513.0" type="line"/>
+      <point x="511.0" y="922.0" type="line"/>
+      <point x="548.0" y="990.0"/>
+      <point x="585.0" y="1067.0"/>
+      <point x="618.0" y="1133.0" type="curve"/>
+      <point x="626.0" y="1133.0" type="line"/>
+      <point x="622.0" y="1059.0"/>
+      <point x="615.0" y="928.0"/>
+      <point x="615.0" y="853.0" type="curve"/>
+      <point x="615.0" y="513.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -42,15 +42,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

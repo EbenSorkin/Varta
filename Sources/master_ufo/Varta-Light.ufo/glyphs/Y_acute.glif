@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-  <advance width="939"/>
+  <advance width="939.0"/>
   <unicode hex="00DD"/>
-  <anchor x="470" y="0" name="bottom"/>
-  <anchor x="470" y="1346" name="top"/>
+  <anchor x="470.0" y="0.0" name="bottom"/>
+  <anchor x="580.0" y="1673.0" name="top"/>
+  <anchor x="20.0" y="1346.0" name="topleft"/>
   <outline>
     <component base="Y"/>
-    <component base="acute.cap" xOffset="504"/>
+    <component base="acutecomb.cap" xOffset="397.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:52:45</string>
     </dict>
   </lib>
 </glyph>

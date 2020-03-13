@@ -1,18 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tdieresis" format="2">
-  <advance width="670"/>
+  <advance width="670.0"/>
   <unicode hex="1E97"/>
-  <anchor x="380" y="-300" name="btm"/>
-  <anchor x="671" y="1003" name="car"/>
-  <anchor x="277" y="1227" name="top"/>
+  <anchor x="395.0" y="0.0" name="bottom"/>
+  <anchor x="522.0" y="990.0" name="car"/>
+  <anchor x="335.0" y="495.0" name="center"/>
+  <anchor x="284.0" y="1405.0" name="top"/>
+  <anchor x="464.0" y="990.0" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="dieresis" xOffset="-275" yOffset="177"/>
+    <component base="dieresiscomb" xOffset="-268.0" yOffset="203.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:58:30</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,21 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dzcaron" format="2">
-  <advance width="1980"/>
+  <advance width="1980.0"/>
   <unicode hex="01C6"/>
-  <anchor x="525" y="-300" name="btm_1"/>
-  <anchor x="1557" y="-300" name="btm_2"/>
-  <anchor x="1136" y="1003" name="car"/>
-  <anchor x="333" y="1050" name="top_1"/>
-  <anchor x="1557" y="1050" name="top_2"/>
+  <anchor x="544.0" y="0.0" name="bottom_1"/>
+  <anchor x="1554.0" y="0.0" name="bottom_2"/>
+  <anchor x="1097.0" y="990.0" name="car"/>
+  <anchor x="534.0" y="495.0" name="center_1"/>
+  <anchor x="1554.0" y="495.0" name="center_2"/>
+  <anchor x="450.0" y="990.0" name="top_1"/>
+  <anchor x="1553.5" y="1457.0" name="top_2"/>
+  <anchor x="1108.0" y="990.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="1128"/>
-    <component base="caron" xOffset="1005"/>
+    <component base="zcaron" xOffset="1128.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

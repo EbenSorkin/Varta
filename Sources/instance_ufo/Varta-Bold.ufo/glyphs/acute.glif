@@ -1,20 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="1120"/>
+  <advance width="1120.0"/>
   <unicode hex="00B4"/>
-  <anchor x="482" y="800" name="_top"/>
   <outline>
     <contour>
-      <point x="354" y="1175" type="line"/>
-      <point x="518" y="1175" type="line"/>
-      <point x="757" y="1470" type="line"/>
-      <point x="538" y="1470" type="line"/>
+      <point x="354.0" y="1175.0" type="line"/>
+      <point x="518.0" y="1175.0" type="line"/>
+      <point x="757.0" y="1470.0" type="line"/>
+      <point x="538.0" y="1470.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -24,8 +23,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>1</integer>
+            <real>0.0</real>
+            <real>1.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

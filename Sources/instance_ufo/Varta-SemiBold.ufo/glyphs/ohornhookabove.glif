@@ -2,16 +2,16 @@
 <glyph name="ohornhookabove" format="2">
   <advance width="1114.469135802469"/>
   <unicode hex="1EDF"/>
-  <anchor x="554.2716049382716" y="-234.56790123456796" name="btm"/>
-  <anchor x="573.6296296296296" y="1496.9382716049383" name="top"/>
+  <anchor x="565.0" y="0.0" name="bottom"/>
+  <anchor x="570.679012345679" y="1496.5925925925926" name="top"/>
   <outline>
     <component base="ohorn"/>
-    <component base="hookabovecomb" xOffset="797.6913580246909"/>
+    <component base="hookabovecomb" xOffset="403.8024691358025" yOffset="-0.34567901234567944"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:58:51</string>
     </dict>
   </lib>
 </glyph>

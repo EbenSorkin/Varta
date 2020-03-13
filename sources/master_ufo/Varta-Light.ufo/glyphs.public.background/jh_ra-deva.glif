@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jh_ra-deva" format="2">
+  <outline>
+    <component base="jh-deva" xOffset="2.0"/>
+    <component base="ra-deva" xOffset="1037.0"/>
+  </outline>
+</glyph>

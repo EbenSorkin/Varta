@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="arrowleft" format="2">
-  <advance width="1266"/>
+  <advance width="1266.0"/>
   <unicode hex="2190"/>
   <outline>
     <contour>
-      <point x="613" y="-33" type="line"/>
-      <point x="722" y="89" type="line"/>
-      <point x="354" y="426" type="line"/>
-      <point x="1184" y="426" type="line"/>
-      <point x="1184" y="606" type="line"/>
-      <point x="354" y="606" type="line"/>
-      <point x="722" y="943" type="line"/>
-      <point x="613" y="1065" type="line"/>
-      <point x="50" y="520" type="line"/>
-      <point x="50" y="512" type="line"/>
+      <point x="613.0" y="-33.0" type="line"/>
+      <point x="722.0" y="89.0" type="line"/>
+      <point x="354.0" y="426.0" type="line"/>
+      <point x="1184.0" y="426.0" type="line"/>
+      <point x="1184.0" y="606.0" type="line"/>
+      <point x="354.0" y="606.0" type="line"/>
+      <point x="722.0" y="943.0" type="line"/>
+      <point x="613.0" y="1065.0" type="line"/>
+      <point x="50.0" y="520.0" type="line"/>
+      <point x="50.0" y="512.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -29,8 +29,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

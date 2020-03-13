@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m_na-deva" format="2">
+  <advance width="1185.0"/>
+  <anchor x="904.0" y="0.0" name="bottom"/>
+  <anchor x="725.0" y="1287.0" name="candra"/>
+  <anchor x="299.0" y="82.0" name="nukta"/>
+  <anchor x="904.0" y="1287.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="530.0" y="-80.0" type="line"/>
+      <point x="578.0" y="-44.0"/>
+      <point x="598.0" y="-8.0"/>
+      <point x="600.0" y="25.0" type="curve" smooth="yes"/>
+      <point x="602.0" y="55.0"/>
+      <point x="592.0" y="84.0"/>
+      <point x="577.0" y="108.0" type="curve" smooth="yes"/>
+      <point x="542.0" y="166.0" type="line"/>
+      <point x="526.0" y="105.0" type="line"/>
+      <point x="961.0" y="443.0" type="line"/>
+      <point x="830.0" y="531.0" type="line"/>
+      <point x="238.0" y="151.0" type="line"/>
+      <point x="307.0" y="12.0" type="line"/>
+    </contour>
+    <component base="ma-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>m-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:24:19</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

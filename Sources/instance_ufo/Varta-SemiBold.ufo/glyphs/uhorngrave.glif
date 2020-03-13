@@ -2,16 +2,16 @@
 <glyph name="uhorngrave" format="2">
   <advance width="1121.9382716049383"/>
   <unicode hex="1EEB"/>
-  <anchor x="580.3827160493828" y="-234.56790123456796" name="btm"/>
-  <anchor x="574.4938271604939" y="886.4197530864199" name="top"/>
+  <anchor x="561.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="463.75925925925924" y="1465.5061728395062" name="top"/>
   <outline>
     <component base="uhorn"/>
-    <component base="grave" xOffset="-52.43209876543206"/>
+    <component base="gravecomb" xOffset="264.1851851851852"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:39:05</string>
     </dict>
   </lib>
 </glyph>

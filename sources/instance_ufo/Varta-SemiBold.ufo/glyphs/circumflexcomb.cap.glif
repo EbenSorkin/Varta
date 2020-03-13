@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.cap" format="2">
+  <anchor x="302.4444444444444" y="1342.0740740740741" name="_top"/>
+  <anchor x="302.4444444444444" y="1676.9259259259259" name="top"/>
+  <outline>
+    <contour>
+      <point x="10.0" y="1474.0740740740741" type="line"/>
+      <point x="166.8765432098765" y="1474.0740740740741" type="line"/>
+      <point x="298.4444444444444" y="1610.530864197531" type="line"/>
+      <point x="306.4444444444444" y="1610.530864197531" type="line"/>
+      <point x="438.01234567901236" y="1474.0740740740741" type="line"/>
+      <point x="594.8888888888888" y="1474.0740740740741" type="line"/>
+      <point x="397.88888888888886" y="1706.9259259259259" type="line"/>
+      <point x="207.0" y="1706.9259259259259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 03:50:12</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>546.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

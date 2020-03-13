@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tt_sa-deva" format="2">
+  <advance width="2337.9753086419755"/>
+  <anchor x="584.4074074074074" y="-402.91358024691357" name="bottom_1"/>
+  <anchor x="2059.0123456790125" y="0.0" name="bottom_2"/>
+  <anchor x="696.5925925925926" y="1273.1728395061727" name="candra_1"/>
+  <anchor x="1951.8148148148148" y="1273.1728395061727" name="candra_2"/>
+  <anchor x="570.5432098765432" y="-203.9012345679012" name="nukta_1"/>
+  <anchor x="1124.2962962962963" y="131.0" name="nukta_2"/>
+  <anchor x="775.1481481481482" y="1273.1728395061727" name="top_1"/>
+  <anchor x="2059.0123456790125" y="1273.1728395061727" name="top_2"/>
+  <outline>
+    <component base="tt-deva"/>
+    <component base="sa-deva" xOffset="1015.0370370370371"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tt-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 08:32:26</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

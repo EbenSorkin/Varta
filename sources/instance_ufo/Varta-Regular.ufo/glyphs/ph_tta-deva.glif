@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ph_tta-deva" format="2">
+  <advance width="2240.8518518518517"/>
+  <anchor x="861.641975308642" y="12.962962962962965" name="bottom_1"/>
+  <anchor x="1796.9012345679012" y="-52.53086419753087" name="bottom_2"/>
+  <anchor x="782.8271604938271" y="1256.679012345679" name="candra_1"/>
+  <anchor x="1941.2962962962963" y="1256.3827160493827" name="candra_2"/>
+  <anchor x="459.0" y="80.93827160493827" name="nukta_1"/>
+  <anchor x="1790.9012345679012" y="-189.20987654320987" name="nukta_2"/>
+  <anchor x="858.2222222222222" y="1287.0617283950617" name="top_1"/>
+  <anchor x="2004.7407407407406" y="1256.3827160493827" name="top_2"/>
+  <outline>
+    <component base="ph-deva"/>
+    <component base="tta-deva" xOffset="1224.5555555555557"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ph-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

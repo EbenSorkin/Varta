@@ -2,9 +2,11 @@
 <glyph name="tbar" format="2">
   <advance width="683.3703703703703"/>
   <unicode hex="0167"/>
-  <anchor x="377.8888888888889" y="-276.5432098765432" name="btm"/>
-  <anchor x="660.2098765432099" y="1009.0987654320987" name="car"/>
-  <anchor x="284.2716049382716" y="1180.5555555555557" name="top"/>
+  <anchor x="401.8024691358025" y="0.0" name="bottom"/>
+  <anchor x="533.7283950617284" y="992.5802469135803" name="car"/>
+  <anchor x="341.8024691358025" y="496.641975308642" name="center"/>
+  <anchor x="288.69135802469134" y="1193.0" name="top"/>
+  <anchor x="483.4691358024691" y="993.0493827160494" name="topright"/>
   <outline>
     <contour>
       <point x="52.123456790123456" y="520.4444444444445" type="line"/>
@@ -17,7 +19,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -27,15 +29,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

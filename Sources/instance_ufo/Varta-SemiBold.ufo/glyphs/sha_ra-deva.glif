@@ -2,8 +2,8 @@
 <glyph name="sha_ra-deva" format="2">
   <advance width="1363.0987654320986"/>
   <anchor x="1083.4814814814815" y="27.34567901234568" name="bottom"/>
-  <anchor x="1023.6172839506172" y="1167.3456790123457" name="candra"/>
-  <anchor x="1083.4814814814815" y="1167.3456790123457" name="top"/>
+  <anchor x="781.5185185185186" y="1273.5185185185185" name="candra"/>
+  <anchor x="1083.4814814814815" y="1287.3456790123457" name="top"/>
   <outline>
     <contour>
       <point x="133.82716049382714" y="439.70370370370375" type="line"/>
@@ -46,6 +46,7 @@
       <point x="278.88888888888886" y="160.12345679012344" type="line"/>
     </contour>
     <contour>
+      <point x="1094.8765432098764" y="528.1851851851852" type="curve"/>
       <point x="1089.679012345679" y="649.7407407407408" type="line"/>
       <point x="916.0246913580246" y="632.2716049382716"/>
       <point x="701.8148148148148" y="665.6543209876543"/>
@@ -53,7 +54,6 @@
       <point x="411.9382716049383" y="666.3333333333334" type="line"/>
       <point x="634.5679012345679" y="531.7037037037037"/>
       <point x="853.7037037037037" y="488.3950617283951"/>
-      <point x="1094.8765432098764" y="528.1851851851852" type="curve"/>
     </contour>
     <contour>
       <point x="993.0" y="0.0" type="line"/>
@@ -71,7 +71,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/10 12:18:22</string>
     </dict>
   </lib>
 </glyph>

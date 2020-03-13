@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="1003.0"/>
+  <outline>
+    <contour>
+      <point x="120.0" y="0.0" type="line"/>
+      <point x="891.0" y="0.0" type="line"/>
+      <point x="891.0" y="175.0" type="line"/>
+      <point x="633.0" y="175.0" type="line"/>
+      <point x="633.0" y="1179.0" type="line"/>
+      <point x="467.0" y="1179.0" type="line"/>
+      <point x="388.0" y="1131.0"/>
+      <point x="300.0" y="1097.0"/>
+      <point x="172.0" y="1074.0" type="curve"/>
+      <point x="172.0" y="934.0" type="line"/>
+      <point x="413.0" y="947.0" type="line"/>
+      <point x="413.0" y="175.0" type="line"/>
+      <point x="120.0" y="175.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:12:25</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

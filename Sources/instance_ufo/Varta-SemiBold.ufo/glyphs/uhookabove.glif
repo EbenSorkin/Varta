@@ -2,16 +2,18 @@
 <glyph name="uhookabove" format="2">
   <advance width="1121.9382716049383"/>
   <unicode hex="1EE7"/>
-  <anchor x="554.1234567901234" y="-234.56790123456796" name="btm"/>
-  <anchor x="572.6296296296296" y="1496.9382716049383" name="top"/>
+  <anchor x="561.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="1020.0123456790124" y="10.0" name="ogonek"/>
+  <anchor x="551.6419753086419" y="1496.9382716049383" name="top"/>
+  <anchor x="1101.9382716049383" y="998.5061728395061" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="hookabovecomb" xOffset="796.6913580246909"/>
+    <component base="hookabovecomb" xOffset="384.7654320987654"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:58:56</string>
     </dict>
   </lib>
 </glyph>

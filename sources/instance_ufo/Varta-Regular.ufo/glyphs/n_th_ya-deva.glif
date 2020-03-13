@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_th_ya-deva" format="2">
+  <advance width="2386.1975308641977"/>
+  <anchor x="200.7283950617284" y="84.0" name="nukta"/>
+  <anchor x="2109.0246913580245" y="0.0" name="bottom"/>
+  <anchor x="2012.7037037037037" y="1256.3827160493827" name="candra"/>
+  <anchor x="2109.0246913580245" y="1256.3827160493827" name="top"/>
+  <outline>
+    <contour>
+      <point x="189.0493827160494" y="377.61728395061726" type="line"/>
+      <point x="297.01234567901236" y="377.61728395061726"/>
+      <point x="316.18518518518516" y="444.0740740740741"/>
+      <point x="316.18518518518516" y="525.7037037037037" type="curve" smooth="yes"/>
+      <point x="316.18518518518516" y="708.2098765432099" type="line"/>
+      <point x="48.82716049382716" y="708.2098765432099" type="line"/>
+      <point x="48.82716049382716" y="584.0123456790124" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.2469135802469" y="579.6172839506173" type="line"/>
+      <point x="747.0987654320987" y="579.6172839506173" type="line"/>
+      <point x="747.0987654320987" y="708.9753086419753" type="line"/>
+      <point x="182.2469135802469" y="708.2098765432099" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13.641975308641975" y="1133.851851851852" type="line"/>
+      <point x="585.1358024691358" y="1133.851851851852" type="line"/>
+      <point x="585.1358024691358" y="1256.3827160493827" type="line"/>
+      <point x="-13.641975308641975" y="1256.3827160493827" type="line"/>
+    </contour>
+    <component base="th-deva" xOffset="553.9506172839506"/>
+    <component base="ya-deva" xOffset="1241.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 17:53:38</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

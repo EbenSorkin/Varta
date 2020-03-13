@@ -2,9 +2,9 @@
 <glyph name="aaMatra-deva" format="2">
   <advance width="555.641975308642"/>
   <unicode hex="093E"/>
-  <anchor x="277.9382716049383" y="27.765432098765434" name="bottom"/>
-  <anchor x="278.58024691358025" y="1167.2345679012346" name="candra"/>
-  <anchor x="278.641975308642" y="1167.7654320987654" name="top"/>
+  <anchor x="277.9382716049383" y="0.0" name="bottom"/>
+  <anchor x="186.25925925925927" y="1256.3827160493827" name="candra"/>
+  <anchor x="278.4691358024691" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
       <point x="204.85185185185185" y="0.0" type="line"/>
@@ -22,7 +22,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 11:22:31</string>
     </dict>
   </lib>
 </glyph>

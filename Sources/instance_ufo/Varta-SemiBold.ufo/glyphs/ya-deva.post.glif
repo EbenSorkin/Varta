@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ya-deva.post" format="2">
   <advance width="1175.2839506172838"/>
-  <anchor x="902.2469135802469" y="27.34567901234568" name="bottom"/>
-  <anchor x="581.7777777777777" y="1167.0" name="candra"/>
-  <anchor x="896.320987654321" y="1167.3456790123457" name="top"/>
+  <anchor x="902.2469135802469" y="0.0" name="bottom"/>
+  <anchor x="529.4320987654321" y="1273.1728395061727" name="candra"/>
+  <anchor x="896.320987654321" y="1245.8641975308642" name="top"/>
   <outline>
     <contour>
+      <point x="519.0864197530864" y="138.06172839506175" type="curve" smooth="yes"/>
+      <point x="646.7407407407408" y="138.06172839506175"/>
+      <point x="746.6543209876543" y="184.40740740740742"/>
+      <point x="830.824975308642" y="271.92374074074075" type="curve"/>
       <point x="840.0" y="495.02469135802465" type="line"/>
       <point x="757.3456790123457" y="358.02469135802465"/>
       <point x="622.7777777777777" y="303.4444444444444"/>
@@ -35,10 +39,6 @@
       <point x="62.64197530864199" y="571.1975308641976" type="curve"/>
       <point x="117.06172839506175" y="292.4567901234568"/>
       <point x="280.11111111111114" y="138.06172839506175"/>
-      <point x="519.0864197530864" y="138.06172839506175" type="curve" smooth="yes"/>
-      <point x="646.7407407407408" y="138.06172839506175"/>
-      <point x="746.6543209876543" y="184.40740740740742"/>
-      <point x="830.824975308642" y="271.92374074074075" type="curve"/>
     </contour>
     <contour>
       <point x="805.8395061728395" y="0.0" type="line"/>
@@ -56,7 +56,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 10:22:29</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

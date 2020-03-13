@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fa-deva" format="2">
-  <advance width="1608"/>
+  <advance width="1608.0"/>
   <unicode hex="095E"/>
-  <anchor x="873" y="27" name="bottom"/>
-  <anchor x="873" y="1167" name="candra"/>
-  <anchor x="350" y="87" name="nukta"/>
-  <anchor x="869" y="1167" name="top"/>
+  <anchor x="873.0" y="0.0" name="bottom"/>
+  <anchor x="873.0" y="1287.0" name="candra"/>
+  <anchor x="239.0" y="87.0" name="nukta"/>
+  <anchor x="869.0" y="1287.0" name="top"/>
   <outline>
     <component base="pha-deva"/>
-    <component base="nukta-deva" xOffset="79" yOffset="60"/>
+    <component base="nukta-deva" xOffset="-32.0" yOffset="310.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:25:02</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

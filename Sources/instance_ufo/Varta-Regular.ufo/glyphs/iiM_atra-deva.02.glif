@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="iiMatra-deva.02" format="2">
   <advance width="560.9506172839506"/>
-  <anchor x="504.8641975308642" y="1212.111111111111" name="candra"/>
+  <anchor x="494.0617283950617" y="1351.6913580246915" name="candra"/>
   <anchor x="-626.8024691358024" y="1167.7654320987654" name="iimatra"/>
-  <anchor x="331.38271604938274" y="1185.3703703703704" name="top"/>
+  <anchor x="345.2345679012346" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
+      <point x="264.3703703703704" y="1133.9506172839506" type="curve"/>
       <point x="357.22222222222223" y="1200.6172839506173" type="line"/>
       <point x="224.1851851851852" y="1546.0"/>
       <point x="-196.55555555555554" y="1776.320987654321"/>
@@ -25,7 +26,6 @@
       <point x="-513.0617283950618" y="1649.7283950617284" type="curve" smooth="yes"/>
       <point x="-227.679012345679" y="1649.7283950617284"/>
       <point x="144.320987654321" y="1422.5925925925926"/>
-      <point x="264.3703703703704" y="1133.9506172839506" type="curve"/>
     </contour>
     <contour>
       <point x="210.44444444444446" y="0.23456790123456786" type="line"/>
@@ -43,7 +43,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 18:42:38</string>
     </dict>
   </lib>
 </glyph>

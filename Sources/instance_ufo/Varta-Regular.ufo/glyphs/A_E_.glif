@@ -2,7 +2,8 @@
 <glyph name="AE" format="2">
   <advance width="1667.9753086419753"/>
   <unicode hex="00C6"/>
-  <anchor x="833.9876543209876" y="1344.5925925925926" name="top"/>
+  <anchor x="833.9876543209876" y="0.0" name="bottom"/>
+  <anchor x="929.2962962962963" y="1344.5925925925926" name="top"/>
   <outline>
     <contour>
       <point x="15.901234567901236" y="0.0" type="line"/>
@@ -35,7 +36,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:51:58</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -45,8 +46,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>6</integer>
+            <real>1.0</real>
+            <real>6.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -60,8 +61,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>3</integer>
+            <real>1.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -75,8 +76,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -84,6 +85,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

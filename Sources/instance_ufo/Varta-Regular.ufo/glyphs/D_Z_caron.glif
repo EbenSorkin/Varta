@@ -4,18 +4,18 @@
   <unicode hex="01C4"/>
   <anchor x="624.283950617284" y="0.0" name="bottom_1"/>
   <anchor x="1795.5061728395062" y="0.0" name="bottom_2"/>
-  <anchor x="624.283950617284" y="672.2962962962963" name="center"/>
+  <anchor x="624.283950617284" y="672.2962962962963" name="center_1"/>
+  <anchor x="1795.5061728395062" y="672.2962962962963" name="center_2"/>
   <anchor x="624.283950617284" y="1344.5925925925926" name="top_1"/>
   <anchor x="1795.5061728395062" y="1344.5925925925926" name="top_2"/>
   <outline>
-    <component base="D"/>
-    <component base="Z" xOffset="1248.567901234568"/>
-    <component base="caron.cap" xOffset="1810.283950617284"/>
+    <component base="DZ"/>
+    <component base="caroncomb.cap" xOffset="1511.9506172839506"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:44:10</string>
     </dict>
   </lib>
 </glyph>

@@ -2,14 +2,14 @@
 <glyph name="ra_uMatra-deva" format="2">
   <advance width="1090.9753086419753"/>
   <anchor x="592.716049382716" y="59.02469135802469" name="bottom"/>
-  <anchor x="579.4197530864197" y="1167.7654320987654" name="candra"/>
+  <anchor x="669.9629629629629" y="1257.148148148148" name="candra"/>
   <anchor x="140.0" y="140.0" name="nukta"/>
-  <anchor x="442.8641975308642" y="1167.7654320987654" name="top"/>
+  <anchor x="442.8641975308642" y="1287.7654320987654" name="top"/>
   <outline>
     <contour>
       <point x="504.82716049382714" y="-21.580246913580247" type="line"/>
       <point x="623.2469135802469" y="60.08641975308642" type="line"/>
-      <point x="226.72504938271604" y="621.716049382716" type="line"/>
+      <point x="226.7037037037037" y="621.716049382716" type="line"/>
       <point x="225.93827160493828" y="601.9506172839506" type="line"/>
       <point x="255.7037037037037" y="582.9506172839506"/>
       <point x="291.2345679012346" y="576.4197530864197"/>
@@ -60,7 +60,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 06:52:26</string>
     </dict>
   </lib>
 </glyph>

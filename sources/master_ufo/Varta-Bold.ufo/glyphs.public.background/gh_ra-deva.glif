@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gh_ra-deva" format="2">
+  <outline>
+    <contour>
+      <point x="321.0" y="-71.0" type="line"/>
+      <point x="931.0" y="396.0" type="line"/>
+      <point x="884.0" y="538.0" type="line"/>
+      <point x="194.0" y="80.0" type="line"/>
+    </contour>
+    <component base="gh-deva"/>
+  </outline>
+</glyph>

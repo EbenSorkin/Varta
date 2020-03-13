@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_ra-deva" format="2">
+  <advance width="1897.7777777777778"/>
+  <anchor x="861.641975308642" y="12.962962962962965" name="bottom_1"/>
+  <anchor x="1710.5925925925926" y="30.061728395061728" name="bottom_2"/>
+  <anchor x="782.8271604938271" y="1256.679012345679" name="candra_1"/>
+  <anchor x="1652.5061728395062" y="1257.148148148148" name="candra_2"/>
+  <anchor x="459.0" y="80.93827160493827" name="nukta_1"/>
+  <anchor x="1349.3086419753085" y="147.51851851851853" name="nukta_2"/>
+  <anchor x="858.2222222222222" y="1287.0617283950617" name="top_1"/>
+  <anchor x="1643.7654320987654" y="1256.3827160493827" name="top_2"/>
+  <outline>
+    <component base="f-deva"/>
+    <component base="ra-deva" xOffset="1224.5555555555557"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:34:43</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

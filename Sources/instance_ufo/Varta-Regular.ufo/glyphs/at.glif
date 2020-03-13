@@ -4,6 +4,10 @@
   <unicode hex="0040"/>
   <outline>
     <contour>
+      <point x="820.5061728395061" y="-263.9012345679012" type="curve" smooth="yes"/>
+      <point x="961.2098765432099" y="-263.9012345679012"/>
+      <point x="1090.4444444444443" y="-230.60493827160494"/>
+      <point x="1208.148148148148" y="-158.30864197530863" type="curve"/>
       <point x="1165.0987654320988" y="-66.33333333333333" type="line"/>
       <point x="1072.037037037037" y="-120.92592592592592"/>
       <point x="958.3333333333334" y="-159.69135802469137"/>
@@ -54,15 +58,8 @@
       <point x="104.29629629629629" y="466.4938271604938" type="curve" smooth="yes"/>
       <point x="104.29629629629629" y="-7.074074074074071"/>
       <point x="420.0987654320988" y="-263.9012345679012"/>
-      <point x="820.5061728395061" y="-263.9012345679012" type="curve" smooth="yes"/>
-      <point x="961.2098765432099" y="-263.9012345679012"/>
-      <point x="1090.4444444444443" y="-230.60493827160494"/>
-      <point x="1208.148148148148" y="-158.30864197530863" type="curve"/>
     </contour>
     <contour>
-      <point x="980.5802469135803" y="400.5432098765432" type="line"/>
-      <point x="911.2098765432099" y="315.82716049382714"/>
-      <point x="845.4444444444445" y="276.7654320987654"/>
       <point x="786.5555555555555" y="276.7654320987654" type="curve" smooth="yes"/>
       <point x="702.9012345679013" y="276.7654320987654"/>
       <point x="639.9506172839506" y="329.18518518518516"/>
@@ -73,12 +70,15 @@
       <point x="962.6913580246913" y="818.7530864197531"/>
       <point x="999.9876543209876" y="795.9876543209876"/>
       <point x="1040.4074074074074" y="730.5061728395061" type="curve"/>
+      <point x="980.5802469135803" y="400.5432098765432" type="line"/>
+      <point x="911.2098765432099" y="315.82716049382714"/>
+      <point x="845.4444444444445" y="276.7654320987654"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -88,8 +88,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>46</integer>
+            <real>0.0</real>
+            <real>50.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -103,8 +103,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>30</integer>
+            <real>0.0</real>
+            <real>34.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -118,8 +118,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>37</integer>
+            <real>0.0</real>
+            <real>41.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -133,8 +133,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>5</integer>
+            <real>1.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -2,9 +2,12 @@
 <glyph name="breve" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="02D8"/>
-  <anchor x="553.8765432098766" y="991.3580246913581" name="_top"/>
   <outline>
     <contour>
+      <point x="553.8765432098766" y="1178.530864197531" type="curve" smooth="yes"/>
+      <point x="728.2222222222222" y="1178.530864197531"/>
+      <point x="801.0987654320987" y="1317.2962962962963"/>
+      <point x="809.8641975308642" y="1435.283950617284" type="curve"/>
       <point x="711.4814814814815" y="1435.283950617284" type="line"/>
       <point x="700.716049382716" y="1354.3950617283951"/>
       <point x="651.5925925925926" y="1275.9135802469136"/>
@@ -15,16 +18,12 @@
       <point x="298.12345679012344" y="1435.283950617284" type="line"/>
       <point x="306.65432098765433" y="1317.2962962962963"/>
       <point x="379.5308641975309" y="1178.530864197531"/>
-      <point x="553.8765432098766" y="1178.530864197531" type="curve" smooth="yes"/>
-      <point x="728.2222222222222" y="1178.530864197531"/>
-      <point x="801.0987654320987" y="1317.2962962962963"/>
-      <point x="809.8641975308642" y="1435.283950617284" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -34,8 +33,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

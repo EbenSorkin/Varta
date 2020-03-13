@@ -2,17 +2,17 @@
 <glyph name="Dlinebelow" format="2">
   <advance width="1248.567901234568"/>
   <unicode hex="1E0E"/>
-  <anchor x="624.283950617284" y="0.0" name="bottom"/>
+  <anchor x="624.4012345679013" y="-346.39506172839504" name="bottom"/>
   <anchor x="624.283950617284" y="672.2962962962963" name="center"/>
   <anchor x="624.283950617284" y="1344.5925925925926" name="top"/>
   <outline>
     <component base="D"/>
-    <component base="macronbelowcomb" xOffset="663.641975308642"/>
+    <component base="macronbelowcomb" xOffset="364.82716049382714"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:51:35</string>
     </dict>
   </lib>
 </glyph>

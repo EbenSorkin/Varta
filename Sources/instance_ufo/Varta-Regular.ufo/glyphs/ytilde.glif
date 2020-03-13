@@ -2,16 +2,16 @@
 <glyph name="ytilde" format="2">
   <advance width="945.9506172839506"/>
   <unicode hex="1EF9"/>
-  <anchor x="714.9506172839506" y="-296.48148148148147" name="btm"/>
-  <anchor x="472.9753086419753" y="991.3580246913581" name="top"/>
+  <anchor x="784.7283950617284" y="200.0" name="bottom"/>
+  <anchor x="472.9753086419753" y="1397.5061728395062" name="top"/>
   <outline>
     <component base="y"/>
-    <component base="tilde" xOffset="-80.90123456790124"/>
+    <component base="tildecomb" xOffset="183.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

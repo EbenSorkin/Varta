@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringhalfright" format="2">
-  <advance width="311.77777777777777"/>
+  <advance width="253.7037037037037"/>
   <unicode hex="02BE"/>
   <outline>
     <contour>
-      <point x="60.074074074074076" y="1112.5802469135801" type="line"/>
-      <point x="212.16049382716048" y="1107.2716049382716"/>
-      <point x="293.77777777777777" y="1185.1604938271605"/>
-      <point x="293.77777777777777" y="1305.0864197530864" type="curve" smooth="yes"/>
-      <point x="293.77777777777777" y="1424.0123456790122"/>
-      <point x="212.16049382716048" y="1502.2469135802469"/>
-      <point x="60.074074074074076" y="1496.9382716049383" type="curve"/>
-      <point x="60.074074074074076" y="1417.888888888889" type="line"/>
-      <point x="153.11111111111111" y="1417.888888888889"/>
-      <point x="189.1851851851852" y="1371.5061728395062"/>
-      <point x="189.1851851851852" y="1305.0864197530864" type="curve" smooth="yes"/>
-      <point x="189.1851851851852" y="1238.0123456790122"/>
-      <point x="153.11111111111111" y="1191.9382716049383"/>
-      <point x="60.074074074074076" y="1191.9382716049383" type="curve"/>
+      <point x="10.0" y="1112.5802469135801" type="line"/>
+      <point x="162.0864197530864" y="1107.2716049382716"/>
+      <point x="243.7037037037037" y="1185.1604938271605"/>
+      <point x="243.7037037037037" y="1305.0864197530864" type="curve" smooth="yes"/>
+      <point x="243.7037037037037" y="1424.0123456790122"/>
+      <point x="162.0864197530864" y="1502.2469135802469"/>
+      <point x="10.0" y="1496.9382716049383" type="curve"/>
+      <point x="10.0" y="1417.888888888889" type="line"/>
+      <point x="103.03703703703704" y="1417.888888888889"/>
+      <point x="139.11111111111111" y="1371.5061728395062"/>
+      <point x="139.11111111111111" y="1305.0864197530864" type="curve" smooth="yes"/>
+      <point x="139.11111111111111" y="1238.0123456790122"/>
+      <point x="103.03703703703704" y="1191.9382716049383"/>
+      <point x="10.0" y="1191.9382716049383" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:22:04</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -33,8 +33,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>13</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -42,6 +42,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

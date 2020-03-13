@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upperRightShadowedWhiteSquare" format="2">
-  <advance width="801"/>
+  <advance width="801.0"/>
   <unicode hex="2752"/>
   <outline>
     <contour>
-      <point x="111" y="234" type="line"/>
-      <point x="583" y="234" type="line"/>
-      <point x="690" y="360" type="line"/>
-      <point x="690" y="823" type="line"/>
-      <point x="237" y="823" type="line"/>
-      <point x="111" y="717" type="line"/>
+      <point x="111.0" y="234.0" type="line"/>
+      <point x="583.0" y="234.0" type="line"/>
+      <point x="690.0" y="360.0" type="line"/>
+      <point x="690.0" y="823.0" type="line"/>
+      <point x="237.0" y="823.0" type="line"/>
+      <point x="111.0" y="717.0" type="line"/>
     </contour>
     <contour>
-      <point x="197" y="318" type="line"/>
-      <point x="197" y="669" type="line"/>
-      <point x="535" y="669" type="line"/>
-      <point x="535" y="318" type="line"/>
+      <point x="197.0" y="318.0" type="line"/>
+      <point x="197.0" y="669.0" type="line"/>
+      <point x="535.0" y="669.0" type="line"/>
+      <point x="535.0" y="318.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

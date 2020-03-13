@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invertedCandraBindu-deva" format="2">
+  <unicode hex="0900"/>
+  <anchor x="272.7654320987654" y="1256.3827160493827" name="_candra"/>
+  <anchor x="265.17283950617286" y="1930.9876543209875" name="top"/>
+  <outline>
+    <contour>
+      <point x="269.7654320987654" y="1821.2592592592594" type="curve" smooth="yes"/>
+      <point x="102.79012345679013" y="1821.2592592592594"/>
+      <point x="3.3333333333333357" y="1724.3950617283951"/>
+      <point x="-44.37037037037037" y="1621.0617283950617" type="curve"/>
+      <point x="49.93827160493827" y="1563.5555555555557" type="line"/>
+      <point x="94.70370370370371" y="1635.7283950617284"/>
+      <point x="159.40740740740742" y="1694.1358024691358"/>
+      <point x="272.641975308642" y="1694.1358024691358" type="curve" smooth="yes"/>
+      <point x="391.28395061728395" y="1694.1358024691358"/>
+      <point x="451.9382716049383" y="1626.5555555555557"/>
+      <point x="493.9382716049383" y="1560.8518518518517" type="curve"/>
+      <point x="584.3086419753087" y="1614.4197530864199" type="line"/>
+      <point x="519.4938271604939" y="1747.567901234568"/>
+      <point x="413.44444444444446" y="1821.2592592592594"/>
+    </contour>
+    <contour>
+      <point x="265.9382716049383" y="1622.5555555555557" type="curve" smooth="yes"/>
+      <point x="203.07407407407408" y="1622.5555555555557"/>
+      <point x="175.7283950617284" y="1596.20987654321"/>
+      <point x="175.7283950617284" y="1533.5802469135801" type="curve" smooth="yes"/>
+      <point x="175.7283950617284" y="1470.716049382716"/>
+      <point x="203.07407407407408" y="1444.3703703703704"/>
+      <point x="265.9382716049383" y="1444.3703703703704" type="curve" smooth="yes"/>
+      <point x="329.5679012345679" y="1444.3703703703704"/>
+      <point x="356.14814814814815" y="1470.716049382716"/>
+      <point x="356.14814814814815" y="1533.5802469135801" type="curve" smooth="yes"/>
+      <point x="356.14814814814815" y="1596.20987654321"/>
+      <point x="329.5679012345679" y="1622.5555555555557"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/24 05:42:46</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>539.0</real>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

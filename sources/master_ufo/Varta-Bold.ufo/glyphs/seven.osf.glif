@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance width="1022.0"/>
+  <outline>
+    <contour>
+      <point x="322.0" y="-155.0" type="curve"/>
+      <point x="545.0" y="-155.0" type="line"/>
+      <point x="560.0" y="366.0"/>
+      <point x="625.0" y="656.0"/>
+      <point x="927.0" y="1045.0" type="curve"/>
+      <point x="927.0" y="1179.0" type="line"/>
+      <point x="90.0" y="1179.0" type="line"/>
+      <point x="90.0" y="993.0" type="line"/>
+      <point x="687.0" y="993.0" type="line"/>
+      <point x="438.0" y="635.0"/>
+      <point x="338.0" y="325.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:10:34</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

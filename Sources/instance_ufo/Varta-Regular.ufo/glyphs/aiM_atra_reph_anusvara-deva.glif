@@ -1,16 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aiMatra_reph_anusvara-deva" format="2">
   <advance width="540.0"/>
-  <anchor x="260.95061728395063" y="1167.7654320987654" name="_top"/>
-  <anchor x="257.51851851851853" y="1540.3703703703704" name="candra"/>
   <outline>
+    <contour>
+      <point x="454.95061728395063" y="1353.2222222222222" type="curve" smooth="yes"/>
+      <point x="513.8888888888889" y="1353.2222222222222"/>
+      <point x="538.5925925925926" y="1377.6913580246915"/>
+      <point x="538.5925925925926" y="1435.6296296296296" type="curve" smooth="yes"/>
+      <point x="538.5925925925926" y="1493.8024691358025"/>
+      <point x="513.8888888888889" y="1518.2716049382716"/>
+      <point x="454.95061728395063" y="1518.2716049382716" type="curve" smooth="yes"/>
+      <point x="396.77777777777777" y="1518.2716049382716"/>
+      <point x="371.30864197530866" y="1493.8024691358025"/>
+      <point x="371.30864197530866" y="1435.6296296296296" type="curve" smooth="yes"/>
+      <point x="371.30864197530866" y="1377.6913580246915"/>
+      <point x="396.77777777777777" y="1353.2222222222222"/>
+    </contour>
     <component base="aiMatra_reph-deva"/>
-    <component base="anusvara-deva" xScale="0.7887037037037037" yScale="0.7887037037037037" xOffset="224.14814814814815" yOffset="198.34567901234567"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:53:09</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

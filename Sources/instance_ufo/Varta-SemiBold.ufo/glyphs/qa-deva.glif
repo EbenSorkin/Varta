@@ -2,18 +2,20 @@
 <glyph name="qa-deva" format="2">
   <advance width="1516.5185185185185"/>
   <unicode hex="0958"/>
-  <anchor x="791.5432098765432" y="27.34567901234568" name="bottom"/>
-  <anchor x="786.9259259259259" y="1166.037037037037" name="candra"/>
+  <anchor x="791.5432098765432" y="0.0" name="bottom"/>
+  <anchor x="788.8888888888889" y="1273.1728395061727" name="candra"/>
   <anchor x="231.6543209876544" y="-4.419753086419725" name="nukta"/>
-  <anchor x="784.6913580246913" y="1170.6913580246915" name="top"/>
+  <anchor x="791.2345679012345" y="1273.1728395061727" name="top"/>
   <outline>
     <component base="ka-deva"/>
-    <component base="nukta-deva" xOffset="-81.79012345679007" yOffset="35.98765432098763"/>
+    <component base="nukta-deva" xOffset="-41.41975308641969" yOffset="194.03703703703704"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 04:58:37</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

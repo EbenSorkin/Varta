@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh_va-deva" format="2">
+  <advance width="1727.3950617283951"/>
+  <anchor x="1449.6913580246915" y="0.0" name="bottom"/>
+  <anchor x="1371.1975308641975" y="1256.3827160493827" name="candra"/>
+  <anchor x="739.5308641975308" y="76.64197530864197" name="nukta"/>
+  <anchor x="1449.6913580246915" y="1256.3827160493827" name="top"/>
+  <outline>
+    <component base="bh-deva"/>
+    <component base="va-deva" xOffset="638.6913580246913"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>va-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

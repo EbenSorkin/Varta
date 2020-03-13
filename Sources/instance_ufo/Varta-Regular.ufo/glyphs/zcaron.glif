@@ -2,16 +2,17 @@
 <glyph name="zcaron" format="2">
   <advance width="862.5555555555555"/>
   <unicode hex="017E"/>
-  <anchor x="440.4938271604938" y="-276.5432098765432" name="btm"/>
-  <anchor x="435.5679012345679" y="991.3580246913581" name="top"/>
+  <anchor x="431.39506172839504" y="0.0" name="bottom"/>
+  <anchor x="431.39506172839504" y="496.641975308642" name="center"/>
+  <anchor x="430.89506172839504" y="1460.0493827160494" name="top"/>
   <outline>
     <component base="z"/>
-    <component base="caron" xOffset="-118.30864197530865"/>
+    <component base="caroncomb" xOffset="-123.48148148148148"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

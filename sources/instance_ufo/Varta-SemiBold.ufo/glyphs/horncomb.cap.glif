@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb.cap" format="2">
+  <anchor x="-10.0" y="1342.0740740740741" name="_topright"/>
+  <anchor x="350.8641975308642" y="1263.9382716049383" name="topright"/>
+  <outline>
+    <contour>
+      <point x="27.2716049382716" y="888.4567901234568" type="line"/>
+      <point x="198.4320987654321" y="903.8395061728395"/>
+      <point x="330.8641975308642" y="972.4197530864197"/>
+      <point x="330.8641975308642" y="1125.5061728395062" type="curve" smooth="yes"/>
+      <point x="330.8641975308642" y="1180.0493827160494"/>
+      <point x="308.9382716049383" y="1226.9382716049383"/>
+      <point x="281.6296296296296" y="1263.9382716049383" type="curve"/>
+      <point x="145.95061728395063" y="1199.5061728395062" type="line"/>
+      <point x="162.2962962962963" y="1173.8148148148148"/>
+      <point x="176.25925925925927" y="1143.8518518518517"/>
+      <point x="176.25925925925927" y="1112.5802469135801" type="curve" smooth="yes"/>
+      <point x="176.25925925925927" y="1029.2716049382716"/>
+      <point x="118.56790123456791" y="993.8518518518518"/>
+      <point x="10.0" y="978.5061728395061" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>316.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>13.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

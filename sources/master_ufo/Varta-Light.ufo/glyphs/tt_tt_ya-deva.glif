@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tt_tt_ya-deva" format="2">
+  <advance width="2072.0"/>
+  <anchor x="1774.0" y="28.0" name="bottom"/>
+  <anchor x="1777.0" y="1248.0" name="candra"/>
+  <anchor x="1774.0" y="1288.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="896.0" y="1143.0" type="line"/>
+      <point x="2085.0" y="1143.0" type="line"/>
+      <point x="2085.0" y="1247.0" type="line"/>
+      <point x="896.0" y="1247.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1401.0" y="159.0" type="curve" smooth="yes"/>
+      <point x="1528.0" y="159.0"/>
+      <point x="1641.0" y="206.0"/>
+      <point x="1731.0" y="300.0" type="curve"/>
+      <point x="1735.0" y="461.0" type="line"/>
+      <point x="1653.0" y="324.0"/>
+      <point x="1506.0" y="274.0"/>
+      <point x="1394.0" y="274.0" type="curve" smooth="yes"/>
+      <point x="1246.0" y="274.0"/>
+      <point x="1134.0" y="362.0"/>
+      <point x="1098.0" y="530.0" type="curve"/>
+      <point x="1076.0" y="482.0" type="line"/>
+      <point x="1174.0" y="504.0"/>
+      <point x="1355.0" y="581.0"/>
+      <point x="1355.0" y="762.0" type="curve" smooth="yes"/>
+      <point x="1355.0" y="933.0"/>
+      <point x="1243.0" y="981.0"/>
+      <point x="1064.0" y="981.0" type="curve" smooth="yes"/>
+      <point x="735.0" y="981.0" type="line"/>
+      <point x="750.0" y="877.0" type="line"/>
+      <point x="1082.0" y="877.0" type="line" smooth="yes"/>
+      <point x="1179.0" y="877.0"/>
+      <point x="1236.0" y="849.0"/>
+      <point x="1236.0" y="755.0" type="curve" smooth="yes"/>
+      <point x="1236.0" y="686.0"/>
+      <point x="1162.0" y="616.0"/>
+      <point x="974.0" y="564.0" type="curve"/>
+      <point x="1033.0" y="299.0"/>
+      <point x="1181.0" y="159.0"/>
+    </contour>
+    <contour>
+      <point x="1711.0" y="0.0" type="line"/>
+      <point x="1837.0" y="0.0" type="line"/>
+      <point x="1837.0" y="1170.0" type="line"/>
+      <point x="1711.0" y="1170.0" type="line"/>
+    </contour>
+    <component base="tt_tta-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tt-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 17:37:48</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

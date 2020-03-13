@@ -3,16 +3,16 @@
   <advance width="1045.5185185185185"/>
   <unicode hex="090D"/>
   <anchor x="587.5308641975308" y="47.77777777777777" name="bottom"/>
-  <anchor x="538.6913580246913" y="1524.7777777777778" name="candra"/>
-  <anchor x="822.395061728395" y="1168.7283950617284" name="top"/>
+  <anchor x="528.5555555555555" y="1557.2469135802469" name="candra"/>
+  <anchor x="530.5555555555555" y="1566.938271604938" name="top"/>
   <outline>
     <component base="e-deva"/>
-    <component base="eCandraMatra-deva" xOffset="265.65432098765433" yOffset="0.6913580246913589"/>
+    <component base="eCandraMatra-deva" xOffset="256.55555555555554"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:14:05</string>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,18 @@
 <glyph name="Etilde" format="2">
   <advance width="1063.5061728395062"/>
   <unicode hex="1EBC"/>
-  <anchor x="575.1728395061729" y="-276.5432098765432" name="btm"/>
-  <anchor x="571.1851851851852" y="1404.6913580246915" name="top"/>
+  <anchor x="531.7530864197531" y="0.0" name="bottom"/>
+  <anchor x="956.8024691358024" y="10.0" name="ogonek"/>
+  <anchor x="567.0617283950618" y="1673.8641975308642" name="top"/>
+  <anchor x="20.0" y="1344.5925925925926" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="tilde.cap" xOffset="571.1851851851852"/>
+    <component base="tildecomb.cap" xOffset="265.55555555555554"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:47:24</string>
     </dict>
   </lib>
 </glyph>

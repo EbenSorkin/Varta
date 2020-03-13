@@ -1,30 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cedillacomb.cap" format="2">
-  <anchor x="-17" y="-300" name="_btm"/>
+  <anchor x="158.0" y="0.0" name="_bottom"/>
+  <anchor x="158.0" y="-432.0" name="bottom"/>
   <outline>
     <contour>
-      <point x="-149" y="-432" type="line"/>
-      <point x="-4" y="-417"/>
-      <point x="131" y="-363"/>
-      <point x="131" y="-250" type="curve" smooth="yes"/>
-      <point x="131" y="-166"/>
-      <point x="75" y="-128"/>
-      <point x="9" y="-106" type="curve"/>
-      <point x="64" y="5" type="line"/>
-      <point x="-30" y="5" type="line"/>
-      <point x="-112" y="-153" type="line"/>
-      <point x="-30" y="-173"/>
-      <point x="21" y="-200"/>
-      <point x="21" y="-256" type="curve" smooth="yes"/>
-      <point x="21" y="-312"/>
-      <point x="-55" y="-342"/>
-      <point x="-165" y="-357" type="curve"/>
+      <point x="26.0" y="-432.0" type="line"/>
+      <point x="171.0" y="-417.0"/>
+      <point x="306.0" y="-363.0"/>
+      <point x="306.0" y="-250.0" type="curve" smooth="yes"/>
+      <point x="306.0" y="-166.0"/>
+      <point x="250.0" y="-128.0"/>
+      <point x="184.0" y="-106.0" type="curve"/>
+      <point x="239.0" y="5.0" type="line"/>
+      <point x="145.0" y="5.0" type="line"/>
+      <point x="63.0" y="-153.0" type="line"/>
+      <point x="145.0" y="-173.0"/>
+      <point x="196.0" y="-200.0"/>
+      <point x="196.0" y="-256.0" type="curve" smooth="yes"/>
+      <point x="196.0" y="-312.0"/>
+      <point x="120.0" y="-342.0"/>
+      <point x="10.0" y="-357.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>316.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -34,8 +37,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -43,6 +46,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

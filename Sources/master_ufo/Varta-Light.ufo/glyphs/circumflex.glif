@@ -1,24 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflex" format="2">
-  <advance width="1104"/>
+  <advance width="1104.0"/>
   <unicode hex="02C6"/>
-  <anchor x="552" y="1050" name="_top"/>
   <outline>
     <contour>
-      <point x="302" y="1173" type="line"/>
-      <point x="404" y="1173" type="line"/>
-      <point x="548" y="1366" type="line"/>
-      <point x="556" y="1366" type="line"/>
-      <point x="700" y="1173" type="line"/>
-      <point x="803" y="1173" type="line"/>
-      <point x="610" y="1457" type="line"/>
-      <point x="494" y="1457" type="line"/>
+      <point x="302.0" y="1173.0" type="line"/>
+      <point x="404.0" y="1173.0" type="line"/>
+      <point x="548.0" y="1366.0" type="line"/>
+      <point x="556.0" y="1366.0" type="line"/>
+      <point x="700.0" y="1173.0" type="line"/>
+      <point x="803.0" y="1173.0" type="line"/>
+      <point x="610.0" y="1457.0" type="line"/>
+      <point x="494.0" y="1457.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -28,8 +27,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>7</integer>
+            <real>0.0</real>
+            <real>7.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

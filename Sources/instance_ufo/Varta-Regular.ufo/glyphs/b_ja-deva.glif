@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ja-deva" format="2">
   <advance width="2072.8024691358023"/>
-  <anchor x="1797.8024691358025" y="27.765432098765434" name="bottom"/>
-  <anchor x="1427.4814814814815" y="1168.0" name="candra"/>
-  <anchor x="1102.5185185185185" y="50.51851851851852" name="nukta"/>
-  <anchor x="1798.6296296296296" y="1167.7654320987654" name="top"/>
+  <anchor x="1797.8024691358025" y="0.0" name="bottom"/>
+  <anchor x="1680.8641975308642" y="1256.3827160493827" name="candra"/>
+  <anchor x="792.9876543209876" y="74.69135802469135" name="nukta"/>
+  <anchor x="1798.6296296296296" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
+      <point x="424.9012345679012" y="200.85185185185185" type="curve" smooth="yes"/>
+      <point x="565.2716049382716" y="200.85185185185185"/>
+      <point x="721.2716049382716" y="257.2345679012346"/>
+      <point x="833.0493827160494" y="420.91358024691357" type="curve"/>
       <point x="805.4814814814815" y="574.8641975308642" type="line"/>
       <point x="711.2345679012345" y="417.38271604938274"/>
       <point x="602.4074074074074" y="320.5061728395062"/>
@@ -29,10 +33,6 @@
       <point x="85.8641975308642" y="565.5308641975308" type="curve" smooth="yes"/>
       <point x="85.8641975308642" y="363.8641975308642"/>
       <point x="181.2962962962963" y="200.85185185185185"/>
-      <point x="424.9012345679012" y="200.85185185185185" type="curve" smooth="yes"/>
-      <point x="565.2716049382716" y="200.85185185185185"/>
-      <point x="721.2716049382716" y="257.2345679012346"/>
-      <point x="833.0493827160494" y="420.91358024691357" type="curve"/>
     </contour>
     <contour>
       <point x="699.4938271604939" y="308.7283950617284" type="line"/>
@@ -41,10 +41,10 @@
       <point x="229.88888888888889" y="783.925925925926" type="line"/>
     </contour>
     <contour>
-      <point x="-13.641975308641975" y="1132.679012345679" type="line"/>
-      <point x="721.395061728395" y="1132.679012345679" type="line"/>
-      <point x="721.395061728395" y="1257.79012345679" type="line"/>
-      <point x="-13.641975308641975" y="1257.79012345679" type="line"/>
+      <point x="-13.641975308641975" y="1133.851851851852" type="line"/>
+      <point x="721.395061728395" y="1133.851851851852" type="line"/>
+      <point x="721.395061728395" y="1256.3827160493827" type="line"/>
+      <point x="-13.641975308641975" y="1256.3827160493827" type="line"/>
     </contour>
     <component base="ja-deva" xOffset="653.8641975308642"/>
   </outline>
@@ -55,7 +55,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ja-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 17:54:16</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

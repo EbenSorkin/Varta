@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="checkmark" format="2">
-  <advance width="1236"/>
+  <advance width="1236.0"/>
   <unicode hex="2713"/>
   <outline>
     <contour>
-      <point x="453" y="-23" type="line"/>
-      <point x="606" y="520"/>
-      <point x="911" y="999"/>
-      <point x="1246" y="1311" type="curve"/>
-      <point x="1153" y="1399" type="line"/>
-      <point x="824" y="1075"/>
-      <point x="520" y="563"/>
-      <point x="375" y="77" type="curve"/>
-      <point x="367" y="77" type="line"/>
-      <point x="304" y="263"/>
-      <point x="205" y="457"/>
-      <point x="93" y="627" type="curve"/>
-      <point x="-3" y="561" type="line"/>
-      <point x="122" y="379"/>
-      <point x="222" y="182"/>
-      <point x="302" y="-41" type="curve"/>
+      <point x="302.0" y="-41.0" type="curve"/>
+      <point x="453.0" y="-23.0" type="line"/>
+      <point x="606.0" y="520.0"/>
+      <point x="911.0" y="999.0"/>
+      <point x="1246.0" y="1311.0" type="curve"/>
+      <point x="1153.0" y="1399.0" type="line"/>
+      <point x="824.0" y="1075.0"/>
+      <point x="520.0" y="563.0"/>
+      <point x="375.0" y="77.0" type="curve"/>
+      <point x="367.0" y="77.0" type="line"/>
+      <point x="304.0" y="263.0"/>
+      <point x="205.0" y="457.0"/>
+      <point x="93.0" y="627.0" type="curve"/>
+      <point x="-3.0" y="561.0" type="line"/>
+      <point x="122.0" y="379.0"/>
+      <point x="222.0" y="182.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

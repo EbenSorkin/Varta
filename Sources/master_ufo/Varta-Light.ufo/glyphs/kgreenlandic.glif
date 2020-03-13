@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="988"/>
+  <advance width="988.0"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="176" y="0" type="line"/>
-      <point x="313" y="0" type="line"/>
-      <point x="313" y="260" type="line"/>
-      <point x="512" y="495" type="line"/>
-      <point x="817" y="0" type="line"/>
-      <point x="967" y="0" type="line"/>
-      <point x="593" y="595" type="line"/>
-      <point x="918" y="990" type="line"/>
-      <point x="766" y="990" type="line"/>
-      <point x="319" y="434" type="line"/>
-      <point x="313" y="434" type="line"/>
-      <point x="313" y="990" type="line"/>
-      <point x="176" y="990" type="line"/>
+      <point x="176.0" y="0.0" type="line"/>
+      <point x="313.0" y="0.0" type="line"/>
+      <point x="313.0" y="260.0" type="line"/>
+      <point x="512.0" y="495.0" type="line"/>
+      <point x="817.0" y="0.0" type="line"/>
+      <point x="967.0" y="0.0" type="line"/>
+      <point x="593.0" y="595.0" type="line"/>
+      <point x="918.0" y="990.0" type="line"/>
+      <point x="766.0" y="990.0" type="line"/>
+      <point x="319.0" y="434.0" type="line"/>
+      <point x="313.0" y="434.0" type="line"/>
+      <point x="313.0" y="990.0" type="line"/>
+      <point x="176.0" y="990.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -32,8 +32,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>12.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

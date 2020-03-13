@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="khh_sha-deva" format="2">
-  <advance width="2553"/>
-  <anchor x="761" y="0" name="bottom"/>
-  <anchor x="881" y="1167" name="candra"/>
-  <anchor x="160" y="27" name="nukta"/>
-  <anchor x="466" y="1167" name="top"/>
+  <advance width="2553.0"/>
+  <anchor x="761.0" y="0.0" name="bottom"/>
+  <anchor x="951.0" y="1287.0" name="candra"/>
+  <anchor x="160.0" y="27.0" name="nukta"/>
+  <anchor x="466.0" y="1287.0" name="top"/>
   <outline>
-    <component base="nukta-deva" xOffset="-112"/>
     <component base="kh_sha-deva"/>
+    <component base="nukta-deva" xOffset="1146.0" yOffset="305.0"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>sha-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:19:14</string>
     </dict>
   </lib>
 </glyph>

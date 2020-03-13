@@ -2,16 +2,18 @@
 <glyph name="Ecircumflexacute" format="2">
   <advance width="1076.9382716049383"/>
   <unicode hex="1EBE"/>
-  <anchor x="577.2716049382716" y="-234.56790123456796" name="btm"/>
-  <anchor x="566.1481481481482" y="1073.0864197530868" name="top"/>
+  <anchor x="538.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="968.9753086419753" y="10.0" name="ogonek"/>
+  <anchor x="565.3827160493827" y="1807.1975308641975" name="top"/>
+  <anchor x="20.0" y="1342.0740740740741" name="topleft"/>
   <outline>
     <component base="E"/>
-    <component base="circumflexcomb_acutecomb.cap" xOffset="1083.8765432098764"/>
+    <component base="circumflexcomb_acutecomb.cap" xOffset="282.17283950617286"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:47:24</string>
     </dict>
   </lib>
 </glyph>

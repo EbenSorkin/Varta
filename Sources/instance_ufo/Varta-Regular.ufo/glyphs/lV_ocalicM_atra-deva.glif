@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lVocalicMatra-deva" format="2">
   <unicode hex="0962"/>
-  <anchor x="277.9382716049383" y="27.765432098765434" name="_bottom"/>
+  <anchor x="277.9382716049383" y="0.0" name="_bottom"/>
   <outline>
     <contour>
       <point x="632.3703703703703" y="-453.5679012345679" type="line"/>
@@ -33,6 +33,7 @@
       <point x="538.7654320987655" y="-393.75308641975306" type="line"/>
     </contour>
     <contour>
+      <point x="-57.53086419753087" y="-470.96296296296293" type="curve"/>
       <point x="-53.2962962962963" y="-470.96296296296293" type="line"/>
       <point x="43.48148148148148" y="-401.98765432098764" type="line"/>
       <point x="-24.97530864197531" y="-315.0617283950617"/>
@@ -53,9 +54,12 @@
       <point x="-203.93827160493828" y="-126.08641975308642" type="curve" smooth="yes"/>
       <point x="-203.93827160493828" y="-262.55555555555554"/>
       <point x="-135.8148148148148" y="-374.74074074074076"/>
-      <point x="-57.53086419753087" y="-470.96296296296293" type="curve"/>
     </contour>
     <contour>
+      <point x="556.8518518518518" y="-817.5802469135803" type="curve" smooth="yes"/>
+      <point x="652.5061728395061" y="-817.5802469135803"/>
+      <point x="739.3333333333334" y="-780.4567901234568"/>
+      <point x="804.8641975308642" y="-730.925925925926" type="curve"/>
       <point x="758.5185185185185" y="-639.3086419753087" type="line"/>
       <point x="702.7530864197531" y="-676.6666666666666"/>
       <point x="632.5061728395061" y="-709.7901234567901"/>
@@ -72,18 +76,14 @@
       <point x="324.0246913580247" y="-610.7037037037037" type="curve" smooth="yes"/>
       <point x="324.0246913580247" y="-745.4197530864197"/>
       <point x="439.8641975308642" y="-817.5802469135803"/>
-      <point x="556.8518518518518" y="-817.5802469135803" type="curve" smooth="yes"/>
-      <point x="652.5061728395061" y="-817.5802469135803"/>
-      <point x="739.3333333333334" y="-780.4567901234568"/>
-      <point x="804.8641975308642" y="-730.925925925926" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2020/03/11 10:40:24</string>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>540</integer>
+      <real>540.0</real>
     </dict>
   </lib>
 </glyph>

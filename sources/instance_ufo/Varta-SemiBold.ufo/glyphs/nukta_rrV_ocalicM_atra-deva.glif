@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta_rrVocalicMatra-deva" format="2">
+  <advance width="555.2098765432099"/>
+  <outline>
+    <component base="nukta-deva"/>
+    <component base="rrVocalicMatra-deva" xOffset="22.2469135802469" yOffset="-485.03703703703695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 18:47:54</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

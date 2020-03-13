@@ -2,8 +2,8 @@
 <glyph name="m_la-deva.loclMAR" format="2">
   <advance width="1183.8641975308642"/>
   <anchor x="839.0" y="-486.65432098765433" name="bottom"/>
-  <anchor x="615.9382716049382" y="1167.7654320987654" name="candra"/>
-  <anchor x="912.1604938271605" y="1167.7654320987654" name="top"/>
+  <anchor x="596.0" y="1257.148148148148" name="candra"/>
+  <anchor x="912.1604938271605" y="1287.7654320987654" name="top"/>
   <outline>
     <contour>
       <point x="833.8395061728395" y="70.17283950617283" type="line"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:21:46</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eCandraMatra_candra-deva" format="2">
+  <advance width="543.4567901234568"/>
+  <outline>
+    <component base="eCandraMatra-deva" yOffset="-40.0"/>
+    <component base="candraBindu-deva" xOffset="-0.34567901234567944" yOffset="244.07407407407405"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/01/24 07:35:41</string>
+    </dict>
+  </lib>
+</glyph>

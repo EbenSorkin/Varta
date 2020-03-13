@@ -1,20 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-443.40740740740716" y="998.5061728395061" name="_top"/>
-  <anchor x="-441.40740740740716" y="1465.5061728395062" name="top"/>
+  <anchor x="297.28395061728395" y="998.5061728395061" name="_top"/>
+  <anchor x="199.57407407407405" y="1465.5061728395062" name="top"/>
   <outline>
     <contour>
-      <point x="-397.49382716049354" y="1174.3086419753085" type="line"/>
-      <point x="-253.50617283950595" y="1174.3086419753085" type="line"/>
-      <point x="-437.54320987654296" y="1465.5061728395062" type="line"/>
-      <point x="-632.654320987654" y="1465.5061728395062" type="line"/>
+      <point x="245.16049382716048" y="1174.3086419753085" type="line"/>
+      <point x="389.1481481481481" y="1174.3086419753085" type="line"/>
+      <point x="205.1111111111111" y="1465.5061728395062" type="line"/>
+      <point x="10.0" y="1465.5061728395062" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 03:38:48</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>354.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -24,8 +26,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -33,6 +35,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -2,11 +2,13 @@
 <glyph name="utilde" format="2">
   <advance width="1121.9382716049383"/>
   <unicode hex="0169"/>
-  <anchor x="554.1234567901234" y="-234.56790123456796" name="btm"/>
-  <anchor x="554.1234567901234" y="886.4197530864199" name="top"/>
+  <anchor x="561.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="1020.0123456790124" y="10.0" name="ogonek"/>
+  <anchor x="551.4691358024692" y="1410.9382716049383" name="top"/>
+  <anchor x="1101.9382716049383" y="998.5061728395061" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="tilde" xOffset="-9.0"/>
+    <component base="tildecomb" xOffset="247.22222222222223"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +17,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:58:57</string>
     </dict>
   </lib>
 </glyph>

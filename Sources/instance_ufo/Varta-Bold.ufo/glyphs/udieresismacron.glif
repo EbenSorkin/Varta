@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresismacron" format="2">
-  <advance width="1133"/>
+  <advance width="1133.0"/>
   <unicode hex="01D6"/>
-  <anchor x="560" y="-200" name="btm"/>
-  <anchor x="560" y="800" name="top"/>
+  <anchor x="567.0" y="0.0" name="bottom"/>
+  <anchor x="1029.0" y="10.0" name="ogonek"/>
+  <anchor x="557.0" y="1654.0" name="top"/>
+  <anchor x="1113.0" y="1003.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb_macroncomb" xOffset="1160"/>
+    <component base="dieresiscomb_macroncomb" xOffset="254.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 04:03:01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

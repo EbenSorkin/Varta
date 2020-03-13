@@ -1,29 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="1056"/>
+  <advance width="1056.0"/>
   <unicode hex="0045"/>
-  <anchor x="574" y="-300" name="btm"/>
-  <anchor x="574" y="1590" name="top"/>
+  <anchor x="528.0" y="0.0" name="bottom"/>
+  <anchor x="950.0" y="10.0" name="ogonek"/>
+  <anchor x="568.0" y="1346.0" name="top"/>
+  <anchor x="20.0" y="1346.0" name="topleft"/>
   <outline>
     <contour>
-      <point x="184" y="0" type="line"/>
-      <point x="964" y="0" type="line"/>
-      <point x="964" y="119" type="line"/>
-      <point x="324" y="119" type="line"/>
-      <point x="324" y="651" type="line"/>
-      <point x="845" y="651" type="line"/>
-      <point x="845" y="770" type="line"/>
-      <point x="324" y="770" type="line"/>
-      <point x="324" y="1228" type="line"/>
-      <point x="943" y="1228" type="line"/>
-      <point x="943" y="1346" type="line"/>
-      <point x="184" y="1346" type="line"/>
+      <point x="184.0" y="0.0" type="line"/>
+      <point x="964.0" y="0.0" type="line"/>
+      <point x="964.0" y="119.0" type="line"/>
+      <point x="324.0" y="119.0" type="line"/>
+      <point x="324.0" y="651.0" type="line"/>
+      <point x="845.0" y="651.0" type="line"/>
+      <point x="845.0" y="770.0" type="line"/>
+      <point x="324.0" y="770.0" type="line"/>
+      <point x="324.0" y="1228.0" type="line"/>
+      <point x="943.0" y="1228.0" type="line"/>
+      <point x="943.0" y="1346.0" type="line"/>
+      <point x="184.0" y="1346.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:47:22</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -33,8 +35,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -42,6 +44,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

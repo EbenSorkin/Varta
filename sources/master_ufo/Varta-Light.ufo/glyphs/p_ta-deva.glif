@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p_ta-deva" format="2">
+  <advance width="1125.0"/>
+  <anchor x="848.0" y="0.0" name="bottom"/>
+  <anchor x="737.0" y="1247.0" name="candra"/>
+  <anchor x="848.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="352.0" y="-32.0" type="curve"/>
+      <point x="451.0" y="37.0" type="line"/>
+      <point x="374.0" y="144.0"/>
+      <point x="292.0" y="279.0"/>
+      <point x="292.0" y="406.0" type="curve" smooth="yes"/>
+      <point x="292.0" y="533.0"/>
+      <point x="375.0" y="554.0"/>
+      <point x="503.0" y="553.0" type="curve" smooth="yes"/>
+      <point x="873.0" y="551.0" type="line"/>
+      <point x="873.0" y="668.0" type="line"/>
+      <point x="495.0" y="668.0" type="line" smooth="yes"/>
+      <point x="353.0" y="668.0"/>
+      <point x="303.0" y="769.0"/>
+      <point x="303.0" y="930.0" type="curve" smooth="yes"/>
+      <point x="303.0" y="1182.0" type="line"/>
+      <point x="177.0" y="1182.0" type="line"/>
+      <point x="177.0" y="932.0" type="line" smooth="yes"/>
+      <point x="177.0" y="756.0"/>
+      <point x="216.0" y="647.0"/>
+      <point x="359.0" y="591.0" type="curve"/>
+      <point x="353.0" y="629.0" type="line"/>
+      <point x="192.0" y="620.0"/>
+      <point x="166.0" y="502.0"/>
+      <point x="166.0" y="417.0" type="curve" smooth="yes"/>
+      <point x="166.0" y="242.0"/>
+      <point x="288.0" y="63.0"/>
+    </contour>
+    <contour>
+      <point x="785.0" y="0.0" type="line"/>
+      <point x="911.0" y="0.0" type="line"/>
+      <point x="911.0" y="1191.0" type="line"/>
+      <point x="785.0" y="1191.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12.0" y="1143.0" type="line"/>
+      <point x="1138.0" y="1143.0" type="line"/>
+      <point x="1138.0" y="1247.0" type="line"/>
+      <point x="-12.0" y="1247.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>p-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 17:53:59</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

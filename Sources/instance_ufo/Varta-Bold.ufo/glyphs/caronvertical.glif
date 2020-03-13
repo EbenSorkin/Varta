@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caronvertical" format="2">
-  <advance width="282"/>
-  <anchor x="144" y="1028" name="_car"/>
+  <advance width="254.0"/>
+  <guideline x="-159.0" y="1551.0" angle="0.0"/>
+  <anchor x="144.0" y="1028.0" name="_car"/>
   <outline>
     <contour>
-      <point x="94" y="1050" type="line"/>
-      <point x="194" y="1050" type="line"/>
-      <point x="230" y="1365" type="line"/>
-      <point x="234" y="1492" type="line"/>
-      <point x="86" y="1492" type="line"/>
+      <point x="94.0" y="1109.0" type="line"/>
+      <point x="194.0" y="1109.0" type="line"/>
+      <point x="230.0" y="1424.0" type="line"/>
+      <point x="234.0" y="1551.0" type="line"/>
+      <point x="86.0" y="1551.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 04:00:17</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -24,8 +25,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

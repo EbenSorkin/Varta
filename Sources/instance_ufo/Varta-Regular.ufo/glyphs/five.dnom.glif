@@ -3,6 +3,16 @@
   <advance width="779.8148148148148"/>
   <outline>
     <contour>
+      <point x="389.17283950617286" y="-25.0" type="curve" smooth="yes"/>
+      <point x="549.7530864197531" y="-25.0"/>
+      <point x="672.6913580246913" y="86.93827160493827"/>
+      <point x="672.6913580246913" y="251.46913580246914" type="curve" smooth="yes"/>
+      <point x="672.6913580246913" y="424.82716049382714"/>
+      <point x="555.2222222222222" y="520.2962962962963"/>
+      <point x="411.69135802469134" y="520.2962962962963" type="curve" smooth="yes"/>
+      <point x="361.44444444444446" y="520.2962962962963"/>
+      <point x="318.14814814814815" y="505.7037037037037"/>
+      <point x="278.85185185185185" y="487.87654320987656" type="curve"/>
       <point x="302.44444444444446" y="690.679012345679" type="line"/>
       <point x="632.6296296296297" y="690.679012345679" type="line"/>
       <point x="632.6296296296297" y="799.0" type="line"/>
@@ -24,22 +34,12 @@
       <point x="88.65432098765432" y="130.7037037037037" type="line"/>
       <point x="150.82716049382717" y="41.82716049382716"/>
       <point x="247.93827160493828" y="-25.0"/>
-      <point x="389.17283950617286" y="-25.0" type="curve" smooth="yes"/>
-      <point x="549.7530864197531" y="-25.0"/>
-      <point x="672.6913580246913" y="86.93827160493827"/>
-      <point x="672.6913580246913" y="251.46913580246914" type="curve" smooth="yes"/>
-      <point x="672.6913580246913" y="424.82716049382714"/>
-      <point x="555.2222222222222" y="520.2962962962963"/>
-      <point x="411.69135802469134" y="520.2962962962963" type="curve" smooth="yes"/>
-      <point x="361.44444444444446" y="520.2962962962963"/>
-      <point x="318.14814814814815" y="505.7037037037037"/>
-      <point x="278.85185185185185" y="487.87654320987656" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -49,8 +49,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>17</integer>
+            <real>0.0</real>
+            <real>27.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,21 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zha-deva" format="2">
-  <advance width="1418"/>
+  <advance width="1418.0"/>
   <unicode hex="0979"/>
-  <anchor x="1143" y="28" name="bottom"/>
-  <anchor x="783" y="1168" name="candra"/>
-  <anchor x="527" y="66" name="nukta"/>
-  <anchor x="1145" y="1168" name="top"/>
+  <anchor x="1143.0" y="0.0" name="bottom"/>
+  <anchor x="1027.0" y="1247.0" name="candra"/>
+  <anchor x="141.0" y="70.0" name="nukta"/>
+  <anchor x="1145.0" y="1247.0" name="top"/>
   <outline>
     <component base="ja-deva"/>
-    <component base="nukta-deva" xOffset="-18" yOffset="-33"/>
-    <component base="nukta-deva" xOffset="439" yOffset="-32"/>
-    <component base="nukta-deva" xOffset="195" yOffset="-236"/>
+    <component base="nukta-deva" xOffset="115.0" yOffset="198.0"/>
+    <component base="nukta-deva" xOffset="380.0" yOffset="201.0"/>
+    <component base="nukta-deva" xOffset="253.0" yOffset="-1.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:27:16</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

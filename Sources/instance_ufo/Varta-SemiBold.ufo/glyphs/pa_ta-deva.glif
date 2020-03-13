@@ -2,10 +2,11 @@
 <glyph name="pa_ta-deva" format="2">
   <advance width="1152.4814814814815"/>
   <anchor x="873.5185185185185" y="27.34567901234568" name="bottom"/>
-  <anchor x="588.5061728395061" y="1167.3456790123457" name="candra"/>
-  <anchor x="873.5185185185185" y="1167.3456790123457" name="top"/>
+  <anchor x="588.5061728395061" y="1273.5185185185185" name="candra"/>
+  <anchor x="873.5185185185185" y="1287.3456790123457" name="top"/>
   <outline>
     <contour>
+      <point x="363.77777777777777" y="-49.66666666666666" type="curve"/>
       <point x="502.69135802469134" y="44.85185185185185" type="line"/>
       <point x="425.69135802469134" y="151.19753086419752"/>
       <point x="335.8395061728395" y="299.28395061728395"/>
@@ -31,7 +32,6 @@
       <point x="156.83950617283952" y="425.5061728395062" type="curve" smooth="yes"/>
       <point x="156.83950617283952" y="243.96296296296296"/>
       <point x="299.12345679012344" y="45.33333333333334"/>
-      <point x="363.77777777777777" y="-49.66666666666666" type="curve"/>
     </contour>
     <contour>
       <point x="782.3827160493827" y="0.0" type="line"/>
@@ -49,7 +49,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/10 11:24:26</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
     </dict>
   </lib>
 </glyph>

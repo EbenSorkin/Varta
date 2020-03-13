@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gh_na-deva" format="2">
+  <advance width="1190.0"/>
+  <anchor x="912.0" y="0.0" name="bottom"/>
+  <anchor x="856.0" y="1247.0" name="candra"/>
+  <anchor x="299.0" y="44.0" name="nukta"/>
+  <anchor x="915.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="544.0" y="-121.0" type="line"/>
+      <point x="566.0" y="-101.0"/>
+      <point x="574.0" y="-82.0"/>
+      <point x="575.0" y="-63.0" type="curve" smooth="yes"/>
+      <point x="576.0" y="-43.0"/>
+      <point x="568.0" y="-23.0"/>
+      <point x="555.0" y="-4.0" type="curve" smooth="yes"/>
+      <point x="486.0" y="94.0" type="line"/>
+      <point x="468.0" y="40.0" type="line"/>
+      <point x="877.0" y="357.0" type="line"/>
+      <point x="832.0" y="441.0" type="line"/>
+      <point x="277.0" y="47.0" type="line"/>
+      <point x="333.0" y="-44.0" type="line"/>
+    </contour>
+    <component base="gha-deva" xOffset="2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>gh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 16:16:57</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

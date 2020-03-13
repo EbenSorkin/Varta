@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha_rVocalicMatra-deva" format="2">
+  <advance width="997.0"/>
+  <anchor x="747.0" y="-235.0" name="bottom"/>
+  <anchor x="658.0" y="1247.0" name="candra"/>
+  <anchor x="746.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="777.0" y="-336.0" type="curve"/>
+      <point x="808.0" y="-231.0" type="line"/>
+      <point x="476.0" y="-165.0"/>
+      <point x="224.0" y="-4.0"/>
+      <point x="224.0" y="213.0" type="curve" smooth="yes"/>
+      <point x="224.0" y="342.0"/>
+      <point x="314.0" y="450.0"/>
+      <point x="541.0" y="450.0" type="curve" smooth="yes"/>
+      <point x="673.0" y="450.0"/>
+      <point x="739.0" y="416.0"/>
+      <point x="739.0" y="382.0" type="curve" smooth="yes"/>
+      <point x="739.0" y="358.0"/>
+      <point x="716.0" y="346.0"/>
+      <point x="648.0" y="310.0" type="curve" smooth="yes"/>
+      <point x="566.0" y="267.0"/>
+      <point x="506.0" y="232.0"/>
+      <point x="506.0" y="147.0" type="curve" smooth="yes"/>
+      <point x="506.0" y="53.0"/>
+      <point x="577.0" y="-32.0"/>
+      <point x="745.0" y="-32.0" type="curve" smooth="yes"/>
+      <point x="799.0" y="-32.0"/>
+      <point x="852.0" y="-24.0"/>
+      <point x="901.0" y="-2.0" type="curve"/>
+      <point x="877.0" y="99.0" type="line"/>
+      <point x="828.0" y="81.0"/>
+      <point x="770.0" y="70.0"/>
+      <point x="728.0" y="71.0" type="curve" smooth="yes"/>
+      <point x="654.0" y="71.0"/>
+      <point x="617.0" y="97.0"/>
+      <point x="617.0" y="138.0" type="curve" smooth="yes"/>
+      <point x="617.0" y="182.0"/>
+      <point x="648.0" y="192.0"/>
+      <point x="741.0" y="241.0" type="curve" smooth="yes"/>
+      <point x="823.0" y="285.0"/>
+      <point x="858.0" y="319.0"/>
+      <point x="858.0" y="389.0" type="curve" smooth="yes"/>
+      <point x="858.0" y="498.0"/>
+      <point x="712.0" y="562.0"/>
+      <point x="532.0" y="562.0" type="curve" smooth="yes"/>
+      <point x="276.0" y="562.0"/>
+      <point x="97.0" y="440.0"/>
+      <point x="97.0" y="225.0" type="curve" smooth="yes"/>
+      <point x="97.0" y="20.0"/>
+      <point x="250.0" y="-213.0"/>
+    </contour>
+    <contour>
+      <point x="251.0" y="443.0" type="curve"/>
+      <point x="333.0" y="481.0" type="line"/>
+      <point x="289.0" y="551.0"/>
+      <point x="240.0" y="648.0"/>
+      <point x="245.0" y="720.0" type="curve" smooth="yes"/>
+      <point x="249.0" y="783.0"/>
+      <point x="293.0" y="810.0"/>
+      <point x="393.0" y="810.0" type="curve" smooth="yes"/>
+      <point x="809.0" y="810.0" type="line"/>
+      <point x="809.0" y="1180.0" type="line"/>
+      <point x="682.0" y="1180.0" type="line"/>
+      <point x="682.0" y="921.0" type="line"/>
+      <point x="367.0" y="921.0" type="line" smooth="yes"/>
+      <point x="210.0" y="921.0"/>
+      <point x="123.0" y="862.0"/>
+      <point x="119.0" y="748.0" type="curve" smooth="yes"/>
+      <point x="116.0" y="652.0"/>
+      <point x="171.0" y="545.0"/>
+    </contour>
+    <contour>
+      <point x="-12.0" y="1143.0" type="line"/>
+      <point x="1010.0" y="1143.0" type="line"/>
+      <point x="1010.0" y="1247.0" type="line"/>
+      <point x="-12.0" y="1247.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 18:19:51</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

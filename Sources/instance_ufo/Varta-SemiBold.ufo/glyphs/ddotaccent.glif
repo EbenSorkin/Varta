@@ -2,17 +2,21 @@
 <glyph name="ddotaccent" format="2">
   <advance width="1143.0493827160494"/>
   <unicode hex="1E0B"/>
-  <anchor x="536.7777777777777" y="-234.56790123456796" name="btm"/>
-  <anchor x="1168.0617283950617" y="1019.358024691358" name="car"/>
-  <anchor x="367.679012345679" y="886.4197530864199" name="top"/>
+  <anchor x="538.7654320987655" y="0.0" name="bottom"/>
+  <anchor x="1129.716049382716" y="998.5061728395061" name="car"/>
+  <anchor x="561.4814814814814" y="499.58024691358025" name="center"/>
+  <anchor x="450.0" y="1422.358024691358" name="top"/>
+  <anchor x="1123.0493827160494" y="998.5061728395061" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="dotaccent" xOffset="-189.2098765432099"/>
+    <component base="dotaccentcomb" xOffset="319.7530864197531" yOffset="-8.506172839506167"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:44:46</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

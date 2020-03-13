@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph_candraBindu-deva" format="2">
+  <advance width="540.0"/>
+  <anchor x="293.5432098765432" y="1273.1728395061727" name="_top"/>
+  <anchor x="450.1131111111111" y="1822.037037037037" name="top"/>
+  <outline>
+    <contour>
+      <point x="274.98765432098764" y="1235.79012345679" type="curve"/>
+      <point x="333.58024691358025" y="1263.7530864197531" type="line"/>
+      <point x="309.32098765432096" y="1314.4444444444443"/>
+      <point x="293.9382716049383" y="1381.4074074074074"/>
+      <point x="293.9382716049383" y="1435.9012345679012" type="curve" smooth="yes"/>
+      <point x="293.9382716049383" y="1539.2716049382716"/>
+      <point x="348.88888888888886" y="1666.2345679012346"/>
+      <point x="493.55555555555554" y="1666.2345679012346" type="curve" smooth="yes"/>
+      <point x="545.8888888888889" y="1666.2345679012346"/>
+      <point x="603.3086419753087" y="1652.7037037037037"/>
+      <point x="660.7777777777777" y="1625.0493827160494" type="curve"/>
+      <point x="701.6296296296296" y="1764.2716049382716" type="line"/>
+      <point x="642.0864197530864" y="1797.6913580246912"/>
+      <point x="557.395061728395" y="1822.037037037037"/>
+      <point x="477.9382716049383" y="1822.037037037037" type="curve" smooth="yes"/>
+      <point x="272.40740740740745" y="1822.037037037037"/>
+      <point x="175.65432098765433" y="1658.8148148148148"/>
+      <point x="175.65432098765433" y="1494.358024691358" type="curve" smooth="yes"/>
+      <point x="175.65432098765433" y="1424.0246913580247"/>
+      <point x="193.87654320987656" y="1322.5185185185185"/>
+    </contour>
+    <component base="candraBindu-deva" xScale="0.6184686419753087" yScale="0.6184686419753087" xOffset="368.1728395061728" yOffset="416.11111111111114"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 19:17:54</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

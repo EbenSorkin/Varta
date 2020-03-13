@@ -1,18 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ddotbelow" format="2">
-  <advance width="1128"/>
+  <advance width="1128.0"/>
   <unicode hex="1E0D"/>
-  <anchor x="525" y="-300" name="btm"/>
-  <anchor x="1136" y="1003" name="car"/>
-  <anchor x="333" y="1050" name="top"/>
+  <anchor x="544.0" y="-412.0" name="bottom"/>
+  <anchor x="1097.0" y="990.0" name="car"/>
+  <anchor x="534.0" y="495.0" name="center"/>
+  <anchor x="450.0" y="990.0" name="top"/>
+  <anchor x="1108.0" y="990.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="dotbelowcomb" xOffset="525"/>
+    <component base="dotbelowcomb" xOffset="437.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:42:32</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng_g_ra-deva" format="2">
+  <advance width="1753.0"/>
+  <anchor x="611.0" y="-475.0" name="bottom"/>
+  <anchor x="658.0" y="1287.0" name="candra"/>
+  <anchor x="568.0" y="-241.0" name="nukta_1"/>
+  <anchor x="1454.0" y="54.0" name="nukta_2"/>
+  <anchor x="759.0" y="1287.0" name="top"/>
+  <outline>
+    <component base="ng-deva"/>
+    <component base="g_ra-deva" xOffset="1148.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ng-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 16:42:31</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

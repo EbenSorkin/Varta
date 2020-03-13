@@ -3,6 +3,10 @@
   <advance width="1198.9135802469136"/>
   <outline>
     <contour>
+      <point x="992.1111111111111" y="-25.0" type="curve" smooth="yes"/>
+      <point x="1050.2716049382716" y="-25.0"/>
+      <point x="1116.4444444444443" y="-6.530864197530864"/>
+      <point x="1171.9753086419753" y="12.0" type="curve"/>
       <point x="1140.8641975308642" y="130.37037037037038" type="line"/>
       <point x="1107.567901234568" y="117.8395061728395"/>
       <point x="1061.9753086419753" y="103.30864197530863"/>
@@ -43,16 +47,12 @@
       <point x="714.2592592592592" y="301.91358024691357" type="line"/>
       <point x="714.2592592592592" y="108.28395061728395"/>
       <point x="783.2469135802469" y="-25.0"/>
-      <point x="992.1111111111111" y="-25.0" type="curve" smooth="yes"/>
-      <point x="1050.2716049382716" y="-25.0"/>
-      <point x="1116.4444444444443" y="-6.530864197530864"/>
-      <point x="1171.9753086419753" y="12.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -62,8 +62,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>43</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -77,8 +77,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>32</integer>
+            <real>0.0</real>
+            <real>36.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -92,8 +92,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>39</integer>
+            <real>0.0</real>
+            <real>43.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

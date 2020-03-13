@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dong" format="2">
-  <advance width="1003"/>
+  <advance width="1003.0"/>
   <unicode hex="20AB"/>
   <outline>
     <contour>
-      <point x="704" y="335" type="line"/>
-      <point x="715" y="244" type="line"/>
-      <point x="813" y="244" type="line"/>
-      <point x="813" y="1134" type="line"/>
-      <point x="975" y="1145" type="line"/>
-      <point x="975" y="1223" type="line"/>
-      <point x="813" y="1223" type="line"/>
-      <point x="813" y="1369" type="line"/>
-      <point x="694" y="1369" type="line"/>
-      <point x="694" y="1223" type="line"/>
-      <point x="395" y="1223" type="line"/>
-      <point x="395" y="1134" type="line"/>
-      <point x="694" y="1134" type="line"/>
-      <point x="694" y="1056" type="line"/>
-      <point x="702" y="877" type="line"/>
-      <point x="633" y="938"/>
-      <point x="576" y="976"/>
-      <point x="474" y="976" type="curve" smooth="yes"/>
-      <point x="300" y="976"/>
-      <point x="140" y="833"/>
-      <point x="140" y="609" type="curve" smooth="yes"/>
-      <point x="140" y="359"/>
-      <point x="265" y="223"/>
-      <point x="460" y="223" type="curve" smooth="yes"/>
-      <point x="559" y="223"/>
-      <point x="637" y="271"/>
-      <point x="697" y="335" type="curve"/>
+      <point x="460.0" y="223.0" type="curve" smooth="yes"/>
+      <point x="559.0" y="223.0"/>
+      <point x="637.0" y="271.0"/>
+      <point x="697.0" y="335.0" type="curve"/>
+      <point x="704.0" y="335.0" type="line"/>
+      <point x="715.0" y="244.0" type="line"/>
+      <point x="813.0" y="244.0" type="line"/>
+      <point x="813.0" y="1134.0" type="line"/>
+      <point x="975.0" y="1145.0" type="line"/>
+      <point x="975.0" y="1223.0" type="line"/>
+      <point x="813.0" y="1223.0" type="line"/>
+      <point x="813.0" y="1369.0" type="line"/>
+      <point x="694.0" y="1369.0" type="line"/>
+      <point x="694.0" y="1223.0" type="line"/>
+      <point x="395.0" y="1223.0" type="line"/>
+      <point x="395.0" y="1134.0" type="line"/>
+      <point x="694.0" y="1134.0" type="line"/>
+      <point x="694.0" y="1056.0" type="line"/>
+      <point x="702.0" y="877.0" type="line"/>
+      <point x="633.0" y="938.0"/>
+      <point x="576.0" y="976.0"/>
+      <point x="474.0" y="976.0" type="curve" smooth="yes"/>
+      <point x="300.0" y="976.0"/>
+      <point x="140.0" y="833.0"/>
+      <point x="140.0" y="609.0" type="curve" smooth="yes"/>
+      <point x="140.0" y="359.0"/>
+      <point x="265.0" y="223.0"/>
     </contour>
     <contour>
-      <point x="163" y="0" type="line"/>
-      <point x="878" y="0" type="line"/>
-      <point x="878" y="88" type="line"/>
-      <point x="163" y="88" type="line"/>
+      <point x="163.0" y="0.0" type="line"/>
+      <point x="878.0" y="0.0" type="line"/>
+      <point x="878.0" y="88.0" type="line"/>
+      <point x="163.0" y="88.0" type="line"/>
     </contour>
     <contour>
-      <point x="694" y="441" type="line"/>
-      <point x="624" y="360"/>
-      <point x="555" y="325"/>
-      <point x="482" y="325" type="curve" smooth="yes"/>
-      <point x="343" y="325"/>
-      <point x="265" y="434"/>
-      <point x="265" y="612" type="curve" smooth="yes"/>
-      <point x="265" y="758"/>
-      <point x="365" y="872"/>
-      <point x="490" y="872" type="curve" smooth="yes"/>
-      <point x="571" y="872"/>
-      <point x="622" y="845"/>
-      <point x="694" y="780" type="curve"/>
+      <point x="482.0" y="325.0" type="curve" smooth="yes"/>
+      <point x="343.0" y="325.0"/>
+      <point x="265.0" y="434.0"/>
+      <point x="265.0" y="612.0" type="curve" smooth="yes"/>
+      <point x="265.0" y="758.0"/>
+      <point x="365.0" y="872.0"/>
+      <point x="490.0" y="872.0" type="curve" smooth="yes"/>
+      <point x="571.0" y="872.0"/>
+      <point x="622.0" y="845.0"/>
+      <point x="694.0" y="780.0" type="curve"/>
+      <point x="694.0" y="441.0" type="line"/>
+      <point x="624.0" y="360.0"/>
+      <point x="555.0" y="325.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -67,8 +67,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>3</integer>
+            <real>1.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -2,8 +2,8 @@
 <glyph name="rVocalic-deva" format="2">
   <advance width="1495.8024691358025"/>
   <unicode hex="090B"/>
-  <anchor x="752.7037037037037" y="27.34567901234568" name="bottom"/>
-  <anchor x="754.0864197530864" y="1167.3456790123457" name="candra"/>
+  <anchor x="752.7037037037037" y="0.0" name="bottom"/>
+  <anchor x="754.0864197530864" y="1273.5185185185185" name="candra"/>
   <anchor x="752.7037037037037" y="1167.3456790123457" name="top"/>
   <outline>
     <contour>
@@ -76,7 +76,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 08:55:38</string>
     </dict>
   </lib>
 </glyph>

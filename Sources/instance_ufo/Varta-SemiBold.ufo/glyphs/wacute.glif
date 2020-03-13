@@ -2,16 +2,16 @@
 <glyph name="wacute" format="2">
   <advance width="1490.111111111111"/>
   <unicode hex="1E83"/>
-  <anchor x="744.5555555555555" y="-234.56790123456796" name="btm"/>
-  <anchor x="744.5555555555555" y="886.4197530864199" name="top"/>
+  <anchor x="745.5555555555555" y="0.0" name="bottom"/>
+  <anchor x="819.8271604938271" y="1360.0864197530864" name="top"/>
   <outline>
     <component base="w"/>
-    <component base="acute" xOffset="257.71604938271605"/>
+    <component base="acutecomb" xOffset="628.7407407407408"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:41:03</string>
     </dict>
   </lib>
 </glyph>

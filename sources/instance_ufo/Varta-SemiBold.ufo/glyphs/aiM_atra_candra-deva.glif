@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aiMatra_candra-deva" format="2">
+  <advance width="744.9506172839506"/>
+  <outline>
+    <component base="aiMatra-deva"/>
+    <component base="candraBindu-deva" xOffset="189.74074074074073" yOffset="200.6172839506173"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 11:07:08</string>
+    </dict>
+  </lib>
+</glyph>

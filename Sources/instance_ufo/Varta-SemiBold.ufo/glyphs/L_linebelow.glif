@@ -2,18 +2,18 @@
 <glyph name="Llinebelow" format="2">
   <advance width="996.4444444444445"/>
   <unicode hex="1E3A"/>
-  <anchor x="541.604938271605" y="-234.56790123456796" name="btm"/>
-  <anchor x="676.8765432098766" y="1020.0123456790124" name="car"/>
-  <anchor x="711.6419753086419" y="774.6172839506173" name="dot"/>
-  <anchor x="277.28395061728395" y="1073.0864197530868" name="top"/>
+  <anchor x="498.72222222222223" y="-356.04938271604937" name="bottom"/>
+  <anchor x="498.39506172839504" y="671.0370370370371" name="center"/>
+  <anchor x="498.39506172839504" y="1342.0740740740741" name="top"/>
+  <anchor x="976.4444444444445" y="1342.0740740740741" name="topright"/>
   <outline>
     <component base="L"/>
-    <component base="macronbelowcomb" xOffset="542.2962962962963"/>
+    <component base="macronbelowcomb" xOffset="230.96296296296296"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

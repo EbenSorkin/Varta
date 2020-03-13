@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ya_ra-deva" format="2">
-  <advance width="1139"/>
-  <anchor x="866" y="28" name="bottom"/>
-  <anchor x="578" y="1168" name="candra"/>
-  <anchor x="866" y="1168" name="top"/>
-  <anchor x="306" y="64" name="nukta"/>
+  <advance width="1139.0"/>
+  <anchor x="866.0" y="28.0" name="bottom"/>
+  <anchor x="578.0" y="1248.0" name="candra"/>
+  <anchor x="866.0" y="1288.0" name="top"/>
+  <anchor x="196.0" y="64.0" name="nukta"/>
   <outline>
     <contour>
-      <point x="223" y="-27" type="line"/>
-      <point x="832" y="415" type="line"/>
-      <point x="749" y="460" type="line"/>
-      <point x="146" y="68" type="line"/>
+      <point x="223.0" y="-27.0" type="line"/>
+      <point x="832.0" y="415.0" type="line"/>
+      <point x="749.0" y="460.0" type="line"/>
+      <point x="146.0" y="68.0" type="line"/>
     </contour>
     <component base="ya-deva"/>
   </outline>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/01/23 06:20:04</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ph_tta-deva" format="2">
+  <advance width="2250.0"/>
+  <anchor x="860.0" y="20.0" name="bottom_1"/>
+  <anchor x="1803.0" y="-53.0" name="bottom_2"/>
+  <anchor x="860.0" y="1248.0" name="candra_1"/>
+  <anchor x="1961.0" y="1247.0" name="candra_2"/>
+  <anchor x="459.0" y="80.0" name="nukta_1"/>
+  <anchor x="1797.0" y="-181.0" name="nukta_2"/>
+  <anchor x="854.0" y="1288.0" name="top_1"/>
+  <anchor x="2016.0" y="1247.0" name="top_2"/>
+  <outline>
+    <component base="ph-deva"/>
+    <component base="tta-deva" xOffset="1233.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ph-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,16 +2,20 @@
 <glyph name="udieresiscaron" format="2">
   <advance width="1121.9382716049383"/>
   <unicode hex="01DA"/>
-  <anchor x="554.1234567901234" y="-234.56790123456796" name="btm"/>
-  <anchor x="554.1234567901234" y="886.4197530864199" name="top"/>
+  <anchor x="561.4691358024692" y="0.0" name="bottom"/>
+  <anchor x="1020.0123456790124" y="10.0" name="ogonek"/>
+  <anchor x="551.4691358024692" y="1693.9382716049383" name="top"/>
+  <anchor x="1101.9382716049383" y="998.5061728395061" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb_caroncomb" xOffset="946.7160493827157"/>
+    <component base="dieresiscomb_caroncomb" xOffset="261.60493827160496"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 04:03:01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

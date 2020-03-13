@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eShortMatra_candra-deva" format="2">
+  <advance width="723.2962962962963"/>
+  <outline>
+    <component base="eShortMatra-deva" xOffset="39.0" yOffset="29.0"/>
+    <component base="candraBindu-deva" xOffset="183.2962962962963" yOffset="255.0493827160494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>candraBindu-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/01/24 07:18:21</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

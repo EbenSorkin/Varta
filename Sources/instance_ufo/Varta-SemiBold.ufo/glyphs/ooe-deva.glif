@@ -2,13 +2,16 @@
 <glyph name="ooe-deva" format="2">
   <advance width="1959.2345679012346"/>
   <unicode hex="0974"/>
-  <anchor x="1673.7037037037037" y="28.0" name="bottom"/>
-  <anchor x="1415.20987654321" y="1168.7283950617284" name="candra"/>
-  <anchor x="1673.358024691358" y="1167.3456790123457" name="top"/>
+  <anchor x="1111.8148148148148" y="0.0" name="bottom_1"/>
+  <anchor x="1670.7037037037037" y="0.0" name="bottom_2"/>
+  <anchor x="929.9012345679013" y="1273.1728395061727" name="candra_1"/>
+  <anchor x="1597.4938271604938" y="1273.1728395061727" name="candra_2"/>
+  <anchor x="1138.0987654320988" y="1273.1728395061727" name="top_1"/>
+  <anchor x="1670.3950617283951" y="1273.1728395061727" name="top_2"/>
   <outline>
     <contour>
-      <point x="1581.9135802469136" y="1098.6049382716049" type="line"/>
-      <point x="1762.530864197531" y="1098.6049382716049" type="line"/>
+      <point x="1581.9135802469136" y="1171.6913580246915" type="line"/>
+      <point x="1762.530864197531" y="1171.6913580246915" type="line"/>
       <point x="1762.530864197531" y="1537.7037037037037" type="line"/>
       <point x="1581.9135802469136" y="1537.7037037037037" type="line"/>
     </contour>
@@ -17,7 +20,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 06:06:48</string>
     </dict>
   </lib>
 </glyph>

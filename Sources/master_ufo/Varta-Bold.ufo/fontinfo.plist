@@ -3,47 +3,91 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1902</integer>
+    <real>1902.0</real>
     <key>capHeight</key>
-    <integer>1340</integer>
+    <real>1340.0</real>
     <key>copyright</key>
-    <string>Copyright © 2014 by Joana Correia, Viktoriya Grabowska, Eben Sorkin. All rights reserved.</string>
+    <string>Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)</string>
     <key>descender</key>
-    <integer>-1068</integer>
+    <real>-1068.0</real>
     <key>familyName</key>
     <string>Varta</string>
     <key>guidelines</key>
     <array/>
     <key>italicAngle</key>
-    <integer>0</integer>
+    <real>-0.0</real>
     <key>openTypeHeadCreated</key>
-    <string>2019/10/26 03:39:00</string>
+    <string>2019/12/21 06:33:26</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1902</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-860</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
     <key>openTypeNameDesigner</key>
     <string>Joana Correia, Viktoriya Grabowska, Eben Sorkin</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameManufacturer</key>
     <string>Sorkin Type Co.</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>www.sorkintype.com</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
     <integer>1902</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-1068</integer>
+    <integer>-860</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>STC</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2230</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>1480</integer>
+    <key>postscriptBlueScale</key>
+    <real>0.03963</real>
+    <key>postscriptBlueShift</key>
+    <integer>7</integer>
     <key>postscriptBlueValues</key>
-    <array/>
+    <array>
+      <real>-26.0</real>
+      <real>0.0</real>
+      <real>1003.0</real>
+      <real>1029.0</real>
+      <real>1287.0</real>
+      <real>1313.0</real>
+      <real>1340.0</real>
+      <real>1366.0</real>
+      <real>1902.0</real>
+      <real>1918.0</real>
+    </array>
     <key>postscriptFamilyBlues</key>
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
     <key>postscriptOtherBlues</key>
-    <array/>
+    <array>
+      <real>-1099.0</real>
+      <real>-1068.0</real>
+    </array>
     <key>postscriptStemSnapH</key>
-    <array/>
+    <array>
+      <integer>187</integer>
+      <integer>173</integer>
+    </array>
     <key>postscriptStemSnapV</key>
-    <array/>
+    <array>
+      <integer>220</integer>
+      <integer>218</integer>
+    </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
@@ -61,8 +105,8 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>3</integer>
     <key>xHeight</key>
-    <integer>1003</integer>
+    <real>1003.0</real>
   </dict>
 </plist>

@@ -1,38 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eShortMatra_reph-deva" format="2">
-  <advance width="600"/>
-  <anchor x="256" y="1187" name="_top"/>
-  <anchor x="153" y="1537" name="candra"/>
-  <anchor x="274" y="1182" name="top"/>
+  <advance width="600.0"/>
+  <anchor x="256.0" y="1287.0" name="_top"/>
+  <anchor x="275.0" y="1724.0" name="candra"/>
+  <anchor x="275.0" y="1724.0" name="top"/>
   <outline>
     <contour>
-      <point x="724" y="1681" type="line"/>
-      <point x="663" y="1719"/>
-      <point x="570" y="1755"/>
-      <point x="468" y="1755" type="curve" smooth="yes"/>
-      <point x="295" y="1755"/>
-      <point x="205" y="1650"/>
-      <point x="205" y="1509" type="curve" smooth="yes"/>
-      <point x="205" y="1454"/>
-      <point x="219" y="1351"/>
-      <point x="275" y="1246" type="curve"/>
-      <point x="372" y="1186" type="line"/>
-      <point x="364" y="1234"/>
-      <point x="355" y="1375"/>
-      <point x="355" y="1422" type="curve" smooth="yes"/>
-      <point x="355" y="1510"/>
-      <point x="383" y="1575"/>
-      <point x="497" y="1575" type="curve" smooth="yes"/>
-      <point x="561" y="1575"/>
-      <point x="616" y="1555"/>
-      <point x="679" y="1520" type="curve"/>
+      <point x="742.0" y="1761.0" type="line"/>
+      <point x="681.0" y="1799.0"/>
+      <point x="588.0" y="1835.0"/>
+      <point x="486.0" y="1835.0" type="curve" smooth="yes"/>
+      <point x="313.0" y="1835.0"/>
+      <point x="223.0" y="1730.0"/>
+      <point x="223.0" y="1589.0" type="curve" smooth="yes"/>
+      <point x="223.0" y="1534.0"/>
+      <point x="207.0" y="1471.0"/>
+      <point x="263.0" y="1366.0" type="curve"/>
+      <point x="328.0" y="1306.0" type="line"/>
+      <point x="320.0" y="1354.0"/>
+      <point x="353.0" y="1455.0"/>
+      <point x="353.0" y="1502.0" type="curve" smooth="yes"/>
+      <point x="353.0" y="1590.0"/>
+      <point x="401.0" y="1655.0"/>
+      <point x="515.0" y="1655.0" type="curve" smooth="yes"/>
+      <point x="579.0" y="1655.0"/>
+      <point x="634.0" y="1635.0"/>
+      <point x="697.0" y="1600.0" type="curve"/>
     </contour>
-    <component base="eShortMatra-deva"/>
+    <component base="eShortMatra-deva" yOffset="-40.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 10:44:35</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

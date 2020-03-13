@@ -1,30 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
   <unicode hex="031B"/>
-  <anchor x="-452" y="1003" name="_topright"/>
-  <anchor x="-452" y="1003" name="topright"/>
+  <anchor x="-10.0" y="1003.0" name="_topright"/>
+  <anchor x="364.0" y="1275.0" name="topright"/>
   <outline>
     <contour>
-      <point x="-600" y="885" type="line"/>
-      <point x="-424" y="899"/>
-      <point x="-285" y="970"/>
-      <point x="-285" y="1130" type="curve" smooth="yes"/>
-      <point x="-285" y="1188"/>
-      <point x="-309" y="1238"/>
-      <point x="-337" y="1275" type="curve"/>
-      <point x="-491" y="1204" type="line"/>
-      <point x="-475" y="1179"/>
-      <point x="-460" y="1148"/>
-      <point x="-460" y="1115" type="curve" smooth="yes"/>
-      <point x="-460" y="1031"/>
-      <point x="-517" y="998"/>
-      <point x="-619" y="983" type="curve"/>
+      <point x="29.0" y="885.0" type="line"/>
+      <point x="205.0" y="899.0"/>
+      <point x="344.0" y="970.0"/>
+      <point x="344.0" y="1130.0" type="curve" smooth="yes"/>
+      <point x="344.0" y="1188.0"/>
+      <point x="320.0" y="1238.0"/>
+      <point x="292.0" y="1275.0" type="curve"/>
+      <point x="138.0" y="1204.0" type="line"/>
+      <point x="154.0" y="1179.0"/>
+      <point x="169.0" y="1148.0"/>
+      <point x="169.0" y="1115.0" type="curve" smooth="yes"/>
+      <point x="169.0" y="1031.0"/>
+      <point x="112.0" y="998.0"/>
+      <point x="10.0" y="983.0" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>354.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -34,20 +36,22 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

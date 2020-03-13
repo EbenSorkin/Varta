@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.dnom" format="2">
-  <advance width="759"/>
+  <advance width="759.0"/>
   <outline>
     <contour>
-      <point x="446" y="0" type="line"/>
-      <point x="594" y="0" type="line"/>
-      <point x="594" y="200" type="line"/>
-      <point x="713" y="200" type="line"/>
-      <point x="713" y="313" type="line"/>
-      <point x="594" y="313" type="line"/>
-      <point x="594" y="799" type="line"/>
-      <point x="398" y="799" type="line"/>
-      <point x="81" y="284" type="line"/>
-      <point x="81" y="200" type="line"/>
-      <point x="446" y="200" type="line"/>
+      <point x="446.0" y="0.0" type="line"/>
+      <point x="594.0" y="0.0" type="line"/>
+      <point x="594.0" y="200.0" type="line"/>
+      <point x="713.0" y="200.0" type="line"/>
+      <point x="713.0" y="313.0" type="line"/>
+      <point x="594.0" y="313.0" type="line"/>
+      <point x="594.0" y="799.0" type="line"/>
+      <point x="398.0" y="799.0" type="line"/>
+      <point x="81.0" y="284.0" type="line"/>
+      <point x="81.0" y="200.0" type="line"/>
+      <point x="446.0" y="200.0" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="313" type="line"/>
-      <point x="353" y="500" type="line"/>
-      <point x="448" y="663" type="line"/>
-      <point x="456" y="663" type="line"/>
-      <point x="446" y="434" type="line"/>
-      <point x="446" y="313" type="line"/>
+      <point x="242.0" y="313.0" type="line"/>
+      <point x="353.0" y="500.0" type="line"/>
+      <point x="448.0" y="663.0" type="line"/>
+      <point x="456.0" y="663.0" type="line"/>
+      <point x="446.0" y="434.0" type="line"/>
+      <point x="446.0" y="313.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -37,15 +37,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

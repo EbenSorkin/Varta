@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Scommaaccent" format="2">
-  <advance width="1103"/>
+  <advance width="1103.0"/>
   <unicode hex="0218"/>
-  <anchor x="558" y="-452" name="bottom"/>
-  <anchor x="552" y="1340" name="top"/>
+  <anchor x="552.0" y="-452.0" name="bottom"/>
+  <anchor x="552.0" y="1340.0" name="top"/>
   <outline>
     <component base="S"/>
-    <component base="commaaccent" xOffset="355"/>
+    <component base="commaaccentcomb.cap" xOffset="371.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

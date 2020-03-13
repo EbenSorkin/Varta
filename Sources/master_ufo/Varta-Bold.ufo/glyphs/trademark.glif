@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="trademark" format="2">
-  <advance width="1340"/>
+  <advance width="1340.0"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="680" y="747" type="line"/>
-      <point x="826" y="747" type="line"/>
-      <point x="826" y="995" type="line"/>
-      <point x="808" y="1218" type="line"/>
-      <point x="817" y="1218" type="line"/>
-      <point x="949" y="843" type="line"/>
-      <point x="1057" y="843" type="line"/>
-      <point x="1189" y="1218" type="line"/>
-      <point x="1197" y="1218" type="line"/>
-      <point x="1180" y="995" type="line"/>
-      <point x="1180" y="747" type="line"/>
-      <point x="1325" y="747" type="line"/>
-      <point x="1325" y="1384" type="line"/>
-      <point x="1144" y="1384" type="line"/>
-      <point x="1057" y="1172" type="line"/>
-      <point x="1007" y="1020" type="line"/>
-      <point x="999" y="1020" type="line"/>
-      <point x="949" y="1172" type="line"/>
-      <point x="861" y="1384" type="line"/>
-      <point x="680" y="1384" type="line"/>
+      <point x="680.0" y="747.0" type="line"/>
+      <point x="826.0" y="747.0" type="line"/>
+      <point x="826.0" y="995.0" type="line"/>
+      <point x="808.0" y="1218.0" type="line"/>
+      <point x="817.0" y="1218.0" type="line"/>
+      <point x="949.0" y="843.0" type="line"/>
+      <point x="1057.0" y="843.0" type="line"/>
+      <point x="1189.0" y="1218.0" type="line"/>
+      <point x="1197.0" y="1218.0" type="line"/>
+      <point x="1180.0" y="995.0" type="line"/>
+      <point x="1180.0" y="747.0" type="line"/>
+      <point x="1325.0" y="747.0" type="line"/>
+      <point x="1325.0" y="1384.0" type="line"/>
+      <point x="1144.0" y="1384.0" type="line"/>
+      <point x="1057.0" y="1172.0" type="line"/>
+      <point x="1007.0" y="1020.0" type="line"/>
+      <point x="999.0" y="1020.0" type="line"/>
+      <point x="949.0" y="1172.0" type="line"/>
+      <point x="861.0" y="1384.0" type="line"/>
+      <point x="680.0" y="1384.0" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="747" type="line"/>
-      <point x="351" y="747" type="line"/>
-      <point x="351" y="1248" type="line"/>
-      <point x="545" y="1248" type="line"/>
-      <point x="545" y="1384" type="line"/>
-      <point x="7" y="1384" type="line"/>
-      <point x="7" y="1248" type="line"/>
-      <point x="200" y="1248" type="line"/>
+      <point x="200.0" y="747.0" type="line"/>
+      <point x="351.0" y="747.0" type="line"/>
+      <point x="351.0" y="1248.0" type="line"/>
+      <point x="545.0" y="1248.0" type="line"/>
+      <point x="545.0" y="1384.0" type="line"/>
+      <point x="7.0" y="1384.0" type="line"/>
+      <point x="7.0" y="1248.0" type="line"/>
+      <point x="200.0" y="1248.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -49,15 +49,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>
@@ -69,15 +69,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>7</integer>
+            <real>1.0</real>
+            <real>7.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

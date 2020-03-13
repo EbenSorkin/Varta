@@ -6,7 +6,8 @@
   <anchor x="1034.0740740740741" y="0.0" name="bottom_2"/>
   <anchor x="488.0617283950617" y="10.0" name="ogonek"/>
   <anchor x="271.66666666666663" y="1342.0740740740741" name="top_1"/>
-  <anchor x="1034.0740740740741" y="1342.0740740740741" name="top_2"/>
+  <anchor x="1257.530864197531" y="1342.0740740740741" name="top_2"/>
+  <anchor x="20.0" y="1342.0740740740741" name="topleft"/>
   <outline>
     <component base="I"/>
     <component base="J" xOffset="542.3333333333333"/>
@@ -14,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

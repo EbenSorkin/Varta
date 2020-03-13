@@ -2,12 +2,13 @@
 <glyph name="ta-deva" format="2">
   <advance width="1107.469135802469"/>
   <unicode hex="0924"/>
-  <anchor x="829.5308641975308" y="27.765432098765434" name="bottom"/>
-  <anchor x="568.2222222222222" y="1167.7654320987654" name="candra"/>
-  <anchor x="74.95061728395062" y="52.91358024691358" name="nukta"/>
-  <anchor x="834.2345679012345" y="1167.7654320987654" name="top"/>
+  <anchor x="829.5308641975308" y="0.0" name="bottom"/>
+  <anchor x="744.7530864197531" y="1256.3827160493827" name="candra"/>
+  <anchor x="41.98765432098766" y="38.22222222222222" name="nukta"/>
+  <anchor x="834.2345679012345" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
+      <point x="343.67901234567904" y="-31.876543209876544" type="curve"/>
       <point x="459.4567901234568" y="46.50617283950617" type="line"/>
       <point x="306.4567901234568" y="262.1975308641975"/>
       <point x="227.54320987654322" y="418.3333333333333"/>
@@ -23,7 +24,6 @@
       <point x="77.8395061728395" y="569.0617283950618" type="curve" smooth="yes"/>
       <point x="77.8395061728395" y="365.7654320987654"/>
       <point x="218.03703703703704" y="130.23456790123456"/>
-      <point x="343.67901234567904" y="-31.876543209876544" type="curve"/>
     </contour>
     <contour>
       <point x="756.679012345679" y="0.0" type="line"/>
@@ -41,7 +41,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 11:23:37</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,18 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ddotaccent" format="2">
-  <advance width="1151"/>
+  <advance width="1151.0"/>
   <unicode hex="1E0B"/>
-  <anchor x="543" y="-200" name="btm"/>
-  <anchor x="1185" y="1028" name="car"/>
-  <anchor x="386" y="800" name="top"/>
+  <anchor x="536.0" y="0.0" name="bottom"/>
+  <anchor x="1147.0" y="1003.0" name="car"/>
+  <anchor x="576.0" y="502.0" name="center"/>
+  <anchor x="450.0" y="1431.0" name="top"/>
+  <anchor x="1131.0" y="1003.0" name="topright"/>
   <outline>
     <component base="d"/>
-    <component base="dotaccent" xOffset="-174"/>
+    <component base="dotaccentcomb" xOffset="308.0" yOffset="-13.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:44:46</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nn_ra-deva" format="2">
+  <advance width="999.0"/>
+  <outline>
+    <contour>
+      <point x="575.0" y="-21.0" type="line"/>
+      <point x="1236.0" y="467.0" type="line"/>
+      <point x="1190.0" y="560.0" type="line"/>
+      <point x="499.0" y="72.0" type="line"/>
+    </contour>
+    <component base="nn-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nn-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:33:46</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

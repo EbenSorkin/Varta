@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p_na-deva" format="2">
+  <advance width="1172.1975308641975"/>
+  <anchor x="893.5802469135803" y="0.0" name="bottom"/>
+  <anchor x="776.7530864197531" y="1273.1728395061727" name="candra"/>
+  <anchor x="286.58024691358025" y="104.44444444444446" name="nukta"/>
+  <anchor x="893.8888888888889" y="1273.1728395061727" name="top"/>
+  <outline>
+    <contour>
+      <point x="423.8518518518519" y="-90.29629629629628" type="line"/>
+      <point x="462.8641975308642" y="-59.827160493827144"/>
+      <point x="478.71604938271605" y="-29.703703703703695"/>
+      <point x="480.3703703703704" y="-1.5432098765432052" type="curve" smooth="yes"/>
+      <point x="482.0246913580247" y="25.0"/>
+      <point x="472.71604938271605" y="50.888888888888886"/>
+      <point x="458.40740740740745" y="73.1604938271605" type="curve" smooth="yes"/>
+      <point x="411.65432098765433" y="144.98765432098767" type="line"/>
+      <point x="394.96296296296293" y="86.40740740740742" type="line"/>
+      <point x="837.5679012345679" y="428.5555555555556" type="line"/>
+      <point x="736.2962962962963" y="515.1728395061729" type="line"/>
+      <point x="140.49382716049388" y="118.92592592592592" type="line"/>
+      <point x="205.00000000000003" y="-3.481481481481463" type="line"/>
+    </contour>
+    <component base="pa-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:44:31</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

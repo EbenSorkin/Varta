@@ -4,7 +4,7 @@
   <unicode hex="090F"/>
   <anchor x="587.5308641975308" y="47.77777777777777" name="bottom"/>
   <anchor x="529.5555555555555" y="1273.1728395061727" name="candra"/>
-  <anchor x="822.395061728395" y="1168.7283950617284" name="top"/>
+  <anchor x="822.395061728395" y="1273.1728395061727" name="top"/>
   <outline>
     <contour>
       <point x="655.5802469135803" y="-220.6172839506173" type="line"/>
@@ -54,7 +54,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:04:32</string>
     </dict>
   </lib>
 </glyph>

@@ -1,24 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gga-deva" format="2">
-  <advance width="1146"/>
+  <advance width="1146.0"/>
   <unicode hex="097B"/>
-  <anchor x="865" y="27" name="bottom"/>
-  <anchor x="612" y="1167" name="candra"/>
-  <anchor x="330" y="92" name="nukta"/>
-  <anchor x="865" y="1167" name="top"/>
+  <anchor x="865.0" y="0.0" name="bottom"/>
+  <anchor x="763.0" y="1287.0" name="candra"/>
+  <anchor x="320.0" y="92.0" name="nukta"/>
+  <anchor x="865.0" y="1287.0" name="top"/>
   <outline>
     <contour>
-      <point x="66" y="-96" type="line"/>
-      <point x="970" y="-96" type="line"/>
-      <point x="970" y="74" type="line"/>
-      <point x="66" y="74" type="line"/>
+      <point x="66.0" y="-96.0" type="line"/>
+      <point x="970.0" y="-96.0" type="line"/>
+      <point x="970.0" y="74.0" type="line"/>
+      <point x="66.0" y="74.0" type="line"/>
     </contour>
     <component base="ga-deva"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 04:58:37</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

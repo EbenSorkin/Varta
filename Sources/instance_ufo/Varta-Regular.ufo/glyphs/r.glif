@@ -2,8 +2,8 @@
 <glyph name="r" format="2">
   <advance width="701.2469135802469"/>
   <unicode hex="0072"/>
-  <anchor x="292.6666666666667" y="-276.5432098765432" name="btm"/>
-  <anchor x="438.9259259259259" y="991.3580246913581" name="top"/>
+  <anchor x="256.04938271604937" y="0.0" name="bottom"/>
+  <anchor x="408.39506172839504" y="993.0493827160494" name="top"/>
   <outline>
     <contour>
       <point x="171.07407407407408" y="0.0" type="line"/>
@@ -30,7 +30,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:57:40</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -40,8 +40,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>18</integer>
+            <real>0.0</real>
+            <real>18.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -55,8 +55,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -70,8 +70,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -85,8 +85,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>16</integer>
+            <real>0.0</real>
+            <real>16.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -94,6 +94,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

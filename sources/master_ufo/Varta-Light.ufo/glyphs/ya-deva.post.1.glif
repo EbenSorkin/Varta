@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ya-deva.post.1" format="2">
+  <advance width="1155.0"/>
+  <anchor x="857.0" y="0.0" name="bottom"/>
+  <anchor x="670.0" y="1247.0" name="candra"/>
+  <anchor x="858.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-21.0" y="1143.0" type="line"/>
+      <point x="1168.0" y="1143.0" type="line"/>
+      <point x="1168.0" y="1247.0" type="line"/>
+      <point x="-21.0" y="1247.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="484.0" y="159.0" type="curve" smooth="yes"/>
+      <point x="611.0" y="159.0"/>
+      <point x="724.0" y="206.0"/>
+      <point x="814.0" y="300.0" type="curve"/>
+      <point x="818.0" y="461.0" type="line"/>
+      <point x="736.0" y="324.0"/>
+      <point x="589.0" y="274.0"/>
+      <point x="477.0" y="274.0" type="curve" smooth="yes"/>
+      <point x="329.0" y="274.0"/>
+      <point x="217.0" y="362.0"/>
+      <point x="181.0" y="530.0" type="curve"/>
+      <point x="159.0" y="482.0" type="line"/>
+      <point x="257.0" y="504.0"/>
+      <point x="438.0" y="581.0"/>
+      <point x="438.0" y="762.0" type="curve" smooth="yes"/>
+      <point x="438.0" y="933.0"/>
+      <point x="326.0" y="981.0"/>
+      <point x="147.0" y="981.0" type="curve" smooth="yes"/>
+      <point x="-282.0" y="981.0" type="line"/>
+      <point x="-267.0" y="877.0" type="line"/>
+      <point x="165.0" y="877.0" type="line" smooth="yes"/>
+      <point x="262.0" y="877.0"/>
+      <point x="319.0" y="849.0"/>
+      <point x="319.0" y="755.0" type="curve" smooth="yes"/>
+      <point x="319.0" y="686.0"/>
+      <point x="245.0" y="616.0"/>
+      <point x="57.0" y="564.0" type="curve"/>
+      <point x="116.0" y="299.0"/>
+      <point x="264.0" y="159.0"/>
+    </contour>
+    <contour>
+      <point x="794.0" y="0.0" type="line"/>
+      <point x="920.0" y="0.0" type="line"/>
+      <point x="920.0" y="1170.0" type="line"/>
+      <point x="794.0" y="1170.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 09:59:25</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

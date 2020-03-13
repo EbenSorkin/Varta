@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oShortMatra_candra-deva" format="2">
+  <advance width="558.5802469135803"/>
+  <anchor x="279.61728395061726" y="0.0" name="bottom"/>
+  <anchor x="206.4074074074074" y="1273.1728395061727" name="candra"/>
+  <anchor x="468.8518518518518" y="2171.111111111111" name="top"/>
+  <outline>
+    <component base="oShortMatra-deva"/>
+    <component base="candraBindu-deva" xOffset="201.5802469135802" yOffset="231.50617283950618"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 09:14:05</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ballotBoxWithCheck" format="2">
-  <advance width="1632"/>
+  <advance width="1632.0"/>
   <unicode hex="2611"/>
   <outline>
     <contour>
-      <point x="152" y="-20" type="line"/>
-      <point x="1378" y="-20" type="line"/>
-      <point x="1481" y="97" type="line"/>
-      <point x="1481" y="1359" type="line"/>
-      <point x="1535" y="1421"/>
-      <point x="1591" y="1480"/>
-      <point x="1647" y="1532" type="curve"/>
-      <point x="1556" y="1619" type="line"/>
-      <point x="1481" y="1545"/>
-      <point x="1407" y="1463"/>
-      <point x="1336" y="1372" type="curve"/>
-      <point x="269" y="1372" type="line"/>
-      <point x="152" y="1275" type="line"/>
+      <point x="152.0" y="-20.0" type="line"/>
+      <point x="1378.0" y="-20.0" type="line"/>
+      <point x="1481.0" y="97.0" type="line"/>
+      <point x="1481.0" y="1359.0" type="line"/>
+      <point x="1535.0" y="1421.0"/>
+      <point x="1591.0" y="1480.0"/>
+      <point x="1647.0" y="1532.0" type="curve"/>
+      <point x="1556.0" y="1619.0" type="line"/>
+      <point x="1481.0" y="1545.0"/>
+      <point x="1407.0" y="1463.0"/>
+      <point x="1336.0" y="1372.0" type="curve"/>
+      <point x="269.0" y="1372.0" type="line"/>
+      <point x="152.0" y="1275.0" type="line"/>
     </contour>
     <contour>
-      <point x="231" y="59" type="line"/>
-      <point x="231" y="1229" type="line"/>
-      <point x="1231" y="1229" type="line"/>
-      <point x="1041" y="955"/>
-      <point x="882" y="635"/>
-      <point x="792" y="329" type="curve"/>
-      <point x="783" y="329" type="line"/>
-      <point x="728" y="505"/>
-      <point x="637" y="688"/>
-      <point x="535" y="847" type="curve"/>
-      <point x="438" y="781" type="line"/>
-      <point x="553" y="609"/>
-      <point x="651" y="420"/>
-      <point x="725" y="211" type="curve"/>
-      <point x="876" y="228" type="line"/>
-      <point x="975" y="581"/>
-      <point x="1139" y="906"/>
-      <point x="1333" y="1173" type="curve"/>
-      <point x="1333" y="59" type="line"/>
+      <point x="231.0" y="59.0" type="line"/>
+      <point x="231.0" y="1229.0" type="line"/>
+      <point x="1231.0" y="1229.0" type="line"/>
+      <point x="1041.0" y="955.0"/>
+      <point x="882.0" y="635.0"/>
+      <point x="792.0" y="329.0" type="curve"/>
+      <point x="783.0" y="329.0" type="line"/>
+      <point x="728.0" y="505.0"/>
+      <point x="637.0" y="688.0"/>
+      <point x="535.0" y="847.0" type="curve"/>
+      <point x="438.0" y="781.0" type="line"/>
+      <point x="553.0" y="609.0"/>
+      <point x="651.0" y="420.0"/>
+      <point x="725.0" y="211.0" type="curve"/>
+      <point x="876.0" y="228.0" type="line"/>
+      <point x="975.0" y="581.0"/>
+      <point x="1139.0" y="906.0"/>
+      <point x="1333.0" y="1173.0" type="curve"/>
+      <point x="1333.0" y="59.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
     </dict>
   </lib>
 </glyph>

@@ -4,15 +4,15 @@
   <unicode hex="0904"/>
   <anchor x="212.71604938271622" y="8.87654320987655" name="bottom"/>
   <anchor x="212.71604938271622" y="362.83950617283983" name="top"/>
-  <anchor x="1111.7777777777778" y="1194.6543209876543" name="candra"/>
+  <anchor x="929.9012345679013" y="1273.1728395061727" name="candra"/>
   <outline>
     <component base="a-deva"/>
-    <component base="eShortMatra-deva" xOffset="860.9012345679013" yOffset="19.740740740740733"/>
+    <component base="eShortMatra-deva" xOffset="883.3333333333333"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:14:05</string>
     </dict>
   </lib>
 </glyph>

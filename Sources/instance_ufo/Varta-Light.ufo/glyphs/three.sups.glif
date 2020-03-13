@@ -1,54 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.sups" format="2">
-  <advance width="747"/>
+  <advance width="747.0"/>
   <unicode hex="00B3"/>
   <outline>
     <contour>
-      <point x="177" y="1535" type="line"/>
-      <point x="224" y="1593"/>
-      <point x="286" y="1635"/>
-      <point x="347" y="1635" type="curve" smooth="yes"/>
-      <point x="442" y="1635"/>
-      <point x="503" y="1580"/>
-      <point x="503" y="1499" type="curve" smooth="yes"/>
-      <point x="503" y="1413"/>
-      <point x="419" y="1344"/>
-      <point x="272" y="1344" type="curve"/>
-      <point x="272" y="1271" type="line"/>
-      <point x="435" y="1271"/>
-      <point x="534" y="1218"/>
-      <point x="534" y="1120" type="curve" smooth="yes"/>
-      <point x="534" y="1021"/>
-      <point x="456" y="966"/>
-      <point x="363" y="966" type="curve" smooth="yes"/>
-      <point x="276" y="966"/>
-      <point x="201" y="1014"/>
-      <point x="152" y="1090" type="curve"/>
-      <point x="76" y="1031" type="line"/>
-      <point x="135" y="944"/>
-      <point x="239" y="877"/>
-      <point x="366" y="877" type="curve" smooth="yes"/>
-      <point x="519" y="877"/>
-      <point x="644" y="967"/>
-      <point x="644" y="1114" type="curve" smooth="yes"/>
-      <point x="644" y="1224"/>
-      <point x="559" y="1291"/>
-      <point x="466" y="1312" type="curve"/>
-      <point x="550" y="1350"/>
-      <point x="612" y="1414"/>
-      <point x="612" y="1511" type="curve" smooth="yes"/>
-      <point x="612" y="1646"/>
-      <point x="498" y="1724"/>
-      <point x="362" y="1724" type="curve" smooth="yes"/>
-      <point x="255" y="1724"/>
-      <point x="173" y="1671"/>
-      <point x="109" y="1594" type="curve"/>
+      <point x="366.0" y="877.0" type="curve" smooth="yes"/>
+      <point x="519.0" y="877.0"/>
+      <point x="644.0" y="967.0"/>
+      <point x="644.0" y="1114.0" type="curve" smooth="yes"/>
+      <point x="644.0" y="1224.0"/>
+      <point x="559.0" y="1291.0"/>
+      <point x="466.0" y="1312.0" type="curve"/>
+      <point x="550.0" y="1350.0"/>
+      <point x="612.0" y="1414.0"/>
+      <point x="612.0" y="1511.0" type="curve" smooth="yes"/>
+      <point x="612.0" y="1646.0"/>
+      <point x="498.0" y="1724.0"/>
+      <point x="362.0" y="1724.0" type="curve" smooth="yes"/>
+      <point x="255.0" y="1724.0"/>
+      <point x="173.0" y="1671.0"/>
+      <point x="109.0" y="1594.0" type="curve"/>
+      <point x="177.0" y="1535.0" type="line"/>
+      <point x="224.0" y="1593.0"/>
+      <point x="286.0" y="1635.0"/>
+      <point x="347.0" y="1635.0" type="curve" smooth="yes"/>
+      <point x="442.0" y="1635.0"/>
+      <point x="503.0" y="1580.0"/>
+      <point x="503.0" y="1499.0" type="curve" smooth="yes"/>
+      <point x="503.0" y="1413.0"/>
+      <point x="419.0" y="1344.0"/>
+      <point x="272.0" y="1344.0" type="curve"/>
+      <point x="272.0" y="1271.0" type="line"/>
+      <point x="435.0" y="1271.0"/>
+      <point x="534.0" y="1218.0"/>
+      <point x="534.0" y="1120.0" type="curve" smooth="yes"/>
+      <point x="534.0" y="1021.0"/>
+      <point x="456.0" y="966.0"/>
+      <point x="363.0" y="966.0" type="curve" smooth="yes"/>
+      <point x="276.0" y="966.0"/>
+      <point x="201.0" y="1014.0"/>
+      <point x="152.0" y="1090.0" type="curve"/>
+      <point x="76.0" y="1031.0" type="line"/>
+      <point x="135.0" y="944.0"/>
+      <point x="239.0" y="877.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -58,8 +58,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>19</integer>
+            <real>0.0</real>
+            <real>35.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -73,8 +73,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>31</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -88,8 +88,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>28.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

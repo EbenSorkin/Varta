@@ -1,18 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="khh-deva" format="2">
-  <advance width="1158"/>
-  <anchor x="761" y="0" name="bottom"/>
-  <anchor x="881" y="1167" name="candra"/>
-  <anchor x="160" y="27" name="nukta"/>
-  <anchor x="466" y="1167" name="top"/>
+  <advance width="1158.0"/>
+  <anchor x="160.0" y="27.0" name="nukta"/>
   <outline>
     <component base="kh-deva"/>
-    <component base="nukta-deva" xOffset="-111"/>
+    <component base="nukta-deva" xOffset="-111.0" yOffset="250.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:28:06</string>
     </dict>
   </lib>
 </glyph>

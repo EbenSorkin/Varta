@@ -1,28 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent" format="2">
-  <advance width="1104"/>
+  <advance width="1104.0"/>
   <unicode hex="02D9"/>
-  <anchor x="551" y="1050" name="_top"/>
   <outline>
     <contour>
-      <point x="552" y="1209" type="curve" smooth="yes"/>
-      <point x="607" y="1209"/>
-      <point x="649" y="1248"/>
-      <point x="649" y="1309" type="curve" smooth="yes"/>
-      <point x="649" y="1365"/>
-      <point x="607" y="1406"/>
-      <point x="552" y="1406" type="curve" smooth="yes"/>
-      <point x="497" y="1406"/>
-      <point x="454" y="1365"/>
-      <point x="454" y="1309" type="curve" smooth="yes"/>
-      <point x="454" y="1248"/>
-      <point x="497" y="1209"/>
+      <point x="552.0" y="1209.0" type="curve" smooth="yes"/>
+      <point x="607.0" y="1209.0"/>
+      <point x="649.0" y="1248.0"/>
+      <point x="649.0" y="1309.0" type="curve" smooth="yes"/>
+      <point x="649.0" y="1365.0"/>
+      <point x="607.0" y="1406.0"/>
+      <point x="552.0" y="1406.0" type="curve" smooth="yes"/>
+      <point x="497.0" y="1406.0"/>
+      <point x="454.0" y="1365.0"/>
+      <point x="454.0" y="1309.0" type="curve" smooth="yes"/>
+      <point x="454.0" y="1248.0"/>
+      <point x="497.0" y="1209.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -32,8 +31,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

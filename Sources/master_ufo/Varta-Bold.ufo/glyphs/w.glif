@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w" format="2">
-  <advance width="1515"/>
+  <advance width="1515.0"/>
   <unicode hex="0077"/>
-  <anchor x="757" y="-200" name="btm"/>
-  <anchor x="757" y="800" name="top"/>
+  <anchor x="758.0" y="0.0" name="bottom"/>
+  <anchor x="758.0" y="1003.0" name="top"/>
   <outline>
     <contour>
-      <point x="317" y="0" type="line"/>
-      <point x="570" y="0" type="line"/>
-      <point x="691" y="484" type="line"/>
-      <point x="714" y="579"/>
-      <point x="732" y="673"/>
-      <point x="753" y="776" type="curve"/>
-      <point x="761" y="776" type="line"/>
-      <point x="783" y="673"/>
-      <point x="801" y="580"/>
-      <point x="824" y="486" type="curve"/>
-      <point x="948" y="0" type="line"/>
-      <point x="1209" y="0" type="line"/>
-      <point x="1466" y="1003" type="line"/>
-      <point x="1262" y="1003" type="line"/>
-      <point x="1135" y="468" type="line"/>
-      <point x="1115" y="371"/>
-      <point x="1100" y="278"/>
-      <point x="1079" y="182" type="curve"/>
-      <point x="1071" y="182" type="line"/>
-      <point x="1049" y="278"/>
-      <point x="1028" y="371"/>
-      <point x="1004" y="468" type="curve"/>
-      <point x="863" y="1003" type="line"/>
-      <point x="663" y="1003" type="line"/>
-      <point x="525" y="468" type="line"/>
-      <point x="500" y="374"/>
-      <point x="482" y="278"/>
-      <point x="460" y="182" type="curve"/>
-      <point x="452" y="182" type="line"/>
-      <point x="435" y="278"/>
-      <point x="418" y="371"/>
-      <point x="398" y="468" type="curve"/>
-      <point x="269" y="1003" type="line"/>
-      <point x="49" y="1003" type="line"/>
+      <point x="317.0" y="0.0" type="line"/>
+      <point x="570.0" y="0.0" type="line"/>
+      <point x="691.0" y="484.0" type="line"/>
+      <point x="714.0" y="579.0"/>
+      <point x="732.0" y="673.0"/>
+      <point x="753.0" y="776.0" type="curve"/>
+      <point x="761.0" y="776.0" type="line"/>
+      <point x="783.0" y="673.0"/>
+      <point x="801.0" y="580.0"/>
+      <point x="824.0" y="486.0" type="curve"/>
+      <point x="948.0" y="0.0" type="line"/>
+      <point x="1209.0" y="0.0" type="line"/>
+      <point x="1466.0" y="1003.0" type="line"/>
+      <point x="1262.0" y="1003.0" type="line"/>
+      <point x="1135.0" y="468.0" type="line"/>
+      <point x="1115.0" y="371.0"/>
+      <point x="1100.0" y="278.0"/>
+      <point x="1079.0" y="182.0" type="curve"/>
+      <point x="1071.0" y="182.0" type="line"/>
+      <point x="1049.0" y="278.0"/>
+      <point x="1028.0" y="371.0"/>
+      <point x="1004.0" y="468.0" type="curve"/>
+      <point x="863.0" y="1003.0" type="line"/>
+      <point x="663.0" y="1003.0" type="line"/>
+      <point x="525.0" y="468.0" type="line"/>
+      <point x="500.0" y="374.0"/>
+      <point x="482.0" y="278.0"/>
+      <point x="460.0" y="182.0" type="curve"/>
+      <point x="452.0" y="182.0" type="line"/>
+      <point x="435.0" y="278.0"/>
+      <point x="418.0" y="371.0"/>
+      <point x="398.0" y="468.0" type="curve"/>
+      <point x="269.0" y="1003.0" type="line"/>
+      <point x="49.0" y="1003.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:50:35</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -55,15 +55,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>
@@ -75,20 +75,22 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>7</integer>
+            <real>0.0</real>
+            <real>7.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>0</integer>
+            <real>0.0</real>
+            <real>0.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

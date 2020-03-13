@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t_ta-deva" format="2">
-  <advance width="1292"/>
-  <anchor x="1016" y="28" name="bottom"/>
-  <anchor x="716" y="1168" name="candra"/>
-  <anchor x="1021" y="1168" name="top"/>
-  <anchor x="282" y="44" name="nukta"/>
+  <advance width="1292.0"/>
+  <anchor x="1016.0" y="28.0" name="bottom"/>
+  <anchor x="716.0" y="1248.0" name="candra"/>
+  <anchor x="1021.0" y="1288.0" name="top"/>
+  <anchor x="242.0" y="34.0" name="nukta"/>
   <outline>
     <contour>
-      <point x="73" y="714" type="line"/>
-      <point x="630" y="714" type="line"/>
-      <point x="630" y="827" type="line"/>
-      <point x="73" y="827" type="line"/>
+      <point x="73.0" y="714.0" type="line"/>
+      <point x="630.0" y="714.0" type="line"/>
+      <point x="630.0" y="827.0" type="line"/>
+      <point x="73.0" y="827.0" type="line"/>
     </contour>
     <contour>
-      <point x="-12" y="1143" type="line"/>
-      <point x="368" y="1143" type="line"/>
-      <point x="368" y="1247" type="line"/>
-      <point x="-12" y="1247" type="line"/>
+      <point x="-12.0" y="1143.0" type="line"/>
+      <point x="368.0" y="1143.0" type="line"/>
+      <point x="368.0" y="1247.0" type="line"/>
+      <point x="-12.0" y="1247.0" type="line"/>
     </contour>
-    <component base="ta-deva" xOffset="185"/>
+    <component base="ta-deva" xOffset="185.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ta-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:06:46</string>
     </dict>
   </lib>
 </glyph>

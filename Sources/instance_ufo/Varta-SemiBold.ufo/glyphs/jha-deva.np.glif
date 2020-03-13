@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jha-deva.np" format="2">
   <advance width="1690.567901234568"/>
-  <anchor x="955.358024691358" y="27.34567901234568" name="bottom"/>
-  <anchor x="956.395061728395" y="1167.3456790123457" name="candra"/>
+  <anchor x="955.358024691358" y="0.0" name="bottom"/>
+  <anchor x="956.395061728395" y="1273.5185185185185" name="candra"/>
   <anchor x="391.2098765432099" y="68.86419753086417" name="nukta"/>
-  <anchor x="952.0864197530864" y="1167.3456790123457" name="top"/>
+  <anchor x="952.0864197530864" y="1273.1728395061727" name="top"/>
   <outline>
     <contour>
       <point x="1452.0987654320988" y="139.8641975308642" type="line"/>
@@ -78,7 +78,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 09:59:57</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

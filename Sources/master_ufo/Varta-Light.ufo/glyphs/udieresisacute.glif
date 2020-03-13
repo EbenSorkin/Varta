@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="udieresisacute" format="2">
-  <advance width="1101"/>
+  <advance width="1101.0"/>
   <unicode hex="01D8"/>
-  <anchor x="543" y="-300" name="btm"/>
-  <anchor x="543" y="1050" name="top"/>
+  <anchor x="551.0" y="0.0" name="bottom"/>
+  <anchor x="1003.0" y="10.0" name="ogonek"/>
+  <anchor x="541.0" y="1673.0" name="top"/>
+  <anchor x="1081.0" y="990.0" name="topright"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb_acutecomb" xOffset="543"/>
+    <component base="dieresiscomb_acutecomb" xOffset="276.0"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 04:03:01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

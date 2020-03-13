@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v_ra-deva" format="2">
+  <anchor x="774.0" y="28.0" name="bottom"/>
+  <anchor x="491.0" y="1247.0" name="candra"/>
+  <anchor x="774.0" y="1247.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="202.0" y="-35.0" type="line"/>
+      <point x="710.0" y="334.0" type="line"/>
+      <point x="677.0" y="403.0" type="line"/>
+      <point x="129.0" y="62.0" type="line"/>
+    </contour>
+    <component base="va-deva" xOffset="-40.0"/>
+  </outline>
+</glyph>

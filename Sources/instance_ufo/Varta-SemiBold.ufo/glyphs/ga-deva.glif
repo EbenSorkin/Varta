@@ -2,10 +2,10 @@
 <glyph name="ga-deva" format="2">
   <advance width="1143.5432098765432"/>
   <unicode hex="0917"/>
-  <anchor x="863.2716049382716" y="27.34567901234568" name="bottom"/>
-  <anchor x="610.6172839506173" y="1167.3456790123457" name="candra"/>
-  <anchor x="326.5432098765432" y="104.09876543209879" name="nukta"/>
-  <anchor x="863.6172839506173" y="1167.3456790123457" name="top"/>
+  <anchor x="863.2716049382716" y="0.0" name="bottom"/>
+  <anchor x="774.4074074074074" y="1273.1728395061727" name="candra"/>
+  <anchor x="316.1975308641975" y="111.01234567901237" name="nukta"/>
+  <anchor x="863.6172839506173" y="1273.1728395061727" name="top"/>
   <outline>
     <contour>
       <point x="772.7901234567902" y="0.6543209876543206" type="line"/>
@@ -39,7 +39,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 11:21:58</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

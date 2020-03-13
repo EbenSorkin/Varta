@@ -4,6 +4,10 @@
   <unicode hex="012F"/>
   <outline>
     <contour>
+      <point x="270.04938271604937" y="-423.2716049382716" type="curve" smooth="yes"/>
+      <point x="323.28395061728395" y="-423.2716049382716"/>
+      <point x="396.7901234567901" y="-397.96296296296293"/>
+      <point x="438.02469135802465" y="-366.03703703703707" type="curve"/>
       <point x="391.82716049382714" y="-273.7530864197531" type="line"/>
       <point x="365.1358024691358" y="-289.1358024691358"/>
       <point x="341.1358024691358" y="-299.44444444444446"/>
@@ -23,10 +27,6 @@
       <point x="78.96296296296296" y="-247.03703703703704" type="curve" smooth="yes"/>
       <point x="78.96296296296296" y="-362.96296296296293"/>
       <point x="163.50617283950618" y="-423.2716049382716"/>
-      <point x="270.04938271604937" y="-423.2716049382716" type="curve" smooth="yes"/>
-      <point x="323.28395061728395" y="-423.2716049382716"/>
-      <point x="396.7901234567901" y="-397.96296296296293"/>
-      <point x="438.02469135802465" y="-366.03703703703707" type="curve"/>
     </contour>
     <contour>
       <point x="256.7407407407407" y="1194.6049382716049" type="curve" smooth="yes"/>
@@ -46,7 +46,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -56,8 +56,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>11</integer>
+            <real>0.0</real>
+            <real>15.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -71,8 +71,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>15</integer>
+            <real>0.0</real>
+            <real>19.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -86,8 +86,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>21</integer>
+            <real>0.0</real>
+            <real>2.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -101,8 +101,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>2</integer>
+            <real>0.0</real>
+            <real>6.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -116,8 +116,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>12.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -131,8 +131,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>11</integer>
+            <real>1.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

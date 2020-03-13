@@ -2,17 +2,20 @@
 <glyph name="au-deva" format="2">
   <advance width="1949.6666666666667"/>
   <unicode hex="0914"/>
-  <anchor x="1673.7037037037037" y="28.0" name="bottom"/>
-  <anchor x="1415.20987654321" y="1168.7283950617284" name="candra"/>
-  <anchor x="1962.3086419753085" y="1307.3950617283951" name="top"/>
+  <anchor x="1111.8148148148148" y="0.0" name="bottom_1"/>
+  <anchor x="1670.7037037037037" y="0.0" name="bottom_2"/>
+  <anchor x="929.9012345679013" y="1273.1728395061727" name="candra_1"/>
+  <anchor x="1597.4938271604938" y="1273.1728395061727" name="candra_2"/>
+  <anchor x="1138.0987654320988" y="1273.1728395061727" name="top_1"/>
+  <anchor x="1670.3950617283951" y="1273.1728395061727" name="top_2"/>
   <outline>
     <component base="aa-deva"/>
-    <component base="aiMatra-deva" xOffset="1438.9506172839506"/>
+    <component base="aiMatra-deva" xOffset="1427.148148148148"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2020/03/11 09:14:05</string>
     </dict>
   </lib>
 </glyph>

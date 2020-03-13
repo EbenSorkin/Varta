@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ca_ra-deva" format="2">
-  <advance width="1220"/>
-  <anchor x="941" y="28" name="bottom"/>
-  <anchor x="600" y="1167" name="candra"/>
-  <anchor x="944" y="1168" name="top"/>
-  <anchor x="329" y="44" name="nukta"/>
+  <advance width="1220.0"/>
+  <anchor x="941.0" y="28.0" name="bottom"/>
+  <anchor x="600.0" y="1247.0" name="candra"/>
+  <anchor x="944.0" y="1288.0" name="top"/>
+  <anchor x="329.0" y="44.0" name="nukta"/>
   <outline>
     <contour>
-      <point x="311" y="-52" type="line"/>
-      <point x="929" y="354" type="line"/>
-      <point x="897" y="419" type="line"/>
-      <point x="242" y="45" type="line"/>
+      <point x="304.0" y="-52.0" type="line"/>
+      <point x="922.0" y="354.0" type="line"/>
+      <point x="890.0" y="419.0" type="line"/>
+      <point x="235.0" y="45.0" type="line"/>
     </contour>
     <component base="ca-deva"/>
   </outline>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 16:20:05</string>
     </dict>
   </lib>
 </glyph>

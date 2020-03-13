@@ -2,9 +2,9 @@
 <glyph name="tilde" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="02DC"/>
-  <anchor x="553.8765432098766" y="991.3580246913581" name="_top"/>
   <outline>
     <contour>
+      <point x="273.9012345679012" y="1186.8271604938273" type="curve"/>
       <point x="364.58024691358025" y="1186.8271604938273" type="line"/>
       <point x="374.34567901234567" y="1256.8271604938273"/>
       <point x="396.87654320987656" y="1292.4197530864199"/>
@@ -24,13 +24,12 @@
       <point x="434.5308641975309" y="1397.2716049382716" type="curve" smooth="yes"/>
       <point x="335.5925925925926" y="1397.2716049382716"/>
       <point x="282.9012345679012" y="1303.9753086419753"/>
-      <point x="273.9012345679012" y="1186.8271604938273" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/20 18:42:51</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -40,8 +39,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>18</integer>
+            <real>0.0</real>
+            <real>19.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -55,8 +54,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>12</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

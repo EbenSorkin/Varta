@@ -2,8 +2,9 @@
 <glyph name="h" format="2">
   <advance width="1108.20987654321"/>
   <unicode hex="0068"/>
-  <anchor x="563.7530864197531" y="-276.5432098765432" name="btm"/>
-  <anchor x="244.39506172839506" y="1142.320987654321" name="top"/>
+  <anchor x="554.2222222222222" y="0.0" name="bottom"/>
+  <anchor x="554.2222222222222" y="902.7777777777778" name="center"/>
+  <anchor x="249.7530864197531" y="1373.4197530864199" name="top"/>
   <outline>
     <contour>
       <point x="171.07407407407408" y="0.0" type="line"/>
@@ -32,7 +33,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:39</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -42,8 +43,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>20</integer>
+            <real>0.0</real>
+            <real>20.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -51,6 +52,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

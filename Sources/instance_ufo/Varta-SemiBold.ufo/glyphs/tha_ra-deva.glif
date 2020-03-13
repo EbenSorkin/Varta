@@ -2,8 +2,8 @@
 <glyph name="tha_ra-deva" format="2">
   <advance width="1241.3703703703704"/>
   <anchor x="963.4074074074074" y="27.34567901234568" name="bottom"/>
-  <anchor x="710.6419753086419" y="1167.0" name="candra"/>
-  <anchor x="963.0987654320987" y="1167.3456790123457" name="top"/>
+  <anchor x="632.0370370370371" y="1273.1728395061727" name="candra"/>
+  <anchor x="963.0987654320987" y="1287.3456790123457" name="top"/>
   <anchor x="202.0" y="111.0" name="nukta"/>
   <outline>
     <contour>
@@ -21,7 +21,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ra-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/24 05:07:20</string>
     </dict>
   </lib>
 </glyph>

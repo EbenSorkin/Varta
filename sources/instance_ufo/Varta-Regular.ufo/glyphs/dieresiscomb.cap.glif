@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.cap" format="2">
+  <anchor x="281.0246913580247" y="1344.5925925925926" name="_top"/>
+  <anchor x="281.0246913580247" y="1660.679012345679" name="top"/>
+  <outline>
+    <contour>
+      <point x="455.2469135802469" y="1488.6049382716049" type="curve" smooth="yes"/>
+      <point x="512.4691358024692" y="1488.6049382716049"/>
+      <point x="552.0493827160494" y="1528.1234567901236"/>
+      <point x="552.0493827160494" y="1585.4074074074074" type="curve" smooth="yes"/>
+      <point x="552.0493827160494" y="1642.9259259259259"/>
+      <point x="512.4691358024692" y="1681.4444444444443"/>
+      <point x="455.2469135802469" y="1681.4444444444443" type="curve" smooth="yes"/>
+      <point x="400.0246913580247" y="1681.4444444444443"/>
+      <point x="358.2098765432099" y="1642.9259259259259"/>
+      <point x="358.2098765432099" y="1585.4074074074074" type="curve" smooth="yes"/>
+      <point x="358.2098765432099" y="1528.1234567901236"/>
+      <point x="400.0246913580247" y="1488.6049382716049"/>
+    </contour>
+    <contour>
+      <point x="106.80246913580247" y="1488.6049382716049" type="curve" smooth="yes"/>
+      <point x="162.02469135802468" y="1488.6049382716049"/>
+      <point x="203.8395061728395" y="1528.1234567901236"/>
+      <point x="203.8395061728395" y="1585.4074074074074" type="curve" smooth="yes"/>
+      <point x="203.8395061728395" y="1642.9259259259259"/>
+      <point x="162.02469135802468" y="1681.4444444444443"/>
+      <point x="106.80246913580247" y="1681.4444444444443" type="curve" smooth="yes"/>
+      <point x="49.58024691358025" y="1681.4444444444443"/>
+      <point x="10.0" y="1642.9259259259259"/>
+      <point x="10.0" y="1585.4074074074074" type="curve" smooth="yes"/>
+      <point x="10.0" y="1528.1234567901236"/>
+      <point x="49.58024691358025" y="1488.6049382716049"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 03:52:14</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>540.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>1.0</real>
+            <real>11.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

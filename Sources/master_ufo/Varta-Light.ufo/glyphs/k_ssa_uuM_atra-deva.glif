@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k_ssa_uuMatra-deva" format="2">
-  <advance width="1551"/>
-  <anchor x="1020" y="28" name="bottom"/>
-  <anchor x="767" y="1168" name="candra"/>
-  <anchor x="1020" y="1168" name="top"/>
+  <advance width="1399.0"/>
+  <anchor x="1123.0" y="28.0" name="bottom"/>
+  <anchor x="870.0" y="1248.0" name="candra"/>
+  <anchor x="1123.0" y="1288.0" name="top"/>
   <outline>
-    <component base="k_ssa-deva" xOffset="-103"/>
-    <component base="uuMatra-deva" xOffset="824"/>
+    <component base="k_ssa-deva"/>
+    <component base="uuMatra-deva" xOffset="874.0" yOffset="10.0"/>
   </outline>
   <lib>
     <dict>
@@ -15,12 +15,14 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ssa-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/10 09:14:36</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>
         <integer>-1</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

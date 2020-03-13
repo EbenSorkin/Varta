@@ -1,23 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="reph_anusvara-deva.imatra" format="2">
   <advance width="600.0"/>
-  <anchor x="291.9382716049383" y="1261.9876543209875" name="_imatra"/>
-  <anchor x="262.46913580246917" y="1212.5185185185185" name="_top"/>
+  <anchor x="257.01234567901236" y="1273.1728395061727" name="_top"/>
+  <anchor x="10.19753086419756" y="1584.0" name="candra"/>
+  <anchor x="10.19753086419756" y="1568.0" name="top"/>
   <outline>
-    <component base="reph-deva.imatra"/>
-    <component base="anusvara-deva" xScale="0.763358024691358" yScale="0.763358024691358" xOffset="184.3827160493827" yOffset="228.29629629629628"/>
+    <contour>
+      <point x="404.96296296296293" y="1352.8765432098764" type="curve" smooth="yes"/>
+      <point x="460.77777777777777" y="1352.8765432098764"/>
+      <point x="484.7037037037037" y="1376.8024691358025"/>
+      <point x="484.7037037037037" y="1431.6172839506173" type="curve" smooth="yes"/>
+      <point x="484.7037037037037" y="1487.432098765432"/>
+      <point x="460.77777777777777" y="1510.358024691358"/>
+      <point x="404.96296296296293" y="1510.358024691358" type="curve" smooth="yes"/>
+      <point x="349.14814814814815" y="1510.358024691358"/>
+      <point x="325.22222222222223" y="1487.432098765432"/>
+      <point x="325.22222222222223" y="1431.6172839506173" type="curve" smooth="yes"/>
+      <point x="325.22222222222223" y="1376.8024691358025"/>
+      <point x="349.14814814814815" y="1352.8765432098764"/>
+    </contour>
+    <contour>
+      <point x="207.5061728395062" y="1234.0864197530864" type="curve"/>
+      <point x="297.8271604938272" y="1273.1728395061727" type="line"/>
+      <point x="258.0617283950617" y="1322.4814814814815"/>
+      <point x="229.83950617283952" y="1381.0864197530864"/>
+      <point x="229.83950617283952" y="1454.962962962963" type="curve" smooth="yes"/>
+      <point x="229.83950617283952" y="1539.679012345679"/>
+      <point x="287.3703703703704" y="1603.5061728395062"/>
+      <point x="404.95061728395063" y="1603.5061728395062" type="curve" smooth="yes"/>
+      <point x="481.0246913580247" y="1603.5061728395062"/>
+      <point x="537.7901234567902" y="1582.1234567901236"/>
+      <point x="595.2592592592592" y="1549.888888888889" type="curve"/>
+      <point x="636.1111111111111" y="1681.2592592592591" type="line"/>
+      <point x="576.5679012345679" y="1719.2592592592591"/>
+      <point x="492.5308641975309" y="1751.4567901234568"/>
+      <point x="376.90123456790127" y="1751.4567901234568" type="curve" smooth="yes"/>
+      <point x="202.962962962963" y="1751.4567901234568"/>
+      <point x="88.54320987654324" y="1636.7407407407406"/>
+      <point x="88.54320987654324" y="1502.2839506172838" type="curve" smooth="yes"/>
+      <point x="88.54320987654324" y="1426.9012345679012"/>
+      <point x="108.0740740740741" y="1332.5925925925926"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <string>2020/03/11 11:06:38</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

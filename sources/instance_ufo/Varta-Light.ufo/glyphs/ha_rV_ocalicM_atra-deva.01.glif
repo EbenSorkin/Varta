@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha_rVocalicMatra-deva.01" format="2">
+  <advance width="989.0"/>
+  <anchor x="779.0" y="-172.0" name="bottom"/>
+  <anchor x="670.0" y="1247.0" name="candra"/>
+  <anchor x="127.0" y="-187.0" name="nukta"/>
+  <anchor x="752.0" y="1247.0" name="top"/>
+  <outline>
+    <component base="ha-deva"/>
+    <component base="rVocalicMatra-deva" xOffset="508.0" yOffset="-183.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 18:19:42</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

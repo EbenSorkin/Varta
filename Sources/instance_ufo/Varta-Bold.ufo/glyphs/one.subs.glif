@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.subs" format="2">
-  <advance width="759"/>
+  <advance width="759.0"/>
   <unicode hex="2081"/>
   <outline>
     <contour>
-      <point x="347" y="-462" type="line"/>
-      <point x="513" y="-462" type="line"/>
-      <point x="513" y="337" type="line"/>
-      <point x="380" y="337" type="line"/>
-      <point x="320" y="293"/>
-      <point x="267" y="269"/>
-      <point x="170" y="252" type="curve"/>
-      <point x="170" y="148" type="line"/>
-      <point x="347" y="148" type="line"/>
+      <point x="347.0" y="-462.0" type="line"/>
+      <point x="513.0" y="-462.0" type="line"/>
+      <point x="513.0" y="337.0" type="line"/>
+      <point x="380.0" y="337.0" type="line"/>
+      <point x="320.0" y="293.0"/>
+      <point x="267.0" y="269.0"/>
+      <point x="170.0" y="252.0" type="curve"/>
+      <point x="170.0" y="148.0" type="line"/>
+      <point x="347.0" y="148.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -28,8 +28,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>8.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

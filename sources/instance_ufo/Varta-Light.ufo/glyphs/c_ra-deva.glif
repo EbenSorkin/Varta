@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_ra-deva" format="2">
+  <advance width="739.0"/>
+  <outline>
+    <contour>
+      <point x="303.0" y="-30.0" type="line"/>
+      <point x="802.0" y="299.0" type="line"/>
+      <point x="770.0" y="364.0" type="line"/>
+      <point x="234.0" y="67.0" type="line"/>
+    </contour>
+    <component base="c-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 16:21:08</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

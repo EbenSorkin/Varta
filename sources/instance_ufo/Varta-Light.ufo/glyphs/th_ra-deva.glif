@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="th_ra-deva" format="2">
+  <advance width="690.0"/>
+  <outline>
+    <contour>
+      <point x="331.0" y="13.0" type="line"/>
+      <point x="901.0" y="440.0" type="line"/>
+      <point x="834.0" y="490.0" type="line"/>
+      <point x="254.0" y="108.0" type="line"/>
+    </contour>
+    <component base="th-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>th-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>th-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 18:29:27</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

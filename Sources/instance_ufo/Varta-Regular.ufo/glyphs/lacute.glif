@@ -3,17 +3,17 @@
   <advance width="516.1481481481482"/>
   <unicode hex="013A"/>
   <anchor x="258.4567901234568" y="0.0" name="bottom"/>
-  <anchor x="258.4567901234568" y="496.641975308642" name="center"/>
-  <anchor x="258.4567901234568" y="993.0493827160494" name="top"/>
-  <anchor x="496.14814814814815" y="993.0493827160494" name="topright"/>
+  <anchor x="473.41975308641975" y="993.0493827160494" name="car"/>
+  <anchor x="258.4567901234568" y="902.7777777777778" name="center"/>
+  <anchor x="323.69135802469134" y="1702.469135802469" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="acute.cap" xOffset="277.8888888888889" yOffset="154.2469135802469"/>
+    <component base="acutecomb" xOffset="141.0" yOffset="350.77777777777777"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:41:03</string>
     </dict>
   </lib>
 </glyph>

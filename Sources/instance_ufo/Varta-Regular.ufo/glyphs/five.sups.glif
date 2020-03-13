@@ -4,6 +4,16 @@
   <unicode hex="2075"/>
   <outline>
     <contour>
+      <point x="374.17283950617286" y="877.0" type="curve" smooth="yes"/>
+      <point x="534.7530864197531" y="877.0"/>
+      <point x="657.6913580246913" y="987.9382716049382"/>
+      <point x="657.6913580246913" y="1152.469135802469" type="curve" smooth="yes"/>
+      <point x="657.6913580246913" y="1325.8271604938273"/>
+      <point x="540.2222222222222" y="1421.2962962962963"/>
+      <point x="396.69135802469134" y="1421.2962962962963" type="curve" smooth="yes"/>
+      <point x="346.44444444444446" y="1421.2962962962963"/>
+      <point x="303.14814814814815" y="1406.7037037037037"/>
+      <point x="263.85185185185185" y="1389.111111111111" type="curve"/>
       <point x="287.44444444444446" y="1591.679012345679" type="line"/>
       <point x="617.6296296296297" y="1591.679012345679" type="line"/>
       <point x="617.6296296296297" y="1700.0" type="line"/>
@@ -25,22 +35,12 @@
       <point x="73.65432098765432" y="1031.7037037037037" type="line"/>
       <point x="135.82716049382717" y="942.8271604938271"/>
       <point x="232.93827160493828" y="877.0"/>
-      <point x="374.17283950617286" y="877.0" type="curve" smooth="yes"/>
-      <point x="534.7530864197531" y="877.0"/>
-      <point x="657.6913580246913" y="987.9382716049382"/>
-      <point x="657.6913580246913" y="1152.469135802469" type="curve" smooth="yes"/>
-      <point x="657.6913580246913" y="1325.8271604938273"/>
-      <point x="540.2222222222222" y="1421.2962962962963"/>
-      <point x="396.69135802469134" y="1421.2962962962963" type="curve" smooth="yes"/>
-      <point x="346.44444444444446" y="1421.2962962962963"/>
-      <point x="303.14814814814815" y="1406.7037037037037"/>
-      <point x="263.85185185185185" y="1389.111111111111" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -50,8 +50,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>17</integer>
+            <real>0.0</real>
+            <real>27.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -65,8 +65,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>26</integer>
+            <real>0.0</real>
+            <real>5.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -80,8 +80,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>13.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -95,8 +95,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>4</integer>
+            <real>0.0</real>
+            <real>14.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

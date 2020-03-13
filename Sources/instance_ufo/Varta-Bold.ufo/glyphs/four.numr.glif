@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.numr" format="2">
-  <advance width="759"/>
+  <advance width="759.0"/>
   <outline>
     <contour>
-      <point x="446" y="542" type="line"/>
-      <point x="594" y="542" type="line"/>
-      <point x="594" y="741" type="line"/>
-      <point x="713" y="741" type="line"/>
-      <point x="713" y="854" type="line"/>
-      <point x="594" y="854" type="line"/>
-      <point x="594" y="1340" type="line"/>
-      <point x="398" y="1340" type="line"/>
-      <point x="81" y="824" type="line"/>
-      <point x="81" y="741" type="line"/>
-      <point x="446" y="741" type="line"/>
+      <point x="446.0" y="542.0" type="line"/>
+      <point x="594.0" y="542.0" type="line"/>
+      <point x="594.0" y="741.0" type="line"/>
+      <point x="713.0" y="741.0" type="line"/>
+      <point x="713.0" y="854.0" type="line"/>
+      <point x="594.0" y="854.0" type="line"/>
+      <point x="594.0" y="1340.0" type="line"/>
+      <point x="398.0" y="1340.0" type="line"/>
+      <point x="81.0" y="824.0" type="line"/>
+      <point x="81.0" y="741.0" type="line"/>
+      <point x="446.0" y="741.0" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="854" type="line"/>
-      <point x="353" y="1042" type="line"/>
-      <point x="448" y="1205" type="line"/>
-      <point x="456" y="1205" type="line"/>
-      <point x="446" y="976" type="line"/>
-      <point x="446" y="854" type="line"/>
+      <point x="242.0" y="854.0" type="line"/>
+      <point x="353.0" y="1042.0" type="line"/>
+      <point x="448.0" y="1205.0" type="line"/>
+      <point x="456.0" y="1205.0" type="line"/>
+      <point x="446.0" y="976.0" type="line"/>
+      <point x="446.0" y="854.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -37,8 +37,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>5</integer>
+            <real>1.0</real>
+            <real>5.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.cap" format="2">
+  <anchor x="197.33333333333334" y="1344.5925925925926" name="_top"/>
+  <anchor x="197.33333333333334" y="1788.8641975308642" name="top"/>
+  <outline>
+    <contour>
+      <point x="197.33333333333334" y="1432.2962962962963" type="curve" smooth="yes"/>
+      <point x="303.7901234567901" y="1432.2962962962963"/>
+      <point x="384.6666666666667" y="1500.7037037037037"/>
+      <point x="384.6666666666667" y="1610.5802469135801" type="curve" smooth="yes"/>
+      <point x="384.6666666666667" y="1717.6913580246915"/>
+      <point x="303.7901234567901" y="1788.8641975308642"/>
+      <point x="197.33333333333334" y="1788.8641975308642" type="curve" smooth="yes"/>
+      <point x="88.11111111111111" y="1788.8641975308642"/>
+      <point x="10.0" y="1717.6913580246915"/>
+      <point x="10.0" y="1610.5802469135801" type="curve" smooth="yes"/>
+      <point x="10.0" y="1500.7037037037037"/>
+      <point x="88.11111111111111" y="1432.2962962962963"/>
+    </contour>
+    <contour>
+      <point x="197.33333333333334" y="1503.1604938271605" type="curve" smooth="yes"/>
+      <point x="141.74074074074073" y="1503.1604938271605"/>
+      <point x="98.44444444444444" y="1541.6913580246915"/>
+      <point x="98.44444444444444" y="1610.5802469135801" type="curve" smooth="yes"/>
+      <point x="98.44444444444444" y="1674.9382716049383"/>
+      <point x="141.74074074074073" y="1716.0"/>
+      <point x="197.33333333333334" y="1716.0" type="curve" smooth="yes"/>
+      <point x="249.16049382716048" y="1716.0"/>
+      <point x="294.22222222222223" y="1674.9382716049383"/>
+      <point x="294.22222222222223" y="1610.5802469135801" type="curve" smooth="yes"/>
+      <point x="294.22222222222223" y="1541.6913580246915"/>
+      <point x="249.16049382716048" y="1503.1604938271605"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/20 18:43:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>382.0</real>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>11.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

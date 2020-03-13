@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v_la-deva" format="2">
+  <advance width="2010.0"/>
+  <anchor x="1733.0" y="0.0" name="bottom"/>
+  <anchor x="1594.0" y="1247.0" name="candra"/>
+  <anchor x="687.0" y="44.0" name="nukta"/>
+  <anchor x="1733.0" y="1247.0" name="top"/>
+  <outline>
+    <component base="v-deva"/>
+    <component base="la-deva" xOffset="606.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>la-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/11 11:10:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

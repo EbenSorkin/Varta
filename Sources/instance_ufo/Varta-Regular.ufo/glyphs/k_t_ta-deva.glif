@@ -1,16 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="k_t_ta-deva" format="2">
   <advance width="2865.962962962963"/>
-  <anchor x="787.3456790123457" y="27.765432098765434" name="bottom_1"/>
-  <anchor x="2588.0246913580245" y="27.765432098765434" name="bottom_2"/>
-  <anchor x="786.3456790123457" y="1167.7654320987654" name="candra_1"/>
-  <anchor x="2326.716049382716" y="1167.7654320987654" name="candra_2"/>
-  <anchor x="347.0" y="28.0" name="nukta_1"/>
-  <anchor x="1833.4444444444443" y="52.91358024691358" name="nukta_2"/>
-  <anchor x="787.3456790123457" y="1167.7654320987654" name="top_1"/>
-  <anchor x="2592.7283950617284" y="1167.7654320987654" name="top_2"/>
+  <anchor x="2588.0246913580245" y="0.0" name="bottom"/>
+  <anchor x="2503.246913580247" y="1256.3827160493827" name="candra"/>
+  <anchor x="165.59259259259258" y="6.5679012345679" name="nukta_1"/>
+  <anchor x="1800.4814814814815" y="38.22222222222222" name="nukta_2"/>
+  <anchor x="2592.7283950617284" y="1256.3827160493827" name="top"/>
   <outline>
     <contour>
+      <point x="1503.8765432098764" y="-31.876543209876544" type="curve"/>
       <point x="1619.6543209876543" y="46.50617283950617" type="line"/>
       <point x="1466.6543209876543" y="262.1975308641975"/>
       <point x="1387.7407407407406" y="418.3333333333333"/>
@@ -30,7 +28,6 @@
       <point x="1238.037037037037" y="573.9382716049382" type="curve" smooth="yes"/>
       <point x="1238.037037037037" y="365.7654320987654"/>
       <point x="1378.2345679012346" y="130.23456790123456"/>
-      <point x="1503.8765432098764" y="-31.876543209876544" type="curve"/>
     </contour>
     <contour>
       <point x="1146.5555555555557" y="1133.851851851852" type="line"/>
@@ -48,7 +45,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>ta-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/11 12:13:07</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

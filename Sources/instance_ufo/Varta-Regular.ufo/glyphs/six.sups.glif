@@ -4,15 +4,6 @@
   <unicode hex="2076"/>
   <outline>
     <contour>
-      <point x="630.8024691358024" y="1664.716049382716" type="line"/>
-      <point x="585.5679012345679" y="1696.888888888889"/>
-      <point x="529.2222222222222" y="1724.0"/>
-      <point x="438.9382716049383" y="1724.0" type="curve" smooth="yes"/>
-      <point x="246.30864197530863" y="1724.0"/>
-      <point x="93.41975308641976" y="1583.5432098765432"/>
-      <point x="93.41975308641976" y="1278.3456790123457" type="curve" smooth="yes"/>
-      <point x="93.41975308641976" y="1026.8765432098764"/>
-      <point x="213.88888888888889" y="877.0"/>
       <point x="400.641975308642" y="877.0" type="curve" smooth="yes"/>
       <point x="551.0493827160494" y="877.0"/>
       <point x="664.4567901234568" y="992.7037037037037"/>
@@ -29,6 +20,15 @@
       <point x="499.1111111111111" y="1625.851851851852"/>
       <point x="541.8765432098766" y="1603.3827160493827"/>
       <point x="580.1111111111111" y="1577.9135802469136" type="curve"/>
+      <point x="630.8024691358024" y="1664.716049382716" type="line"/>
+      <point x="585.5679012345679" y="1696.888888888889"/>
+      <point x="529.2222222222222" y="1724.0"/>
+      <point x="438.9382716049383" y="1724.0" type="curve" smooth="yes"/>
+      <point x="246.30864197530863" y="1724.0"/>
+      <point x="93.41975308641976" y="1583.5432098765432"/>
+      <point x="93.41975308641976" y="1278.3456790123457" type="curve" smooth="yes"/>
+      <point x="93.41975308641976" y="1026.8765432098764"/>
+      <point x="213.88888888888889" y="877.0"/>
     </contour>
     <contour>
       <point x="398.7037037037037" y="975.1481481481482" type="curve" smooth="yes"/>
@@ -48,7 +48,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:50</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -58,8 +58,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>11</integer>
+            <real>1.0</real>
+            <real>11.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -73,8 +73,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>1</integer>
-            <integer>5</integer>
+            <real>1.0</real>
+            <real>5.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -88,8 +88,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>14</integer>
+            <real>0.0</real>
+            <real>5.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>

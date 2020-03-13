@@ -2,16 +2,16 @@
 <glyph name="fdotaccent" format="2">
   <advance width="614.5679012345679"/>
   <unicode hex="1E1F"/>
-  <anchor x="336.9753086419753" y="-234.56790123456796" name="btm"/>
-  <anchor x="222.76543209876542" y="1201.1975308641977" name="top"/>
+  <anchor x="307.28395061728395" y="0.0" name="bottom"/>
+  <anchor x="312.7037037037037" y="1774.432098765432" name="top"/>
   <outline>
     <component base="f"/>
-    <component base="dotaccent" xOffset="-334.1234567901235" yOffset="314.7777777777777"/>
+    <component base="dotaccentcomb" xOffset="182.45679012345678" yOffset="343.5679012345679"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:39:05</string>
     </dict>
   </lib>
 </glyph>

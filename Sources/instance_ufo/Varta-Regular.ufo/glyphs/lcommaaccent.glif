@@ -2,18 +2,18 @@
 <glyph name="lcommaaccent" format="2">
   <advance width="516.1481481481482"/>
   <unicode hex="013C"/>
-  <anchor x="258.4567901234568" y="0.0" name="bottom"/>
-  <anchor x="258.4567901234568" y="496.641975308642" name="center"/>
-  <anchor x="258.4567901234568" y="993.0493827160494" name="top"/>
-  <anchor x="496.14814814814815" y="993.0493827160494" name="topright"/>
+  <anchor x="258.5740740740741" y="-437.87654320987656" name="bottom"/>
+  <anchor x="473.41975308641975" y="993.0493827160494" name="car"/>
+  <anchor x="258.4567901234568" y="902.7777777777778" name="center"/>
+  <anchor x="251.5185185185185" y="1343.8271604938273" name="top"/>
   <outline>
     <component base="l"/>
-    <component base="cedillacomb" xOffset="309.65432098765433"/>
+    <component base="commaaccentcomb" xOffset="94.82716049382717"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

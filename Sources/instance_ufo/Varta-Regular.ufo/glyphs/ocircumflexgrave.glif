@@ -2,16 +2,21 @@
 <glyph name="ocircumflexgrave" format="2">
   <advance width="1107.7530864197531"/>
   <unicode hex="1ED3"/>
-  <anchor x="553.8765432098766" y="-276.5432098765432" name="btm"/>
-  <anchor x="553.8765432098766" y="991.3580246913581" name="top"/>
+  <anchor x="553.8765432098766" y="0.0" name="bottom"/>
+  <anchor x="553.8765432098766" y="496.641975308642" name="center"/>
+  <anchor x="788.0864197530864" y="10.0" name="ogonek"/>
+  <anchor x="553.8765432098766" y="1542.0493827160494" name="top"/>
+  <anchor x="1087.7530864197531" y="993.0493827160494" name="topright"/>
   <outline>
     <component base="o"/>
-    <component base="circumflexcomb_gravecomb" xOffset="1015.0370370370371"/>
+    <component base="circumflexcomb_gravecomb" xOffset="309.5432098765432"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/21 03:46:36</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l_la-deva" format="2">
-  <advance width="2306"/>
-  <anchor x="2029" y="27" name="bottom"/>
-  <anchor x="1536" y="1167" name="candra"/>
-  <anchor x="2029" y="1167" name="top"/>
-  <anchor x="894" y="82" name="nukta"/>
+  <advance width="2306.0"/>
+  <anchor x="2029.0" y="27.0" name="bottom"/>
+  <anchor x="1536.0" y="1287.0" name="candra"/>
+  <anchor x="2029.0" y="1287.0" name="top"/>
+  <anchor x="894.0" y="82.0" name="nukta"/>
   <outline>
     <component base="l-deva"/>
-    <component base="la-deva" xOffset="891"/>
+    <component base="la-deva" xOffset="891.0"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,9 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>la-deva</string>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2020/03/11 11:10:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

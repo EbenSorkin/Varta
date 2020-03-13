@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.osf" format="2">
+  <advance width="1042.0"/>
+  <outline>
+    <contour>
+      <point x="489.0" y="-179.0" type="curve" smooth="yes"/>
+      <point x="737.0" y="-179.0"/>
+      <point x="939.0" y="-36.0"/>
+      <point x="939.0" y="206.0" type="curve" smooth="yes"/>
+      <point x="939.0" y="388.0"/>
+      <point x="820.0" y="499.0"/>
+      <point x="666.0" y="539.0" type="curve"/>
+      <point x="666.0" y="547.0" type="line"/>
+      <point x="806.0" y="601.0"/>
+      <point x="895.0" y="704.0"/>
+      <point x="895.0" y="857.0" type="curve" smooth="yes"/>
+      <point x="895.0" y="1079.0"/>
+      <point x="726.0" y="1203.0"/>
+      <point x="483.0" y="1203.0" type="curve" smooth="yes"/>
+      <point x="327.0" y="1203.0"/>
+      <point x="202.0" y="1144.0"/>
+      <point x="94.0" y="1047.0" type="curve"/>
+      <point x="208.0" y="911.0" type="line"/>
+      <point x="287.0" y="987.0"/>
+      <point x="371.0" y="1029.0"/>
+      <point x="473.0" y="1029.0" type="curve" smooth="yes"/>
+      <point x="599.0" y="1029.0"/>
+      <point x="673.0" y="956.0"/>
+      <point x="673.0" y="840.0" type="curve" smooth="yes"/>
+      <point x="673.0" y="712.0"/>
+      <point x="588.0" y="616.0"/>
+      <point x="328.0" y="616.0" type="curve"/>
+      <point x="328.0" y="454.0" type="line"/>
+      <point x="627.0" y="454.0"/>
+      <point x="719.0" y="361.0"/>
+      <point x="719.0" y="218.0" type="curve" smooth="yes"/>
+      <point x="719.0" y="86.0"/>
+      <point x="618.0" y="0.0"/>
+      <point x="471.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="334.0" y="0.0"/>
+      <point x="238.0" y="61.0"/>
+      <point x="160.0" y="139.0" type="curve"/>
+      <point x="54.0" y="-2.0" type="line"/>
+      <point x="144.0" y="-100.0"/>
+      <point x="279.0" y="-179.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/12/21 08:10:34</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>1.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>4.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>14.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <real>0.0</real>
+            <real>34.0</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <real>0.0</real>
+            <real>0.0</real>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -4,15 +4,16 @@
   <unicode hex="012C"/>
   <anchor x="271.66666666666663" y="0.0" name="bottom"/>
   <anchor x="488.0617283950617" y="10.0" name="ogonek"/>
-  <anchor x="271.66666666666663" y="1342.0740740740741" name="top"/>
+  <anchor x="271.66666666666663" y="1676.9259259259259" name="top"/>
+  <anchor x="20.0" y="1342.0740740740741" name="topleft"/>
   <outline>
     <component base="I"/>
-    <component base="breve.cap" xOffset="271.66666666666663"/>
+    <component base="brevecomb.cap" xOffset="3.580246913580244"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:29</string>
+      <string>2019/12/20 18:56:01</string>
     </dict>
   </lib>
 </glyph>

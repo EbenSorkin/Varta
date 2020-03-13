@@ -1,19 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.cap" format="2">
-  <anchor x="-80" y="1346" name="_top"/>
-  <anchor x="-78" y="1673" name="top"/>
+  <anchor x="283.0" y="1346.0" name="_top"/>
+  <anchor x="183.0" y="1673.0" name="top"/>
   <outline>
     <contour>
-      <point x="-24" y="1448" type="line"/>
-      <point x="93" y="1448" type="line"/>
-      <point x="-91" y="1673" type="line"/>
-      <point x="-253" y="1673" type="line"/>
+      <point x="239.0" y="1478.0" type="line"/>
+      <point x="356.0" y="1478.0" type="line"/>
+      <point x="172.0" y="1703.0" type="line"/>
+      <point x="10.0" y="1703.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/21 03:53:05</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <real>366.0</real>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -23,8 +25,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>3</integer>
+            <real>0.0</real>
+            <real>3.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -32,6 +34,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

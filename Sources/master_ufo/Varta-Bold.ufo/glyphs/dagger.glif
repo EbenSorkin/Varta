@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-  <advance width="974"/>
+  <advance width="974.0"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="396" y="-164" type="line"/>
-      <point x="577" y="-164" type="line"/>
-      <point x="564" y="964" type="line"/>
-      <point x="871" y="951" type="line"/>
-      <point x="871" y="1134" type="line"/>
-      <point x="564" y="1120" type="line"/>
-      <point x="577" y="1458" type="line"/>
-      <point x="396" y="1458" type="line"/>
-      <point x="409" y="1120" type="line"/>
-      <point x="103" y="1134" type="line"/>
-      <point x="103" y="951" type="line"/>
-      <point x="409" y="964" type="line"/>
+      <point x="396.0" y="-164.0" type="line"/>
+      <point x="577.0" y="-164.0" type="line"/>
+      <point x="564.0" y="964.0" type="line"/>
+      <point x="871.0" y="951.0" type="line"/>
+      <point x="871.0" y="1134.0" type="line"/>
+      <point x="564.0" y="1120.0" type="line"/>
+      <point x="577.0" y="1458.0" type="line"/>
+      <point x="396.0" y="1458.0" type="line"/>
+      <point x="409.0" y="1120.0" type="line"/>
+      <point x="103.0" y="1134.0" type="line"/>
+      <point x="103.0" y="951.0" type="line"/>
+      <point x="409.0" y="964.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:09:30</string>
+      <string>2019/12/12 13:39:54</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -31,15 +31,15 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>9.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
           <key>target</key>
           <array>
-            <integer>0</integer>
-            <integer>9</integer>
+            <real>0.0</real>
+            <real>9.0</real>
           </array>
           <key>type</key>
           <string>Tag</string>

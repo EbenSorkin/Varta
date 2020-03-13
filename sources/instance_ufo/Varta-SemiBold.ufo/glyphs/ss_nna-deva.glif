@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ss_nna-deva" format="2">
+  <advance width="2187.5185185185187"/>
+  <anchor x="1909.2469135802469" y="0.0" name="bottom"/>
+  <anchor x="1793.962962962963" y="1273.1728395061727" name="candra"/>
+  <anchor x="1158.6666666666667" y="61.66666666666666" name="nukta"/>
+  <anchor x="1908.5555555555554" y="1273.1728395061727" name="top"/>
+  <outline>
+    <component base="ss-deva"/>
+    <component base="nna-deva" xOffset="656.4197530864197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ss-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>nna-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/03/10 12:38:15</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

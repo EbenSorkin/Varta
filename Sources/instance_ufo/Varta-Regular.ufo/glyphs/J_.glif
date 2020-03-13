@@ -3,9 +3,13 @@
   <advance width="964.8518518518518"/>
   <unicode hex="004A"/>
   <anchor x="482.9259259259259" y="0.0" name="bottom"/>
-  <anchor x="482.9259259259259" y="1344.5925925925926" name="top"/>
+  <anchor x="710.5802469135803" y="1344.5925925925926" name="top"/>
   <outline>
     <contour>
+      <point x="426.9259259259259" y="-25.0" type="curve" smooth="yes"/>
+      <point x="687.6172839506173" y="-25.0"/>
+      <point x="790.3703703703703" y="155.0493827160494"/>
+      <point x="790.3703703703703" y="384.5679012345679" type="curve" smooth="yes"/>
       <point x="790.3703703703703" y="1344.5925925925926" type="line"/>
       <point x="632.1358024691358" y="1344.5925925925926" type="line"/>
       <point x="632.1358024691358" y="399.9753086419753" type="line"/>
@@ -18,16 +22,12 @@
       <point x="61.77777777777778" y="186.98765432098764" type="line"/>
       <point x="138.12345679012347" y="48.7037037037037"/>
       <point x="260.0" y="-25.0"/>
-      <point x="426.9259259259259" y="-25.0" type="curve" smooth="yes"/>
-      <point x="687.6172839506173" y="-25.0"/>
-      <point x="790.3703703703703" y="155.0493827160494"/>
-      <point x="790.3703703703703" y="384.5679012345679" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/10/26 06:10:49</string>
+      <string>2020/03/12 17:10:32</string>
       <key>com.schriftgestaltung.hints</key>
       <array>
         <dict>
@@ -37,8 +37,8 @@
           <integer>0</integer>
           <key>origin</key>
           <array>
-            <integer>0</integer>
-            <integer>8</integer>
+            <real>0.0</real>
+            <real>12.0</real>
           </array>
           <key>stem</key>
           <integer>-2</integer>
@@ -46,6 +46,8 @@
           <string>Tag</string>
         </dict>
       </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
