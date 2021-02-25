@@ -1,11 +1,5 @@
 {
 .appVersion = "1300";
-DisplayStrings = (
-"/reph_candraBindu-deva",
-C,
-J,
-"/i-deva"
-);
 classes = (
 {
 automatic = 1;
@@ -132379,7 +132373,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = colon;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-13 02:47:41 +0000";
 layers = (
 {
 components = (
@@ -132398,10 +132392,10 @@ width = 485;
 components = (
 {
 name = period;
+transform = "{1, 0, 0, 1, 0, 710}";
 },
 {
 name = period;
-transform = "{1, 0, 0, 1, 0, 710}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
